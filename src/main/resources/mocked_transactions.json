@@ -1,0 +1,5002 @@
+[
+  {
+    "accountId": 64036279,
+    "amount": 360570.61,
+    "executionTime": "09:34"
+  },
+  {
+    "accountId": 241734527,
+    "amount": 823070.26,
+    "executionTime": "05:07"
+  },
+  {
+    "accountId": 548159180,
+    "amount": 445142.29,
+    "executionTime": "05:24"
+  },
+  {
+    "accountId": 770903291,
+    "amount": 473292.9,
+    "executionTime": "11:47"
+  },
+  {
+    "accountId": 825756421,
+    "amount": 590599.79,
+    "executionTime": "15:43"
+  },
+  {
+    "accountId": 780200646,
+    "amount": 95893.99,
+    "executionTime": "11:29"
+  },
+  {
+    "accountId": 478264515,
+    "amount": 311667.67,
+    "executionTime": "17:33"
+  },
+  {
+    "accountId": 806212206,
+    "amount": 804464.74,
+    "executionTime": "23:15"
+  },
+  {
+    "accountId": 10469745,
+    "amount": 460875.56,
+    "executionTime": "16:34"
+  },
+  {
+    "accountId": 725391866,
+    "amount": 551101.0,
+    "executionTime": "00:19"
+  },
+  {
+    "accountId": 352290260,
+    "amount": 784802.21,
+    "executionTime": "03:33"
+  },
+  {
+    "accountId": 792426566,
+    "amount": 593896.9,
+    "executionTime": "19:13"
+  },
+  {
+    "accountId": 521347861,
+    "amount": 755206.72,
+    "executionTime": "10:57"
+  },
+  {
+    "accountId": 192122387,
+    "amount": 352167.62,
+    "executionTime": "04:16"
+  },
+  {
+    "accountId": 439197939,
+    "amount": 169699.28,
+    "executionTime": "03:48"
+  },
+  {
+    "accountId": 410795788,
+    "amount": 43763.72,
+    "executionTime": "20:36"
+  },
+  {
+    "accountId": 744542199,
+    "amount": 190418.17,
+    "executionTime": "22:49"
+  },
+  {
+    "accountId": 994233242,
+    "amount": 658712.82,
+    "executionTime": "05:23"
+  },
+  {
+    "accountId": 334106141,
+    "amount": 441712.96,
+    "executionTime": "02:21"
+  },
+  {
+    "accountId": 373345074,
+    "amount": 737583.62,
+    "executionTime": "05:24"
+  },
+  {
+    "accountId": 682120478,
+    "amount": 840553.32,
+    "executionTime": "00:12"
+  },
+  {
+    "accountId": 518385250,
+    "amount": 22994.42,
+    "executionTime": "16:29"
+  },
+  {
+    "accountId": 873904059,
+    "amount": 297884.31,
+    "executionTime": "23:54"
+  },
+  {
+    "accountId": 69287373,
+    "amount": 194436.61,
+    "executionTime": "15:19"
+  },
+  {
+    "accountId": 78676788,
+    "amount": 907395.0,
+    "executionTime": "04:40"
+  },
+  {
+    "accountId": 853673410,
+    "amount": 839211.6,
+    "executionTime": "18:59"
+  },
+  {
+    "accountId": 78832628,
+    "amount": 98866.93,
+    "executionTime": "12:56"
+  },
+  {
+    "accountId": 896049272,
+    "amount": 76720.73,
+    "executionTime": "19:48"
+  },
+  {
+    "accountId": 900688313,
+    "amount": 163855.63,
+    "executionTime": "01:40"
+  },
+  {
+    "accountId": 316623346,
+    "amount": 883414.33,
+    "executionTime": "12:15"
+  },
+  {
+    "accountId": 273785289,
+    "amount": 253992.43,
+    "executionTime": "19:20"
+  },
+  {
+    "accountId": 636531078,
+    "amount": 508647.53,
+    "executionTime": "04:35"
+  },
+  {
+    "accountId": 562846924,
+    "amount": 617264.34,
+    "executionTime": "12:11"
+  },
+  {
+    "accountId": 937167844,
+    "amount": 829689.35,
+    "executionTime": "14:29"
+  },
+  {
+    "accountId": 555513955,
+    "amount": 493141.6,
+    "executionTime": "00:33"
+  },
+  {
+    "accountId": 244858642,
+    "amount": 255330.02,
+    "executionTime": "05:04"
+  },
+  {
+    "accountId": 160617569,
+    "amount": 606833.03,
+    "executionTime": "08:02"
+  },
+  {
+    "accountId": 138088751,
+    "amount": 553513.69,
+    "executionTime": "02:10"
+  },
+  {
+    "accountId": 182093646,
+    "amount": 505402.46,
+    "executionTime": "17:09"
+  },
+  {
+    "accountId": 756055645,
+    "amount": 442454.62,
+    "executionTime": "06:26"
+  },
+  {
+    "accountId": 957785935,
+    "amount": 553282.14,
+    "executionTime": "21:51"
+  },
+  {
+    "accountId": 429310595,
+    "amount": 646713.76,
+    "executionTime": "05:46"
+  },
+  {
+    "accountId": 937311950,
+    "amount": 156865.85,
+    "executionTime": "08:08"
+  },
+  {
+    "accountId": 375135321,
+    "amount": 499541.08,
+    "executionTime": "21:28"
+  },
+  {
+    "accountId": 560870240,
+    "amount": 796516.7,
+    "executionTime": "13:07"
+  },
+  {
+    "accountId": 653340316,
+    "amount": 236865.04,
+    "executionTime": "10:47"
+  },
+  {
+    "accountId": 334315010,
+    "amount": 419330.99,
+    "executionTime": "00:09"
+  },
+  {
+    "accountId": 434763523,
+    "amount": 637066.06,
+    "executionTime": "09:50"
+  },
+  {
+    "accountId": 64516525,
+    "amount": 332385.26,
+    "executionTime": "18:28"
+  },
+  {
+    "accountId": 956789871,
+    "amount": 297984.29,
+    "executionTime": "08:56"
+  },
+  {
+    "accountId": 103417419,
+    "amount": 189789.82,
+    "executionTime": "05:58"
+  },
+  {
+    "accountId": 434936864,
+    "amount": 856850.11,
+    "executionTime": "19:20"
+  },
+  {
+    "accountId": 890877587,
+    "amount": 592387.5,
+    "executionTime": "12:53"
+  },
+  {
+    "accountId": 238542237,
+    "amount": 961690.44,
+    "executionTime": "10:29"
+  },
+  {
+    "accountId": 233050115,
+    "amount": 450656.39,
+    "executionTime": "12:41"
+  },
+  {
+    "accountId": 705172853,
+    "amount": 674710.08,
+    "executionTime": "22:42"
+  },
+  {
+    "accountId": 467230429,
+    "amount": 839887.97,
+    "executionTime": "19:19"
+  },
+  {
+    "accountId": 866893483,
+    "amount": 130578.86,
+    "executionTime": "09:29"
+  },
+  {
+    "accountId": 929907095,
+    "amount": 980675.45,
+    "executionTime": "15:39"
+  },
+  {
+    "accountId": 641131129,
+    "amount": 263844.88,
+    "executionTime": "01:45"
+  },
+  {
+    "accountId": 300933173,
+    "amount": 514175.68,
+    "executionTime": "05:31"
+  },
+  {
+    "accountId": 891668009,
+    "amount": 159577.79,
+    "executionTime": "05:35"
+  },
+  {
+    "accountId": 932923293,
+    "amount": 545012.42,
+    "executionTime": "13:49"
+  },
+  {
+    "accountId": 295472736,
+    "amount": 68483.53,
+    "executionTime": "07:25"
+  },
+  {
+    "accountId": 307756947,
+    "amount": 260253.8,
+    "executionTime": "09:29"
+  },
+  {
+    "accountId": 185909623,
+    "amount": 680806.16,
+    "executionTime": "03:00"
+  },
+  {
+    "accountId": 905990065,
+    "amount": 733865.84,
+    "executionTime": "07:48"
+  },
+  {
+    "accountId": 297036429,
+    "amount": 603172.94,
+    "executionTime": "04:26"
+  },
+  {
+    "accountId": 221162913,
+    "amount": 320425.51,
+    "executionTime": "10:20"
+  },
+  {
+    "accountId": 409599201,
+    "amount": 469996.67,
+    "executionTime": "02:44"
+  },
+  {
+    "accountId": 481813927,
+    "amount": 349145.63,
+    "executionTime": "23:05"
+  },
+  {
+    "accountId": 494756896,
+    "amount": 261929.6,
+    "executionTime": "05:57"
+  },
+  {
+    "accountId": 175503888,
+    "amount": 569602.6,
+    "executionTime": "05:30"
+  },
+  {
+    "accountId": 397792031,
+    "amount": 101868.36,
+    "executionTime": "01:23"
+  },
+  {
+    "accountId": 697658543,
+    "amount": 771311.64,
+    "executionTime": "13:29"
+  },
+  {
+    "accountId": 865310985,
+    "amount": 895199.35,
+    "executionTime": "21:19"
+  },
+  {
+    "accountId": 130662399,
+    "amount": 141276.4,
+    "executionTime": "07:16"
+  },
+  {
+    "accountId": 584046152,
+    "amount": 984571.56,
+    "executionTime": "15:03"
+  },
+  {
+    "accountId": 3252618,
+    "amount": 864938.48,
+    "executionTime": "17:46"
+  },
+  {
+    "accountId": 939467985,
+    "amount": 600998.65,
+    "executionTime": "06:48"
+  },
+  {
+    "accountId": 888276238,
+    "amount": 799842.07,
+    "executionTime": "18:23"
+  },
+  {
+    "accountId": 538289751,
+    "amount": 482958.46,
+    "executionTime": "04:29"
+  },
+  {
+    "accountId": 793216800,
+    "amount": 982644.83,
+    "executionTime": "09:56"
+  },
+  {
+    "accountId": 547238557,
+    "amount": 340185.9,
+    "executionTime": "07:29"
+  },
+  {
+    "accountId": 376779562,
+    "amount": 822491.75,
+    "executionTime": "12:19"
+  },
+  {
+    "accountId": 355970780,
+    "amount": 594255.19,
+    "executionTime": "18:48"
+  },
+  {
+    "accountId": 541634839,
+    "amount": 929331.3,
+    "executionTime": "08:01"
+  },
+  {
+    "accountId": 387282955,
+    "amount": 829641.36,
+    "executionTime": "19:02"
+  },
+  {
+    "accountId": 726063557,
+    "amount": 170765.21,
+    "executionTime": "14:21"
+  },
+  {
+    "accountId": 768501161,
+    "amount": 986179.91,
+    "executionTime": "17:08"
+  },
+  {
+    "accountId": 430564898,
+    "amount": 457459.58,
+    "executionTime": "13:24"
+  },
+  {
+    "accountId": 421094162,
+    "amount": 720688.15,
+    "executionTime": "20:37"
+  },
+  {
+    "accountId": 464887133,
+    "amount": 488800.74,
+    "executionTime": "13:50"
+  },
+  {
+    "accountId": 594159487,
+    "amount": 510238.73,
+    "executionTime": "04:30"
+  },
+  {
+    "accountId": 981144406,
+    "amount": 509077.62,
+    "executionTime": "08:18"
+  },
+  {
+    "accountId": 207168919,
+    "amount": 180735.61,
+    "executionTime": "21:16"
+  },
+  {
+    "accountId": 321509905,
+    "amount": 462121.2,
+    "executionTime": "20:43"
+  },
+  {
+    "accountId": 390454081,
+    "amount": 555570.08,
+    "executionTime": "07:55"
+  },
+  {
+    "accountId": 464457228,
+    "amount": 961945.15,
+    "executionTime": "01:58"
+  },
+  {
+    "accountId": 433927202,
+    "amount": 363481.5,
+    "executionTime": "15:39"
+  },
+  {
+    "accountId": 719328097,
+    "amount": 25750.14,
+    "executionTime": "04:29"
+  },
+  {
+    "accountId": 612636411,
+    "amount": 641045.52,
+    "executionTime": "21:58"
+  },
+  {
+    "accountId": 256091216,
+    "amount": 2930.9,
+    "executionTime": "21:22"
+  },
+  {
+    "accountId": 842057017,
+    "amount": 783151.81,
+    "executionTime": "07:56"
+  },
+  {
+    "accountId": 152908765,
+    "amount": 263128.66,
+    "executionTime": "14:59"
+  },
+  {
+    "accountId": 59897351,
+    "amount": 647858.99,
+    "executionTime": "05:04"
+  },
+  {
+    "accountId": 97186391,
+    "amount": 664323.38,
+    "executionTime": "14:51"
+  },
+  {
+    "accountId": 142790390,
+    "amount": 200465.06,
+    "executionTime": "16:59"
+  },
+  {
+    "accountId": 734401666,
+    "amount": 962160.52,
+    "executionTime": "23:03"
+  },
+  {
+    "accountId": 98298003,
+    "amount": 198504.12,
+    "executionTime": "22:01"
+  },
+  {
+    "accountId": 541068119,
+    "amount": 473379.96,
+    "executionTime": "04:10"
+  },
+  {
+    "accountId": 241984575,
+    "amount": 266365.69,
+    "executionTime": "13:23"
+  },
+  {
+    "accountId": 777296411,
+    "amount": 918691.09,
+    "executionTime": "01:25"
+  },
+  {
+    "accountId": 960907299,
+    "amount": 917439.13,
+    "executionTime": "10:07"
+  },
+  {
+    "accountId": 924396608,
+    "amount": 821279.02,
+    "executionTime": "08:43"
+  },
+  {
+    "accountId": 92448783,
+    "amount": 483550.74,
+    "executionTime": "07:06"
+  },
+  {
+    "accountId": 208820533,
+    "amount": 649923.42,
+    "executionTime": "21:55"
+  },
+  {
+    "accountId": 993746296,
+    "amount": 281131.65,
+    "executionTime": "19:16"
+  },
+  {
+    "accountId": 382797737,
+    "amount": 549738.09,
+    "executionTime": "16:11"
+  },
+  {
+    "accountId": 82405648,
+    "amount": 874715.36,
+    "executionTime": "09:18"
+  },
+  {
+    "accountId": 751803607,
+    "amount": 434923.29,
+    "executionTime": "12:59"
+  },
+  {
+    "accountId": 534755700,
+    "amount": 479771.17,
+    "executionTime": "05:52"
+  },
+  {
+    "accountId": 842376995,
+    "amount": 92473.02,
+    "executionTime": "00:59"
+  },
+  {
+    "accountId": 866891930,
+    "amount": 424977.15,
+    "executionTime": "16:21"
+  },
+  {
+    "accountId": 530268493,
+    "amount": 115070.23,
+    "executionTime": "23:32"
+  },
+  {
+    "accountId": 865515196,
+    "amount": 745172.59,
+    "executionTime": "08:21"
+  },
+  {
+    "accountId": 672934982,
+    "amount": 429794.96,
+    "executionTime": "06:51"
+  },
+  {
+    "accountId": 864991724,
+    "amount": 752635.72,
+    "executionTime": "19:56"
+  },
+  {
+    "accountId": 996690459,
+    "amount": 173608.2,
+    "executionTime": "00:57"
+  },
+  {
+    "accountId": 651883865,
+    "amount": 19381.36,
+    "executionTime": "21:38"
+  },
+  {
+    "accountId": 998772248,
+    "amount": 459858.22,
+    "executionTime": "13:22"
+  },
+  {
+    "accountId": 510963570,
+    "amount": 851387.67,
+    "executionTime": "15:59"
+  },
+  {
+    "accountId": 984090251,
+    "amount": 408898.3,
+    "executionTime": "12:30"
+  },
+  {
+    "accountId": 116565003,
+    "amount": 620473.95,
+    "executionTime": "14:01"
+  },
+  {
+    "accountId": 648266006,
+    "amount": 935821.16,
+    "executionTime": "07:26"
+  },
+  {
+    "accountId": 221832624,
+    "amount": 263046.78,
+    "executionTime": "07:37"
+  },
+  {
+    "accountId": 774504428,
+    "amount": 626788.95,
+    "executionTime": "00:51"
+  },
+  {
+    "accountId": 442977829,
+    "amount": 683538.17,
+    "executionTime": "09:37"
+  },
+  {
+    "accountId": 978633098,
+    "amount": 726044.37,
+    "executionTime": "15:44"
+  },
+  {
+    "accountId": 525574940,
+    "amount": 527422.61,
+    "executionTime": "02:03"
+  },
+  {
+    "accountId": 465995979,
+    "amount": 963190.61,
+    "executionTime": "14:45"
+  },
+  {
+    "accountId": 510069324,
+    "amount": 258632.36,
+    "executionTime": "12:48"
+  },
+  {
+    "accountId": 874514661,
+    "amount": 861030.63,
+    "executionTime": "05:07"
+  },
+  {
+    "accountId": 605861559,
+    "amount": 456381.35,
+    "executionTime": "20:13"
+  },
+  {
+    "accountId": 995812309,
+    "amount": 19662.38,
+    "executionTime": "20:18"
+  },
+  {
+    "accountId": 118058607,
+    "amount": 719262.21,
+    "executionTime": "00:03"
+  },
+  {
+    "accountId": 280333226,
+    "amount": 274743.32,
+    "executionTime": "05:38"
+  },
+  {
+    "accountId": 512692680,
+    "amount": 868060.3,
+    "executionTime": "03:54"
+  },
+  {
+    "accountId": 386411669,
+    "amount": 235288.65,
+    "executionTime": "19:37"
+  },
+  {
+    "accountId": 737391954,
+    "amount": 133956.95,
+    "executionTime": "09:43"
+  },
+  {
+    "accountId": 645220018,
+    "amount": 67418.91,
+    "executionTime": "15:25"
+  },
+  {
+    "accountId": 729230634,
+    "amount": 438049.63,
+    "executionTime": "04:23"
+  },
+  {
+    "accountId": 536263832,
+    "amount": 622854.71,
+    "executionTime": "12:32"
+  },
+  {
+    "accountId": 465288536,
+    "amount": 657666.05,
+    "executionTime": "10:43"
+  },
+  {
+    "accountId": 133711976,
+    "amount": 602434.68,
+    "executionTime": "06:59"
+  },
+  {
+    "accountId": 379890292,
+    "amount": 261017.61,
+    "executionTime": "00:13"
+  },
+  {
+    "accountId": 822113356,
+    "amount": 317528.11,
+    "executionTime": "23:02"
+  },
+  {
+    "accountId": 391425784,
+    "amount": 208621.55,
+    "executionTime": "03:20"
+  },
+  {
+    "accountId": 225073454,
+    "amount": 379899.21,
+    "executionTime": "11:47"
+  },
+  {
+    "accountId": 171121974,
+    "amount": 532401.54,
+    "executionTime": "07:38"
+  },
+  {
+    "accountId": 895506353,
+    "amount": 812193.39,
+    "executionTime": "16:54"
+  },
+  {
+    "accountId": 397609215,
+    "amount": 677261.93,
+    "executionTime": "11:29"
+  },
+  {
+    "accountId": 706295846,
+    "amount": 95581.37,
+    "executionTime": "11:28"
+  },
+  {
+    "accountId": 366937799,
+    "amount": 85242.94,
+    "executionTime": "16:41"
+  },
+  {
+    "accountId": 150973069,
+    "amount": 87466.77,
+    "executionTime": "01:24"
+  },
+  {
+    "accountId": 161188630,
+    "amount": 415524.04,
+    "executionTime": "17:39"
+  },
+  {
+    "accountId": 505453935,
+    "amount": 483761.88,
+    "executionTime": "17:06"
+  },
+  {
+    "accountId": 909902209,
+    "amount": 120619.7,
+    "executionTime": "20:37"
+  },
+  {
+    "accountId": 178309665,
+    "amount": 195376.52,
+    "executionTime": "09:49"
+  },
+  {
+    "accountId": 505096838,
+    "amount": 579402.83,
+    "executionTime": "12:53"
+  },
+  {
+    "accountId": 127765160,
+    "amount": 474387.16,
+    "executionTime": "13:42"
+  },
+  {
+    "accountId": 726925033,
+    "amount": 565600.7,
+    "executionTime": "14:22"
+  },
+  {
+    "accountId": 572495605,
+    "amount": 450524.24,
+    "executionTime": "16:06"
+  },
+  {
+    "accountId": 316447219,
+    "amount": 554221.49,
+    "executionTime": "08:32"
+  },
+  {
+    "accountId": 589724586,
+    "amount": 123904.0,
+    "executionTime": "15:04"
+  },
+  {
+    "accountId": 865117068,
+    "amount": 83158.97,
+    "executionTime": "12:00"
+  },
+  {
+    "accountId": 778992504,
+    "amount": 267325.23,
+    "executionTime": "04:34"
+  },
+  {
+    "accountId": 257643709,
+    "amount": 133334.77,
+    "executionTime": "06:26"
+  },
+  {
+    "accountId": 824323473,
+    "amount": 662581.56,
+    "executionTime": "03:58"
+  },
+  {
+    "accountId": 227433380,
+    "amount": 679344.57,
+    "executionTime": "19:04"
+  },
+  {
+    "accountId": 166003669,
+    "amount": 193759.37,
+    "executionTime": "15:11"
+  },
+  {
+    "accountId": 69098664,
+    "amount": 951335.94,
+    "executionTime": "22:44"
+  },
+  {
+    "accountId": 832890523,
+    "amount": 378410.68,
+    "executionTime": "22:44"
+  },
+  {
+    "accountId": 548333277,
+    "amount": 156013.94,
+    "executionTime": "03:30"
+  },
+  {
+    "accountId": 834865787,
+    "amount": 976797.66,
+    "executionTime": "00:45"
+  },
+  {
+    "accountId": 598145515,
+    "amount": 873200.38,
+    "executionTime": "14:39"
+  },
+  {
+    "accountId": 960747593,
+    "amount": 288921.29,
+    "executionTime": "11:25"
+  },
+  {
+    "accountId": 308149879,
+    "amount": 619916.69,
+    "executionTime": "06:43"
+  },
+  {
+    "accountId": 690131925,
+    "amount": 159821.52,
+    "executionTime": "18:44"
+  },
+  {
+    "accountId": 303183325,
+    "amount": 489249.11,
+    "executionTime": "16:08"
+  },
+  {
+    "accountId": 667898698,
+    "amount": 780796.55,
+    "executionTime": "16:14"
+  },
+  {
+    "accountId": 659901148,
+    "amount": 550636.93,
+    "executionTime": "05:08"
+  },
+  {
+    "accountId": 210600682,
+    "amount": 758799.89,
+    "executionTime": "14:29"
+  },
+  {
+    "accountId": 523935115,
+    "amount": 749219.98,
+    "executionTime": "22:25"
+  },
+  {
+    "accountId": 986144035,
+    "amount": 970892.92,
+    "executionTime": "14:57"
+  },
+  {
+    "accountId": 487529193,
+    "amount": 545636.03,
+    "executionTime": "00:53"
+  },
+  {
+    "accountId": 111780216,
+    "amount": 392982.18,
+    "executionTime": "13:10"
+  },
+  {
+    "accountId": 144181164,
+    "amount": 151167.92,
+    "executionTime": "18:57"
+  },
+  {
+    "accountId": 555392023,
+    "amount": 310417.63,
+    "executionTime": "10:32"
+  },
+  {
+    "accountId": 141378271,
+    "amount": 558760.11,
+    "executionTime": "11:01"
+  },
+  {
+    "accountId": 39091564,
+    "amount": 656084.89,
+    "executionTime": "12:49"
+  },
+  {
+    "accountId": 917998365,
+    "amount": 982993.12,
+    "executionTime": "11:07"
+  },
+  {
+    "accountId": 866525295,
+    "amount": 677670.08,
+    "executionTime": "12:01"
+  },
+  {
+    "accountId": 423451982,
+    "amount": 311479.66,
+    "executionTime": "21:10"
+  },
+  {
+    "accountId": 189957634,
+    "amount": 574381.24,
+    "executionTime": "14:22"
+  },
+  {
+    "accountId": 528866409,
+    "amount": 722792.49,
+    "executionTime": "23:52"
+  },
+  {
+    "accountId": 320487277,
+    "amount": 143345.35,
+    "executionTime": "14:16"
+  },
+  {
+    "accountId": 169193720,
+    "amount": 654875.6,
+    "executionTime": "18:57"
+  },
+  {
+    "accountId": 973818821,
+    "amount": 668538.88,
+    "executionTime": "08:25"
+  },
+  {
+    "accountId": 580022627,
+    "amount": 778271.1,
+    "executionTime": "22:05"
+  },
+  {
+    "accountId": 692784076,
+    "amount": 85347.25,
+    "executionTime": "16:32"
+  },
+  {
+    "accountId": 971211884,
+    "amount": 935892.96,
+    "executionTime": "00:39"
+  },
+  {
+    "accountId": 183895167,
+    "amount": 564672.99,
+    "executionTime": "00:01"
+  },
+  {
+    "accountId": 228053440,
+    "amount": 746809.52,
+    "executionTime": "15:09"
+  },
+  {
+    "accountId": 152543531,
+    "amount": 520701.22,
+    "executionTime": "13:04"
+  },
+  {
+    "accountId": 605836388,
+    "amount": 307937.82,
+    "executionTime": "21:17"
+  },
+  {
+    "accountId": 65150585,
+    "amount": 465888.24,
+    "executionTime": "03:19"
+  },
+  {
+    "accountId": 685014499,
+    "amount": 153593.85,
+    "executionTime": "00:19"
+  },
+  {
+    "accountId": 808377639,
+    "amount": 873232.31,
+    "executionTime": "22:50"
+  },
+  {
+    "accountId": 833428855,
+    "amount": 547633.69,
+    "executionTime": "21:03"
+  },
+  {
+    "accountId": 133610360,
+    "amount": 772906.89,
+    "executionTime": "13:13"
+  },
+  {
+    "accountId": 208231365,
+    "amount": 517235.72,
+    "executionTime": "00:02"
+  },
+  {
+    "accountId": 354294179,
+    "amount": 297580.52,
+    "executionTime": "14:11"
+  },
+  {
+    "accountId": 204847258,
+    "amount": 687728.53,
+    "executionTime": "04:05"
+  },
+  {
+    "accountId": 281110423,
+    "amount": 146923.84,
+    "executionTime": "18:21"
+  },
+  {
+    "accountId": 657514657,
+    "amount": 271763.57,
+    "executionTime": "22:28"
+  },
+  {
+    "accountId": 100944942,
+    "amount": 821734.3,
+    "executionTime": "10:05"
+  },
+  {
+    "accountId": 364180454,
+    "amount": 633260.7,
+    "executionTime": "14:38"
+  },
+  {
+    "accountId": 905488660,
+    "amount": 628481.03,
+    "executionTime": "09:57"
+  },
+  {
+    "accountId": 980745127,
+    "amount": 774254.01,
+    "executionTime": "21:39"
+  },
+  {
+    "accountId": 592010066,
+    "amount": 620076.59,
+    "executionTime": "15:52"
+  },
+  {
+    "accountId": 412528072,
+    "amount": 915535.31,
+    "executionTime": "20:16"
+  },
+  {
+    "accountId": 529228604,
+    "amount": 676300.3,
+    "executionTime": "00:57"
+  },
+  {
+    "accountId": 323934172,
+    "amount": 151728.82,
+    "executionTime": "15:00"
+  },
+  {
+    "accountId": 399746040,
+    "amount": 974871.29,
+    "executionTime": "10:05"
+  },
+  {
+    "accountId": 393930349,
+    "amount": 254327.16,
+    "executionTime": "20:03"
+  },
+  {
+    "accountId": 622538293,
+    "amount": 705871.86,
+    "executionTime": "06:09"
+  },
+  {
+    "accountId": 231412774,
+    "amount": 174728.4,
+    "executionTime": "19:11"
+  },
+  {
+    "accountId": 784045485,
+    "amount": 16042.81,
+    "executionTime": "19:44"
+  },
+  {
+    "accountId": 253489891,
+    "amount": 945351.47,
+    "executionTime": "09:39"
+  },
+  {
+    "accountId": 424221212,
+    "amount": 603308.16,
+    "executionTime": "18:58"
+  },
+  {
+    "accountId": 10877546,
+    "amount": 817645.78,
+    "executionTime": "03:27"
+  },
+  {
+    "accountId": 810590296,
+    "amount": 243430.7,
+    "executionTime": "01:37"
+  },
+  {
+    "accountId": 303080043,
+    "amount": 657965.28,
+    "executionTime": "17:14"
+  },
+  {
+    "accountId": 241729138,
+    "amount": 176674.71,
+    "executionTime": "20:16"
+  },
+  {
+    "accountId": 358389537,
+    "amount": 173422.78,
+    "executionTime": "07:53"
+  },
+  {
+    "accountId": 920204488,
+    "amount": 35792.69,
+    "executionTime": "09:40"
+  },
+  {
+    "accountId": 937086915,
+    "amount": 250575.22,
+    "executionTime": "03:44"
+  },
+  {
+    "accountId": 17106305,
+    "amount": 768447.61,
+    "executionTime": "16:58"
+  },
+  {
+    "accountId": 87933632,
+    "amount": 374836.99,
+    "executionTime": "01:09"
+  },
+  {
+    "accountId": 494853010,
+    "amount": 168691.25,
+    "executionTime": "00:33"
+  },
+  {
+    "accountId": 23849988,
+    "amount": 662496.52,
+    "executionTime": "01:13"
+  },
+  {
+    "accountId": 409323220,
+    "amount": 976594.93,
+    "executionTime": "15:04"
+  },
+  {
+    "accountId": 994500447,
+    "amount": 463955.14,
+    "executionTime": "14:46"
+  },
+  {
+    "accountId": 965960965,
+    "amount": 691222.28,
+    "executionTime": "02:43"
+  },
+  {
+    "accountId": 693987217,
+    "amount": 479005.17,
+    "executionTime": "09:18"
+  },
+  {
+    "accountId": 970200863,
+    "amount": 150933.49,
+    "executionTime": "22:33"
+  },
+  {
+    "accountId": 648501418,
+    "amount": 575673.91,
+    "executionTime": "03:45"
+  },
+  {
+    "accountId": 833299835,
+    "amount": 863267.64,
+    "executionTime": "01:28"
+  },
+  {
+    "accountId": 149351295,
+    "amount": 298864.14,
+    "executionTime": "16:37"
+  },
+  {
+    "accountId": 664992851,
+    "amount": 633659.92,
+    "executionTime": "00:14"
+  },
+  {
+    "accountId": 275565076,
+    "amount": 113881.49,
+    "executionTime": "18:12"
+  },
+  {
+    "accountId": 83318730,
+    "amount": 926367.89,
+    "executionTime": "19:40"
+  },
+  {
+    "accountId": 666239302,
+    "amount": 905156.71,
+    "executionTime": "02:22"
+  },
+  {
+    "accountId": 636631030,
+    "amount": 470586.08,
+    "executionTime": "12:16"
+  },
+  {
+    "accountId": 93091975,
+    "amount": 740465.48,
+    "executionTime": "09:49"
+  },
+  {
+    "accountId": 507754996,
+    "amount": 787944.14,
+    "executionTime": "12:27"
+  },
+  {
+    "accountId": 663467829,
+    "amount": 848832.64,
+    "executionTime": "23:39"
+  },
+  {
+    "accountId": 98911704,
+    "amount": 581079.41,
+    "executionTime": "02:09"
+  },
+  {
+    "accountId": 557106501,
+    "amount": 595798.12,
+    "executionTime": "21:44"
+  },
+  {
+    "accountId": 665069498,
+    "amount": 618190.56,
+    "executionTime": "14:39"
+  },
+  {
+    "accountId": 843304430,
+    "amount": 32206.93,
+    "executionTime": "11:18"
+  },
+  {
+    "accountId": 71030087,
+    "amount": 637063.08,
+    "executionTime": "02:43"
+  },
+  {
+    "accountId": 135375865,
+    "amount": 836774.18,
+    "executionTime": "03:33"
+  },
+  {
+    "accountId": 706704285,
+    "amount": 217742.75,
+    "executionTime": "16:04"
+  },
+  {
+    "accountId": 875267751,
+    "amount": 561494.28,
+    "executionTime": "06:12"
+  },
+  {
+    "accountId": 137945760,
+    "amount": 900747.54,
+    "executionTime": "06:35"
+  },
+  {
+    "accountId": 491899915,
+    "amount": 31410.84,
+    "executionTime": "08:35"
+  },
+  {
+    "accountId": 329114260,
+    "amount": 653256.36,
+    "executionTime": "16:59"
+  },
+  {
+    "accountId": 267925646,
+    "amount": 644925.13,
+    "executionTime": "18:50"
+  },
+  {
+    "accountId": 316522602,
+    "amount": 117518.12,
+    "executionTime": "11:39"
+  },
+  {
+    "accountId": 837345684,
+    "amount": 464810.4,
+    "executionTime": "08:41"
+  },
+  {
+    "accountId": 857332529,
+    "amount": 295367.56,
+    "executionTime": "08:24"
+  },
+  {
+    "accountId": 206593070,
+    "amount": 300925.93,
+    "executionTime": "20:51"
+  },
+  {
+    "accountId": 860332197,
+    "amount": 930544.18,
+    "executionTime": "02:06"
+  },
+  {
+    "accountId": 679340078,
+    "amount": 779087.78,
+    "executionTime": "09:19"
+  },
+  {
+    "accountId": 439169388,
+    "amount": 183239.7,
+    "executionTime": "16:11"
+  },
+  {
+    "accountId": 723344803,
+    "amount": 636576.02,
+    "executionTime": "18:00"
+  },
+  {
+    "accountId": 125400418,
+    "amount": 430848.26,
+    "executionTime": "20:49"
+  },
+  {
+    "accountId": 791922582,
+    "amount": 464071.87,
+    "executionTime": "04:02"
+  },
+  {
+    "accountId": 827695713,
+    "amount": 222099.97,
+    "executionTime": "19:10"
+  },
+  {
+    "accountId": 663664746,
+    "amount": 419594.22,
+    "executionTime": "03:25"
+  },
+  {
+    "accountId": 240746967,
+    "amount": 623480.56,
+    "executionTime": "15:04"
+  },
+  {
+    "accountId": 775445717,
+    "amount": 531869.19,
+    "executionTime": "22:47"
+  },
+  {
+    "accountId": 579660910,
+    "amount": 585949.91,
+    "executionTime": "09:31"
+  },
+  {
+    "accountId": 465235932,
+    "amount": 950741.38,
+    "executionTime": "20:55"
+  },
+  {
+    "accountId": 965525442,
+    "amount": 859500.15,
+    "executionTime": "18:29"
+  },
+  {
+    "accountId": 711414747,
+    "amount": 829650.53,
+    "executionTime": "21:08"
+  },
+  {
+    "accountId": 496094438,
+    "amount": 292925.82,
+    "executionTime": "04:48"
+  },
+  {
+    "accountId": 668607446,
+    "amount": 57012.74,
+    "executionTime": "23:25"
+  },
+  {
+    "accountId": 996020654,
+    "amount": 426624.69,
+    "executionTime": "11:13"
+  },
+  {
+    "accountId": 352600885,
+    "amount": 270082.58,
+    "executionTime": "18:39"
+  },
+  {
+    "accountId": 249736465,
+    "amount": 314037.29,
+    "executionTime": "15:51"
+  },
+  {
+    "accountId": 941113555,
+    "amount": 640555.67,
+    "executionTime": "05:40"
+  },
+  {
+    "accountId": 298817581,
+    "amount": 31217.58,
+    "executionTime": "07:01"
+  },
+  {
+    "accountId": 315466388,
+    "amount": 312996.24,
+    "executionTime": "16:52"
+  },
+  {
+    "accountId": 522195229,
+    "amount": 220845.38,
+    "executionTime": "21:52"
+  },
+  {
+    "accountId": 2608865,
+    "amount": 361100.96,
+    "executionTime": "21:18"
+  },
+  {
+    "accountId": 592010704,
+    "amount": 178744.46,
+    "executionTime": "13:16"
+  },
+  {
+    "accountId": 443336814,
+    "amount": 12956.5,
+    "executionTime": "01:08"
+  },
+  {
+    "accountId": 325357955,
+    "amount": 106505.47,
+    "executionTime": "04:05"
+  },
+  {
+    "accountId": 685645739,
+    "amount": 586674.13,
+    "executionTime": "13:43"
+  },
+  {
+    "accountId": 267484596,
+    "amount": 991176.87,
+    "executionTime": "03:40"
+  },
+  {
+    "accountId": 821105973,
+    "amount": 731733.03,
+    "executionTime": "17:36"
+  },
+  {
+    "accountId": 305188776,
+    "amount": 497770.54,
+    "executionTime": "00:11"
+  },
+  {
+    "accountId": 827457159,
+    "amount": 316562.71,
+    "executionTime": "00:04"
+  },
+  {
+    "accountId": 445859099,
+    "amount": 672375.31,
+    "executionTime": "04:22"
+  },
+  {
+    "accountId": 70148364,
+    "amount": 575940.69,
+    "executionTime": "03:31"
+  },
+  {
+    "accountId": 703244429,
+    "amount": 348069.82,
+    "executionTime": "13:31"
+  },
+  {
+    "accountId": 229001378,
+    "amount": 588629.85,
+    "executionTime": "23:07"
+  },
+  {
+    "accountId": 806528101,
+    "amount": 417191.12,
+    "executionTime": "10:48"
+  },
+  {
+    "accountId": 54001254,
+    "amount": 773620.46,
+    "executionTime": "00:46"
+  },
+  {
+    "accountId": 873740598,
+    "amount": 975938.98,
+    "executionTime": "02:05"
+  },
+  {
+    "accountId": 329353051,
+    "amount": 425188.1,
+    "executionTime": "02:19"
+  },
+  {
+    "accountId": 177317716,
+    "amount": 296870.56,
+    "executionTime": "15:02"
+  },
+  {
+    "accountId": 364363027,
+    "amount": 653914.78,
+    "executionTime": "06:15"
+  },
+  {
+    "accountId": 906702778,
+    "amount": 120931.9,
+    "executionTime": "08:16"
+  },
+  {
+    "accountId": 38343636,
+    "amount": 413144.97,
+    "executionTime": "22:05"
+  },
+  {
+    "accountId": 41187487,
+    "amount": 257904.2,
+    "executionTime": "20:51"
+  },
+  {
+    "accountId": 96699326,
+    "amount": 537424.24,
+    "executionTime": "07:46"
+  },
+  {
+    "accountId": 80847923,
+    "amount": 575357.84,
+    "executionTime": "08:03"
+  },
+  {
+    "accountId": 273585634,
+    "amount": 77946.82,
+    "executionTime": "06:20"
+  },
+  {
+    "accountId": 26106077,
+    "amount": 129245.75,
+    "executionTime": "18:24"
+  },
+  {
+    "accountId": 934980373,
+    "amount": 293045.62,
+    "executionTime": "21:38"
+  },
+  {
+    "accountId": 149447626,
+    "amount": 718018.95,
+    "executionTime": "02:27"
+  },
+  {
+    "accountId": 65158842,
+    "amount": 553013.29,
+    "executionTime": "10:19"
+  },
+  {
+    "accountId": 535809351,
+    "amount": 799845.17,
+    "executionTime": "02:00"
+  },
+  {
+    "accountId": 391239798,
+    "amount": 916531.13,
+    "executionTime": "19:56"
+  },
+  {
+    "accountId": 526300910,
+    "amount": 550134.72,
+    "executionTime": "05:54"
+  },
+  {
+    "accountId": 546458714,
+    "amount": 463462.14,
+    "executionTime": "21:28"
+  },
+  {
+    "accountId": 740384428,
+    "amount": 880030.85,
+    "executionTime": "01:33"
+  },
+  {
+    "accountId": 358318978,
+    "amount": 859214.98,
+    "executionTime": "12:12"
+  },
+  {
+    "accountId": 347900432,
+    "amount": 497662.83,
+    "executionTime": "10:26"
+  },
+  {
+    "accountId": 988516613,
+    "amount": 527520.81,
+    "executionTime": "20:53"
+  },
+  {
+    "accountId": 820422293,
+    "amount": 284118.74,
+    "executionTime": "09:36"
+  },
+  {
+    "accountId": 900566320,
+    "amount": 620518.78,
+    "executionTime": "07:09"
+  },
+  {
+    "accountId": 856749177,
+    "amount": 957027.14,
+    "executionTime": "11:26"
+  },
+  {
+    "accountId": 43535173,
+    "amount": 471799.61,
+    "executionTime": "05:19"
+  },
+  {
+    "accountId": 640839326,
+    "amount": 617536.18,
+    "executionTime": "18:57"
+  },
+  {
+    "accountId": 536510101,
+    "amount": 483648.26,
+    "executionTime": "04:23"
+  },
+  {
+    "accountId": 299984217,
+    "amount": 200578.43,
+    "executionTime": "06:46"
+  },
+  {
+    "accountId": 839890828,
+    "amount": 176104.0,
+    "executionTime": "12:45"
+  },
+  {
+    "accountId": 213392195,
+    "amount": 192296.64,
+    "executionTime": "16:23"
+  },
+  {
+    "accountId": 909134431,
+    "amount": 342436.87,
+    "executionTime": "19:53"
+  },
+  {
+    "accountId": 113231986,
+    "amount": 15858.18,
+    "executionTime": "15:08"
+  },
+  {
+    "accountId": 124814358,
+    "amount": 689487.73,
+    "executionTime": "07:50"
+  },
+  {
+    "accountId": 237719482,
+    "amount": 223175.75,
+    "executionTime": "16:40"
+  },
+  {
+    "accountId": 778774995,
+    "amount": 111157.79,
+    "executionTime": "07:35"
+  },
+  {
+    "accountId": 412360082,
+    "amount": 471234.35,
+    "executionTime": "22:57"
+  },
+  {
+    "accountId": 913505443,
+    "amount": 541068.0,
+    "executionTime": "15:08"
+  },
+  {
+    "accountId": 988883613,
+    "amount": 32975.57,
+    "executionTime": "07:51"
+  },
+  {
+    "accountId": 891351364,
+    "amount": 420806.11,
+    "executionTime": "19:32"
+  },
+  {
+    "accountId": 578100635,
+    "amount": 956450.88,
+    "executionTime": "12:04"
+  },
+  {
+    "accountId": 561480761,
+    "amount": 259677.07,
+    "executionTime": "08:52"
+  },
+  {
+    "accountId": 863229216,
+    "amount": 875650.57,
+    "executionTime": "16:02"
+  },
+  {
+    "accountId": 883314610,
+    "amount": 55464.54,
+    "executionTime": "00:46"
+  },
+  {
+    "accountId": 76329161,
+    "amount": 506838.59,
+    "executionTime": "03:02"
+  },
+  {
+    "accountId": 701141390,
+    "amount": 890019.61,
+    "executionTime": "12:07"
+  },
+  {
+    "accountId": 172859540,
+    "amount": 701513.9,
+    "executionTime": "23:32"
+  },
+  {
+    "accountId": 919779572,
+    "amount": 719758.36,
+    "executionTime": "05:40"
+  },
+  {
+    "accountId": 757342752,
+    "amount": 961627.61,
+    "executionTime": "10:30"
+  },
+  {
+    "accountId": 206223158,
+    "amount": 847949.49,
+    "executionTime": "15:57"
+  },
+  {
+    "accountId": 741992454,
+    "amount": 587578.65,
+    "executionTime": "15:30"
+  },
+  {
+    "accountId": 855524323,
+    "amount": 455959.55,
+    "executionTime": "16:33"
+  },
+  {
+    "accountId": 810450344,
+    "amount": 850374.53,
+    "executionTime": "09:44"
+  },
+  {
+    "accountId": 731381599,
+    "amount": 65362.56,
+    "executionTime": "04:51"
+  },
+  {
+    "accountId": 797778245,
+    "amount": 719437.44,
+    "executionTime": "18:46"
+  },
+  {
+    "accountId": 934585789,
+    "amount": 698020.36,
+    "executionTime": "15:21"
+  },
+  {
+    "accountId": 752988543,
+    "amount": 54144.17,
+    "executionTime": "14:22"
+  },
+  {
+    "accountId": 303005471,
+    "amount": 991321.4,
+    "executionTime": "00:16"
+  },
+  {
+    "accountId": 220596241,
+    "amount": 193514.47,
+    "executionTime": "17:04"
+  },
+  {
+    "accountId": 80377663,
+    "amount": 94175.76,
+    "executionTime": "06:40"
+  },
+  {
+    "accountId": 182574317,
+    "amount": 976141.0,
+    "executionTime": "03:55"
+  },
+  {
+    "accountId": 700364380,
+    "amount": 235718.15,
+    "executionTime": "02:19"
+  },
+  {
+    "accountId": 660167972,
+    "amount": 538885.81,
+    "executionTime": "00:39"
+  },
+  {
+    "accountId": 403457780,
+    "amount": 172210.73,
+    "executionTime": "08:19"
+  },
+  {
+    "accountId": 617264107,
+    "amount": 828272.32,
+    "executionTime": "03:34"
+  },
+  {
+    "accountId": 751743195,
+    "amount": 375556.81,
+    "executionTime": "21:51"
+  },
+  {
+    "accountId": 701782148,
+    "amount": 706281.69,
+    "executionTime": "21:22"
+  },
+  {
+    "accountId": 473354699,
+    "amount": 752629.87,
+    "executionTime": "06:43"
+  },
+  {
+    "accountId": 195622861,
+    "amount": 679169.99,
+    "executionTime": "17:33"
+  },
+  {
+    "accountId": 983490222,
+    "amount": 616996.89,
+    "executionTime": "17:21"
+  },
+  {
+    "accountId": 49499193,
+    "amount": 900301.39,
+    "executionTime": "14:31"
+  },
+  {
+    "accountId": 183942000,
+    "amount": 935685.96,
+    "executionTime": "03:29"
+  },
+  {
+    "accountId": 13777785,
+    "amount": 62154.52,
+    "executionTime": "23:09"
+  },
+  {
+    "accountId": 330047385,
+    "amount": 999996.17,
+    "executionTime": "07:41"
+  },
+  {
+    "accountId": 911490244,
+    "amount": 488363.57,
+    "executionTime": "18:00"
+  },
+  {
+    "accountId": 395715613,
+    "amount": 908864.46,
+    "executionTime": "02:03"
+  },
+  {
+    "accountId": 563108036,
+    "amount": 907702.43,
+    "executionTime": "01:30"
+  },
+  {
+    "accountId": 843660171,
+    "amount": 490850.99,
+    "executionTime": "03:57"
+  },
+  {
+    "accountId": 456632014,
+    "amount": 383500.02,
+    "executionTime": "23:18"
+  },
+  {
+    "accountId": 685300190,
+    "amount": 918345.29,
+    "executionTime": "03:28"
+  },
+  {
+    "accountId": 217633826,
+    "amount": 863408.7,
+    "executionTime": "08:20"
+  },
+  {
+    "accountId": 674797294,
+    "amount": 600215.09,
+    "executionTime": "17:51"
+  },
+  {
+    "accountId": 937128105,
+    "amount": 987052.67,
+    "executionTime": "04:03"
+  },
+  {
+    "accountId": 255010843,
+    "amount": 409910.54,
+    "executionTime": "03:52"
+  },
+  {
+    "accountId": 860782633,
+    "amount": 808982.86,
+    "executionTime": "07:34"
+  },
+  {
+    "accountId": 872197226,
+    "amount": 411416.19,
+    "executionTime": "14:42"
+  },
+  {
+    "accountId": 151616267,
+    "amount": 189029.53,
+    "executionTime": "01:36"
+  },
+  {
+    "accountId": 201732849,
+    "amount": 854528.51,
+    "executionTime": "15:39"
+  },
+  {
+    "accountId": 727044478,
+    "amount": 140023.74,
+    "executionTime": "06:26"
+  },
+  {
+    "accountId": 747342352,
+    "amount": 809351.06,
+    "executionTime": "07:45"
+  },
+  {
+    "accountId": 553052689,
+    "amount": 463707.21,
+    "executionTime": "19:43"
+  },
+  {
+    "accountId": 664455487,
+    "amount": 69368.57,
+    "executionTime": "10:14"
+  },
+  {
+    "accountId": 871041747,
+    "amount": 817788.86,
+    "executionTime": "12:39"
+  },
+  {
+    "accountId": 228339002,
+    "amount": 780286.12,
+    "executionTime": "13:03"
+  },
+  {
+    "accountId": 218181548,
+    "amount": 836023.33,
+    "executionTime": "05:10"
+  },
+  {
+    "accountId": 836722557,
+    "amount": 790548.71,
+    "executionTime": "10:57"
+  },
+  {
+    "accountId": 442636017,
+    "amount": 457921.9,
+    "executionTime": "03:06"
+  },
+  {
+    "accountId": 749243439,
+    "amount": 792040.63,
+    "executionTime": "20:49"
+  },
+  {
+    "accountId": 904769494,
+    "amount": 154809.98,
+    "executionTime": "13:36"
+  },
+  {
+    "accountId": 801986861,
+    "amount": 502955.85,
+    "executionTime": "23:25"
+  },
+  {
+    "accountId": 553869617,
+    "amount": 735670.58,
+    "executionTime": "21:28"
+  },
+  {
+    "accountId": 394005350,
+    "amount": 814315.49,
+    "executionTime": "20:42"
+  },
+  {
+    "accountId": 846154134,
+    "amount": 570641.0,
+    "executionTime": "01:07"
+  },
+  {
+    "accountId": 213353921,
+    "amount": 649642.48,
+    "executionTime": "02:12"
+  },
+  {
+    "accountId": 755308788,
+    "amount": 55972.14,
+    "executionTime": "03:26"
+  },
+  {
+    "accountId": 806285784,
+    "amount": 276520.27,
+    "executionTime": "09:31"
+  },
+  {
+    "accountId": 196566633,
+    "amount": 185363.34,
+    "executionTime": "17:25"
+  },
+  {
+    "accountId": 679517182,
+    "amount": 5865.5,
+    "executionTime": "03:01"
+  },
+  {
+    "accountId": 810862821,
+    "amount": 867621.19,
+    "executionTime": "06:14"
+  },
+  {
+    "accountId": 763282779,
+    "amount": 793823.57,
+    "executionTime": "17:41"
+  },
+  {
+    "accountId": 989972283,
+    "amount": 772822.31,
+    "executionTime": "03:43"
+  },
+  {
+    "accountId": 767095306,
+    "amount": 657204.77,
+    "executionTime": "03:43"
+  },
+  {
+    "accountId": 914251154,
+    "amount": 648956.43,
+    "executionTime": "00:01"
+  },
+  {
+    "accountId": 6067411,
+    "amount": 45364.26,
+    "executionTime": "12:25"
+  },
+  {
+    "accountId": 477541780,
+    "amount": 460829.53,
+    "executionTime": "15:07"
+  },
+  {
+    "accountId": 165329843,
+    "amount": 546737.8,
+    "executionTime": "14:50"
+  },
+  {
+    "accountId": 55110637,
+    "amount": 283210.78,
+    "executionTime": "14:40"
+  },
+  {
+    "accountId": 568958774,
+    "amount": 946613.06,
+    "executionTime": "15:25"
+  },
+  {
+    "accountId": 859038018,
+    "amount": 281303.54,
+    "executionTime": "14:33"
+  },
+  {
+    "accountId": 578129519,
+    "amount": 908230.73,
+    "executionTime": "04:23"
+  },
+  {
+    "accountId": 265145191,
+    "amount": 127311.72,
+    "executionTime": "18:33"
+  },
+  {
+    "accountId": 373055598,
+    "amount": 305204.92,
+    "executionTime": "05:47"
+  },
+  {
+    "accountId": 136552917,
+    "amount": 892484.13,
+    "executionTime": "02:08"
+  },
+  {
+    "accountId": 289383761,
+    "amount": 818607.14,
+    "executionTime": "08:11"
+  },
+  {
+    "accountId": 664945024,
+    "amount": 37078.85,
+    "executionTime": "13:20"
+  },
+  {
+    "accountId": 200639020,
+    "amount": 948169.62,
+    "executionTime": "04:23"
+  },
+  {
+    "accountId": 156428471,
+    "amount": 232580.3,
+    "executionTime": "14:41"
+  },
+  {
+    "accountId": 553384495,
+    "amount": 77469.79,
+    "executionTime": "12:00"
+  },
+  {
+    "accountId": 111032175,
+    "amount": 242287.01,
+    "executionTime": "06:44"
+  },
+  {
+    "accountId": 78706812,
+    "amount": 151422.51,
+    "executionTime": "03:56"
+  },
+  {
+    "accountId": 554146907,
+    "amount": 59976.23,
+    "executionTime": "11:10"
+  },
+  {
+    "accountId": 576932318,
+    "amount": 698659.98,
+    "executionTime": "10:23"
+  },
+  {
+    "accountId": 433254647,
+    "amount": 261314.19,
+    "executionTime": "03:31"
+  },
+  {
+    "accountId": 580731267,
+    "amount": 816106.41,
+    "executionTime": "21:06"
+  },
+  {
+    "accountId": 462654782,
+    "amount": 730904.64,
+    "executionTime": "02:23"
+  },
+  {
+    "accountId": 758070795,
+    "amount": 232511.24,
+    "executionTime": "09:06"
+  },
+  {
+    "accountId": 379510972,
+    "amount": 516406.92,
+    "executionTime": "17:02"
+  },
+  {
+    "accountId": 835521793,
+    "amount": 17734.99,
+    "executionTime": "04:20"
+  },
+  {
+    "accountId": 497949748,
+    "amount": 665205.68,
+    "executionTime": "08:15"
+  },
+  {
+    "accountId": 212852197,
+    "amount": 686651.63,
+    "executionTime": "19:37"
+  },
+  {
+    "accountId": 552903530,
+    "amount": 57679.29,
+    "executionTime": "01:41"
+  },
+  {
+    "accountId": 89865751,
+    "amount": 326092.76,
+    "executionTime": "21:17"
+  },
+  {
+    "accountId": 157668527,
+    "amount": 86698.77,
+    "executionTime": "23:37"
+  },
+  {
+    "accountId": 97998032,
+    "amount": 834761.9,
+    "executionTime": "18:32"
+  },
+  {
+    "accountId": 597054171,
+    "amount": 902127.24,
+    "executionTime": "14:00"
+  },
+  {
+    "accountId": 918463661,
+    "amount": 518840.82,
+    "executionTime": "15:40"
+  },
+  {
+    "accountId": 767396544,
+    "amount": 157953.89,
+    "executionTime": "05:43"
+  },
+  {
+    "accountId": 791565207,
+    "amount": 399996.35,
+    "executionTime": "12:29"
+  },
+  {
+    "accountId": 534367378,
+    "amount": 493524.54,
+    "executionTime": "04:09"
+  },
+  {
+    "accountId": 642053819,
+    "amount": 375261.04,
+    "executionTime": "15:33"
+  },
+  {
+    "accountId": 246785845,
+    "amount": 712431.09,
+    "executionTime": "18:26"
+  },
+  {
+    "accountId": 450957925,
+    "amount": 289934.41,
+    "executionTime": "12:14"
+  },
+  {
+    "accountId": 682837109,
+    "amount": 314551.66,
+    "executionTime": "03:41"
+  },
+  {
+    "accountId": 708805618,
+    "amount": 457158.18,
+    "executionTime": "15:55"
+  },
+  {
+    "accountId": 959708382,
+    "amount": 677494.97,
+    "executionTime": "16:28"
+  },
+  {
+    "accountId": 879203645,
+    "amount": 568133.86,
+    "executionTime": "02:50"
+  },
+  {
+    "accountId": 706660295,
+    "amount": 809561.71,
+    "executionTime": "14:08"
+  },
+  {
+    "accountId": 852040131,
+    "amount": 237935.51,
+    "executionTime": "08:48"
+  },
+  {
+    "accountId": 565678465,
+    "amount": 528042.52,
+    "executionTime": "20:42"
+  },
+  {
+    "accountId": 834665649,
+    "amount": 955965.09,
+    "executionTime": "18:30"
+  },
+  {
+    "accountId": 740083266,
+    "amount": 959911.88,
+    "executionTime": "16:21"
+  },
+  {
+    "accountId": 64902712,
+    "amount": 759651.93,
+    "executionTime": "03:45"
+  },
+  {
+    "accountId": 856737953,
+    "amount": 413367.28,
+    "executionTime": "00:25"
+  },
+  {
+    "accountId": 516153027,
+    "amount": 658888.08,
+    "executionTime": "20:38"
+  },
+  {
+    "accountId": 360491591,
+    "amount": 561836.84,
+    "executionTime": "16:59"
+  },
+  {
+    "accountId": 869799636,
+    "amount": 297637.97,
+    "executionTime": "05:07"
+  },
+  {
+    "accountId": 4729872,
+    "amount": 41576.88,
+    "executionTime": "01:24"
+  },
+  {
+    "accountId": 393617494,
+    "amount": 995926.37,
+    "executionTime": "08:17"
+  },
+  {
+    "accountId": 735669305,
+    "amount": 928404.0,
+    "executionTime": "01:04"
+  },
+  {
+    "accountId": 536780646,
+    "amount": 377650.2,
+    "executionTime": "09:40"
+  },
+  {
+    "accountId": 804732858,
+    "amount": 90613.87,
+    "executionTime": "08:42"
+  },
+  {
+    "accountId": 543618285,
+    "amount": 375841.31,
+    "executionTime": "12:27"
+  },
+  {
+    "accountId": 613939648,
+    "amount": 943702.14,
+    "executionTime": "16:16"
+  },
+  {
+    "accountId": 22464383,
+    "amount": 541559.85,
+    "executionTime": "12:53"
+  },
+  {
+    "accountId": 247338742,
+    "amount": 998450.72,
+    "executionTime": "22:30"
+  },
+  {
+    "accountId": 531482101,
+    "amount": 779883.27,
+    "executionTime": "12:02"
+  },
+  {
+    "accountId": 758194875,
+    "amount": 772195.98,
+    "executionTime": "02:44"
+  },
+  {
+    "accountId": 981903106,
+    "amount": 39038.96,
+    "executionTime": "17:58"
+  },
+  {
+    "accountId": 534100611,
+    "amount": 851355.95,
+    "executionTime": "17:52"
+  },
+  {
+    "accountId": 919415417,
+    "amount": 913380.46,
+    "executionTime": "05:09"
+  },
+  {
+    "accountId": 193017995,
+    "amount": 269303.85,
+    "executionTime": "03:16"
+  },
+  {
+    "accountId": 764267560,
+    "amount": 182231.47,
+    "executionTime": "06:36"
+  },
+  {
+    "accountId": 637695944,
+    "amount": 641300.43,
+    "executionTime": "04:20"
+  },
+  {
+    "accountId": 661651583,
+    "amount": 273451.01,
+    "executionTime": "05:39"
+  },
+  {
+    "accountId": 200949944,
+    "amount": 887352.08,
+    "executionTime": "09:08"
+  },
+  {
+    "accountId": 879476523,
+    "amount": 488213.26,
+    "executionTime": "01:16"
+  },
+  {
+    "accountId": 767948176,
+    "amount": 213226.45,
+    "executionTime": "21:12"
+  },
+  {
+    "accountId": 881469447,
+    "amount": 129809.24,
+    "executionTime": "15:31"
+  },
+  {
+    "accountId": 762980241,
+    "amount": 774390.1,
+    "executionTime": "17:44"
+  },
+  {
+    "accountId": 425922991,
+    "amount": 580062.26,
+    "executionTime": "18:57"
+  },
+  {
+    "accountId": 613706448,
+    "amount": 291063.58,
+    "executionTime": "16:59"
+  },
+  {
+    "accountId": 782819653,
+    "amount": 878459.38,
+    "executionTime": "03:40"
+  },
+  {
+    "accountId": 259326670,
+    "amount": 626868.3,
+    "executionTime": "02:19"
+  },
+  {
+    "accountId": 84834620,
+    "amount": 895216.45,
+    "executionTime": "20:41"
+  },
+  {
+    "accountId": 555915541,
+    "amount": 337540.64,
+    "executionTime": "22:39"
+  },
+  {
+    "accountId": 554253176,
+    "amount": 554180.32,
+    "executionTime": "05:14"
+  },
+  {
+    "accountId": 833361,
+    "amount": 249059.68,
+    "executionTime": "23:49"
+  },
+  {
+    "accountId": 378162542,
+    "amount": 796960.02,
+    "executionTime": "23:41"
+  },
+  {
+    "accountId": 721537766,
+    "amount": 415721.27,
+    "executionTime": "10:09"
+  },
+  {
+    "accountId": 401386641,
+    "amount": 888264.49,
+    "executionTime": "20:34"
+  },
+  {
+    "accountId": 910339452,
+    "amount": 306190.42,
+    "executionTime": "09:08"
+  },
+  {
+    "accountId": 572686159,
+    "amount": 27264.16,
+    "executionTime": "00:15"
+  },
+  {
+    "accountId": 129150933,
+    "amount": 465623.33,
+    "executionTime": "19:24"
+  },
+  {
+    "accountId": 333792035,
+    "amount": 747918.46,
+    "executionTime": "20:58"
+  },
+  {
+    "accountId": 925800817,
+    "amount": 523890.6,
+    "executionTime": "15:55"
+  },
+  {
+    "accountId": 185879878,
+    "amount": 643941.71,
+    "executionTime": "18:40"
+  },
+  {
+    "accountId": 200655368,
+    "amount": 223310.84,
+    "executionTime": "00:55"
+  },
+  {
+    "accountId": 481148259,
+    "amount": 901454.79,
+    "executionTime": "04:18"
+  },
+  {
+    "accountId": 58783091,
+    "amount": 335603.92,
+    "executionTime": "21:10"
+  },
+  {
+    "accountId": 423710021,
+    "amount": 743542.49,
+    "executionTime": "19:34"
+  },
+  {
+    "accountId": 820941224,
+    "amount": 773131.51,
+    "executionTime": "11:30"
+  },
+  {
+    "accountId": 215851620,
+    "amount": 877866.25,
+    "executionTime": "17:52"
+  },
+  {
+    "accountId": 1538560,
+    "amount": 546681.75,
+    "executionTime": "16:39"
+  },
+  {
+    "accountId": 894948853,
+    "amount": 982420.72,
+    "executionTime": "16:19"
+  },
+  {
+    "accountId": 912433256,
+    "amount": 362268.83,
+    "executionTime": "12:41"
+  },
+  {
+    "accountId": 96779855,
+    "amount": 897072.07,
+    "executionTime": "03:21"
+  },
+  {
+    "accountId": 989510771,
+    "amount": 607053.06,
+    "executionTime": "08:22"
+  },
+  {
+    "accountId": 238052042,
+    "amount": 164127.63,
+    "executionTime": "14:02"
+  },
+  {
+    "accountId": 755711165,
+    "amount": 846083.74,
+    "executionTime": "22:17"
+  },
+  {
+    "accountId": 933245751,
+    "amount": 393902.58,
+    "executionTime": "00:21"
+  },
+  {
+    "accountId": 200151680,
+    "amount": 716548.34,
+    "executionTime": "01:07"
+  },
+  {
+    "accountId": 708035803,
+    "amount": 960021.18,
+    "executionTime": "22:00"
+  },
+  {
+    "accountId": 200500300,
+    "amount": 870827.79,
+    "executionTime": "02:28"
+  },
+  {
+    "accountId": 182465561,
+    "amount": 804351.48,
+    "executionTime": "05:37"
+  },
+  {
+    "accountId": 21354951,
+    "amount": 806181.57,
+    "executionTime": "15:51"
+  },
+  {
+    "accountId": 541750837,
+    "amount": 179957.68,
+    "executionTime": "02:27"
+  },
+  {
+    "accountId": 463513376,
+    "amount": 589463.12,
+    "executionTime": "03:06"
+  },
+  {
+    "accountId": 468753833,
+    "amount": 576442.62,
+    "executionTime": "08:23"
+  },
+  {
+    "accountId": 617443720,
+    "amount": 438683.59,
+    "executionTime": "04:59"
+  },
+  {
+    "accountId": 48568822,
+    "amount": 964485.91,
+    "executionTime": "09:55"
+  },
+  {
+    "accountId": 593921295,
+    "amount": 206753.55,
+    "executionTime": "19:41"
+  },
+  {
+    "accountId": 142722613,
+    "amount": 435982.29,
+    "executionTime": "09:40"
+  },
+  {
+    "accountId": 122321566,
+    "amount": 673279.84,
+    "executionTime": "07:37"
+  },
+  {
+    "accountId": 978253084,
+    "amount": 878772.57,
+    "executionTime": "05:42"
+  },
+  {
+    "accountId": 91338973,
+    "amount": 878399.0,
+    "executionTime": "15:05"
+  },
+  {
+    "accountId": 551609751,
+    "amount": 251793.23,
+    "executionTime": "15:24"
+  },
+  {
+    "accountId": 697925457,
+    "amount": 235261.66,
+    "executionTime": "09:44"
+  },
+  {
+    "accountId": 776346098,
+    "amount": 823201.12,
+    "executionTime": "21:01"
+  },
+  {
+    "accountId": 101936204,
+    "amount": 890833.54,
+    "executionTime": "16:46"
+  },
+  {
+    "accountId": 748484634,
+    "amount": 513972.3,
+    "executionTime": "12:52"
+  },
+  {
+    "accountId": 734283429,
+    "amount": 244999.59,
+    "executionTime": "19:19"
+  },
+  {
+    "accountId": 890358628,
+    "amount": 959547.67,
+    "executionTime": "00:42"
+  },
+  {
+    "accountId": 916674635,
+    "amount": 548702.15,
+    "executionTime": "15:52"
+  },
+  {
+    "accountId": 470606478,
+    "amount": 149159.34,
+    "executionTime": "14:25"
+  },
+  {
+    "accountId": 330257313,
+    "amount": 25671.14,
+    "executionTime": "12:12"
+  },
+  {
+    "accountId": 15877541,
+    "amount": 569072.26,
+    "executionTime": "19:50"
+  },
+  {
+    "accountId": 941503862,
+    "amount": 194517.97,
+    "executionTime": "03:17"
+  },
+  {
+    "accountId": 177087617,
+    "amount": 661430.14,
+    "executionTime": "22:58"
+  },
+  {
+    "accountId": 875887386,
+    "amount": 235407.58,
+    "executionTime": "23:58"
+  },
+  {
+    "accountId": 79009434,
+    "amount": 158388.94,
+    "executionTime": "14:50"
+  },
+  {
+    "accountId": 997789910,
+    "amount": 639704.14,
+    "executionTime": "05:47"
+  },
+  {
+    "accountId": 272655166,
+    "amount": 164461.07,
+    "executionTime": "15:44"
+  },
+  {
+    "accountId": 400599302,
+    "amount": 321245.65,
+    "executionTime": "21:03"
+  },
+  {
+    "accountId": 70888484,
+    "amount": 198614.56,
+    "executionTime": "03:10"
+  },
+  {
+    "accountId": 976379578,
+    "amount": 82860.82,
+    "executionTime": "06:59"
+  },
+  {
+    "accountId": 865978581,
+    "amount": 832241.08,
+    "executionTime": "06:43"
+  },
+  {
+    "accountId": 234421114,
+    "amount": 191676.46,
+    "executionTime": "10:57"
+  },
+  {
+    "accountId": 258298187,
+    "amount": 432328.29,
+    "executionTime": "02:40"
+  },
+  {
+    "accountId": 3572591,
+    "amount": 562590.59,
+    "executionTime": "06:42"
+  },
+  {
+    "accountId": 533266511,
+    "amount": 460080.17,
+    "executionTime": "21:24"
+  },
+  {
+    "accountId": 490813791,
+    "amount": 345800.67,
+    "executionTime": "22:11"
+  },
+  {
+    "accountId": 479224370,
+    "amount": 672392.8,
+    "executionTime": "04:00"
+  },
+  {
+    "accountId": 429300384,
+    "amount": 366468.94,
+    "executionTime": "17:59"
+  },
+  {
+    "accountId": 724262423,
+    "amount": 224312.0,
+    "executionTime": "04:48"
+  },
+  {
+    "accountId": 588164506,
+    "amount": 244674.58,
+    "executionTime": "01:38"
+  },
+  {
+    "accountId": 314776623,
+    "amount": 478332.06,
+    "executionTime": "09:07"
+  },
+  {
+    "accountId": 200322175,
+    "amount": 731953.34,
+    "executionTime": "04:06"
+  },
+  {
+    "accountId": 332205929,
+    "amount": 724693.88,
+    "executionTime": "10:12"
+  },
+  {
+    "accountId": 404145702,
+    "amount": 300404.27,
+    "executionTime": "05:28"
+  },
+  {
+    "accountId": 932207589,
+    "amount": 284235.54,
+    "executionTime": "12:19"
+  },
+  {
+    "accountId": 531255894,
+    "amount": 280211.49,
+    "executionTime": "13:25"
+  },
+  {
+    "accountId": 558602854,
+    "amount": 884848.56,
+    "executionTime": "17:59"
+  },
+  {
+    "accountId": 327727681,
+    "amount": 664388.63,
+    "executionTime": "04:08"
+  },
+  {
+    "accountId": 322697998,
+    "amount": 966346.84,
+    "executionTime": "05:41"
+  },
+  {
+    "accountId": 321038576,
+    "amount": 880981.13,
+    "executionTime": "13:06"
+  },
+  {
+    "accountId": 802537486,
+    "amount": 91538.63,
+    "executionTime": "12:34"
+  },
+  {
+    "accountId": 258476365,
+    "amount": 384536.09,
+    "executionTime": "23:37"
+  },
+  {
+    "accountId": 834547446,
+    "amount": 957453.16,
+    "executionTime": "21:18"
+  },
+  {
+    "accountId": 77378526,
+    "amount": 133800.69,
+    "executionTime": "22:16"
+  },
+  {
+    "accountId": 179370332,
+    "amount": 884374.38,
+    "executionTime": "02:36"
+  },
+  {
+    "accountId": 698933789,
+    "amount": 444128.02,
+    "executionTime": "20:35"
+  },
+  {
+    "accountId": 45498483,
+    "amount": 98177.92,
+    "executionTime": "02:48"
+  },
+  {
+    "accountId": 451006336,
+    "amount": 493719.36,
+    "executionTime": "06:06"
+  },
+  {
+    "accountId": 326952510,
+    "amount": 515970.81,
+    "executionTime": "18:19"
+  },
+  {
+    "accountId": 234217625,
+    "amount": 916223.07,
+    "executionTime": "21:32"
+  },
+  {
+    "accountId": 751064998,
+    "amount": 124389.16,
+    "executionTime": "00:41"
+  },
+  {
+    "accountId": 595521509,
+    "amount": 947321.2,
+    "executionTime": "15:25"
+  },
+  {
+    "accountId": 742531185,
+    "amount": 875226.27,
+    "executionTime": "15:44"
+  },
+  {
+    "accountId": 34600407,
+    "amount": 752803.59,
+    "executionTime": "02:13"
+  },
+  {
+    "accountId": 702835239,
+    "amount": 41193.1,
+    "executionTime": "09:19"
+  },
+  {
+    "accountId": 674583448,
+    "amount": 329941.81,
+    "executionTime": "03:51"
+  },
+  {
+    "accountId": 12952361,
+    "amount": 825601.02,
+    "executionTime": "14:10"
+  },
+  {
+    "accountId": 152302297,
+    "amount": 880105.75,
+    "executionTime": "06:53"
+  },
+  {
+    "accountId": 652574570,
+    "amount": 400525.65,
+    "executionTime": "15:41"
+  },
+  {
+    "accountId": 859056942,
+    "amount": 287172.72,
+    "executionTime": "12:54"
+  },
+  {
+    "accountId": 648338860,
+    "amount": 350511.83,
+    "executionTime": "20:36"
+  },
+  {
+    "accountId": 72137123,
+    "amount": 916864.13,
+    "executionTime": "09:12"
+  },
+  {
+    "accountId": 612152826,
+    "amount": 607472.01,
+    "executionTime": "09:49"
+  },
+  {
+    "accountId": 403952418,
+    "amount": 512313.65,
+    "executionTime": "18:47"
+  },
+  {
+    "accountId": 979411549,
+    "amount": 426733.69,
+    "executionTime": "22:37"
+  },
+  {
+    "accountId": 646747098,
+    "amount": 801533.0,
+    "executionTime": "02:04"
+  },
+  {
+    "accountId": 226667915,
+    "amount": 105947.03,
+    "executionTime": "16:08"
+  },
+  {
+    "accountId": 929492335,
+    "amount": 552801.55,
+    "executionTime": "01:55"
+  },
+  {
+    "accountId": 141907904,
+    "amount": 794992.2,
+    "executionTime": "08:18"
+  },
+  {
+    "accountId": 346836368,
+    "amount": 856228.95,
+    "executionTime": "21:00"
+  },
+  {
+    "accountId": 227946039,
+    "amount": 484305.92,
+    "executionTime": "03:13"
+  },
+  {
+    "accountId": 212465812,
+    "amount": 965251.68,
+    "executionTime": "23:40"
+  },
+  {
+    "accountId": 174562509,
+    "amount": 161419.83,
+    "executionTime": "20:10"
+  },
+  {
+    "accountId": 862225718,
+    "amount": 917391.5,
+    "executionTime": "17:29"
+  },
+  {
+    "accountId": 378368333,
+    "amount": 720584.82,
+    "executionTime": "01:19"
+  },
+  {
+    "accountId": 703944481,
+    "amount": 572856.44,
+    "executionTime": "20:20"
+  },
+  {
+    "accountId": 612885976,
+    "amount": 385842.8,
+    "executionTime": "13:05"
+  },
+  {
+    "accountId": 486559962,
+    "amount": 203639.25,
+    "executionTime": "17:09"
+  },
+  {
+    "accountId": 760116238,
+    "amount": 406300.43,
+    "executionTime": "17:31"
+  },
+  {
+    "accountId": 431849730,
+    "amount": 684532.81,
+    "executionTime": "19:20"
+  },
+  {
+    "accountId": 813206127,
+    "amount": 946614.23,
+    "executionTime": "23:26"
+  },
+  {
+    "accountId": 27093992,
+    "amount": 570628.34,
+    "executionTime": "13:07"
+  },
+  {
+    "accountId": 330584924,
+    "amount": 168233.11,
+    "executionTime": "02:30"
+  },
+  {
+    "accountId": 569812246,
+    "amount": 219835.48,
+    "executionTime": "03:55"
+  },
+  {
+    "accountId": 331291935,
+    "amount": 526714.34,
+    "executionTime": "01:26"
+  },
+  {
+    "accountId": 822124603,
+    "amount": 941215.05,
+    "executionTime": "13:50"
+  },
+  {
+    "accountId": 156891284,
+    "amount": 310017.91,
+    "executionTime": "09:20"
+  },
+  {
+    "accountId": 136303370,
+    "amount": 807968.01,
+    "executionTime": "07:35"
+  },
+  {
+    "accountId": 671065878,
+    "amount": 34609.67,
+    "executionTime": "02:17"
+  },
+  {
+    "accountId": 765083237,
+    "amount": 105635.48,
+    "executionTime": "15:02"
+  },
+  {
+    "accountId": 809686936,
+    "amount": 763860.85,
+    "executionTime": "20:49"
+  },
+  {
+    "accountId": 840069994,
+    "amount": 757792.15,
+    "executionTime": "13:05"
+  },
+  {
+    "accountId": 227634764,
+    "amount": 164410.49,
+    "executionTime": "21:48"
+  },
+  {
+    "accountId": 766988394,
+    "amount": 693411.11,
+    "executionTime": "20:12"
+  },
+  {
+    "accountId": 179900416,
+    "amount": 724325.51,
+    "executionTime": "08:10"
+  },
+  {
+    "accountId": 721332888,
+    "amount": 770130.19,
+    "executionTime": "18:04"
+  },
+  {
+    "accountId": 226028066,
+    "amount": 55221.92,
+    "executionTime": "06:18"
+  },
+  {
+    "accountId": 760623416,
+    "amount": 636404.71,
+    "executionTime": "22:49"
+  },
+  {
+    "accountId": 299002675,
+    "amount": 676931.99,
+    "executionTime": "18:30"
+  },
+  {
+    "accountId": 858255552,
+    "amount": 650013.6,
+    "executionTime": "23:28"
+  },
+  {
+    "accountId": 999803987,
+    "amount": 422712.79,
+    "executionTime": "14:09"
+  },
+  {
+    "accountId": 508267723,
+    "amount": 34057.94,
+    "executionTime": "09:29"
+  },
+  {
+    "accountId": 705618092,
+    "amount": 942385.18,
+    "executionTime": "15:26"
+  },
+  {
+    "accountId": 484840350,
+    "amount": 396424.61,
+    "executionTime": "20:50"
+  },
+  {
+    "accountId": 100289367,
+    "amount": 611149.46,
+    "executionTime": "00:47"
+  },
+  {
+    "accountId": 20262425,
+    "amount": 981997.28,
+    "executionTime": "14:01"
+  },
+  {
+    "accountId": 761341002,
+    "amount": 515516.87,
+    "executionTime": "05:12"
+  },
+  {
+    "accountId": 769951566,
+    "amount": 430586.48,
+    "executionTime": "13:26"
+  },
+  {
+    "accountId": 119703207,
+    "amount": 296691.41,
+    "executionTime": "02:08"
+  },
+  {
+    "accountId": 197416555,
+    "amount": 953052.01,
+    "executionTime": "15:17"
+  },
+  {
+    "accountId": 202496385,
+    "amount": 498794.67,
+    "executionTime": "10:52"
+  },
+  {
+    "accountId": 815766957,
+    "amount": 75399.61,
+    "executionTime": "11:18"
+  },
+  {
+    "accountId": 751519282,
+    "amount": 224981.95,
+    "executionTime": "05:40"
+  },
+  {
+    "accountId": 122789270,
+    "amount": 188753.31,
+    "executionTime": "12:09"
+  },
+  {
+    "accountId": 626150651,
+    "amount": 677669.27,
+    "executionTime": "05:24"
+  },
+  {
+    "accountId": 410304686,
+    "amount": 485417.14,
+    "executionTime": "12:05"
+  },
+  {
+    "accountId": 423009320,
+    "amount": 966941.42,
+    "executionTime": "11:31"
+  },
+  {
+    "accountId": 469404135,
+    "amount": 397472.74,
+    "executionTime": "11:29"
+  },
+  {
+    "accountId": 33007027,
+    "amount": 688367.13,
+    "executionTime": "21:36"
+  },
+  {
+    "accountId": 723300229,
+    "amount": 555410.08,
+    "executionTime": "13:36"
+  },
+  {
+    "accountId": 312984603,
+    "amount": 569493.61,
+    "executionTime": "21:40"
+  },
+  {
+    "accountId": 599902102,
+    "amount": 50989.68,
+    "executionTime": "02:54"
+  },
+  {
+    "accountId": 54814672,
+    "amount": 447179.99,
+    "executionTime": "20:51"
+  },
+  {
+    "accountId": 695835812,
+    "amount": 923516.76,
+    "executionTime": "23:02"
+  },
+  {
+    "accountId": 637146551,
+    "amount": 481299.68,
+    "executionTime": "22:05"
+  },
+  {
+    "accountId": 346207442,
+    "amount": 536635.86,
+    "executionTime": "04:17"
+  },
+  {
+    "accountId": 36723044,
+    "amount": 115104.68,
+    "executionTime": "20:51"
+  },
+  {
+    "accountId": 821930233,
+    "amount": 677063.76,
+    "executionTime": "10:06"
+  },
+  {
+    "accountId": 450383021,
+    "amount": 104685.91,
+    "executionTime": "06:16"
+  },
+  {
+    "accountId": 201097473,
+    "amount": 75201.92,
+    "executionTime": "07:49"
+  },
+  {
+    "accountId": 613130019,
+    "amount": 269477.38,
+    "executionTime": "21:31"
+  },
+  {
+    "accountId": 139979724,
+    "amount": 736859.5,
+    "executionTime": "06:31"
+  },
+  {
+    "accountId": 933372474,
+    "amount": 181831.0,
+    "executionTime": "14:28"
+  },
+  {
+    "accountId": 188112815,
+    "amount": 25497.09,
+    "executionTime": "15:54"
+  },
+  {
+    "accountId": 834765611,
+    "amount": 406182.3,
+    "executionTime": "16:06"
+  },
+  {
+    "accountId": 150556737,
+    "amount": 164294.5,
+    "executionTime": "10:38"
+  },
+  {
+    "accountId": 273454227,
+    "amount": 68813.42,
+    "executionTime": "10:47"
+  },
+  {
+    "accountId": 860792427,
+    "amount": 613987.69,
+    "executionTime": "06:54"
+  },
+  {
+    "accountId": 789403490,
+    "amount": 602800.57,
+    "executionTime": "19:34"
+  },
+  {
+    "accountId": 95074899,
+    "amount": 470748.99,
+    "executionTime": "00:40"
+  },
+  {
+    "accountId": 698441742,
+    "amount": 570598.48,
+    "executionTime": "00:58"
+  },
+  {
+    "accountId": 854273896,
+    "amount": 530306.57,
+    "executionTime": "14:08"
+  },
+  {
+    "accountId": 106725411,
+    "amount": 634303.33,
+    "executionTime": "04:54"
+  },
+  {
+    "accountId": 65239021,
+    "amount": 503571.28,
+    "executionTime": "17:57"
+  },
+  {
+    "accountId": 764640572,
+    "amount": 150694.77,
+    "executionTime": "08:31"
+  },
+  {
+    "accountId": 999233088,
+    "amount": 145432.07,
+    "executionTime": "03:02"
+  },
+  {
+    "accountId": 149423265,
+    "amount": 466354.13,
+    "executionTime": "03:57"
+  },
+  {
+    "accountId": 780776202,
+    "amount": 823537.87,
+    "executionTime": "12:28"
+  },
+  {
+    "accountId": 38708970,
+    "amount": 454398.6,
+    "executionTime": "23:01"
+  },
+  {
+    "accountId": 8080980,
+    "amount": 911877.15,
+    "executionTime": "03:06"
+  },
+  {
+    "accountId": 281182488,
+    "amount": 735421.23,
+    "executionTime": "17:14"
+  },
+  {
+    "accountId": 560237714,
+    "amount": 55481.5,
+    "executionTime": "07:48"
+  },
+  {
+    "accountId": 858841613,
+    "amount": 698531.62,
+    "executionTime": "00:43"
+  },
+  {
+    "accountId": 912506187,
+    "amount": 437499.28,
+    "executionTime": "16:57"
+  },
+  {
+    "accountId": 545053643,
+    "amount": 623778.94,
+    "executionTime": "11:42"
+  },
+  {
+    "accountId": 395526366,
+    "amount": 558780.95,
+    "executionTime": "02:17"
+  },
+  {
+    "accountId": 797061340,
+    "amount": 398954.18,
+    "executionTime": "13:35"
+  },
+  {
+    "accountId": 105943998,
+    "amount": 458655.65,
+    "executionTime": "01:30"
+  },
+  {
+    "accountId": 109523916,
+    "amount": 108982.42,
+    "executionTime": "06:00"
+  },
+  {
+    "accountId": 775057746,
+    "amount": 264861.82,
+    "executionTime": "12:29"
+  },
+  {
+    "accountId": 307757538,
+    "amount": 277202.68,
+    "executionTime": "06:25"
+  },
+  {
+    "accountId": 277862345,
+    "amount": 984792.85,
+    "executionTime": "08:08"
+  },
+  {
+    "accountId": 45327528,
+    "amount": 116626.75,
+    "executionTime": "09:15"
+  },
+  {
+    "accountId": 157247219,
+    "amount": 386144.47,
+    "executionTime": "21:01"
+  },
+  {
+    "accountId": 99473779,
+    "amount": 506590.92,
+    "executionTime": "21:32"
+  },
+  {
+    "accountId": 30575333,
+    "amount": 47402.5,
+    "executionTime": "22:03"
+  },
+  {
+    "accountId": 500079885,
+    "amount": 567760.52,
+    "executionTime": "00:48"
+  },
+  {
+    "accountId": 665818229,
+    "amount": 354762.06,
+    "executionTime": "18:07"
+  },
+  {
+    "accountId": 699191938,
+    "amount": 38632.42,
+    "executionTime": "07:56"
+  },
+  {
+    "accountId": 303386882,
+    "amount": 873813.41,
+    "executionTime": "07:03"
+  },
+  {
+    "accountId": 671933987,
+    "amount": 391456.38,
+    "executionTime": "21:52"
+  },
+  {
+    "accountId": 618616016,
+    "amount": 780421.54,
+    "executionTime": "03:50"
+  },
+  {
+    "accountId": 908250425,
+    "amount": 217469.76,
+    "executionTime": "22:15"
+  },
+  {
+    "accountId": 435219894,
+    "amount": 675335.39,
+    "executionTime": "01:53"
+  },
+  {
+    "accountId": 60172480,
+    "amount": 88047.15,
+    "executionTime": "11:44"
+  },
+  {
+    "accountId": 697825034,
+    "amount": 876179.3,
+    "executionTime": "03:19"
+  },
+  {
+    "accountId": 474326458,
+    "amount": 588464.39,
+    "executionTime": "12:01"
+  },
+  {
+    "accountId": 271957249,
+    "amount": 138077.79,
+    "executionTime": "00:59"
+  },
+  {
+    "accountId": 665111767,
+    "amount": 620271.99,
+    "executionTime": "08:32"
+  },
+  {
+    "accountId": 429890461,
+    "amount": 748034.03,
+    "executionTime": "09:30"
+  },
+  {
+    "accountId": 996287725,
+    "amount": 876527.94,
+    "executionTime": "05:44"
+  },
+  {
+    "accountId": 651361460,
+    "amount": 694587.92,
+    "executionTime": "12:24"
+  },
+  {
+    "accountId": 692939961,
+    "amount": 257242.83,
+    "executionTime": "12:48"
+  },
+  {
+    "accountId": 48910053,
+    "amount": 408908.55,
+    "executionTime": "07:01"
+  },
+  {
+    "accountId": 676389293,
+    "amount": 404195.26,
+    "executionTime": "17:16"
+  },
+  {
+    "accountId": 488295176,
+    "amount": 913409.24,
+    "executionTime": "04:09"
+  },
+  {
+    "accountId": 347956452,
+    "amount": 132511.19,
+    "executionTime": "14:30"
+  },
+  {
+    "accountId": 187394188,
+    "amount": 892114.27,
+    "executionTime": "03:59"
+  },
+  {
+    "accountId": 774057553,
+    "amount": 981666.85,
+    "executionTime": "10:05"
+  },
+  {
+    "accountId": 728799235,
+    "amount": 290916.84,
+    "executionTime": "01:40"
+  },
+  {
+    "accountId": 139485847,
+    "amount": 888438.98,
+    "executionTime": "18:05"
+  },
+  {
+    "accountId": 184251893,
+    "amount": 523558.39,
+    "executionTime": "12:37"
+  },
+  {
+    "accountId": 323773549,
+    "amount": 630449.58,
+    "executionTime": "08:36"
+  },
+  {
+    "accountId": 444695974,
+    "amount": 430312.13,
+    "executionTime": "07:20"
+  },
+  {
+    "accountId": 961546062,
+    "amount": 952304.6,
+    "executionTime": "00:49"
+  },
+  {
+    "accountId": 218340544,
+    "amount": 684727.53,
+    "executionTime": "12:35"
+  },
+  {
+    "accountId": 580931743,
+    "amount": 498415.63,
+    "executionTime": "05:48"
+  },
+  {
+    "accountId": 960727649,
+    "amount": 375085.39,
+    "executionTime": "21:37"
+  },
+  {
+    "accountId": 193135815,
+    "amount": 112264.26,
+    "executionTime": "14:14"
+  },
+  {
+    "accountId": 938050267,
+    "amount": 527612.93,
+    "executionTime": "17:34"
+  },
+  {
+    "accountId": 837494145,
+    "amount": 551275.59,
+    "executionTime": "17:50"
+  },
+  {
+    "accountId": 877081425,
+    "amount": 516584.08,
+    "executionTime": "17:02"
+  },
+  {
+    "accountId": 480637978,
+    "amount": 645252.03,
+    "executionTime": "22:56"
+  },
+  {
+    "accountId": 670012906,
+    "amount": 115348.1,
+    "executionTime": "11:29"
+  },
+  {
+    "accountId": 889007585,
+    "amount": 98741.12,
+    "executionTime": "04:50"
+  },
+  {
+    "accountId": 605033175,
+    "amount": 118182.36,
+    "executionTime": "06:40"
+  },
+  {
+    "accountId": 419454778,
+    "amount": 65343.54,
+    "executionTime": "02:27"
+  },
+  {
+    "accountId": 711760336,
+    "amount": 729390.63,
+    "executionTime": "01:07"
+  },
+  {
+    "accountId": 635291409,
+    "amount": 136535.49,
+    "executionTime": "07:15"
+  },
+  {
+    "accountId": 636885325,
+    "amount": 381680.56,
+    "executionTime": "12:21"
+  },
+  {
+    "accountId": 756321454,
+    "amount": 895775.11,
+    "executionTime": "19:59"
+  },
+  {
+    "accountId": 347345371,
+    "amount": 261287.52,
+    "executionTime": "19:58"
+  },
+  {
+    "accountId": 325785236,
+    "amount": 436622.28,
+    "executionTime": "18:50"
+  },
+  {
+    "accountId": 139975056,
+    "amount": 639885.23,
+    "executionTime": "08:58"
+  },
+  {
+    "accountId": 474596430,
+    "amount": 628864.61,
+    "executionTime": "03:07"
+  },
+  {
+    "accountId": 340210486,
+    "amount": 217559.77,
+    "executionTime": "01:29"
+  },
+  {
+    "accountId": 968056782,
+    "amount": 799504.62,
+    "executionTime": "16:56"
+  },
+  {
+    "accountId": 908460083,
+    "amount": 789782.35,
+    "executionTime": "07:55"
+  },
+  {
+    "accountId": 561188556,
+    "amount": 881873.2,
+    "executionTime": "13:17"
+  },
+  {
+    "accountId": 395119718,
+    "amount": 532072.02,
+    "executionTime": "04:06"
+  },
+  {
+    "accountId": 619424618,
+    "amount": 624084.56,
+    "executionTime": "21:18"
+  },
+  {
+    "accountId": 115794191,
+    "amount": 634842.39,
+    "executionTime": "23:04"
+  },
+  {
+    "accountId": 154473770,
+    "amount": 815553.93,
+    "executionTime": "06:46"
+  },
+  {
+    "accountId": 246188842,
+    "amount": 207459.4,
+    "executionTime": "12:54"
+  },
+  {
+    "accountId": 587735198,
+    "amount": 494886.3,
+    "executionTime": "09:44"
+  },
+  {
+    "accountId": 271831034,
+    "amount": 717152.12,
+    "executionTime": "13:48"
+  },
+  {
+    "accountId": 776690921,
+    "amount": 964407.63,
+    "executionTime": "06:52"
+  },
+  {
+    "accountId": 350281801,
+    "amount": 947708.2,
+    "executionTime": "11:19"
+  },
+  {
+    "accountId": 140933935,
+    "amount": 348344.64,
+    "executionTime": "01:30"
+  },
+  {
+    "accountId": 246120512,
+    "amount": 409439.97,
+    "executionTime": "07:46"
+  },
+  {
+    "accountId": 679144068,
+    "amount": 34784.68,
+    "executionTime": "09:31"
+  },
+  {
+    "accountId": 724839320,
+    "amount": 461129.33,
+    "executionTime": "06:02"
+  },
+  {
+    "accountId": 632233619,
+    "amount": 702820.02,
+    "executionTime": "03:37"
+  },
+  {
+    "accountId": 871871547,
+    "amount": 804064.37,
+    "executionTime": "10:47"
+  },
+  {
+    "accountId": 975024789,
+    "amount": 187933.38,
+    "executionTime": "05:31"
+  },
+  {
+    "accountId": 35183549,
+    "amount": 686285.47,
+    "executionTime": "20:39"
+  },
+  {
+    "accountId": 884718669,
+    "amount": 124792.04,
+    "executionTime": "22:50"
+  },
+  {
+    "accountId": 121133928,
+    "amount": 717204.58,
+    "executionTime": "00:42"
+  },
+  {
+    "accountId": 520499516,
+    "amount": 772592.06,
+    "executionTime": "23:17"
+  },
+  {
+    "accountId": 995435759,
+    "amount": 445488.1,
+    "executionTime": "01:47"
+  },
+  {
+    "accountId": 468274116,
+    "amount": 379156.65,
+    "executionTime": "23:02"
+  },
+  {
+    "accountId": 443012491,
+    "amount": 971656.22,
+    "executionTime": "12:19"
+  },
+  {
+    "accountId": 221449401,
+    "amount": 534346.8,
+    "executionTime": "18:18"
+  },
+  {
+    "accountId": 307524310,
+    "amount": 563324.14,
+    "executionTime": "11:56"
+  },
+  {
+    "accountId": 217764206,
+    "amount": 218793.2,
+    "executionTime": "23:28"
+  },
+  {
+    "accountId": 611120936,
+    "amount": 90446.63,
+    "executionTime": "04:43"
+  },
+  {
+    "accountId": 625771298,
+    "amount": 876074.56,
+    "executionTime": "18:56"
+  },
+  {
+    "accountId": 878657918,
+    "amount": 453967.08,
+    "executionTime": "16:04"
+  },
+  {
+    "accountId": 227822994,
+    "amount": 811342.61,
+    "executionTime": "14:22"
+  },
+  {
+    "accountId": 199624820,
+    "amount": 661259.49,
+    "executionTime": "00:57"
+  },
+  {
+    "accountId": 755289511,
+    "amount": 187932.64,
+    "executionTime": "23:54"
+  },
+  {
+    "accountId": 292574363,
+    "amount": 675029.49,
+    "executionTime": "20:50"
+  },
+  {
+    "accountId": 914788954,
+    "amount": 539583.15,
+    "executionTime": "14:51"
+  },
+  {
+    "accountId": 76570844,
+    "amount": 138700.68,
+    "executionTime": "05:33"
+  },
+  {
+    "accountId": 880407303,
+    "amount": 389332.58,
+    "executionTime": "12:08"
+  },
+  {
+    "accountId": 412735071,
+    "amount": 155576.73,
+    "executionTime": "13:33"
+  },
+  {
+    "accountId": 129952492,
+    "amount": 904166.67,
+    "executionTime": "03:35"
+  },
+  {
+    "accountId": 944080506,
+    "amount": 758551.59,
+    "executionTime": "05:30"
+  },
+  {
+    "accountId": 996426623,
+    "amount": 677633.5,
+    "executionTime": "22:07"
+  },
+  {
+    "accountId": 359316346,
+    "amount": 522932.72,
+    "executionTime": "17:52"
+  },
+  {
+    "accountId": 263542368,
+    "amount": 352154.72,
+    "executionTime": "04:28"
+  },
+  {
+    "accountId": 680226168,
+    "amount": 201675.59,
+    "executionTime": "08:58"
+  },
+  {
+    "accountId": 801765676,
+    "amount": 449737.41,
+    "executionTime": "18:59"
+  },
+  {
+    "accountId": 158944378,
+    "amount": 564304.33,
+    "executionTime": "11:47"
+  },
+  {
+    "accountId": 831423850,
+    "amount": 966978.6,
+    "executionTime": "11:33"
+  },
+  {
+    "accountId": 498660907,
+    "amount": 170082.63,
+    "executionTime": "18:51"
+  },
+  {
+    "accountId": 322633607,
+    "amount": 314209.94,
+    "executionTime": "18:54"
+  },
+  {
+    "accountId": 566501922,
+    "amount": 866112.2,
+    "executionTime": "04:55"
+  },
+  {
+    "accountId": 974954757,
+    "amount": 405018.41,
+    "executionTime": "02:28"
+  },
+  {
+    "accountId": 244952611,
+    "amount": 332906.32,
+    "executionTime": "22:47"
+  },
+  {
+    "accountId": 57806103,
+    "amount": 340052.29,
+    "executionTime": "11:19"
+  },
+  {
+    "accountId": 122198826,
+    "amount": 351181.32,
+    "executionTime": "09:35"
+  },
+  {
+    "accountId": 705454698,
+    "amount": 458451.3,
+    "executionTime": "08:41"
+  },
+  {
+    "accountId": 513605915,
+    "amount": 573355.4,
+    "executionTime": "14:41"
+  },
+  {
+    "accountId": 79065650,
+    "amount": 538788.48,
+    "executionTime": "20:10"
+  },
+  {
+    "accountId": 164898122,
+    "amount": 603802.67,
+    "executionTime": "09:15"
+  },
+  {
+    "accountId": 78534977,
+    "amount": 458216.85,
+    "executionTime": "04:30"
+  },
+  {
+    "accountId": 511960991,
+    "amount": 329223.21,
+    "executionTime": "14:40"
+  },
+  {
+    "accountId": 546566367,
+    "amount": 378120.61,
+    "executionTime": "11:33"
+  },
+  {
+    "accountId": 228476612,
+    "amount": 694275.18,
+    "executionTime": "09:00"
+  },
+  {
+    "accountId": 619302084,
+    "amount": 18455.7,
+    "executionTime": "08:36"
+  },
+  {
+    "accountId": 147245069,
+    "amount": 688322.48,
+    "executionTime": "03:33"
+  },
+  {
+    "accountId": 317952074,
+    "amount": 570642.5,
+    "executionTime": "01:02"
+  },
+  {
+    "accountId": 123241477,
+    "amount": 698153.83,
+    "executionTime": "06:15"
+  },
+  {
+    "accountId": 575383739,
+    "amount": 762144.33,
+    "executionTime": "06:45"
+  },
+  {
+    "accountId": 525930622,
+    "amount": 449663.06,
+    "executionTime": "06:34"
+  },
+  {
+    "accountId": 20417988,
+    "amount": 201036.4,
+    "executionTime": "04:46"
+  },
+  {
+    "accountId": 842138292,
+    "amount": 35561.77,
+    "executionTime": "01:47"
+  },
+  {
+    "accountId": 355646013,
+    "amount": 881624.06,
+    "executionTime": "14:01"
+  },
+  {
+    "accountId": 718092600,
+    "amount": 36874.07,
+    "executionTime": "11:05"
+  },
+  {
+    "accountId": 447396843,
+    "amount": 481684.96,
+    "executionTime": "19:57"
+  },
+  {
+    "accountId": 937650362,
+    "amount": 615093.54,
+    "executionTime": "10:03"
+  },
+  {
+    "accountId": 536678693,
+    "amount": 960704.17,
+    "executionTime": "07:12"
+  },
+  {
+    "accountId": 600296993,
+    "amount": 407229.47,
+    "executionTime": "23:58"
+  },
+  {
+    "accountId": 765339174,
+    "amount": 692321.31,
+    "executionTime": "01:46"
+  },
+  {
+    "accountId": 678704405,
+    "amount": 134498.25,
+    "executionTime": "06:18"
+  },
+  {
+    "accountId": 471319469,
+    "amount": 535864.9,
+    "executionTime": "23:34"
+  },
+  {
+    "accountId": 482553781,
+    "amount": 554363.94,
+    "executionTime": "10:45"
+  },
+  {
+    "accountId": 94686953,
+    "amount": 956541.25,
+    "executionTime": "17:27"
+  },
+  {
+    "accountId": 968487505,
+    "amount": 585488.2,
+    "executionTime": "05:39"
+  },
+  {
+    "accountId": 759789296,
+    "amount": 268873.66,
+    "executionTime": "20:10"
+  },
+  {
+    "accountId": 222970212,
+    "amount": 941232.51,
+    "executionTime": "17:35"
+  },
+  {
+    "accountId": 437780745,
+    "amount": 910482.32,
+    "executionTime": "05:24"
+  },
+  {
+    "accountId": 802230296,
+    "amount": 92017.75,
+    "executionTime": "02:03"
+  },
+  {
+    "accountId": 878692539,
+    "amount": 383361.72,
+    "executionTime": "15:03"
+  },
+  {
+    "accountId": 224000662,
+    "amount": 116716.62,
+    "executionTime": "10:22"
+  },
+  {
+    "accountId": 607314057,
+    "amount": 988349.66,
+    "executionTime": "04:17"
+  },
+  {
+    "accountId": 600764747,
+    "amount": 301327.22,
+    "executionTime": "11:39"
+  },
+  {
+    "accountId": 280391306,
+    "amount": 353354.43,
+    "executionTime": "06:40"
+  },
+  {
+    "accountId": 953863109,
+    "amount": 14007.18,
+    "executionTime": "22:00"
+  },
+  {
+    "accountId": 412702141,
+    "amount": 777707.93,
+    "executionTime": "21:00"
+  },
+  {
+    "accountId": 833009610,
+    "amount": 262577.76,
+    "executionTime": "03:20"
+  },
+  {
+    "accountId": 862296574,
+    "amount": 372294.66,
+    "executionTime": "19:46"
+  },
+  {
+    "accountId": 241542295,
+    "amount": 602780.29,
+    "executionTime": "02:38"
+  },
+  {
+    "accountId": 412392739,
+    "amount": 27772.11,
+    "executionTime": "00:18"
+  },
+  {
+    "accountId": 146195569,
+    "amount": 738344.46,
+    "executionTime": "03:00"
+  },
+  {
+    "accountId": 440817400,
+    "amount": 674369.52,
+    "executionTime": "10:09"
+  },
+  {
+    "accountId": 565627160,
+    "amount": 63743.21,
+    "executionTime": "23:07"
+  },
+  {
+    "accountId": 39635263,
+    "amount": 498078.42,
+    "executionTime": "11:16"
+  },
+  {
+    "accountId": 544448863,
+    "amount": 293243.63,
+    "executionTime": "03:23"
+  },
+  {
+    "accountId": 711075386,
+    "amount": 281706.31,
+    "executionTime": "17:14"
+  },
+  {
+    "accountId": 650415376,
+    "amount": 260752.06,
+    "executionTime": "20:13"
+  },
+  {
+    "accountId": 25945613,
+    "amount": 109012.11,
+    "executionTime": "15:34"
+  },
+  {
+    "accountId": 767052781,
+    "amount": 502448.21,
+    "executionTime": "18:41"
+  },
+  {
+    "accountId": 425570823,
+    "amount": 343201.67,
+    "executionTime": "21:44"
+  },
+  {
+    "accountId": 602929100,
+    "amount": 930650.23,
+    "executionTime": "17:28"
+  },
+  {
+    "accountId": 802420216,
+    "amount": 973598.48,
+    "executionTime": "07:06"
+  },
+  {
+    "accountId": 907988293,
+    "amount": 959554.08,
+    "executionTime": "05:32"
+  },
+  {
+    "accountId": 674256754,
+    "amount": 418069.77,
+    "executionTime": "20:55"
+  },
+  {
+    "accountId": 83821750,
+    "amount": 185365.46,
+    "executionTime": "19:40"
+  },
+  {
+    "accountId": 706007583,
+    "amount": 694650.2,
+    "executionTime": "22:19"
+  },
+  {
+    "accountId": 685359906,
+    "amount": 267872.34,
+    "executionTime": "06:05"
+  },
+  {
+    "accountId": 754597820,
+    "amount": 324544.51,
+    "executionTime": "17:49"
+  },
+  {
+    "accountId": 47973487,
+    "amount": 272034.52,
+    "executionTime": "00:09"
+  },
+  {
+    "accountId": 167494363,
+    "amount": 279242.85,
+    "executionTime": "02:35"
+  },
+  {
+    "accountId": 899923005,
+    "amount": 324665.05,
+    "executionTime": "17:37"
+  },
+  {
+    "accountId": 352956741,
+    "amount": 913084.4,
+    "executionTime": "13:11"
+  },
+  {
+    "accountId": 660825881,
+    "amount": 357064.31,
+    "executionTime": "12:11"
+  },
+  {
+    "accountId": 667264285,
+    "amount": 422188.74,
+    "executionTime": "14:27"
+  },
+  {
+    "accountId": 324072084,
+    "amount": 955404.64,
+    "executionTime": "23:55"
+  },
+  {
+    "accountId": 385450371,
+    "amount": 527626.39,
+    "executionTime": "19:08"
+  },
+  {
+    "accountId": 494149769,
+    "amount": 199341.2,
+    "executionTime": "10:51"
+  },
+  {
+    "accountId": 827029906,
+    "amount": 80147.79,
+    "executionTime": "05:57"
+  },
+  {
+    "accountId": 276631776,
+    "amount": 490557.1,
+    "executionTime": "05:19"
+  },
+  {
+    "accountId": 402797807,
+    "amount": 606595.12,
+    "executionTime": "18:28"
+  },
+  {
+    "accountId": 52895523,
+    "amount": 579330.71,
+    "executionTime": "08:08"
+  },
+  {
+    "accountId": 943341704,
+    "amount": 343979.03,
+    "executionTime": "04:28"
+  },
+  {
+    "accountId": 715074495,
+    "amount": 535990.64,
+    "executionTime": "10:07"
+  },
+  {
+    "accountId": 49180884,
+    "amount": 947350.09,
+    "executionTime": "11:24"
+  },
+  {
+    "accountId": 941630385,
+    "amount": 642326.43,
+    "executionTime": "13:33"
+  },
+  {
+    "accountId": 470348002,
+    "amount": 558464.82,
+    "executionTime": "07:13"
+  },
+  {
+    "accountId": 176401957,
+    "amount": 397017.37,
+    "executionTime": "19:20"
+  },
+  {
+    "accountId": 617047327,
+    "amount": 389438.81,
+    "executionTime": "13:05"
+  },
+  {
+    "accountId": 460645641,
+    "amount": 315736.68,
+    "executionTime": "15:09"
+  },
+  {
+    "accountId": 567952384,
+    "amount": 994367.24,
+    "executionTime": "22:50"
+  },
+  {
+    "accountId": 413595317,
+    "amount": 230480.42,
+    "executionTime": "03:11"
+  },
+  {
+    "accountId": 208442496,
+    "amount": 437867.59,
+    "executionTime": "18:42"
+  },
+  {
+    "accountId": 30990911,
+    "amount": 816826.81,
+    "executionTime": "19:04"
+  },
+  {
+    "accountId": 117993424,
+    "amount": 728883.23,
+    "executionTime": "06:33"
+  },
+  {
+    "accountId": 423683089,
+    "amount": 332194.75,
+    "executionTime": "17:09"
+  },
+  {
+    "accountId": 582208221,
+    "amount": 453862.72,
+    "executionTime": "22:15"
+  },
+  {
+    "accountId": 190089758,
+    "amount": 354358.41,
+    "executionTime": "08:13"
+  },
+  {
+    "accountId": 839207811,
+    "amount": 895774.49,
+    "executionTime": "21:35"
+  },
+  {
+    "accountId": 825367379,
+    "amount": 731088.31,
+    "executionTime": "14:54"
+  },
+  {
+    "accountId": 2908388,
+    "amount": 732266.71,
+    "executionTime": "10:42"
+  },
+  {
+    "accountId": 748507489,
+    "amount": 249809.75,
+    "executionTime": "11:46"
+  },
+  {
+    "accountId": 556432728,
+    "amount": 654429.26,
+    "executionTime": "07:48"
+  },
+  {
+    "accountId": 825097464,
+    "amount": 191845.88,
+    "executionTime": "10:57"
+  },
+  {
+    "accountId": 258576706,
+    "amount": 870823.41,
+    "executionTime": "13:46"
+  },
+  {
+    "accountId": 625248790,
+    "amount": 529376.88,
+    "executionTime": "07:49"
+  },
+  {
+    "accountId": 175640421,
+    "amount": 455995.19,
+    "executionTime": "09:29"
+  },
+  {
+    "accountId": 447931673,
+    "amount": 652559.37,
+    "executionTime": "12:48"
+  },
+  {
+    "accountId": 261199204,
+    "amount": 230359.27,
+    "executionTime": "20:06"
+  },
+  {
+    "accountId": 440115734,
+    "amount": 89869.51,
+    "executionTime": "11:38"
+  },
+  {
+    "accountId": 74174242,
+    "amount": 914133.8,
+    "executionTime": "10:58"
+  },
+  {
+    "accountId": 269754658,
+    "amount": 220336.71,
+    "executionTime": "20:01"
+  },
+  {
+    "accountId": 382002152,
+    "amount": 140674.44,
+    "executionTime": "09:32"
+  },
+  {
+    "accountId": 632059663,
+    "amount": 4106.57,
+    "executionTime": "05:14"
+  },
+  {
+    "accountId": 465948224,
+    "amount": 147683.37,
+    "executionTime": "17:48"
+  },
+  {
+    "accountId": 583187195,
+    "amount": 195793.83,
+    "executionTime": "06:37"
+  },
+  {
+    "accountId": 976699362,
+    "amount": 996411.3,
+    "executionTime": "22:50"
+  },
+  {
+    "accountId": 659298050,
+    "amount": 840570.61,
+    "executionTime": "11:14"
+  },
+  {
+    "accountId": 495735056,
+    "amount": 586879.93,
+    "executionTime": "11:14"
+  },
+  {
+    "accountId": 732864529,
+    "amount": 861447.79,
+    "executionTime": "21:39"
+  },
+  {
+    "accountId": 892320757,
+    "amount": 215917.94,
+    "executionTime": "05:58"
+  },
+  {
+    "accountId": 610070842,
+    "amount": 517369.79,
+    "executionTime": "06:08"
+  },
+  {
+    "accountId": 463182154,
+    "amount": 633893.64,
+    "executionTime": "22:23"
+  },
+  {
+    "accountId": 521531348,
+    "amount": 66726.31,
+    "executionTime": "00:00"
+  },
+  {
+    "accountId": 718433767,
+    "amount": 673119.64,
+    "executionTime": "11:03"
+  },
+  {
+    "accountId": 711465774,
+    "amount": 144402.97,
+    "executionTime": "20:28"
+  },
+  {
+    "accountId": 737041360,
+    "amount": 443247.92,
+    "executionTime": "14:11"
+  },
+  {
+    "accountId": 143099126,
+    "amount": 923195.76,
+    "executionTime": "05:17"
+  },
+  {
+    "accountId": 628589779,
+    "amount": 588633.96,
+    "executionTime": "08:11"
+  },
+  {
+    "accountId": 887157055,
+    "amount": 595390.74,
+    "executionTime": "23:29"
+  },
+  {
+    "accountId": 173540506,
+    "amount": 408594.58,
+    "executionTime": "16:08"
+  },
+  {
+    "accountId": 447602211,
+    "amount": 48119.36,
+    "executionTime": "04:48"
+  },
+  {
+    "accountId": 544774437,
+    "amount": 824357.59,
+    "executionTime": "08:37"
+  },
+  {
+    "accountId": 480407737,
+    "amount": 44512.0,
+    "executionTime": "19:54"
+  },
+  {
+    "accountId": 42708961,
+    "amount": 577341.56,
+    "executionTime": "11:26"
+  },
+  {
+    "accountId": 587845086,
+    "amount": 122436.77,
+    "executionTime": "15:02"
+  },
+  {
+    "accountId": 849381405,
+    "amount": 720267.7,
+    "executionTime": "03:41"
+  },
+  {
+    "accountId": 904966591,
+    "amount": 674604.82,
+    "executionTime": "04:11"
+  },
+  {
+    "accountId": 312193830,
+    "amount": 535016.15,
+    "executionTime": "13:01"
+  },
+  {
+    "accountId": 79428152,
+    "amount": 796187.79,
+    "executionTime": "13:05"
+  },
+  {
+    "accountId": 396671664,
+    "amount": 969433.56,
+    "executionTime": "03:22"
+  },
+  {
+    "accountId": 482523963,
+    "amount": 128645.74,
+    "executionTime": "19:40"
+  },
+  {
+    "accountId": 481430078,
+    "amount": 858438.76,
+    "executionTime": "03:14"
+  },
+  {
+    "accountId": 813671993,
+    "amount": 102249.07,
+    "executionTime": "08:00"
+  },
+  {
+    "accountId": 699992455,
+    "amount": 102098.77,
+    "executionTime": "10:26"
+  },
+  {
+    "accountId": 438693249,
+    "amount": 967904.4,
+    "executionTime": "03:33"
+  },
+  {
+    "accountId": 954955943,
+    "amount": 356269.03,
+    "executionTime": "16:57"
+  },
+  {
+    "accountId": 974274490,
+    "amount": 280483.44,
+    "executionTime": "14:14"
+  },
+  {
+    "accountId": 468967942,
+    "amount": 772376.14,
+    "executionTime": "18:42"
+  },
+  {
+    "accountId": 55260534,
+    "amount": 605633.36,
+    "executionTime": "03:01"
+  },
+  {
+    "accountId": 574708618,
+    "amount": 195913.93,
+    "executionTime": "07:00"
+  },
+  {
+    "accountId": 575014407,
+    "amount": 178027.46,
+    "executionTime": "18:21"
+  },
+  {
+    "accountId": 647068841,
+    "amount": 886818.12,
+    "executionTime": "18:03"
+  },
+  {
+    "accountId": 135670404,
+    "amount": 247559.78,
+    "executionTime": "21:40"
+  },
+  {
+    "accountId": 839926473,
+    "amount": 762037.97,
+    "executionTime": "19:24"
+  },
+  {
+    "accountId": 122844910,
+    "amount": 264542.61,
+    "executionTime": "23:28"
+  },
+  {
+    "accountId": 284292582,
+    "amount": 579693.29,
+    "executionTime": "05:59"
+  },
+  {
+    "accountId": 360643416,
+    "amount": 513393.53,
+    "executionTime": "17:45"
+  },
+  {
+    "accountId": 104691646,
+    "amount": 527126.75,
+    "executionTime": "04:21"
+  },
+  {
+    "accountId": 590486907,
+    "amount": 712358.29,
+    "executionTime": "04:47"
+  },
+  {
+    "accountId": 925063050,
+    "amount": 346325.81,
+    "executionTime": "19:01"
+  },
+  {
+    "accountId": 244936347,
+    "amount": 750446.21,
+    "executionTime": "00:49"
+  },
+  {
+    "accountId": 614178615,
+    "amount": 113475.34,
+    "executionTime": "20:07"
+  },
+  {
+    "accountId": 159721418,
+    "amount": 197159.68,
+    "executionTime": "07:33"
+  },
+  {
+    "accountId": 240538295,
+    "amount": 983334.17,
+    "executionTime": "05:17"
+  },
+  {
+    "accountId": 627821625,
+    "amount": 270137.53,
+    "executionTime": "22:51"
+  },
+  {
+    "accountId": 701304058,
+    "amount": 413104.49,
+    "executionTime": "04:50"
+  },
+  {
+    "accountId": 256556200,
+    "amount": 672125.2,
+    "executionTime": "04:25"
+  },
+  {
+    "accountId": 970995789,
+    "amount": 247221.11,
+    "executionTime": "21:03"
+  },
+  {
+    "accountId": 790396574,
+    "amount": 243522.27,
+    "executionTime": "16:42"
+  },
+  {
+    "accountId": 424253604,
+    "amount": 911698.53,
+    "executionTime": "14:08"
+  },
+  {
+    "accountId": 941625906,
+    "amount": 688914.29,
+    "executionTime": "22:55"
+  },
+  {
+    "accountId": 52602370,
+    "amount": 848642.88,
+    "executionTime": "07:18"
+  },
+  {
+    "accountId": 597718810,
+    "amount": 357497.29,
+    "executionTime": "17:12"
+  },
+  {
+    "accountId": 322519657,
+    "amount": 950648.02,
+    "executionTime": "19:38"
+  },
+  {
+    "accountId": 882968223,
+    "amount": 948745.73,
+    "executionTime": "01:03"
+  },
+  {
+    "accountId": 757884837,
+    "amount": 762961.54,
+    "executionTime": "17:38"
+  },
+  {
+    "accountId": 334337125,
+    "amount": 934485.06,
+    "executionTime": "16:30"
+  },
+  {
+    "accountId": 877024731,
+    "amount": 470531.44,
+    "executionTime": "00:07"
+  }
+]
