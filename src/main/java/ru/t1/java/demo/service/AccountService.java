@@ -16,6 +16,6 @@ public interface AccountService {
 
     void deleteAccount(Long accId);
 
-    void saveAllAccounts(List<AccountDto> accounts);
+    void saveAllAccounts(List<Account> accounts);
 
 }
