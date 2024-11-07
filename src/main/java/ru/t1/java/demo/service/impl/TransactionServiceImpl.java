@@ -7,11 +7,11 @@ import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;
 import ru.t1.java.demo.dto.TransactionDto;
 import ru.t1.java.demo.exception.JpaNotFoundException;
+import ru.t1.java.demo.mappers.TransactionMapper;
 import ru.t1.java.demo.model.Transaction;
 import ru.t1.java.demo.repository.TransactionRepository;
 import ru.t1.java.demo.service.MockService;
 import ru.t1.java.demo.service.TransactionService;
-import ru.t1.java.demo.mappers.TransactionMapper;
 
 import java.util.List;
 
@@ -60,5 +60,10 @@ public class TransactionServiceImpl implements TransactionService {
 
     private void copyProperties(Transaction source, Transaction target) {
         BeanUtils.copyProperties(source, target, "id");
+    }
+
+    @Override
+    public void saveAllTransactions(List<Transaction> transactions) {
+        repository.saveAll(transactions);
     }
 }
