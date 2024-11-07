@@ -8,12 +8,13 @@ import org.springframework.transaction.annotation.Transactional;
 import ru.t1.java.demo.aop.LogDataSourceError;
 import ru.t1.java.demo.dto.AccountDto;
 import ru.t1.java.demo.exception.DbEntryNotFoundException;
+import ru.t1.java.demo.kafka.KafkaProducer;
+import ru.t1.java.demo.mappers.AccountMapper;
 import ru.t1.java.demo.model.Account;
 import ru.t1.java.demo.model.Client;
 import ru.t1.java.demo.repository.AccountRepository;
 import ru.t1.java.demo.service.AccountService;
 import ru.t1.java.demo.service.MockService;
-import ru.t1.java.demo.mappers.AccountMapper;
 
 import java.util.List;
 
@@ -24,6 +25,7 @@ public class AccountServiceImpl implements AccountService {
     private final AccountRepository accountRepository;
     private final AccountMapper accountMapper;
     private final MockService mockService;
+    private final KafkaProducer<Account> kafkaAccountProducer;
 
     @Override
     @LogDataSourceError
@@ -75,5 +77,10 @@ public class AccountServiceImpl implements AccountService {
 
     private void copyProperties(Account source, Account target) {
         BeanUtils.copyProperties(source, target, "id");
+    }
+
+    @Override
+    public void saveAllAccounts(List<Account> accounts) {
+        accountRepository.saveAll(accounts);
     }
 }
