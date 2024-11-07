@@ -35,6 +35,7 @@ public class AccountServiceImpl implements AccountService {
     private final AccountRepository accountRepository;
     private final AccountMapper accountMapper;
     private final MockService mockService;
+    private final KafkaProducer<Account> kafkaAccountProducer;
 
     @Override
     @LogDataSourceError
