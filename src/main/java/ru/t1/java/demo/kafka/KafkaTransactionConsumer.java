@@ -2,8 +2,10 @@ package ru.t1.java.demo.kafka;
 
 import lombok.RequiredArgsConstructor;
 import lombok.extern.slf4j.Slf4j;
-import org.apache.kafka.common.protocol.types.Field;
+import org.springframework.kafka.annotation.DltHandler;
 import org.springframework.kafka.annotation.KafkaListener;
+import org.springframework.kafka.annotation.RetryableTopic;
+import org.springframework.kafka.retrytopic.DltStrategy;
 import org.springframework.kafka.support.Acknowledgment;
 import org.springframework.kafka.support.KafkaHeaders;
 import org.springframework.messaging.handler.annotation.Header;
@@ -24,13 +26,29 @@ public class KafkaTransactionConsumer {
     private final TransactionService transactionService;
     private final TransactionMapper transactionMapper;
 
+    @RetryableTopic(
+            attempts = "1",
+            kafkaTemplate = "kafkaTemplate",
+            dltStrategy = DltStrategy.FAIL_ON_ERROR)
     @KafkaListener(groupId = "${t1.kafka.consumer.group-id}",
             topics = "${t1.kafka.topic.t1_demo_transactions}",
             containerFactory = "transactionKafkaListenerContainerFactory")
     public void receiveTransactions(@Payload List<TransactionDto> transactionList,
                                     @Header(KafkaHeaders.RECEIVED_TOPIC) String topic,
-                                    @Header(KafkaHeaders.RECEIVED_KEY) String key,
+                                    @Header(value = KafkaHeaders.RECEIVED_KEY, required = false) String key,
                                     Acknowledgment ack) {
+        handleMessage(transactionList, topic, key, ack);
+    }
+
+    @DltHandler
+    public void receiveTransactionsDlt(@Payload List<TransactionDto> transactionList,
+                                       @Header(KafkaHeaders.RECEIVED_TOPIC) String topic,
+                                       @Header(value = KafkaHeaders.RECEIVED_KEY, required = false) String key,
+                                       Acknowledgment ack) {
+        handleMessage(transactionList, topic, key, ack);
+    }
+
+    private void handleMessage(List<TransactionDto> transactionList, String topic, String key, Acknowledgment ack) {
         log.debug("Получено сообщение в topic {} с ключом {}", topic, key);
 
         try {

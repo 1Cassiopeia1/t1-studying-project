@@ -25,7 +25,7 @@ import java.util.stream.Collectors;
 public class ClientServiceImpl implements ClientService {
 
     private final ClientRepository repository;
-    private final KafkaProducer kafkaProducer;
+    private final KafkaProducer<Client> kafkaProducer;
 
     @PostConstruct
     void init() {
@@ -49,7 +49,7 @@ public class ClientServiceImpl implements ClientService {
 
         return Arrays.stream(clients)
                 .map(ClientMapper::toEntity)
-                .collect(Collectors.toList());
+                .toList();
     }
 
     @Override
