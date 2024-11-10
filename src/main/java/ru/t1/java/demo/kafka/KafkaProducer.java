@@ -4,6 +4,7 @@ import lombok.RequiredArgsConstructor;
 import lombok.extern.slf4j.Slf4j;
 import org.apache.kafka.clients.producer.ProducerRecord;
 import org.apache.kafka.common.header.Header;
+import org.springframework.beans.factory.annotation.Qualifier;
 import org.springframework.context.annotation.Primary;
 import org.springframework.kafka.core.KafkaTemplate;
 import org.springframework.kafka.support.SendResult;
@@ -19,28 +20,27 @@ import java.util.concurrent.CompletableFuture;
 @Primary
 public class KafkaProducer<T> {
 
-    private final KafkaTemplate<String, T> template;
+    private final KafkaTemplate<String, T> kafkaJsonTemplate;
 
     public void send(T o) {
         try {
-            template.sendDefault(UUID.randomUUID().toString(), o).get();
+            kafkaJsonTemplate.sendDefault(UUID.randomUUID().toString(), o).get();
         } catch (Exception ex) {
             log.error(ex.getMessage(), ex);
         } finally {
-            template.flush();
+            kafkaJsonTemplate.flush();
         }
     }
 
     public CompletableFuture<SendResult<String, T>> sendTo(String topic, T value, List<Header> headers) {
         try {
             ProducerRecord<String, T> message = new ProducerRecord<>(topic, null, UUID.randomUUID().toString(), value, headers);
-            return template.send(message);
+            return kafkaJsonTemplate.send(message);
         } catch (Exception ex) {
             log.error(ex.getMessage(), ex);
         } finally {
-            template.flush();
+            kafkaJsonTemplate.flush();
         }
         return null;
     }
-
 }
