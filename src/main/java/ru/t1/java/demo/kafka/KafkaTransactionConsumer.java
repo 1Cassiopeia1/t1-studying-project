@@ -12,8 +12,6 @@ import org.springframework.messaging.handler.annotation.Header;
 import org.springframework.messaging.handler.annotation.Payload;
 import org.springframework.stereotype.Component;
 import ru.t1.java.demo.dto.TransactionDto;
-import ru.t1.java.demo.mappers.TransactionMapper;
-import ru.t1.java.demo.model.Transaction;
 import ru.t1.java.demo.service.TransactionService;
 
 import java.util.List;
@@ -24,7 +22,6 @@ import java.util.List;
 public class KafkaTransactionConsumer {
 
     private final TransactionService transactionService;
-    private final TransactionMapper transactionMapper;
 
     @RetryableTopic(
             attempts = "1",
@@ -52,13 +49,11 @@ public class KafkaTransactionConsumer {
         log.debug("Получено сообщение в topic {} с ключом {}", topic, key);
 
         try {
-            List<Transaction> transactions = transactionList.stream()
-                    .map(transactionMapper::fromDtoToEntity)
-                    .toList();
-            transactionService.saveAllTransactions(transactions);
+            transactionService.saveAllTransactions(transactionList);
             ack.acknowledge();
         } catch (Exception e) {
             log.error("Во время обработки сообщения в топике {} возникла ошибка", topic, e);
+            throw e;
         }
 
         log.debug("Сообщение в topic {} с ключом {} обработано", topic, key);

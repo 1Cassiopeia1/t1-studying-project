@@ -62,8 +62,8 @@ public class AccountServiceImpl implements AccountService {
     @Override
     @LogDataSourceError
     public void saveMockedAccounts() {
-        List<AccountDto> accountDtos = mockService.getMockData("mocked_accounts.json", AccountDto.class);
-        List<Client> clients = mockService.getMockData("MOCK_DATA.json", Client.class);
+        List<AccountDto> accountDtos = mockService.getMockData("models/mocked_accounts.json", AccountDto.class);
+        List<Client> clients = mockService.getMockData("models/MOCK_DATA.json", Client.class);
         List<Account> accounts = accountMapper.fromDtoToEntity(accountDtos);
 
         if (clients.size() != accountDtos.size()) {
@@ -80,7 +80,10 @@ public class AccountServiceImpl implements AccountService {
     }
 
     @Override
-    public void saveAllAccounts(List<Account> accounts) {
+    public void saveAllAccounts(List<AccountDto> accountDtos) {
+        List<Account> accounts = accountDtos.stream()
+                .map(accountMapper::fromDtoToEntity)
+                .toList();
         accountRepository.saveAll(accounts);
     }
 }

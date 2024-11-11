@@ -57,9 +57,9 @@ public class LogDataSourceErrorAspect {
                 .thenAccept(sendResult -> log.info("Message sent successfully: " + message))
                 .handle((sendResult, t) -> {
                     if (t != null) {
-                        saveDatasourceErrorLog(joinPoint, exception, message);
                         return CompletableFuture.failedFuture(t);
                     }
+                    saveDatasourceErrorLog(joinPoint, exception, message);
                     return sendResult;
                 }).get();
     }

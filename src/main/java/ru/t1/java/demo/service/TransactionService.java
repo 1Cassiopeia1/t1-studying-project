@@ -1,7 +1,6 @@
 package ru.t1.java.demo.service;
 
 import ru.t1.java.demo.dto.TransactionDto;
-import ru.t1.java.demo.model.Transaction;
 
 import java.util.List;
 
@@ -16,6 +15,6 @@ public interface TransactionService {
 
     void deleteTransaction(Long id);
 
-    void saveAllTransactions(List<Transaction> transactions);
+    void saveAllTransactions(List<TransactionDto> transactions);
 
 }

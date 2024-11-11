@@ -12,8 +12,6 @@ import org.springframework.messaging.handler.annotation.Header;
 import org.springframework.messaging.handler.annotation.Payload;
 import org.springframework.stereotype.Component;
 import ru.t1.java.demo.dto.AccountDto;
-import ru.t1.java.demo.mappers.AccountMapper;
-import ru.t1.java.demo.model.Account;
 import ru.t1.java.demo.service.AccountService;
 
 import java.util.List;
@@ -24,7 +22,6 @@ import java.util.List;
 public class KafkaAccountConsumer {
 
     private final AccountService accountService;
-    private final AccountMapper accountMapper;
 
     @RetryableTopic(
             attempts = "1",
@@ -52,13 +49,11 @@ public class KafkaAccountConsumer {
         log.debug("Получено сообщение в topic {} с ключом {}", topic, key);
 
         try {
-            List<Account> accounts = accountList.stream()
-                    .map(accountMapper::fromDtoToEntity)
-                    .toList();
-            accountService.saveAllAccounts(accounts);
+            accountService.saveAllAccounts(accountList);
             ack.acknowledge();
         } catch (Exception e) {
             log.error("Во время обработки сообщения в топике {} возникла ошибка", topic, e);
+            throw e;
         }
 
         log.debug("Сообщение в topic {} с ключом {} обработано", topic, key);

@@ -43,7 +43,7 @@ public class TransactionServiceImpl implements TransactionService {
     @Override
     @LogDataSourceError
     public void saveMockedTransactions() {
-        List<TransactionDto> transactions = mockService.getMockData("mocked_transactions.json", TransactionDto.class);
+        List<TransactionDto> transactions = mockService.getMockData("models/mocked_transactions.json", TransactionDto.class);
         repository.saveAll(transactionMapper.fromDtoToEntity(transactions));
     }
 
@@ -69,7 +69,10 @@ public class TransactionServiceImpl implements TransactionService {
     }
 
     @Override
-    public void saveAllTransactions(List<Transaction> transactions) {
+    public void saveAllTransactions(List<TransactionDto> transactionDtoList) {
+        List<Transaction> transactions = transactionDtoList.stream()
+                .map(transactionMapper::fromDtoToEntity)
+                .toList();
         repository.saveAll(transactions);
     }
 }

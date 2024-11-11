@@ -17,7 +17,6 @@ import java.io.IOException;
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
-import java.util.stream.Collectors;
 
 @Service
 @Slf4j
@@ -45,7 +44,7 @@ public class ClientServiceImpl implements ClientService {
     public List<Client> parseJson() throws IOException {
         ObjectMapper mapper = new ObjectMapper();
 
-        ClientDto[] clients = mapper.readValue(new File("src/main/resources/MOCK_DATA.json"), ClientDto[].class);
+        ClientDto[] clients = mapper.readValue(new File("src/main/resources/models/MOCK_DATA.json"), ClientDto[].class);
 
         return Arrays.stream(clients)
                 .map(ClientMapper::toEntity)

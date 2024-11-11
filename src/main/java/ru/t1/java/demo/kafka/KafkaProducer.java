@@ -4,7 +4,6 @@ import lombok.RequiredArgsConstructor;
 import lombok.extern.slf4j.Slf4j;
 import org.apache.kafka.clients.producer.ProducerRecord;
 import org.apache.kafka.common.header.Header;
-import org.springframework.beans.factory.annotation.Qualifier;
 import org.springframework.context.annotation.Primary;
 import org.springframework.kafka.core.KafkaTemplate;
 import org.springframework.kafka.support.SendResult;
@@ -38,9 +37,9 @@ public class KafkaProducer<T> {
             return kafkaJsonTemplate.send(message);
         } catch (Exception ex) {
             log.error(ex.getMessage(), ex);
+            return CompletableFuture.failedFuture(ex);
         } finally {
             kafkaJsonTemplate.flush();
         }
-        return null;
     }
 }
