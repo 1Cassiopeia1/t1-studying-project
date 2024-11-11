@@ -80,7 +80,10 @@ public class AccountServiceImpl implements AccountService {
     }
 
     @Override
-    public void saveAllAccounts(List<Account> accounts) {
+    public void saveAllAccounts(List<AccountDto> accountDtos) {
+        List<Account> accounts = accountDtos.stream()
+                .map(accountMapper::fromDtoToEntity)
+                .toList();
         accountRepository.saveAll(accounts);
     }
 }
