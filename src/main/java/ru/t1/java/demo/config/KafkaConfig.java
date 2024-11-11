@@ -69,6 +69,7 @@ public class KafkaConfig<T> {
         ConsumerFactory<String, ClientDto> consumerFactory = new DefaultKafkaConsumerFactory<>(consumerProperties);
         ConcurrentKafkaListenerContainerFactory<String, ClientDto> containerFactory = new ConcurrentKafkaListenerContainerFactory<>();
         fillContainerFactory(recordMessageConverter, containerFactory, consumerFactory);
+        containerFactory.setCommonErrorHandler(errorHandler());
         return containerFactory;
     }
 
@@ -108,7 +109,7 @@ public class KafkaConfig<T> {
 
     @Bean
     @ConditionalOnProperty(value = "t1.kafka.producer.enable", havingValue = "true", matchIfMissing = true)
-    public KafkaProducer<T> producerClient(@Qualifier("kafkaTemplate") KafkaTemplate<String, T> template) {
+    public KafkaProducer<T> producerClient(@Qualifier("kafkaJsonTemplate") KafkaTemplate<String, T> template) {
         template.setDefaultTopic(clientTopic);
         return new KafkaProducer<>(template);
     }
@@ -122,7 +123,6 @@ public class KafkaConfig<T> {
         containerFactory.getContainerProperties().setAckMode(ContainerProperties.AckMode.MANUAL_IMMEDIATE);
         containerFactory.getContainerProperties().setSyncCommits(true);
         containerFactory.getContainerProperties().setMicrometerEnabled(true);
-        containerFactory.setCommonErrorHandler(errorHandler());
     }
 
     private Map<String, Object> getProducerProperties(ObjectProvider<SslBundles> sslBundles) {

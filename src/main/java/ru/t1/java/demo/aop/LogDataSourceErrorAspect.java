@@ -40,7 +40,6 @@ public class LogDataSourceErrorAspect {
     @Value("${t1.kafka.topic.t1_demo_metrics}")
     private String topicName;
 
-
     @Pointcut("within(@org.springframework.stereotype.Repository *)")
     public void beanAnnotatedWithRepository() {
     }
@@ -100,9 +99,9 @@ public class LogDataSourceErrorAspect {
                 .thenAccept(sendResult -> log.info("Message sent successfully: " + message))
                 .handle((sendResult, t) -> {
                     if (t != null) {
-                        saveDatasourceErrorLog(joinPoint, exception, message);
                         return CompletableFuture.failedFuture(t);
                     }
+                    saveDatasourceErrorLog(joinPoint, exception, message);
                     return sendResult;
                 }).get();
     }
