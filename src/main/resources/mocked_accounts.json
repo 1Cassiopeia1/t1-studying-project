@@ -1,0 +1,5002 @@
+[
+  {
+    "clientId": "605738674",
+    "accountType": "DEBIT",
+    "balance": "8344263780048719"
+  },
+  {
+    "clientId": "481509199",
+    "accountType": "CREDIT",
+    "balance": "4703610292558597"
+  },
+  {
+    "clientId": "769913147",
+    "accountType": "DEBIT",
+    "balance": "8200677568439780"
+  },
+  {
+    "clientId": "433924038",
+    "accountType": "CREDIT",
+    "balance": "1822024921644697"
+  },
+  {
+    "clientId": "050904916",
+    "accountType": "CREDIT",
+    "balance": "5124268857465379"
+  },
+  {
+    "clientId": "822879699",
+    "accountType": "DEBIT",
+    "balance": "8776604934262991"
+  },
+  {
+    "clientId": "851331463",
+    "accountType": "DEBIT",
+    "balance": "9679192457649195"
+  },
+  {
+    "clientId": "783237283",
+    "accountType": "DEBIT",
+    "balance": "9135030037423345"
+  },
+  {
+    "clientId": "575589783",
+    "accountType": "DEBIT",
+    "balance": "2652569700509553"
+  },
+  {
+    "clientId": "352196650",
+    "accountType": "DEBIT",
+    "balance": "9714182024697715"
+  },
+  {
+    "clientId": "304470619",
+    "accountType": "DEBIT",
+    "balance": "1937729839429900"
+  },
+  {
+    "clientId": "192792362",
+    "accountType": "CREDIT",
+    "balance": "7511635996335773"
+  },
+  {
+    "clientId": "030392151",
+    "accountType": "CREDIT",
+    "balance": "3832826364973047"
+  },
+  {
+    "clientId": "082714678",
+    "accountType": "DEBIT",
+    "balance": "5639546546624504"
+  },
+  {
+    "clientId": "380679188",
+    "accountType": "DEBIT",
+    "balance": "3424669480781320"
+  },
+  {
+    "clientId": "870729302",
+    "accountType": "DEBIT",
+    "balance": "1785070949562700"
+  },
+  {
+    "clientId": "015088139",
+    "accountType": "CREDIT",
+    "balance": "4614946145605442"
+  },
+  {
+    "clientId": "654064425",
+    "accountType": "DEBIT",
+    "balance": "8080956466737738"
+  },
+  {
+    "clientId": "908126254",
+    "accountType": "CREDIT",
+    "balance": "5593724221157873"
+  },
+  {
+    "clientId": "793536661",
+    "accountType": "DEBIT",
+    "balance": "8301309038979591"
+  },
+  {
+    "clientId": "065846356",
+    "accountType": "CREDIT",
+    "balance": "2045650094693454"
+  },
+  {
+    "clientId": "853915209",
+    "accountType": "CREDIT",
+    "balance": "616310948757382"
+  },
+  {
+    "clientId": "414181101",
+    "accountType": "CREDIT",
+    "balance": "3203743783043524"
+  },
+  {
+    "clientId": "105590258",
+    "accountType": "CREDIT",
+    "balance": "7076543032042445"
+  },
+  {
+    "clientId": "686202224",
+    "accountType": "DEBIT",
+    "balance": "4556034694243302"
+  },
+  {
+    "clientId": "078171030",
+    "accountType": "DEBIT",
+    "balance": "8412275050389825"
+  },
+  {
+    "clientId": "564103167",
+    "accountType": "CREDIT",
+    "balance": "440455850873583"
+  },
+  {
+    "clientId": "275176213",
+    "accountType": "CREDIT",
+    "balance": "9611895339663990"
+  },
+  {
+    "clientId": "866729597",
+    "accountType": "CREDIT",
+    "balance": "8489972242780603"
+  },
+  {
+    "clientId": "787420380",
+    "accountType": "DEBIT",
+    "balance": "7846936974666748"
+  },
+  {
+    "clientId": "721166944",
+    "accountType": "DEBIT",
+    "balance": "5175421746894576"
+  },
+  {
+    "clientId": "174928503",
+    "accountType": "DEBIT",
+    "balance": "6391140691130069"
+  },
+  {
+    "clientId": "351086727",
+    "accountType": "CREDIT",
+    "balance": "348641507223715"
+  },
+  {
+    "clientId": "247514152",
+    "accountType": "DEBIT",
+    "balance": "3839324074741879"
+  },
+  {
+    "clientId": "585657702",
+    "accountType": "CREDIT",
+    "balance": "7684663833135135"
+  },
+  {
+    "clientId": "801637983",
+    "accountType": "DEBIT",
+    "balance": "6705777136966512"
+  },
+  {
+    "clientId": "984811755",
+    "accountType": "CREDIT",
+    "balance": "8877840339270939"
+  },
+  {
+    "clientId": "246148975",
+    "accountType": "DEBIT",
+    "balance": "9162162904804660"
+  },
+  {
+    "clientId": "227660282",
+    "accountType": "CREDIT",
+    "balance": "1432028020850494"
+  },
+  {
+    "clientId": "347488495",
+    "accountType": "CREDIT",
+    "balance": "5756983737495306"
+  },
+  {
+    "clientId": "725368626",
+    "accountType": "DEBIT",
+    "balance": "609601058977122"
+  },
+  {
+    "clientId": "618484184",
+    "accountType": "DEBIT",
+    "balance": "1938866216543586"
+  },
+  {
+    "clientId": "177960412",
+    "accountType": "DEBIT",
+    "balance": "1771239264447302"
+  },
+  {
+    "clientId": "918941984",
+    "accountType": "DEBIT",
+    "balance": "5009796075437208"
+  },
+  {
+    "clientId": "007524812",
+    "accountType": "DEBIT",
+    "balance": "9362340366686018"
+  },
+  {
+    "clientId": "674862748",
+    "accountType": "CREDIT",
+    "balance": "4920566046614031"
+  },
+  {
+    "clientId": "907571410",
+    "accountType": "CREDIT",
+    "balance": "5763826545285036"
+  },
+  {
+    "clientId": "974945046",
+    "accountType": "DEBIT",
+    "balance": "2161260241342029"
+  },
+  {
+    "clientId": "463506259",
+    "accountType": "DEBIT",
+    "balance": "6691994722910115"
+  },
+  {
+    "clientId": "853666362",
+    "accountType": "DEBIT",
+    "balance": "7272616986861400"
+  },
+  {
+    "clientId": "349723577",
+    "accountType": "CREDIT",
+    "balance": "2427472026993254"
+  },
+  {
+    "clientId": "430946313",
+    "accountType": "CREDIT",
+    "balance": "9655923105378218"
+  },
+  {
+    "clientId": "543727835",
+    "accountType": "DEBIT",
+    "balance": "8874681934484582"
+  },
+  {
+    "clientId": "613374182",
+    "accountType": "DEBIT",
+    "balance": "7783293690135384"
+  },
+  {
+    "clientId": "005826692",
+    "accountType": "CREDIT",
+    "balance": "6423204345708593"
+  },
+  {
+    "clientId": "551455670",
+    "accountType": "DEBIT",
+    "balance": "3566718419491216"
+  },
+  {
+    "clientId": "374615847",
+    "accountType": "CREDIT",
+    "balance": "3917987666298754"
+  },
+  {
+    "clientId": "377453984",
+    "accountType": "CREDIT",
+    "balance": "8071887804474520"
+  },
+  {
+    "clientId": "496286342",
+    "accountType": "CREDIT",
+    "balance": "6779741295779769"
+  },
+  {
+    "clientId": "739956493",
+    "accountType": "DEBIT",
+    "balance": "3733956847456841"
+  },
+  {
+    "clientId": "968796213",
+    "accountType": "CREDIT",
+    "balance": "2547123362388760"
+  },
+  {
+    "clientId": "511362105",
+    "accountType": "CREDIT",
+    "balance": "8233434533570328"
+  },
+  {
+    "clientId": "035494029",
+    "accountType": "DEBIT",
+    "balance": "461446650733962"
+  },
+  {
+    "clientId": "106142956",
+    "accountType": "DEBIT",
+    "balance": "6672889361974922"
+  },
+  {
+    "clientId": "713717559",
+    "accountType": "CREDIT",
+    "balance": "8953750705144143"
+  },
+  {
+    "clientId": "544039514",
+    "accountType": "CREDIT",
+    "balance": "4550326132009926"
+  },
+  {
+    "clientId": "618798878",
+    "accountType": "CREDIT",
+    "balance": "3887734513681756"
+  },
+  {
+    "clientId": "033711087",
+    "accountType": "CREDIT",
+    "balance": "9447147429838521"
+  },
+  {
+    "clientId": "123880157",
+    "accountType": "CREDIT",
+    "balance": "4120004169196815"
+  },
+  {
+    "clientId": "092296981",
+    "accountType": "CREDIT",
+    "balance": "7668978197588967"
+  },
+  {
+    "clientId": "673466437",
+    "accountType": "CREDIT",
+    "balance": "4359150574569690"
+  },
+  {
+    "clientId": "325862429",
+    "accountType": "CREDIT",
+    "balance": "2503872272024388"
+  },
+  {
+    "clientId": "207515397",
+    "accountType": "DEBIT",
+    "balance": "8452785930029699"
+  },
+  {
+    "clientId": "143537844",
+    "accountType": "DEBIT",
+    "balance": "5730908468227369"
+  },
+  {
+    "clientId": "975283315",
+    "accountType": "CREDIT",
+    "balance": "6337723007322585"
+  },
+  {
+    "clientId": "727412029",
+    "accountType": "DEBIT",
+    "balance": "7991213197942992"
+  },
+  {
+    "clientId": "374619397",
+    "accountType": "DEBIT",
+    "balance": "48485931925194"
+  },
+  {
+    "clientId": "783204425",
+    "accountType": "DEBIT",
+    "balance": "1798176650181141"
+  },
+  {
+    "clientId": "469211257",
+    "accountType": "DEBIT",
+    "balance": "9750360519790863"
+  },
+  {
+    "clientId": "813245053",
+    "accountType": "CREDIT",
+    "balance": "1354958814682810"
+  },
+  {
+    "clientId": "698524083",
+    "accountType": "DEBIT",
+    "balance": "4192942660251881"
+  },
+  {
+    "clientId": "057782889",
+    "accountType": "DEBIT",
+    "balance": "5431855621970248"
+  },
+  {
+    "clientId": "133962213",
+    "accountType": "CREDIT",
+    "balance": "1944644597252884"
+  },
+  {
+    "clientId": "924631800",
+    "accountType": "DEBIT",
+    "balance": "6821683852256127"
+  },
+  {
+    "clientId": "878753679",
+    "accountType": "DEBIT",
+    "balance": "1257321693791180"
+  },
+  {
+    "clientId": "881681348",
+    "accountType": "DEBIT",
+    "balance": "4679366349322346"
+  },
+  {
+    "clientId": "058537121",
+    "accountType": "DEBIT",
+    "balance": "230013560805786"
+  },
+  {
+    "clientId": "812157463",
+    "accountType": "CREDIT",
+    "balance": "3406073421816590"
+  },
+  {
+    "clientId": "583485655",
+    "accountType": "DEBIT",
+    "balance": "376694584349816"
+  },
+  {
+    "clientId": "381095099",
+    "accountType": "CREDIT",
+    "balance": "5237742648886365"
+  },
+  {
+    "clientId": "496484691",
+    "accountType": "CREDIT",
+    "balance": "1887514941881557"
+  },
+  {
+    "clientId": "114317195",
+    "accountType": "CREDIT",
+    "balance": "8962768310307678"
+  },
+  {
+    "clientId": "820105211",
+    "accountType": "CREDIT",
+    "balance": "9055765988188897"
+  },
+  {
+    "clientId": "665763524",
+    "accountType": "CREDIT",
+    "balance": "2354505201328497"
+  },
+  {
+    "clientId": "420218974",
+    "accountType": "DEBIT",
+    "balance": "1825315509270764"
+  },
+  {
+    "clientId": "400468060",
+    "accountType": "CREDIT",
+    "balance": "415944874577543"
+  },
+  {
+    "clientId": "334156062",
+    "accountType": "DEBIT",
+    "balance": "6119728307390617"
+  },
+  {
+    "clientId": "432318758",
+    "accountType": "DEBIT",
+    "balance": "296515366442841"
+  },
+  {
+    "clientId": "399163852",
+    "accountType": "DEBIT",
+    "balance": "4132060300654797"
+  },
+  {
+    "clientId": "328462615",
+    "accountType": "DEBIT",
+    "balance": "6426868106503194"
+  },
+  {
+    "clientId": "893171942",
+    "accountType": "DEBIT",
+    "balance": "2471654872981865"
+  },
+  {
+    "clientId": "167072526",
+    "accountType": "DEBIT",
+    "balance": "7661504397162738"
+  },
+  {
+    "clientId": "950131273",
+    "accountType": "DEBIT",
+    "balance": "6211864941246630"
+  },
+  {
+    "clientId": "734587308",
+    "accountType": "CREDIT",
+    "balance": "8836948948889496"
+  },
+  {
+    "clientId": "421558537",
+    "accountType": "CREDIT",
+    "balance": "9422977725308639"
+  },
+  {
+    "clientId": "000419462",
+    "accountType": "DEBIT",
+    "balance": "2499661691251161"
+  },
+  {
+    "clientId": "249474011",
+    "accountType": "DEBIT",
+    "balance": "9655128843414737"
+  },
+  {
+    "clientId": "677301150",
+    "accountType": "CREDIT",
+    "balance": "1013351146241204"
+  },
+  {
+    "clientId": "095226463",
+    "accountType": "DEBIT",
+    "balance": "7451557891783843"
+  },
+  {
+    "clientId": "905042436",
+    "accountType": "CREDIT",
+    "balance": "8457372411849700"
+  },
+  {
+    "clientId": "873647207",
+    "accountType": "CREDIT",
+    "balance": "3137110243915463"
+  },
+  {
+    "clientId": "375412731",
+    "accountType": "DEBIT",
+    "balance": "1470315642962982"
+  },
+  {
+    "clientId": "905964660",
+    "accountType": "CREDIT",
+    "balance": "9147869434592724"
+  },
+  {
+    "clientId": "526253547",
+    "accountType": "CREDIT",
+    "balance": "8336322099305101"
+  },
+  {
+    "clientId": "622162703",
+    "accountType": "CREDIT",
+    "balance": "1371934800922593"
+  },
+  {
+    "clientId": "365694207",
+    "accountType": "DEBIT",
+    "balance": "3149547315236401"
+  },
+  {
+    "clientId": "182281084",
+    "accountType": "DEBIT",
+    "balance": "4725852874303449"
+  },
+  {
+    "clientId": "069085350",
+    "accountType": "DEBIT",
+    "balance": "5048541155933317"
+  },
+  {
+    "clientId": "424299953",
+    "accountType": "CREDIT",
+    "balance": "8128710944476390"
+  },
+  {
+    "clientId": "737319447",
+    "accountType": "CREDIT",
+    "balance": "1739323451757893"
+  },
+  {
+    "clientId": "243132536",
+    "accountType": "DEBIT",
+    "balance": "7752933858475101"
+  },
+  {
+    "clientId": "966521073",
+    "accountType": "CREDIT",
+    "balance": "9099703984343471"
+  },
+  {
+    "clientId": "735091742",
+    "accountType": "DEBIT",
+    "balance": "3810109039461830"
+  },
+  {
+    "clientId": "871567563",
+    "accountType": "DEBIT",
+    "balance": "4705376595467065"
+  },
+  {
+    "clientId": "439763362",
+    "accountType": "CREDIT",
+    "balance": "8520461972018693"
+  },
+  {
+    "clientId": "771463178",
+    "accountType": "DEBIT",
+    "balance": "7802172271553600"
+  },
+  {
+    "clientId": "024829710",
+    "accountType": "CREDIT",
+    "balance": "2515020538393513"
+  },
+  {
+    "clientId": "514506674",
+    "accountType": "DEBIT",
+    "balance": "3217279625685839"
+  },
+  {
+    "clientId": "300660591",
+    "accountType": "DEBIT",
+    "balance": "4754745714052591"
+  },
+  {
+    "clientId": "775517283",
+    "accountType": "CREDIT",
+    "balance": "4632477483895048"
+  },
+  {
+    "clientId": "684093158",
+    "accountType": "DEBIT",
+    "balance": "4431314760589168"
+  },
+  {
+    "clientId": "885961818",
+    "accountType": "CREDIT",
+    "balance": "9476811826090835"
+  },
+  {
+    "clientId": "367144086",
+    "accountType": "DEBIT",
+    "balance": "448885859993713"
+  },
+  {
+    "clientId": "974058390",
+    "accountType": "DEBIT",
+    "balance": "8478276228970284"
+  },
+  {
+    "clientId": "709695288",
+    "accountType": "CREDIT",
+    "balance": "8013637601493050"
+  },
+  {
+    "clientId": "923182577",
+    "accountType": "DEBIT",
+    "balance": "1533482520940019"
+  },
+  {
+    "clientId": "740316954",
+    "accountType": "DEBIT",
+    "balance": "3090775263768704"
+  },
+  {
+    "clientId": "601229472",
+    "accountType": "DEBIT",
+    "balance": "6735022849671862"
+  },
+  {
+    "clientId": "365561226",
+    "accountType": "DEBIT",
+    "balance": "1030649574346735"
+  },
+  {
+    "clientId": "400858064",
+    "accountType": "CREDIT",
+    "balance": "5413674070319898"
+  },
+  {
+    "clientId": "444909338",
+    "accountType": "DEBIT",
+    "balance": "9433738509059229"
+  },
+  {
+    "clientId": "329718515",
+    "accountType": "DEBIT",
+    "balance": "7791711301613315"
+  },
+  {
+    "clientId": "551337100",
+    "accountType": "CREDIT",
+    "balance": "7743823336906197"
+  },
+  {
+    "clientId": "821822648",
+    "accountType": "DEBIT",
+    "balance": "8764394203118298"
+  },
+  {
+    "clientId": "932037344",
+    "accountType": "CREDIT",
+    "balance": "4610750898930314"
+  },
+  {
+    "clientId": "479878940",
+    "accountType": "CREDIT",
+    "balance": "1114119505155563"
+  },
+  {
+    "clientId": "326521588",
+    "accountType": "DEBIT",
+    "balance": "2522659772094693"
+  },
+  {
+    "clientId": "244009601",
+    "accountType": "DEBIT",
+    "balance": "1123917385014849"
+  },
+  {
+    "clientId": "585699535",
+    "accountType": "CREDIT",
+    "balance": "6410201754058162"
+  },
+  {
+    "clientId": "801650504",
+    "accountType": "DEBIT",
+    "balance": "785847323534383"
+  },
+  {
+    "clientId": "734935459",
+    "accountType": "CREDIT",
+    "balance": "7520648662081334"
+  },
+  {
+    "clientId": "146757488",
+    "accountType": "CREDIT",
+    "balance": "7153391655486567"
+  },
+  {
+    "clientId": "725987832",
+    "accountType": "CREDIT",
+    "balance": "6103580203415849"
+  },
+  {
+    "clientId": "033454119",
+    "accountType": "CREDIT",
+    "balance": "9504455565484910"
+  },
+  {
+    "clientId": "275265156",
+    "accountType": "CREDIT",
+    "balance": "3404654792614127"
+  },
+  {
+    "clientId": "689447373",
+    "accountType": "CREDIT",
+    "balance": "8179327120311502"
+  },
+  {
+    "clientId": "263240864",
+    "accountType": "DEBIT",
+    "balance": "5153070134467730"
+  },
+  {
+    "clientId": "625211157",
+    "accountType": "CREDIT",
+    "balance": "1019448553910103"
+  },
+  {
+    "clientId": "576041646",
+    "accountType": "DEBIT",
+    "balance": "9263360566835854"
+  },
+  {
+    "clientId": "480304310",
+    "accountType": "DEBIT",
+    "balance": "7651945863613031"
+  },
+  {
+    "clientId": "508500191",
+    "accountType": "CREDIT",
+    "balance": "2467911968974611"
+  },
+  {
+    "clientId": "152872928",
+    "accountType": "DEBIT",
+    "balance": "4326026312547444"
+  },
+  {
+    "clientId": "979577690",
+    "accountType": "CREDIT",
+    "balance": "5917673054661121"
+  },
+  {
+    "clientId": "111984797",
+    "accountType": "CREDIT",
+    "balance": "332976998528273"
+  },
+  {
+    "clientId": "482259549",
+    "accountType": "CREDIT",
+    "balance": "4744047978512395"
+  },
+  {
+    "clientId": "754106748",
+    "accountType": "DEBIT",
+    "balance": "7711662014191169"
+  },
+  {
+    "clientId": "156693910",
+    "accountType": "DEBIT",
+    "balance": "7515669551904494"
+  },
+  {
+    "clientId": "587297992",
+    "accountType": "CREDIT",
+    "balance": "2543899649524183"
+  },
+  {
+    "clientId": "083949608",
+    "accountType": "CREDIT",
+    "balance": "2386382015748942"
+  },
+  {
+    "clientId": "757783584",
+    "accountType": "CREDIT",
+    "balance": "5658309488609053"
+  },
+  {
+    "clientId": "114894766",
+    "accountType": "DEBIT",
+    "balance": "1911961050745479"
+  },
+  {
+    "clientId": "877810925",
+    "accountType": "CREDIT",
+    "balance": "4179277758138791"
+  },
+  {
+    "clientId": "393874420",
+    "accountType": "DEBIT",
+    "balance": "1967013842141385"
+  },
+  {
+    "clientId": "711245800",
+    "accountType": "CREDIT",
+    "balance": "1577273352476395"
+  },
+  {
+    "clientId": "232010789",
+    "accountType": "CREDIT",
+    "balance": "2768368240327570"
+  },
+  {
+    "clientId": "994499400",
+    "accountType": "CREDIT",
+    "balance": "7137072264578123"
+  },
+  {
+    "clientId": "187046485",
+    "accountType": "DEBIT",
+    "balance": "8660460739065215"
+  },
+  {
+    "clientId": "728391820",
+    "accountType": "DEBIT",
+    "balance": "3437364133617534"
+  },
+  {
+    "clientId": "941829790",
+    "accountType": "DEBIT",
+    "balance": "9668219433472482"
+  },
+  {
+    "clientId": "496790869",
+    "accountType": "CREDIT",
+    "balance": "4404059755138996"
+  },
+  {
+    "clientId": "664733122",
+    "accountType": "CREDIT",
+    "balance": "9812850501210512"
+  },
+  {
+    "clientId": "908187389",
+    "accountType": "CREDIT",
+    "balance": "784179541287922"
+  },
+  {
+    "clientId": "637320243",
+    "accountType": "DEBIT",
+    "balance": "3243434554666162"
+  },
+  {
+    "clientId": "590102095",
+    "accountType": "CREDIT",
+    "balance": "6567830968773868"
+  },
+  {
+    "clientId": "579187641",
+    "accountType": "DEBIT",
+    "balance": "4360865141255900"
+  },
+  {
+    "clientId": "770852327",
+    "accountType": "DEBIT",
+    "balance": "55706997146663"
+  },
+  {
+    "clientId": "663424058",
+    "accountType": "CREDIT",
+    "balance": "3747608344405401"
+  },
+  {
+    "clientId": "532853012",
+    "accountType": "CREDIT",
+    "balance": "1546414720413414"
+  },
+  {
+    "clientId": "949450194",
+    "accountType": "DEBIT",
+    "balance": "5933103152233927"
+  },
+  {
+    "clientId": "780375542",
+    "accountType": "DEBIT",
+    "balance": "9546885402662273"
+  },
+  {
+    "clientId": "604870029",
+    "accountType": "CREDIT",
+    "balance": "3309438177486432"
+  },
+  {
+    "clientId": "880640685",
+    "accountType": "DEBIT",
+    "balance": "5731273492528753"
+  },
+  {
+    "clientId": "316855509",
+    "accountType": "CREDIT",
+    "balance": "7637549438152918"
+  },
+  {
+    "clientId": "825016259",
+    "accountType": "DEBIT",
+    "balance": "4054950696338271"
+  },
+  {
+    "clientId": "077457262",
+    "accountType": "DEBIT",
+    "balance": "7827217227127017"
+  },
+  {
+    "clientId": "132066867",
+    "accountType": "DEBIT",
+    "balance": "2922247493103257"
+  },
+  {
+    "clientId": "451600617",
+    "accountType": "DEBIT",
+    "balance": "5139150970632474"
+  },
+  {
+    "clientId": "631002253",
+    "accountType": "DEBIT",
+    "balance": "6498966456681255"
+  },
+  {
+    "clientId": "293445136",
+    "accountType": "CREDIT",
+    "balance": "4189191994627793"
+  },
+  {
+    "clientId": "779491009",
+    "accountType": "DEBIT",
+    "balance": "5365227986943703"
+  },
+  {
+    "clientId": "119072223",
+    "accountType": "DEBIT",
+    "balance": "4552441724367351"
+  },
+  {
+    "clientId": "625094748",
+    "accountType": "CREDIT",
+    "balance": "8509002285134240"
+  },
+  {
+    "clientId": "505038888",
+    "accountType": "DEBIT",
+    "balance": "3109691414508202"
+  },
+  {
+    "clientId": "023775872",
+    "accountType": "CREDIT",
+    "balance": "5184835162258623"
+  },
+  {
+    "clientId": "867461755",
+    "accountType": "DEBIT",
+    "balance": "9273529765056221"
+  },
+  {
+    "clientId": "817905071",
+    "accountType": "DEBIT",
+    "balance": "3835831703746970"
+  },
+  {
+    "clientId": "604079965",
+    "accountType": "DEBIT",
+    "balance": "2304201012788799"
+  },
+  {
+    "clientId": "881723066",
+    "accountType": "CREDIT",
+    "balance": "6347583062041430"
+  },
+  {
+    "clientId": "695237525",
+    "accountType": "CREDIT",
+    "balance": "6400052404788706"
+  },
+  {
+    "clientId": "243215702",
+    "accountType": "DEBIT",
+    "balance": "9981196434227795"
+  },
+  {
+    "clientId": "198991719",
+    "accountType": "CREDIT",
+    "balance": "758674993751674"
+  },
+  {
+    "clientId": "970113376",
+    "accountType": "CREDIT",
+    "balance": "8662667970316296"
+  },
+  {
+    "clientId": "128278184",
+    "accountType": "CREDIT",
+    "balance": "7502455779139515"
+  },
+  {
+    "clientId": "031979484",
+    "accountType": "CREDIT",
+    "balance": "8399702870324500"
+  },
+  {
+    "clientId": "273932712",
+    "accountType": "DEBIT",
+    "balance": "8151182880166308"
+  },
+  {
+    "clientId": "184915197",
+    "accountType": "CREDIT",
+    "balance": "2160052443087828"
+  },
+  {
+    "clientId": "588745513",
+    "accountType": "DEBIT",
+    "balance": "1906748824789596"
+  },
+  {
+    "clientId": "550369549",
+    "accountType": "CREDIT",
+    "balance": "5998737839593542"
+  },
+  {
+    "clientId": "871908551",
+    "accountType": "DEBIT",
+    "balance": "6597005521891156"
+  },
+  {
+    "clientId": "159473538",
+    "accountType": "DEBIT",
+    "balance": "2623008937253440"
+  },
+  {
+    "clientId": "305431979",
+    "accountType": "CREDIT",
+    "balance": "1165752781969441"
+  },
+  {
+    "clientId": "452931391",
+    "accountType": "CREDIT",
+    "balance": "3523817169854588"
+  },
+  {
+    "clientId": "352356501",
+    "accountType": "CREDIT",
+    "balance": "533589883126418"
+  },
+  {
+    "clientId": "460503897",
+    "accountType": "DEBIT",
+    "balance": "7959303691589390"
+  },
+  {
+    "clientId": "169861903",
+    "accountType": "DEBIT",
+    "balance": "9615844934280831"
+  },
+  {
+    "clientId": "533726847",
+    "accountType": "CREDIT",
+    "balance": "2852469894812933"
+  },
+  {
+    "clientId": "255228314",
+    "accountType": "DEBIT",
+    "balance": "8487364897823140"
+  },
+  {
+    "clientId": "962244304",
+    "accountType": "CREDIT",
+    "balance": "8824852560689491"
+  },
+  {
+    "clientId": "930330954",
+    "accountType": "DEBIT",
+    "balance": "1560753791743180"
+  },
+  {
+    "clientId": "865345650",
+    "accountType": "DEBIT",
+    "balance": "6266738012890630"
+  },
+  {
+    "clientId": "519651516",
+    "accountType": "CREDIT",
+    "balance": "1086029749931318"
+  },
+  {
+    "clientId": "304593202",
+    "accountType": "CREDIT",
+    "balance": "8146716892905310"
+  },
+  {
+    "clientId": "986860843",
+    "accountType": "DEBIT",
+    "balance": "484944701217680"
+  },
+  {
+    "clientId": "984386679",
+    "accountType": "DEBIT",
+    "balance": "2434500211777800"
+  },
+  {
+    "clientId": "340310491",
+    "accountType": "DEBIT",
+    "balance": "4817688896838736"
+  },
+  {
+    "clientId": "653528508",
+    "accountType": "CREDIT",
+    "balance": "2238595265498836"
+  },
+  {
+    "clientId": "633304547",
+    "accountType": "DEBIT",
+    "balance": "8087748678250211"
+  },
+  {
+    "clientId": "851699933",
+    "accountType": "DEBIT",
+    "balance": "3387040151685200"
+  },
+  {
+    "clientId": "639884500",
+    "accountType": "CREDIT",
+    "balance": "5278956187548900"
+  },
+  {
+    "clientId": "383824620",
+    "accountType": "CREDIT",
+    "balance": "2863100541109477"
+  },
+  {
+    "clientId": "938120422",
+    "accountType": "CREDIT",
+    "balance": "9006379091696525"
+  },
+  {
+    "clientId": "595732168",
+    "accountType": "CREDIT",
+    "balance": "6521644747458349"
+  },
+  {
+    "clientId": "318599858",
+    "accountType": "CREDIT",
+    "balance": "3159161731392929"
+  },
+  {
+    "clientId": "590782582",
+    "accountType": "CREDIT",
+    "balance": "5083493344459794"
+  },
+  {
+    "clientId": "103728270",
+    "accountType": "DEBIT",
+    "balance": "2722999739494905"
+  },
+  {
+    "clientId": "851412613",
+    "accountType": "CREDIT",
+    "balance": "7530671527236396"
+  },
+  {
+    "clientId": "911202343",
+    "accountType": "DEBIT",
+    "balance": "1166662649568283"
+  },
+  {
+    "clientId": "609008064",
+    "accountType": "CREDIT",
+    "balance": "9827104558607254"
+  },
+  {
+    "clientId": "374320875",
+    "accountType": "DEBIT",
+    "balance": "648371669213166"
+  },
+  {
+    "clientId": "479437871",
+    "accountType": "CREDIT",
+    "balance": "3948493436812028"
+  },
+  {
+    "clientId": "266030904",
+    "accountType": "DEBIT",
+    "balance": "4057496863214809"
+  },
+  {
+    "clientId": "700715000",
+    "accountType": "DEBIT",
+    "balance": "7041568062562551"
+  },
+  {
+    "clientId": "062413097",
+    "accountType": "DEBIT",
+    "balance": "3002968101990349"
+  },
+  {
+    "clientId": "752275866",
+    "accountType": "DEBIT",
+    "balance": "6112187521735237"
+  },
+  {
+    "clientId": "821717413",
+    "accountType": "DEBIT",
+    "balance": "8737640620973827"
+  },
+  {
+    "clientId": "833737293",
+    "accountType": "DEBIT",
+    "balance": "4871600912194481"
+  },
+  {
+    "clientId": "636210322",
+    "accountType": "DEBIT",
+    "balance": "5048263368000288"
+  },
+  {
+    "clientId": "922823302",
+    "accountType": "DEBIT",
+    "balance": "3780230527507734"
+  },
+  {
+    "clientId": "308780543",
+    "accountType": "CREDIT",
+    "balance": "8028244268205544"
+  },
+  {
+    "clientId": "632018292",
+    "accountType": "CREDIT",
+    "balance": "4544205032969452"
+  },
+  {
+    "clientId": "077174058",
+    "accountType": "CREDIT",
+    "balance": "808039709382914"
+  },
+  {
+    "clientId": "486709428",
+    "accountType": "DEBIT",
+    "balance": "3282566650508297"
+  },
+  {
+    "clientId": "831260830",
+    "accountType": "CREDIT",
+    "balance": "8004947122325802"
+  },
+  {
+    "clientId": "589899635",
+    "accountType": "CREDIT",
+    "balance": "347702421032307"
+  },
+  {
+    "clientId": "455561126",
+    "accountType": "DEBIT",
+    "balance": "5183380515543775"
+  },
+  {
+    "clientId": "879497672",
+    "accountType": "DEBIT",
+    "balance": "5169745708953909"
+  },
+  {
+    "clientId": "922115985",
+    "accountType": "DEBIT",
+    "balance": "9196974233356610"
+  },
+  {
+    "clientId": "861841419",
+    "accountType": "CREDIT",
+    "balance": "6902930613074974"
+  },
+  {
+    "clientId": "768208643",
+    "accountType": "DEBIT",
+    "balance": "9458780021384394"
+  },
+  {
+    "clientId": "076612132",
+    "accountType": "DEBIT",
+    "balance": "5204582658376170"
+  },
+  {
+    "clientId": "553584091",
+    "accountType": "CREDIT",
+    "balance": "2773911196248839"
+  },
+  {
+    "clientId": "729613103",
+    "accountType": "CREDIT",
+    "balance": "8981572200139151"
+  },
+  {
+    "clientId": "758716777",
+    "accountType": "DEBIT",
+    "balance": "2049245221046268"
+  },
+  {
+    "clientId": "436352084",
+    "accountType": "CREDIT",
+    "balance": "6111198783859502"
+  },
+  {
+    "clientId": "979815318",
+    "accountType": "DEBIT",
+    "balance": "4501889512448973"
+  },
+  {
+    "clientId": "361041742",
+    "accountType": "CREDIT",
+    "balance": "9288977412055321"
+  },
+  {
+    "clientId": "575053431",
+    "accountType": "CREDIT",
+    "balance": "9010779234972724"
+  },
+  {
+    "clientId": "457433999",
+    "accountType": "DEBIT",
+    "balance": "612413735335135"
+  },
+  {
+    "clientId": "037139455",
+    "accountType": "DEBIT",
+    "balance": "7447232972046037"
+  },
+  {
+    "clientId": "911637065",
+    "accountType": "DEBIT",
+    "balance": "5665543807876386"
+  },
+  {
+    "clientId": "741682389",
+    "accountType": "CREDIT",
+    "balance": "5124935727517088"
+  },
+  {
+    "clientId": "597591006",
+    "accountType": "CREDIT",
+    "balance": "4457197028274287"
+  },
+  {
+    "clientId": "183525249",
+    "accountType": "CREDIT",
+    "balance": "8170514210478968"
+  },
+  {
+    "clientId": "633218907",
+    "accountType": "DEBIT",
+    "balance": "1816350474481311"
+  },
+  {
+    "clientId": "210515429",
+    "accountType": "DEBIT",
+    "balance": "6241510236966925"
+  },
+  {
+    "clientId": "097243087",
+    "accountType": "CREDIT",
+    "balance": "2371318516687298"
+  },
+  {
+    "clientId": "546378777",
+    "accountType": "DEBIT",
+    "balance": "1166098282345428"
+  },
+  {
+    "clientId": "564594923",
+    "accountType": "CREDIT",
+    "balance": "5523224553376933"
+  },
+  {
+    "clientId": "635156678",
+    "accountType": "DEBIT",
+    "balance": "2857409890520167"
+  },
+  {
+    "clientId": "820156139",
+    "accountType": "CREDIT",
+    "balance": "3722217519406819"
+  },
+  {
+    "clientId": "391628144",
+    "accountType": "CREDIT",
+    "balance": "1922938885977495"
+  },
+  {
+    "clientId": "068700512",
+    "accountType": "CREDIT",
+    "balance": "949194366546287"
+  },
+  {
+    "clientId": "354758977",
+    "accountType": "DEBIT",
+    "balance": "7129804725452010"
+  },
+  {
+    "clientId": "540573745",
+    "accountType": "CREDIT",
+    "balance": "8075634526826248"
+  },
+  {
+    "clientId": "171001540",
+    "accountType": "DEBIT",
+    "balance": "7120190441587756"
+  },
+  {
+    "clientId": "603814584",
+    "accountType": "DEBIT",
+    "balance": "8771686442514595"
+  },
+  {
+    "clientId": "783412419",
+    "accountType": "DEBIT",
+    "balance": "5617147017798742"
+  },
+  {
+    "clientId": "326459203",
+    "accountType": "DEBIT",
+    "balance": "922243709630971"
+  },
+  {
+    "clientId": "391359461",
+    "accountType": "CREDIT",
+    "balance": "1178717415393798"
+  },
+  {
+    "clientId": "959431398",
+    "accountType": "CREDIT",
+    "balance": "6266535071846887"
+  },
+  {
+    "clientId": "895022957",
+    "accountType": "CREDIT",
+    "balance": "6269773938619886"
+  },
+  {
+    "clientId": "169270232",
+    "accountType": "CREDIT",
+    "balance": "7890329815424499"
+  },
+  {
+    "clientId": "547776564",
+    "accountType": "CREDIT",
+    "balance": "2033102219100677"
+  },
+  {
+    "clientId": "094439509",
+    "accountType": "DEBIT",
+    "balance": "8984848756832792"
+  },
+  {
+    "clientId": "893428310",
+    "accountType": "CREDIT",
+    "balance": "1220462626692518"
+  },
+  {
+    "clientId": "932577240",
+    "accountType": "CREDIT",
+    "balance": "6788000894064928"
+  },
+  {
+    "clientId": "276596570",
+    "accountType": "CREDIT",
+    "balance": "6999954181201968"
+  },
+  {
+    "clientId": "729123632",
+    "accountType": "DEBIT",
+    "balance": "442585681254245"
+  },
+  {
+    "clientId": "762059011",
+    "accountType": "DEBIT",
+    "balance": "7934697705606193"
+  },
+  {
+    "clientId": "697660191",
+    "accountType": "DEBIT",
+    "balance": "6830222537988091"
+  },
+  {
+    "clientId": "151449011",
+    "accountType": "CREDIT",
+    "balance": "4203332645858214"
+  },
+  {
+    "clientId": "662505428",
+    "accountType": "DEBIT",
+    "balance": "6869734159919729"
+  },
+  {
+    "clientId": "522452841",
+    "accountType": "DEBIT",
+    "balance": "9770803195683664"
+  },
+  {
+    "clientId": "409112344",
+    "accountType": "DEBIT",
+    "balance": "1386742777108327"
+  },
+  {
+    "clientId": "465006119",
+    "accountType": "DEBIT",
+    "balance": "7724812700784276"
+  },
+  {
+    "clientId": "648007019",
+    "accountType": "CREDIT",
+    "balance": "9658466618804616"
+  },
+  {
+    "clientId": "795898058",
+    "accountType": "CREDIT",
+    "balance": "4306729677857009"
+  },
+  {
+    "clientId": "082592955",
+    "accountType": "CREDIT",
+    "balance": "6179245637416391"
+  },
+  {
+    "clientId": "312652532",
+    "accountType": "DEBIT",
+    "balance": "7125794676917102"
+  },
+  {
+    "clientId": "525445296",
+    "accountType": "DEBIT",
+    "balance": "5323789704266563"
+  },
+  {
+    "clientId": "147735323",
+    "accountType": "CREDIT",
+    "balance": "7239516036240838"
+  },
+  {
+    "clientId": "676595286",
+    "accountType": "CREDIT",
+    "balance": "4587862006794048"
+  },
+  {
+    "clientId": "918845556",
+    "accountType": "CREDIT",
+    "balance": "5377699747765614"
+  },
+  {
+    "clientId": "753302669",
+    "accountType": "CREDIT",
+    "balance": "100529696323909"
+  },
+  {
+    "clientId": "825944218",
+    "accountType": "DEBIT",
+    "balance": "8601079262787615"
+  },
+  {
+    "clientId": "967925840",
+    "accountType": "DEBIT",
+    "balance": "8601006451257635"
+  },
+  {
+    "clientId": "199356785",
+    "accountType": "DEBIT",
+    "balance": "4858627423428537"
+  },
+  {
+    "clientId": "009713923",
+    "accountType": "CREDIT",
+    "balance": "3050569710165134"
+  },
+  {
+    "clientId": "892631524",
+    "accountType": "CREDIT",
+    "balance": "3301731928115327"
+  },
+  {
+    "clientId": "819241582",
+    "accountType": "CREDIT",
+    "balance": "1801575071105220"
+  },
+  {
+    "clientId": "669808192",
+    "accountType": "DEBIT",
+    "balance": "5863431479037310"
+  },
+  {
+    "clientId": "306463749",
+    "accountType": "DEBIT",
+    "balance": "7913683870597900"
+  },
+  {
+    "clientId": "843380077",
+    "accountType": "DEBIT",
+    "balance": "5019196189843483"
+  },
+  {
+    "clientId": "929037298",
+    "accountType": "CREDIT",
+    "balance": "69488034471042"
+  },
+  {
+    "clientId": "359201777",
+    "accountType": "CREDIT",
+    "balance": "7934119041994154"
+  },
+  {
+    "clientId": "896532357",
+    "accountType": "CREDIT",
+    "balance": "1849031490298966"
+  },
+  {
+    "clientId": "890742843",
+    "accountType": "CREDIT",
+    "balance": "6764206679754991"
+  },
+  {
+    "clientId": "759354033",
+    "accountType": "CREDIT",
+    "balance": "6843461720244034"
+  },
+  {
+    "clientId": "591712743",
+    "accountType": "DEBIT",
+    "balance": "6730373834551336"
+  },
+  {
+    "clientId": "676012189",
+    "accountType": "DEBIT",
+    "balance": "6709208275218526"
+  },
+  {
+    "clientId": "919056465",
+    "accountType": "DEBIT",
+    "balance": "9967078109126745"
+  },
+  {
+    "clientId": "631835799",
+    "accountType": "CREDIT",
+    "balance": "7162368700380449"
+  },
+  {
+    "clientId": "999209553",
+    "accountType": "DEBIT",
+    "balance": "3567292441201608"
+  },
+  {
+    "clientId": "043729705",
+    "accountType": "CREDIT",
+    "balance": "9187339117588677"
+  },
+  {
+    "clientId": "473228291",
+    "accountType": "DEBIT",
+    "balance": "2183038470520150"
+  },
+  {
+    "clientId": "297538668",
+    "accountType": "DEBIT",
+    "balance": "4412622900859619"
+  },
+  {
+    "clientId": "122925661",
+    "accountType": "CREDIT",
+    "balance": "6470162570293799"
+  },
+  {
+    "clientId": "735275060",
+    "accountType": "DEBIT",
+    "balance": "1234329210999557"
+  },
+  {
+    "clientId": "162280182",
+    "accountType": "DEBIT",
+    "balance": "3276715698666353"
+  },
+  {
+    "clientId": "371438538",
+    "accountType": "CREDIT",
+    "balance": "7619659501130571"
+  },
+  {
+    "clientId": "013477329",
+    "accountType": "DEBIT",
+    "balance": "5092626561401499"
+  },
+  {
+    "clientId": "798471686",
+    "accountType": "CREDIT",
+    "balance": "520949915042443"
+  },
+  {
+    "clientId": "661360273",
+    "accountType": "CREDIT",
+    "balance": "1440226739966384"
+  },
+  {
+    "clientId": "429242016",
+    "accountType": "DEBIT",
+    "balance": "2774068335464336"
+  },
+  {
+    "clientId": "507059358",
+    "accountType": "DEBIT",
+    "balance": "1439191903820400"
+  },
+  {
+    "clientId": "363993368",
+    "accountType": "CREDIT",
+    "balance": "8230192810149387"
+  },
+  {
+    "clientId": "307466330",
+    "accountType": "CREDIT",
+    "balance": "9533569271850485"
+  },
+  {
+    "clientId": "541211738",
+    "accountType": "DEBIT",
+    "balance": "4894954797935995"
+  },
+  {
+    "clientId": "217331676",
+    "accountType": "CREDIT",
+    "balance": "4600314938899796"
+  },
+  {
+    "clientId": "852190097",
+    "accountType": "CREDIT",
+    "balance": "1125555134873972"
+  },
+  {
+    "clientId": "979085174",
+    "accountType": "CREDIT",
+    "balance": "2263822028249037"
+  },
+  {
+    "clientId": "321360222",
+    "accountType": "CREDIT",
+    "balance": "5003410881767933"
+  },
+  {
+    "clientId": "106704201",
+    "accountType": "CREDIT",
+    "balance": "9453144950134584"
+  },
+  {
+    "clientId": "688145083",
+    "accountType": "DEBIT",
+    "balance": "2418871470289398"
+  },
+  {
+    "clientId": "896853497",
+    "accountType": "CREDIT",
+    "balance": "4286177142576746"
+  },
+  {
+    "clientId": "021231572",
+    "accountType": "CREDIT",
+    "balance": "7190931282105942"
+  },
+  {
+    "clientId": "728540433",
+    "accountType": "DEBIT",
+    "balance": "9190734134003859"
+  },
+  {
+    "clientId": "188909354",
+    "accountType": "DEBIT",
+    "balance": "7791087168835412"
+  },
+  {
+    "clientId": "443840945",
+    "accountType": "DEBIT",
+    "balance": "6454752074651400"
+  },
+  {
+    "clientId": "594327063",
+    "accountType": "DEBIT",
+    "balance": "5074882763045549"
+  },
+  {
+    "clientId": "889906328",
+    "accountType": "DEBIT",
+    "balance": "4826802823645566"
+  },
+  {
+    "clientId": "017134599",
+    "accountType": "CREDIT",
+    "balance": "7109198936936751"
+  },
+  {
+    "clientId": "292792607",
+    "accountType": "CREDIT",
+    "balance": "2703491141145186"
+  },
+  {
+    "clientId": "095189504",
+    "accountType": "DEBIT",
+    "balance": "6513342552159638"
+  },
+  {
+    "clientId": "558423264",
+    "accountType": "CREDIT",
+    "balance": "9088688572865526"
+  },
+  {
+    "clientId": "097500597",
+    "accountType": "DEBIT",
+    "balance": "9383374997089455"
+  },
+  {
+    "clientId": "250604910",
+    "accountType": "CREDIT",
+    "balance": "1666493443724588"
+  },
+  {
+    "clientId": "241545797",
+    "accountType": "DEBIT",
+    "balance": "7898843468634756"
+  },
+  {
+    "clientId": "399286420",
+    "accountType": "DEBIT",
+    "balance": "893029923480334"
+  },
+  {
+    "clientId": "555250932",
+    "accountType": "DEBIT",
+    "balance": "8014743749248845"
+  },
+  {
+    "clientId": "002749217",
+    "accountType": "DEBIT",
+    "balance": "1752239621390451"
+  },
+  {
+    "clientId": "301016614",
+    "accountType": "DEBIT",
+    "balance": "7280850501967233"
+  },
+  {
+    "clientId": "945093620",
+    "accountType": "DEBIT",
+    "balance": "4248324541298817"
+  },
+  {
+    "clientId": "639685992",
+    "accountType": "DEBIT",
+    "balance": "1623517452748398"
+  },
+  {
+    "clientId": "155615409",
+    "accountType": "CREDIT",
+    "balance": "7733999135581274"
+  },
+  {
+    "clientId": "526536637",
+    "accountType": "CREDIT",
+    "balance": "5530320731387000"
+  },
+  {
+    "clientId": "344690430",
+    "accountType": "DEBIT",
+    "balance": "980941601095433"
+  },
+  {
+    "clientId": "852820020",
+    "accountType": "CREDIT",
+    "balance": "1387274540892712"
+  },
+  {
+    "clientId": "477044753",
+    "accountType": "CREDIT",
+    "balance": "5540622068126996"
+  },
+  {
+    "clientId": "882830674",
+    "accountType": "DEBIT",
+    "balance": "5308763830289332"
+  },
+  {
+    "clientId": "201636927",
+    "accountType": "CREDIT",
+    "balance": "927238008515958"
+  },
+  {
+    "clientId": "329271377",
+    "accountType": "DEBIT",
+    "balance": "7714861630137435"
+  },
+  {
+    "clientId": "639297814",
+    "accountType": "DEBIT",
+    "balance": "582104596408953"
+  },
+  {
+    "clientId": "749763282",
+    "accountType": "CREDIT",
+    "balance": "7777197981214850"
+  },
+  {
+    "clientId": "436285334",
+    "accountType": "CREDIT",
+    "balance": "293150438691165"
+  },
+  {
+    "clientId": "597817940",
+    "accountType": "DEBIT",
+    "balance": "5879341455780548"
+  },
+  {
+    "clientId": "738650746",
+    "accountType": "DEBIT",
+    "balance": "2012166397688365"
+  },
+  {
+    "clientId": "249263606",
+    "accountType": "CREDIT",
+    "balance": "7196199434303332"
+  },
+  {
+    "clientId": "206693163",
+    "accountType": "CREDIT",
+    "balance": "5435899646606060"
+  },
+  {
+    "clientId": "362293229",
+    "accountType": "DEBIT",
+    "balance": "6391767705718327"
+  },
+  {
+    "clientId": "475424320",
+    "accountType": "CREDIT",
+    "balance": "3379860959179243"
+  },
+  {
+    "clientId": "508084308",
+    "accountType": "DEBIT",
+    "balance": "6264438457001523"
+  },
+  {
+    "clientId": "128876434",
+    "accountType": "DEBIT",
+    "balance": "9333074892556973"
+  },
+  {
+    "clientId": "543925641",
+    "accountType": "DEBIT",
+    "balance": "3232534739331812"
+  },
+  {
+    "clientId": "014551392",
+    "accountType": "DEBIT",
+    "balance": "3289022428812683"
+  },
+  {
+    "clientId": "511563608",
+    "accountType": "DEBIT",
+    "balance": "1631990262538169"
+  },
+  {
+    "clientId": "084566661",
+    "accountType": "DEBIT",
+    "balance": "363498662555296"
+  },
+  {
+    "clientId": "147184958",
+    "accountType": "CREDIT",
+    "balance": "6251775177979609"
+  },
+  {
+    "clientId": "423283498",
+    "accountType": "CREDIT",
+    "balance": "2356035946165174"
+  },
+  {
+    "clientId": "772286459",
+    "accountType": "DEBIT",
+    "balance": "6027869971722561"
+  },
+  {
+    "clientId": "403817785",
+    "accountType": "DEBIT",
+    "balance": "556254231742994"
+  },
+  {
+    "clientId": "063891596",
+    "accountType": "DEBIT",
+    "balance": "2958573947960730"
+  },
+  {
+    "clientId": "484901080",
+    "accountType": "DEBIT",
+    "balance": "6744403573332819"
+  },
+  {
+    "clientId": "883672210",
+    "accountType": "CREDIT",
+    "balance": "6770002636343260"
+  },
+  {
+    "clientId": "710801808",
+    "accountType": "CREDIT",
+    "balance": "3878212179084225"
+  },
+  {
+    "clientId": "104759747",
+    "accountType": "CREDIT",
+    "balance": "8264036436697234"
+  },
+  {
+    "clientId": "893092781",
+    "accountType": "DEBIT",
+    "balance": "7700470335192652"
+  },
+  {
+    "clientId": "807337815",
+    "accountType": "CREDIT",
+    "balance": "2166041284863763"
+  },
+  {
+    "clientId": "802974805",
+    "accountType": "DEBIT",
+    "balance": "8475758787878913"
+  },
+  {
+    "clientId": "498758029",
+    "accountType": "DEBIT",
+    "balance": "8772458985360802"
+  },
+  {
+    "clientId": "684468892",
+    "accountType": "CREDIT",
+    "balance": "9127235701642858"
+  },
+  {
+    "clientId": "681502917",
+    "accountType": "CREDIT",
+    "balance": "248613296346048"
+  },
+  {
+    "clientId": "274204424",
+    "accountType": "CREDIT",
+    "balance": "1056769115934385"
+  },
+  {
+    "clientId": "611472635",
+    "accountType": "DEBIT",
+    "balance": "8626636018533409"
+  },
+  {
+    "clientId": "757174142",
+    "accountType": "DEBIT",
+    "balance": "5566939289105617"
+  },
+  {
+    "clientId": "547234691",
+    "accountType": "DEBIT",
+    "balance": "704071855358183"
+  },
+  {
+    "clientId": "383372692",
+    "accountType": "DEBIT",
+    "balance": "8388951282832645"
+  },
+  {
+    "clientId": "476009947",
+    "accountType": "DEBIT",
+    "balance": "4714389220309479"
+  },
+  {
+    "clientId": "902610679",
+    "accountType": "DEBIT",
+    "balance": "520819378146920"
+  },
+  {
+    "clientId": "377675836",
+    "accountType": "DEBIT",
+    "balance": "9044514638320340"
+  },
+  {
+    "clientId": "301217153",
+    "accountType": "DEBIT",
+    "balance": "2153386005174811"
+  },
+  {
+    "clientId": "618427090",
+    "accountType": "DEBIT",
+    "balance": "4225143647215124"
+  },
+  {
+    "clientId": "755257915",
+    "accountType": "CREDIT",
+    "balance": "1793792431231298"
+  },
+  {
+    "clientId": "787752479",
+    "accountType": "CREDIT",
+    "balance": "3914299089015042"
+  },
+  {
+    "clientId": "824009338",
+    "accountType": "DEBIT",
+    "balance": "6060599227790009"
+  },
+  {
+    "clientId": "553439271",
+    "accountType": "CREDIT",
+    "balance": "2567435521260083"
+  },
+  {
+    "clientId": "572522090",
+    "accountType": "DEBIT",
+    "balance": "1088920291386733"
+  },
+  {
+    "clientId": "154741043",
+    "accountType": "CREDIT",
+    "balance": "581422900800291"
+  },
+  {
+    "clientId": "815015951",
+    "accountType": "DEBIT",
+    "balance": "6569925762145252"
+  },
+  {
+    "clientId": "568990813",
+    "accountType": "CREDIT",
+    "balance": "3945080032124947"
+  },
+  {
+    "clientId": "142586215",
+    "accountType": "DEBIT",
+    "balance": "6389154292655195"
+  },
+  {
+    "clientId": "459917230",
+    "accountType": "CREDIT",
+    "balance": "8756826175639126"
+  },
+  {
+    "clientId": "684969759",
+    "accountType": "DEBIT",
+    "balance": "4584965704097487"
+  },
+  {
+    "clientId": "386450674",
+    "accountType": "DEBIT",
+    "balance": "8056912504833624"
+  },
+  {
+    "clientId": "909341595",
+    "accountType": "CREDIT",
+    "balance": "1620808992560462"
+  },
+  {
+    "clientId": "385694985",
+    "accountType": "DEBIT",
+    "balance": "203305412615560"
+  },
+  {
+    "clientId": "627486540",
+    "accountType": "CREDIT",
+    "balance": "931321021704805"
+  },
+  {
+    "clientId": "180447508",
+    "accountType": "CREDIT",
+    "balance": "8067435758595433"
+  },
+  {
+    "clientId": "160806190",
+    "accountType": "DEBIT",
+    "balance": "9375794470873040"
+  },
+  {
+    "clientId": "996805665",
+    "accountType": "DEBIT",
+    "balance": "8915581475992053"
+  },
+  {
+    "clientId": "044869820",
+    "accountType": "CREDIT",
+    "balance": "6466009610968009"
+  },
+  {
+    "clientId": "497610252",
+    "accountType": "DEBIT",
+    "balance": "2609725711597311"
+  },
+  {
+    "clientId": "986178669",
+    "accountType": "DEBIT",
+    "balance": "4812944795520837"
+  },
+  {
+    "clientId": "273980771",
+    "accountType": "CREDIT",
+    "balance": "9078446302624024"
+  },
+  {
+    "clientId": "837553616",
+    "accountType": "DEBIT",
+    "balance": "3870763977515029"
+  },
+  {
+    "clientId": "223351279",
+    "accountType": "CREDIT",
+    "balance": "3193132966299871"
+  },
+  {
+    "clientId": "483492235",
+    "accountType": "CREDIT",
+    "balance": "8802787247111006"
+  },
+  {
+    "clientId": "482323979",
+    "accountType": "DEBIT",
+    "balance": "8134357038113291"
+  },
+  {
+    "clientId": "181807438",
+    "accountType": "CREDIT",
+    "balance": "6224300527856013"
+  },
+  {
+    "clientId": "007508426",
+    "accountType": "DEBIT",
+    "balance": "4522228833364504"
+  },
+  {
+    "clientId": "495953123",
+    "accountType": "CREDIT",
+    "balance": "7859672806829809"
+  },
+  {
+    "clientId": "212230595",
+    "accountType": "CREDIT",
+    "balance": "6526606077458169"
+  },
+  {
+    "clientId": "017545029",
+    "accountType": "CREDIT",
+    "balance": "7386344206695391"
+  },
+  {
+    "clientId": "284646683",
+    "accountType": "DEBIT",
+    "balance": "2661965033218372"
+  },
+  {
+    "clientId": "232704647",
+    "accountType": "CREDIT",
+    "balance": "7350425048281278"
+  },
+  {
+    "clientId": "435297475",
+    "accountType": "DEBIT",
+    "balance": "4414551019638920"
+  },
+  {
+    "clientId": "410146119",
+    "accountType": "CREDIT",
+    "balance": "381009127995809"
+  },
+  {
+    "clientId": "236010742",
+    "accountType": "CREDIT",
+    "balance": "3056342180079330"
+  },
+  {
+    "clientId": "359195560",
+    "accountType": "CREDIT",
+    "balance": "6723420726921070"
+  },
+  {
+    "clientId": "806954406",
+    "accountType": "CREDIT",
+    "balance": "584939124560074"
+  },
+  {
+    "clientId": "344811854",
+    "accountType": "CREDIT",
+    "balance": "8644574207353389"
+  },
+  {
+    "clientId": "989856689",
+    "accountType": "DEBIT",
+    "balance": "7760996492016082"
+  },
+  {
+    "clientId": "486994511",
+    "accountType": "CREDIT",
+    "balance": "9806723515071974"
+  },
+  {
+    "clientId": "157654931",
+    "accountType": "DEBIT",
+    "balance": "1400013793300566"
+  },
+  {
+    "clientId": "083393269",
+    "accountType": "DEBIT",
+    "balance": "2549606402461110"
+  },
+  {
+    "clientId": "450388755",
+    "accountType": "CREDIT",
+    "balance": "8020899469292759"
+  },
+  {
+    "clientId": "902007606",
+    "accountType": "DEBIT",
+    "balance": "9373769963557535"
+  },
+  {
+    "clientId": "286538658",
+    "accountType": "CREDIT",
+    "balance": "4400877329774188"
+  },
+  {
+    "clientId": "241868074",
+    "accountType": "DEBIT",
+    "balance": "9150191278771166"
+  },
+  {
+    "clientId": "023548423",
+    "accountType": "CREDIT",
+    "balance": "1448284602227576"
+  },
+  {
+    "clientId": "022819605",
+    "accountType": "CREDIT",
+    "balance": "7709389958710772"
+  },
+  {
+    "clientId": "591895938",
+    "accountType": "DEBIT",
+    "balance": "9624430602158658"
+  },
+  {
+    "clientId": "044303418",
+    "accountType": "CREDIT",
+    "balance": "4698747516811335"
+  },
+  {
+    "clientId": "134311913",
+    "accountType": "CREDIT",
+    "balance": "4893066866481596"
+  },
+  {
+    "clientId": "325183698",
+    "accountType": "DEBIT",
+    "balance": "8292360664554086"
+  },
+  {
+    "clientId": "626545932",
+    "accountType": "CREDIT",
+    "balance": "6143379787095021"
+  },
+  {
+    "clientId": "118928262",
+    "accountType": "DEBIT",
+    "balance": "3287835526006647"
+  },
+  {
+    "clientId": "780151682",
+    "accountType": "CREDIT",
+    "balance": "1419135089819192"
+  },
+  {
+    "clientId": "280034744",
+    "accountType": "DEBIT",
+    "balance": "7995849678907692"
+  },
+  {
+    "clientId": "445351712",
+    "accountType": "DEBIT",
+    "balance": "3656295640292604"
+  },
+  {
+    "clientId": "633487095",
+    "accountType": "CREDIT",
+    "balance": "954984303163144"
+  },
+  {
+    "clientId": "159313551",
+    "accountType": "CREDIT",
+    "balance": "2092711092327805"
+  },
+  {
+    "clientId": "261094373",
+    "accountType": "DEBIT",
+    "balance": "1217793867864086"
+  },
+  {
+    "clientId": "413668450",
+    "accountType": "DEBIT",
+    "balance": "2958946957235040"
+  },
+  {
+    "clientId": "005282613",
+    "accountType": "CREDIT",
+    "balance": "5490980006679620"
+  },
+  {
+    "clientId": "671825421",
+    "accountType": "DEBIT",
+    "balance": "6295181545339763"
+  },
+  {
+    "clientId": "389976144",
+    "accountType": "DEBIT",
+    "balance": "4520561403979664"
+  },
+  {
+    "clientId": "439073435",
+    "accountType": "DEBIT",
+    "balance": "2863353451917202"
+  },
+  {
+    "clientId": "627241947",
+    "accountType": "CREDIT",
+    "balance": "5148741866717739"
+  },
+  {
+    "clientId": "755595221",
+    "accountType": "CREDIT",
+    "balance": "1783444708564056"
+  },
+  {
+    "clientId": "326133429",
+    "accountType": "CREDIT",
+    "balance": "9284092750245004"
+  },
+  {
+    "clientId": "986014358",
+    "accountType": "CREDIT",
+    "balance": "7131421327080412"
+  },
+  {
+    "clientId": "856518297",
+    "accountType": "DEBIT",
+    "balance": "6586883857293957"
+  },
+  {
+    "clientId": "085362540",
+    "accountType": "DEBIT",
+    "balance": "8532260540060100"
+  },
+  {
+    "clientId": "383608713",
+    "accountType": "DEBIT",
+    "balance": "8824016682890322"
+  },
+  {
+    "clientId": "560625100",
+    "accountType": "DEBIT",
+    "balance": "8690840185174470"
+  },
+  {
+    "clientId": "741961420",
+    "accountType": "CREDIT",
+    "balance": "9908726114948307"
+  },
+  {
+    "clientId": "905030761",
+    "accountType": "DEBIT",
+    "balance": "6699543003160418"
+  },
+  {
+    "clientId": "765611571",
+    "accountType": "DEBIT",
+    "balance": "6926760337238404"
+  },
+  {
+    "clientId": "213734250",
+    "accountType": "DEBIT",
+    "balance": "732981167961230"
+  },
+  {
+    "clientId": "146421208",
+    "accountType": "DEBIT",
+    "balance": "2225109567965326"
+  },
+  {
+    "clientId": "199872783",
+    "accountType": "DEBIT",
+    "balance": "4942184760598136"
+  },
+  {
+    "clientId": "830512356",
+    "accountType": "DEBIT",
+    "balance": "344776731060761"
+  },
+  {
+    "clientId": "864114329",
+    "accountType": "CREDIT",
+    "balance": "8691968082828993"
+  },
+  {
+    "clientId": "242716434",
+    "accountType": "DEBIT",
+    "balance": "418456927609855"
+  },
+  {
+    "clientId": "210807484",
+    "accountType": "DEBIT",
+    "balance": "7775777471680105"
+  },
+  {
+    "clientId": "691707122",
+    "accountType": "DEBIT",
+    "balance": "2885887674487577"
+  },
+  {
+    "clientId": "260207851",
+    "accountType": "CREDIT",
+    "balance": "1603352815766076"
+  },
+  {
+    "clientId": "942449121",
+    "accountType": "DEBIT",
+    "balance": "9644316441104344"
+  },
+  {
+    "clientId": "982060218",
+    "accountType": "CREDIT",
+    "balance": "1490248438970911"
+  },
+  {
+    "clientId": "628426224",
+    "accountType": "CREDIT",
+    "balance": "7099749208041473"
+  },
+  {
+    "clientId": "436114952",
+    "accountType": "CREDIT",
+    "balance": "1714479421948651"
+  },
+  {
+    "clientId": "623705479",
+    "accountType": "CREDIT",
+    "balance": "4911250265335113"
+  },
+  {
+    "clientId": "654909994",
+    "accountType": "DEBIT",
+    "balance": "6149532974317729"
+  },
+  {
+    "clientId": "225865756",
+    "accountType": "CREDIT",
+    "balance": "1292178620214911"
+  },
+  {
+    "clientId": "233287623",
+    "accountType": "DEBIT",
+    "balance": "1632322142170000"
+  },
+  {
+    "clientId": "506995657",
+    "accountType": "DEBIT",
+    "balance": "4880647251695577"
+  },
+  {
+    "clientId": "442983643",
+    "accountType": "DEBIT",
+    "balance": "8269409732269733"
+  },
+  {
+    "clientId": "937675863",
+    "accountType": "CREDIT",
+    "balance": "5795830163451417"
+  },
+  {
+    "clientId": "141293484",
+    "accountType": "DEBIT",
+    "balance": "1268648765436296"
+  },
+  {
+    "clientId": "631714939",
+    "accountType": "DEBIT",
+    "balance": "4268279026406879"
+  },
+  {
+    "clientId": "143409781",
+    "accountType": "CREDIT",
+    "balance": "7987458963946808"
+  },
+  {
+    "clientId": "736790999",
+    "accountType": "CREDIT",
+    "balance": "406583506070021"
+  },
+  {
+    "clientId": "344830282",
+    "accountType": "DEBIT",
+    "balance": "5483378496957031"
+  },
+  {
+    "clientId": "509208106",
+    "accountType": "DEBIT",
+    "balance": "2992008251877392"
+  },
+  {
+    "clientId": "419483964",
+    "accountType": "CREDIT",
+    "balance": "4275823417354325"
+  },
+  {
+    "clientId": "933389718",
+    "accountType": "CREDIT",
+    "balance": "6530286147142800"
+  },
+  {
+    "clientId": "872407749",
+    "accountType": "DEBIT",
+    "balance": "7627507925737870"
+  },
+  {
+    "clientId": "035741799",
+    "accountType": "CREDIT",
+    "balance": "4272918637243885"
+  },
+  {
+    "clientId": "728776962",
+    "accountType": "CREDIT",
+    "balance": "6469553388595078"
+  },
+  {
+    "clientId": "249852766",
+    "accountType": "DEBIT",
+    "balance": "1843865199358650"
+  },
+  {
+    "clientId": "552379591",
+    "accountType": "DEBIT",
+    "balance": "8192278134906554"
+  },
+  {
+    "clientId": "777720370",
+    "accountType": "CREDIT",
+    "balance": "2741314538598372"
+  },
+  {
+    "clientId": "571525896",
+    "accountType": "DEBIT",
+    "balance": "4100541647005946"
+  },
+  {
+    "clientId": "441617432",
+    "accountType": "CREDIT",
+    "balance": "9768282952073065"
+  },
+  {
+    "clientId": "766013295",
+    "accountType": "DEBIT",
+    "balance": "7998286446452585"
+  },
+  {
+    "clientId": "101311032",
+    "accountType": "DEBIT",
+    "balance": "4709302402221633"
+  },
+  {
+    "clientId": "656230614",
+    "accountType": "DEBIT",
+    "balance": "3108288344508828"
+  },
+  {
+    "clientId": "760937725",
+    "accountType": "CREDIT",
+    "balance": "4307320717487113"
+  },
+  {
+    "clientId": "224889050",
+    "accountType": "CREDIT",
+    "balance": "5691539919708767"
+  },
+  {
+    "clientId": "773808993",
+    "accountType": "CREDIT",
+    "balance": "8443789321842804"
+  },
+  {
+    "clientId": "085407983",
+    "accountType": "CREDIT",
+    "balance": "7554801614538428"
+  },
+  {
+    "clientId": "969861545",
+    "accountType": "DEBIT",
+    "balance": "9725493783222561"
+  },
+  {
+    "clientId": "766663419",
+    "accountType": "CREDIT",
+    "balance": "375039834203746"
+  },
+  {
+    "clientId": "136964920",
+    "accountType": "DEBIT",
+    "balance": "8603223197570455"
+  },
+  {
+    "clientId": "143034896",
+    "accountType": "DEBIT",
+    "balance": "2603424111242297"
+  },
+  {
+    "clientId": "273885256",
+    "accountType": "CREDIT",
+    "balance": "3828459521089520"
+  },
+  {
+    "clientId": "823924485",
+    "accountType": "CREDIT",
+    "balance": "4158226620178951"
+  },
+  {
+    "clientId": "219538476",
+    "accountType": "DEBIT",
+    "balance": "2920681991551417"
+  },
+  {
+    "clientId": "713207434",
+    "accountType": "DEBIT",
+    "balance": "6882432220115935"
+  },
+  {
+    "clientId": "664945941",
+    "accountType": "DEBIT",
+    "balance": "3991808684197598"
+  },
+  {
+    "clientId": "437741820",
+    "accountType": "CREDIT",
+    "balance": "4639028271016334"
+  },
+  {
+    "clientId": "589938272",
+    "accountType": "DEBIT",
+    "balance": "214402372787218"
+  },
+  {
+    "clientId": "272808135",
+    "accountType": "DEBIT",
+    "balance": "5807584550437115"
+  },
+  {
+    "clientId": "525938711",
+    "accountType": "DEBIT",
+    "balance": "3220302940555248"
+  },
+  {
+    "clientId": "633127953",
+    "accountType": "CREDIT",
+    "balance": "6998531040241712"
+  },
+  {
+    "clientId": "309850100",
+    "accountType": "CREDIT",
+    "balance": "7715766133132630"
+  },
+  {
+    "clientId": "102778167",
+    "accountType": "DEBIT",
+    "balance": "8035515137950547"
+  },
+  {
+    "clientId": "201345856",
+    "accountType": "CREDIT",
+    "balance": "9136213004555904"
+  },
+  {
+    "clientId": "857721981",
+    "accountType": "CREDIT",
+    "balance": "3486659407679596"
+  },
+  {
+    "clientId": "291601757",
+    "accountType": "DEBIT",
+    "balance": "8404524706217124"
+  },
+  {
+    "clientId": "931771646",
+    "accountType": "DEBIT",
+    "balance": "9401310670456289"
+  },
+  {
+    "clientId": "681004680",
+    "accountType": "CREDIT",
+    "balance": "803422310363345"
+  },
+  {
+    "clientId": "809120218",
+    "accountType": "CREDIT",
+    "balance": "8938692306521111"
+  },
+  {
+    "clientId": "282457850",
+    "accountType": "DEBIT",
+    "balance": "315200728602274"
+  },
+  {
+    "clientId": "753993042",
+    "accountType": "DEBIT",
+    "balance": "8283774368687677"
+  },
+  {
+    "clientId": "471102120",
+    "accountType": "DEBIT",
+    "balance": "6591706179097967"
+  },
+  {
+    "clientId": "393806262",
+    "accountType": "DEBIT",
+    "balance": "2500338602792556"
+  },
+  {
+    "clientId": "705353116",
+    "accountType": "CREDIT",
+    "balance": "6773849233516730"
+  },
+  {
+    "clientId": "089276399",
+    "accountType": "CREDIT",
+    "balance": "4030401826239835"
+  },
+  {
+    "clientId": "932679047",
+    "accountType": "DEBIT",
+    "balance": "9533922819151547"
+  },
+  {
+    "clientId": "681547351",
+    "accountType": "DEBIT",
+    "balance": "9504126551448032"
+  },
+  {
+    "clientId": "565525361",
+    "accountType": "CREDIT",
+    "balance": "7690603445526151"
+  },
+  {
+    "clientId": "344840225",
+    "accountType": "DEBIT",
+    "balance": "9367162915014692"
+  },
+  {
+    "clientId": "340917551",
+    "accountType": "CREDIT",
+    "balance": "1523939277179188"
+  },
+  {
+    "clientId": "317808293",
+    "accountType": "DEBIT",
+    "balance": "5558686860101803"
+  },
+  {
+    "clientId": "899421522",
+    "accountType": "CREDIT",
+    "balance": "679039841159609"
+  },
+  {
+    "clientId": "036754024",
+    "accountType": "CREDIT",
+    "balance": "7597891666119126"
+  },
+  {
+    "clientId": "652074648",
+    "accountType": "CREDIT",
+    "balance": "9367499038001310"
+  },
+  {
+    "clientId": "679149355",
+    "accountType": "CREDIT",
+    "balance": "8075316785851592"
+  },
+  {
+    "clientId": "424422776",
+    "accountType": "DEBIT",
+    "balance": "3577715270531836"
+  },
+  {
+    "clientId": "409643492",
+    "accountType": "DEBIT",
+    "balance": "7482123705898687"
+  },
+  {
+    "clientId": "528320562",
+    "accountType": "CREDIT",
+    "balance": "7015469753203448"
+  },
+  {
+    "clientId": "016636351",
+    "accountType": "CREDIT",
+    "balance": "3559281400714557"
+  },
+  {
+    "clientId": "799503947",
+    "accountType": "DEBIT",
+    "balance": "3433168689953360"
+  },
+  {
+    "clientId": "545600596",
+    "accountType": "CREDIT",
+    "balance": "6628595269746269"
+  },
+  {
+    "clientId": "643359610",
+    "accountType": "DEBIT",
+    "balance": "6753591626733678"
+  },
+  {
+    "clientId": "181772787",
+    "accountType": "CREDIT",
+    "balance": "9822156647654274"
+  },
+  {
+    "clientId": "430596286",
+    "accountType": "DEBIT",
+    "balance": "6155644426546005"
+  },
+  {
+    "clientId": "534120618",
+    "accountType": "CREDIT",
+    "balance": "2721781750697541"
+  },
+  {
+    "clientId": "217520724",
+    "accountType": "DEBIT",
+    "balance": "1910224056420491"
+  },
+  {
+    "clientId": "285149949",
+    "accountType": "CREDIT",
+    "balance": "959380420756896"
+  },
+  {
+    "clientId": "681534218",
+    "accountType": "DEBIT",
+    "balance": "9142116642744085"
+  },
+  {
+    "clientId": "653274418",
+    "accountType": "CREDIT",
+    "balance": "1414497847642374"
+  },
+  {
+    "clientId": "430763664",
+    "accountType": "DEBIT",
+    "balance": "8757488829932788"
+  },
+  {
+    "clientId": "652126521",
+    "accountType": "DEBIT",
+    "balance": "5105399235586473"
+  },
+  {
+    "clientId": "673055947",
+    "accountType": "CREDIT",
+    "balance": "6084499035585665"
+  },
+  {
+    "clientId": "526919462",
+    "accountType": "DEBIT",
+    "balance": "1488041306755320"
+  },
+  {
+    "clientId": "210762558",
+    "accountType": "CREDIT",
+    "balance": "38317282355387"
+  },
+  {
+    "clientId": "196203853",
+    "accountType": "DEBIT",
+    "balance": "6866105507930302"
+  },
+  {
+    "clientId": "740986009",
+    "accountType": "CREDIT",
+    "balance": "896174074562839"
+  },
+  {
+    "clientId": "156418589",
+    "accountType": "DEBIT",
+    "balance": "8293022259747216"
+  },
+  {
+    "clientId": "678771581",
+    "accountType": "DEBIT",
+    "balance": "8408438043726075"
+  },
+  {
+    "clientId": "568693294",
+    "accountType": "CREDIT",
+    "balance": "9511474319799285"
+  },
+  {
+    "clientId": "199309361",
+    "accountType": "CREDIT",
+    "balance": "1779644039711784"
+  },
+  {
+    "clientId": "214896504",
+    "accountType": "CREDIT",
+    "balance": "2099109967724655"
+  },
+  {
+    "clientId": "496939850",
+    "accountType": "DEBIT",
+    "balance": "7926120937391110"
+  },
+  {
+    "clientId": "799487891",
+    "accountType": "DEBIT",
+    "balance": "6415058302827943"
+  },
+  {
+    "clientId": "591389398",
+    "accountType": "CREDIT",
+    "balance": "9314942762387858"
+  },
+  {
+    "clientId": "057731229",
+    "accountType": "CREDIT",
+    "balance": "8603118918032772"
+  },
+  {
+    "clientId": "776679050",
+    "accountType": "DEBIT",
+    "balance": "6581291676259122"
+  },
+  {
+    "clientId": "827518581",
+    "accountType": "CREDIT",
+    "balance": "1660640870471450"
+  },
+  {
+    "clientId": "626072021",
+    "accountType": "CREDIT",
+    "balance": "1105573661083261"
+  },
+  {
+    "clientId": "154406551",
+    "accountType": "CREDIT",
+    "balance": "1871856934145340"
+  },
+  {
+    "clientId": "903196892",
+    "accountType": "DEBIT",
+    "balance": "7061835383968882"
+  },
+  {
+    "clientId": "789147775",
+    "accountType": "CREDIT",
+    "balance": "202776118868624"
+  },
+  {
+    "clientId": "597781813",
+    "accountType": "CREDIT",
+    "balance": "6129769495606994"
+  },
+  {
+    "clientId": "963533143",
+    "accountType": "CREDIT",
+    "balance": "4329778153992063"
+  },
+  {
+    "clientId": "081801348",
+    "accountType": "CREDIT",
+    "balance": "2189318317123694"
+  },
+  {
+    "clientId": "706901639",
+    "accountType": "CREDIT",
+    "balance": "8844405128360467"
+  },
+  {
+    "clientId": "644656737",
+    "accountType": "CREDIT",
+    "balance": "5836641414295022"
+  },
+  {
+    "clientId": "942520446",
+    "accountType": "CREDIT",
+    "balance": "4997266468025466"
+  },
+  {
+    "clientId": "604965430",
+    "accountType": "CREDIT",
+    "balance": "4857620773481528"
+  },
+  {
+    "clientId": "467402581",
+    "accountType": "CREDIT",
+    "balance": "9119401276571661"
+  },
+  {
+    "clientId": "447145627",
+    "accountType": "DEBIT",
+    "balance": "3495624939093765"
+  },
+  {
+    "clientId": "900313105",
+    "accountType": "CREDIT",
+    "balance": "1847478141569350"
+  },
+  {
+    "clientId": "943075744",
+    "accountType": "CREDIT",
+    "balance": "536563810909861"
+  },
+  {
+    "clientId": "918643002",
+    "accountType": "DEBIT",
+    "balance": "848657437720347"
+  },
+  {
+    "clientId": "925205716",
+    "accountType": "CREDIT",
+    "balance": "5552590685666030"
+  },
+  {
+    "clientId": "446423512",
+    "accountType": "DEBIT",
+    "balance": "8653806656901407"
+  },
+  {
+    "clientId": "543924980",
+    "accountType": "CREDIT",
+    "balance": "1101549501990487"
+  },
+  {
+    "clientId": "354428595",
+    "accountType": "DEBIT",
+    "balance": "5177378887200243"
+  },
+  {
+    "clientId": "326138277",
+    "accountType": "DEBIT",
+    "balance": "1470904268537423"
+  },
+  {
+    "clientId": "272366781",
+    "accountType": "DEBIT",
+    "balance": "2689491313294456"
+  },
+  {
+    "clientId": "090900761",
+    "accountType": "CREDIT",
+    "balance": "4411685815358494"
+  },
+  {
+    "clientId": "634100589",
+    "accountType": "DEBIT",
+    "balance": "6621962293164417"
+  },
+  {
+    "clientId": "483841523",
+    "accountType": "CREDIT",
+    "balance": "1022434366546572"
+  },
+  {
+    "clientId": "043435565",
+    "accountType": "CREDIT",
+    "balance": "8643216795546061"
+  },
+  {
+    "clientId": "019296044",
+    "accountType": "DEBIT",
+    "balance": "2099965885775486"
+  },
+  {
+    "clientId": "043745597",
+    "accountType": "DEBIT",
+    "balance": "8349818637153283"
+  },
+  {
+    "clientId": "514030431",
+    "accountType": "CREDIT",
+    "balance": "9926932937261496"
+  },
+  {
+    "clientId": "055461702",
+    "accountType": "CREDIT",
+    "balance": "8116116463487367"
+  },
+  {
+    "clientId": "418388524",
+    "accountType": "CREDIT",
+    "balance": "9789068746976808"
+  },
+  {
+    "clientId": "308814782",
+    "accountType": "CREDIT",
+    "balance": "6060938859126424"
+  },
+  {
+    "clientId": "085320731",
+    "accountType": "CREDIT",
+    "balance": "5436582223164304"
+  },
+  {
+    "clientId": "732089390",
+    "accountType": "DEBIT",
+    "balance": "2132474871240902"
+  },
+  {
+    "clientId": "123178571",
+    "accountType": "DEBIT",
+    "balance": "1992841666481985"
+  },
+  {
+    "clientId": "280809124",
+    "accountType": "DEBIT",
+    "balance": "5465244700187194"
+  },
+  {
+    "clientId": "789719712",
+    "accountType": "DEBIT",
+    "balance": "7453446761883597"
+  },
+  {
+    "clientId": "098382418",
+    "accountType": "DEBIT",
+    "balance": "7187410860830499"
+  },
+  {
+    "clientId": "784241657",
+    "accountType": "DEBIT",
+    "balance": "7281422106371079"
+  },
+  {
+    "clientId": "377699719",
+    "accountType": "DEBIT",
+    "balance": "4988477114630952"
+  },
+  {
+    "clientId": "901716139",
+    "accountType": "CREDIT",
+    "balance": "8861142163023726"
+  },
+  {
+    "clientId": "628022378",
+    "accountType": "CREDIT",
+    "balance": "9255015505974876"
+  },
+  {
+    "clientId": "757880294",
+    "accountType": "CREDIT",
+    "balance": "1403509858974955"
+  },
+  {
+    "clientId": "071418746",
+    "accountType": "CREDIT",
+    "balance": "2190546088739282"
+  },
+  {
+    "clientId": "963734790",
+    "accountType": "CREDIT",
+    "balance": "645298023509612"
+  },
+  {
+    "clientId": "981673365",
+    "accountType": "CREDIT",
+    "balance": "1506514208323220"
+  },
+  {
+    "clientId": "640172495",
+    "accountType": "DEBIT",
+    "balance": "8216119032861272"
+  },
+  {
+    "clientId": "990229984",
+    "accountType": "CREDIT",
+    "balance": "3518721557683544"
+  },
+  {
+    "clientId": "505120807",
+    "accountType": "DEBIT",
+    "balance": "5283979903027878"
+  },
+  {
+    "clientId": "758609781",
+    "accountType": "DEBIT",
+    "balance": "646939972952219"
+  },
+  {
+    "clientId": "208663898",
+    "accountType": "DEBIT",
+    "balance": "2749555435625707"
+  },
+  {
+    "clientId": "215572885",
+    "accountType": "CREDIT",
+    "balance": "8651695325886922"
+  },
+  {
+    "clientId": "101949432",
+    "accountType": "CREDIT",
+    "balance": "8098935650484643"
+  },
+  {
+    "clientId": "541590882",
+    "accountType": "DEBIT",
+    "balance": "2917795721011322"
+  },
+  {
+    "clientId": "531021579",
+    "accountType": "DEBIT",
+    "balance": "4722320180961705"
+  },
+  {
+    "clientId": "468968012",
+    "accountType": "CREDIT",
+    "balance": "5075217841530650"
+  },
+  {
+    "clientId": "372031159",
+    "accountType": "DEBIT",
+    "balance": "908136136915383"
+  },
+  {
+    "clientId": "382994448",
+    "accountType": "DEBIT",
+    "balance": "9364155550273932"
+  },
+  {
+    "clientId": "301398146",
+    "accountType": "DEBIT",
+    "balance": "6781750843507758"
+  },
+  {
+    "clientId": "214900563",
+    "accountType": "CREDIT",
+    "balance": "962499584219353"
+  },
+  {
+    "clientId": "503400216",
+    "accountType": "CREDIT",
+    "balance": "9686931035531041"
+  },
+  {
+    "clientId": "700502308",
+    "accountType": "DEBIT",
+    "balance": "1368227772065856"
+  },
+  {
+    "clientId": "644003500",
+    "accountType": "CREDIT",
+    "balance": "5976202038797328"
+  },
+  {
+    "clientId": "018228791",
+    "accountType": "CREDIT",
+    "balance": "9295341135407729"
+  },
+  {
+    "clientId": "013745105",
+    "accountType": "CREDIT",
+    "balance": "1717942711504429"
+  },
+  {
+    "clientId": "594394746",
+    "accountType": "CREDIT",
+    "balance": "8142302659713528"
+  },
+  {
+    "clientId": "916960059",
+    "accountType": "DEBIT",
+    "balance": "1882026051488266"
+  },
+  {
+    "clientId": "136010956",
+    "accountType": "DEBIT",
+    "balance": "6417100553322391"
+  },
+  {
+    "clientId": "355055843",
+    "accountType": "DEBIT",
+    "balance": "8609244609424272"
+  },
+  {
+    "clientId": "612960375",
+    "accountType": "DEBIT",
+    "balance": "417528366951282"
+  },
+  {
+    "clientId": "236988852",
+    "accountType": "CREDIT",
+    "balance": "1717994763813549"
+  },
+  {
+    "clientId": "963226376",
+    "accountType": "DEBIT",
+    "balance": "8419863585126320"
+  },
+  {
+    "clientId": "832627380",
+    "accountType": "DEBIT",
+    "balance": "50505346786240"
+  },
+  {
+    "clientId": "407293946",
+    "accountType": "CREDIT",
+    "balance": "4474729664668631"
+  },
+  {
+    "clientId": "017944714",
+    "accountType": "CREDIT",
+    "balance": "2184163414876775"
+  },
+  {
+    "clientId": "948738515",
+    "accountType": "CREDIT",
+    "balance": "7554693463579260"
+  },
+  {
+    "clientId": "193269461",
+    "accountType": "DEBIT",
+    "balance": "8217776034029560"
+  },
+  {
+    "clientId": "939348113",
+    "accountType": "DEBIT",
+    "balance": "6963292351314876"
+  },
+  {
+    "clientId": "518280096",
+    "accountType": "DEBIT",
+    "balance": "1956805602990441"
+  },
+  {
+    "clientId": "973986300",
+    "accountType": "DEBIT",
+    "balance": "148651680340174"
+  },
+  {
+    "clientId": "467423472",
+    "accountType": "DEBIT",
+    "balance": "1716453005029000"
+  },
+  {
+    "clientId": "886066187",
+    "accountType": "CREDIT",
+    "balance": "2470831251979472"
+  },
+  {
+    "clientId": "999728802",
+    "accountType": "DEBIT",
+    "balance": "1313819531416270"
+  },
+  {
+    "clientId": "496034801",
+    "accountType": "DEBIT",
+    "balance": "9606628297100044"
+  },
+  {
+    "clientId": "010482333",
+    "accountType": "DEBIT",
+    "balance": "7675725878485043"
+  },
+  {
+    "clientId": "223970728",
+    "accountType": "CREDIT",
+    "balance": "9423798694359752"
+  },
+  {
+    "clientId": "692289139",
+    "accountType": "CREDIT",
+    "balance": "3812896372382979"
+  },
+  {
+    "clientId": "078915877",
+    "accountType": "DEBIT",
+    "balance": "1505312333704628"
+  },
+  {
+    "clientId": "875809444",
+    "accountType": "DEBIT",
+    "balance": "5306759829288928"
+  },
+  {
+    "clientId": "212401663",
+    "accountType": "CREDIT",
+    "balance": "2943557283950858"
+  },
+  {
+    "clientId": "691630142",
+    "accountType": "DEBIT",
+    "balance": "5129873126834655"
+  },
+  {
+    "clientId": "153530176",
+    "accountType": "DEBIT",
+    "balance": "2721155792949011"
+  },
+  {
+    "clientId": "774358830",
+    "accountType": "CREDIT",
+    "balance": "872295310869249"
+  },
+  {
+    "clientId": "527753554",
+    "accountType": "CREDIT",
+    "balance": "5009762263812472"
+  },
+  {
+    "clientId": "369235866",
+    "accountType": "DEBIT",
+    "balance": "9825298185778232"
+  },
+  {
+    "clientId": "133468238",
+    "accountType": "CREDIT",
+    "balance": "6751323822232603"
+  },
+  {
+    "clientId": "388357777",
+    "accountType": "CREDIT",
+    "balance": "1616355369407189"
+  },
+  {
+    "clientId": "226048770",
+    "accountType": "DEBIT",
+    "balance": "3416425280295084"
+  },
+  {
+    "clientId": "051117354",
+    "accountType": "CREDIT",
+    "balance": "1296921590316989"
+  },
+  {
+    "clientId": "357322150",
+    "accountType": "DEBIT",
+    "balance": "6586821684145326"
+  },
+  {
+    "clientId": "385491161",
+    "accountType": "CREDIT",
+    "balance": "3122647277543475"
+  },
+  {
+    "clientId": "045797402",
+    "accountType": "DEBIT",
+    "balance": "300089421859132"
+  },
+  {
+    "clientId": "237192204",
+    "accountType": "DEBIT",
+    "balance": "2510953049656349"
+  },
+  {
+    "clientId": "525741927",
+    "accountType": "CREDIT",
+    "balance": "1369317332526567"
+  },
+  {
+    "clientId": "345514980",
+    "accountType": "CREDIT",
+    "balance": "4435552813454341"
+  },
+  {
+    "clientId": "113009443",
+    "accountType": "CREDIT",
+    "balance": "7025287408756248"
+  },
+  {
+    "clientId": "844608257",
+    "accountType": "CREDIT",
+    "balance": "9690835985241375"
+  },
+  {
+    "clientId": "004322113",
+    "accountType": "DEBIT",
+    "balance": "9891953689105817"
+  },
+  {
+    "clientId": "187530923",
+    "accountType": "DEBIT",
+    "balance": "5162333904225610"
+  },
+  {
+    "clientId": "251165490",
+    "accountType": "DEBIT",
+    "balance": "1358514981878031"
+  },
+  {
+    "clientId": "241091199",
+    "accountType": "CREDIT",
+    "balance": "6967200050674170"
+  },
+  {
+    "clientId": "520514494",
+    "accountType": "DEBIT",
+    "balance": "9859153401240482"
+  },
+  {
+    "clientId": "429169936",
+    "accountType": "DEBIT",
+    "balance": "7100192816879871"
+  },
+  {
+    "clientId": "586396684",
+    "accountType": "DEBIT",
+    "balance": "5181351783269180"
+  },
+  {
+    "clientId": "622135660",
+    "accountType": "DEBIT",
+    "balance": "45921338600279"
+  },
+  {
+    "clientId": "632312603",
+    "accountType": "CREDIT",
+    "balance": "7607959177279013"
+  },
+  {
+    "clientId": "691727080",
+    "accountType": "DEBIT",
+    "balance": "3309100321991708"
+  },
+  {
+    "clientId": "880506135",
+    "accountType": "DEBIT",
+    "balance": "5878319792786822"
+  },
+  {
+    "clientId": "337699908",
+    "accountType": "DEBIT",
+    "balance": "6606436069169798"
+  },
+  {
+    "clientId": "492873949",
+    "accountType": "CREDIT",
+    "balance": "2029600417041012"
+  },
+  {
+    "clientId": "825100635",
+    "accountType": "CREDIT",
+    "balance": "5777031761453055"
+  },
+  {
+    "clientId": "767904458",
+    "accountType": "DEBIT",
+    "balance": "1049241808199888"
+  },
+  {
+    "clientId": "326731622",
+    "accountType": "CREDIT",
+    "balance": "2681999907908978"
+  },
+  {
+    "clientId": "456010626",
+    "accountType": "CREDIT",
+    "balance": "8387392469891134"
+  },
+  {
+    "clientId": "391424386",
+    "accountType": "CREDIT",
+    "balance": "1405451122873267"
+  },
+  {
+    "clientId": "136573670",
+    "accountType": "CREDIT",
+    "balance": "9027429272502188"
+  },
+  {
+    "clientId": "285914713",
+    "accountType": "DEBIT",
+    "balance": "2776122734687518"
+  },
+  {
+    "clientId": "171770516",
+    "accountType": "DEBIT",
+    "balance": "2216504214237808"
+  },
+  {
+    "clientId": "025233763",
+    "accountType": "DEBIT",
+    "balance": "1264377476672663"
+  },
+  {
+    "clientId": "235982134",
+    "accountType": "CREDIT",
+    "balance": "5447221026932975"
+  },
+  {
+    "clientId": "359768025",
+    "accountType": "DEBIT",
+    "balance": "9617968648724727"
+  },
+  {
+    "clientId": "131964724",
+    "accountType": "CREDIT",
+    "balance": "5560281383734050"
+  },
+  {
+    "clientId": "124167629",
+    "accountType": "DEBIT",
+    "balance": "3338668978314397"
+  },
+  {
+    "clientId": "212315660",
+    "accountType": "DEBIT",
+    "balance": "5437644150982408"
+  },
+  {
+    "clientId": "588904600",
+    "accountType": "DEBIT",
+    "balance": "6992626601829591"
+  },
+  {
+    "clientId": "092700490",
+    "accountType": "DEBIT",
+    "balance": "9592936453623565"
+  },
+  {
+    "clientId": "070978102",
+    "accountType": "DEBIT",
+    "balance": "5196566818487809"
+  },
+  {
+    "clientId": "252457758",
+    "accountType": "DEBIT",
+    "balance": "3024917351107038"
+  },
+  {
+    "clientId": "238854293",
+    "accountType": "DEBIT",
+    "balance": "2922844166357742"
+  },
+  {
+    "clientId": "612004529",
+    "accountType": "DEBIT",
+    "balance": "7596657537024353"
+  },
+  {
+    "clientId": "920727180",
+    "accountType": "DEBIT",
+    "balance": "1454160361331381"
+  },
+  {
+    "clientId": "609547914",
+    "accountType": "DEBIT",
+    "balance": "1331582338117693"
+  },
+  {
+    "clientId": "460814888",
+    "accountType": "CREDIT",
+    "balance": "2044976297778556"
+  },
+  {
+    "clientId": "391701769",
+    "accountType": "CREDIT",
+    "balance": "5888040420770934"
+  },
+  {
+    "clientId": "565198182",
+    "accountType": "DEBIT",
+    "balance": "3883956054343298"
+  },
+  {
+    "clientId": "783623628",
+    "accountType": "DEBIT",
+    "balance": "6728572183317893"
+  },
+  {
+    "clientId": "361881477",
+    "accountType": "CREDIT",
+    "balance": "7591378768310761"
+  },
+  {
+    "clientId": "236290473",
+    "accountType": "CREDIT",
+    "balance": "5072149221962935"
+  },
+  {
+    "clientId": "176183080",
+    "accountType": "CREDIT",
+    "balance": "3170300975036145"
+  },
+  {
+    "clientId": "628461554",
+    "accountType": "CREDIT",
+    "balance": "8941170369361313"
+  },
+  {
+    "clientId": "307387914",
+    "accountType": "DEBIT",
+    "balance": "4850956232786844"
+  },
+  {
+    "clientId": "627140762",
+    "accountType": "DEBIT",
+    "balance": "5086482575922027"
+  },
+  {
+    "clientId": "546789240",
+    "accountType": "DEBIT",
+    "balance": "6414344873620971"
+  },
+  {
+    "clientId": "888011137",
+    "accountType": "DEBIT",
+    "balance": "3889434882783527"
+  },
+  {
+    "clientId": "178956885",
+    "accountType": "CREDIT",
+    "balance": "8160606637492928"
+  },
+  {
+    "clientId": "522995781",
+    "accountType": "CREDIT",
+    "balance": "4510285344946357"
+  },
+  {
+    "clientId": "495332031",
+    "accountType": "CREDIT",
+    "balance": "5800372624800753"
+  },
+  {
+    "clientId": "231200280",
+    "accountType": "DEBIT",
+    "balance": "8663251528644575"
+  },
+  {
+    "clientId": "511173208",
+    "accountType": "DEBIT",
+    "balance": "2822740676052432"
+  },
+  {
+    "clientId": "126137455",
+    "accountType": "CREDIT",
+    "balance": "6830512273441885"
+  },
+  {
+    "clientId": "888236914",
+    "accountType": "DEBIT",
+    "balance": "8656161985916979"
+  },
+  {
+    "clientId": "861724037",
+    "accountType": "DEBIT",
+    "balance": "1177997709642692"
+  },
+  {
+    "clientId": "429878404",
+    "accountType": "CREDIT",
+    "balance": "145834952119569"
+  },
+  {
+    "clientId": "834846403",
+    "accountType": "DEBIT",
+    "balance": "1342408618920275"
+  },
+  {
+    "clientId": "198303078",
+    "accountType": "CREDIT",
+    "balance": "4755533786142700"
+  },
+  {
+    "clientId": "595284440",
+    "accountType": "CREDIT",
+    "balance": "9667833186875593"
+  },
+  {
+    "clientId": "467719857",
+    "accountType": "DEBIT",
+    "balance": "1013635055398171"
+  },
+  {
+    "clientId": "286639494",
+    "accountType": "DEBIT",
+    "balance": "2440353328759830"
+  },
+  {
+    "clientId": "473156895",
+    "accountType": "CREDIT",
+    "balance": "2224664909771759"
+  },
+  {
+    "clientId": "794639825",
+    "accountType": "CREDIT",
+    "balance": "505194824916394"
+  },
+  {
+    "clientId": "112148020",
+    "accountType": "DEBIT",
+    "balance": "301226406168504"
+  },
+  {
+    "clientId": "161868995",
+    "accountType": "DEBIT",
+    "balance": "77054154580467"
+  },
+  {
+    "clientId": "883243232",
+    "accountType": "CREDIT",
+    "balance": "8717939132440190"
+  },
+  {
+    "clientId": "189999013",
+    "accountType": "DEBIT",
+    "balance": "3373127535917541"
+  },
+  {
+    "clientId": "619781885",
+    "accountType": "CREDIT",
+    "balance": "311780121243887"
+  },
+  {
+    "clientId": "399076918",
+    "accountType": "CREDIT",
+    "balance": "7423064076455982"
+  },
+  {
+    "clientId": "032653977",
+    "accountType": "CREDIT",
+    "balance": "6984165120773646"
+  },
+  {
+    "clientId": "034752633",
+    "accountType": "CREDIT",
+    "balance": "8703314648886129"
+  },
+  {
+    "clientId": "029208559",
+    "accountType": "CREDIT",
+    "balance": "6497933018748152"
+  },
+  {
+    "clientId": "277603973",
+    "accountType": "DEBIT",
+    "balance": "3205071016713657"
+  },
+  {
+    "clientId": "527394460",
+    "accountType": "CREDIT",
+    "balance": "8954406872831421"
+  },
+  {
+    "clientId": "220752468",
+    "accountType": "CREDIT",
+    "balance": "2518843451391785"
+  },
+  {
+    "clientId": "070866944",
+    "accountType": "DEBIT",
+    "balance": "2006129894422163"
+  },
+  {
+    "clientId": "644286989",
+    "accountType": "DEBIT",
+    "balance": "4575898968874313"
+  },
+  {
+    "clientId": "968531516",
+    "accountType": "DEBIT",
+    "balance": "4564002426516528"
+  },
+  {
+    "clientId": "536243688",
+    "accountType": "DEBIT",
+    "balance": "5215006697854881"
+  },
+  {
+    "clientId": "667993286",
+    "accountType": "DEBIT",
+    "balance": "1994012937385289"
+  },
+  {
+    "clientId": "850896035",
+    "accountType": "DEBIT",
+    "balance": "609276132547319"
+  },
+  {
+    "clientId": "122336717",
+    "accountType": "DEBIT",
+    "balance": "4955791051948274"
+  },
+  {
+    "clientId": "713897720",
+    "accountType": "DEBIT",
+    "balance": "6389476502695717"
+  },
+  {
+    "clientId": "813129497",
+    "accountType": "DEBIT",
+    "balance": "8605461434108747"
+  },
+  {
+    "clientId": "395982981",
+    "accountType": "CREDIT",
+    "balance": "6203231971484108"
+  },
+  {
+    "clientId": "164043799",
+    "accountType": "CREDIT",
+    "balance": "9969032834634906"
+  },
+  {
+    "clientId": "025523886",
+    "accountType": "CREDIT",
+    "balance": "3284540404547079"
+  },
+  {
+    "clientId": "265790948",
+    "accountType": "DEBIT",
+    "balance": "2996465066483961"
+  },
+  {
+    "clientId": "329009414",
+    "accountType": "CREDIT",
+    "balance": "359802238844288"
+  },
+  {
+    "clientId": "628989567",
+    "accountType": "DEBIT",
+    "balance": "7634652171084396"
+  },
+  {
+    "clientId": "795695458",
+    "accountType": "CREDIT",
+    "balance": "4095956348498155"
+  },
+  {
+    "clientId": "226174534",
+    "accountType": "CREDIT",
+    "balance": "648958944848708"
+  },
+  {
+    "clientId": "445363146",
+    "accountType": "DEBIT",
+    "balance": "2350495529654385"
+  },
+  {
+    "clientId": "236308360",
+    "accountType": "CREDIT",
+    "balance": "6822577333142528"
+  },
+  {
+    "clientId": "632531486",
+    "accountType": "CREDIT",
+    "balance": "4505445478342500"
+  },
+  {
+    "clientId": "119900145",
+    "accountType": "CREDIT",
+    "balance": "9451558845014428"
+  },
+  {
+    "clientId": "549718565",
+    "accountType": "DEBIT",
+    "balance": "9006727911931198"
+  },
+  {
+    "clientId": "747187773",
+    "accountType": "DEBIT",
+    "balance": "2126293009844358"
+  },
+  {
+    "clientId": "525876217",
+    "accountType": "DEBIT",
+    "balance": "2093759989819703"
+  },
+  {
+    "clientId": "698170659",
+    "accountType": "CREDIT",
+    "balance": "9325160101987294"
+  },
+  {
+    "clientId": "744778318",
+    "accountType": "CREDIT",
+    "balance": "5221694418951092"
+  },
+  {
+    "clientId": "318889586",
+    "accountType": "CREDIT",
+    "balance": "2864438712962630"
+  },
+  {
+    "clientId": "448320669",
+    "accountType": "CREDIT",
+    "balance": "4095967186059646"
+  },
+  {
+    "clientId": "979410735",
+    "accountType": "DEBIT",
+    "balance": "2232702837996069"
+  },
+  {
+    "clientId": "276413248",
+    "accountType": "CREDIT",
+    "balance": "5152044849135623"
+  },
+  {
+    "clientId": "251676426",
+    "accountType": "DEBIT",
+    "balance": "5099905368347711"
+  },
+  {
+    "clientId": "603864443",
+    "accountType": "CREDIT",
+    "balance": "9262664212910669"
+  },
+  {
+    "clientId": "465461237",
+    "accountType": "CREDIT",
+    "balance": "2315271240844437"
+  },
+  {
+    "clientId": "769964259",
+    "accountType": "CREDIT",
+    "balance": "5013180652074485"
+  },
+  {
+    "clientId": "858516062",
+    "accountType": "DEBIT",
+    "balance": "6548348207860908"
+  },
+  {
+    "clientId": "724723068",
+    "accountType": "CREDIT",
+    "balance": "5344773850577872"
+  },
+  {
+    "clientId": "927167650",
+    "accountType": "CREDIT",
+    "balance": "3402242203653710"
+  },
+  {
+    "clientId": "173708025",
+    "accountType": "DEBIT",
+    "balance": "4636677416034545"
+  },
+  {
+    "clientId": "540892983",
+    "accountType": "CREDIT",
+    "balance": "1321144644201780"
+  },
+  {
+    "clientId": "847029949",
+    "accountType": "CREDIT",
+    "balance": "2287021046147560"
+  },
+  {
+    "clientId": "239131847",
+    "accountType": "DEBIT",
+    "balance": "7272266499832068"
+  },
+  {
+    "clientId": "973150412",
+    "accountType": "CREDIT",
+    "balance": "5677904717216502"
+  },
+  {
+    "clientId": "619533692",
+    "accountType": "CREDIT",
+    "balance": "635819214209561"
+  },
+  {
+    "clientId": "258454102",
+    "accountType": "DEBIT",
+    "balance": "1268299815345253"
+  },
+  {
+    "clientId": "313276020",
+    "accountType": "DEBIT",
+    "balance": "8366237110991930"
+  },
+  {
+    "clientId": "263305717",
+    "accountType": "CREDIT",
+    "balance": "7752375436720275"
+  },
+  {
+    "clientId": "385331548",
+    "accountType": "CREDIT",
+    "balance": "4897402906234413"
+  },
+  {
+    "clientId": "800865046",
+    "accountType": "DEBIT",
+    "balance": "2605872296556661"
+  },
+  {
+    "clientId": "380666946",
+    "accountType": "CREDIT",
+    "balance": "9743029586200108"
+  },
+  {
+    "clientId": "181654150",
+    "accountType": "CREDIT",
+    "balance": "7112605812581723"
+  },
+  {
+    "clientId": "313444204",
+    "accountType": "CREDIT",
+    "balance": "5985070743034621"
+  },
+  {
+    "clientId": "510991084",
+    "accountType": "DEBIT",
+    "balance": "7709395369102170"
+  },
+  {
+    "clientId": "937579938",
+    "accountType": "CREDIT",
+    "balance": "1807563995799873"
+  },
+  {
+    "clientId": "727352278",
+    "accountType": "CREDIT",
+    "balance": "2084898462851263"
+  },
+  {
+    "clientId": "634194274",
+    "accountType": "CREDIT",
+    "balance": "2362940309412028"
+  },
+  {
+    "clientId": "105435440",
+    "accountType": "DEBIT",
+    "balance": "6152950517970036"
+  },
+  {
+    "clientId": "677865162",
+    "accountType": "DEBIT",
+    "balance": "4156329655991980"
+  },
+  {
+    "clientId": "817091593",
+    "accountType": "DEBIT",
+    "balance": "1222579139442668"
+  },
+  {
+    "clientId": "886984012",
+    "accountType": "DEBIT",
+    "balance": "4783279263383818"
+  },
+  {
+    "clientId": "495521954",
+    "accountType": "CREDIT",
+    "balance": "8748755624662590"
+  },
+  {
+    "clientId": "387434981",
+    "accountType": "DEBIT",
+    "balance": "5904456475108449"
+  },
+  {
+    "clientId": "589932986",
+    "accountType": "DEBIT",
+    "balance": "9657786377559126"
+  },
+  {
+    "clientId": "384641224",
+    "accountType": "CREDIT",
+    "balance": "573236365344495"
+  },
+  {
+    "clientId": "485843736",
+    "accountType": "CREDIT",
+    "balance": "7425891978858000"
+  },
+  {
+    "clientId": "532747910",
+    "accountType": "CREDIT",
+    "balance": "8508446947929779"
+  },
+  {
+    "clientId": "597741961",
+    "accountType": "DEBIT",
+    "balance": "4793570156107483"
+  },
+  {
+    "clientId": "876848663",
+    "accountType": "CREDIT",
+    "balance": "9833899631054893"
+  },
+  {
+    "clientId": "468804949",
+    "accountType": "CREDIT",
+    "balance": "5576903344558597"
+  },
+  {
+    "clientId": "298901434",
+    "accountType": "DEBIT",
+    "balance": "4930816567755563"
+  },
+  {
+    "clientId": "896719469",
+    "accountType": "CREDIT",
+    "balance": "7557913182885279"
+  },
+  {
+    "clientId": "792471762",
+    "accountType": "CREDIT",
+    "balance": "433198467021539"
+  },
+  {
+    "clientId": "470529395",
+    "accountType": "DEBIT",
+    "balance": "2116043696825141"
+  },
+  {
+    "clientId": "785373721",
+    "accountType": "CREDIT",
+    "balance": "5142671826636272"
+  },
+  {
+    "clientId": "659636009",
+    "accountType": "CREDIT",
+    "balance": "5998359735850678"
+  },
+  {
+    "clientId": "996919840",
+    "accountType": "CREDIT",
+    "balance": "1981259543571077"
+  },
+  {
+    "clientId": "583390087",
+    "accountType": "CREDIT",
+    "balance": "7416906495273130"
+  },
+  {
+    "clientId": "864183545",
+    "accountType": "DEBIT",
+    "balance": "4619555370703810"
+  },
+  {
+    "clientId": "697561941",
+    "accountType": "DEBIT",
+    "balance": "7157398674023611"
+  },
+  {
+    "clientId": "676512471",
+    "accountType": "CREDIT",
+    "balance": "2306556572774721"
+  },
+  {
+    "clientId": "867830082",
+    "accountType": "CREDIT",
+    "balance": "2979643802381548"
+  },
+  {
+    "clientId": "103867975",
+    "accountType": "CREDIT",
+    "balance": "4680169696669551"
+  },
+  {
+    "clientId": "483409231",
+    "accountType": "CREDIT",
+    "balance": "7126257493736747"
+  },
+  {
+    "clientId": "672900395",
+    "accountType": "CREDIT",
+    "balance": "4716640165393618"
+  },
+  {
+    "clientId": "214704613",
+    "accountType": "DEBIT",
+    "balance": "3155175902490518"
+  },
+  {
+    "clientId": "954669977",
+    "accountType": "CREDIT",
+    "balance": "7821981077928952"
+  },
+  {
+    "clientId": "879967870",
+    "accountType": "DEBIT",
+    "balance": "7415909695730370"
+  },
+  {
+    "clientId": "887901342",
+    "accountType": "CREDIT",
+    "balance": "548095355046850"
+  },
+  {
+    "clientId": "930612429",
+    "accountType": "DEBIT",
+    "balance": "578583199648520"
+  },
+  {
+    "clientId": "526761956",
+    "accountType": "CREDIT",
+    "balance": "1428744759050373"
+  },
+  {
+    "clientId": "719502474",
+    "accountType": "DEBIT",
+    "balance": "2266328571175886"
+  },
+  {
+    "clientId": "147330294",
+    "accountType": "DEBIT",
+    "balance": "9554225148634589"
+  },
+  {
+    "clientId": "364476346",
+    "accountType": "CREDIT",
+    "balance": "4725556235410723"
+  },
+  {
+    "clientId": "411442066",
+    "accountType": "CREDIT",
+    "balance": "7153215961664887"
+  },
+  {
+    "clientId": "593324813",
+    "accountType": "CREDIT",
+    "balance": "4574409822564816"
+  },
+  {
+    "clientId": "711138159",
+    "accountType": "DEBIT",
+    "balance": "9572682758489984"
+  },
+  {
+    "clientId": "685785815",
+    "accountType": "CREDIT",
+    "balance": "5999340576857241"
+  },
+  {
+    "clientId": "199488767",
+    "accountType": "DEBIT",
+    "balance": "8160030692694305"
+  },
+  {
+    "clientId": "823863839",
+    "accountType": "CREDIT",
+    "balance": "3277859144713402"
+  },
+  {
+    "clientId": "164788161",
+    "accountType": "DEBIT",
+    "balance": "112457496840387"
+  },
+  {
+    "clientId": "104014611",
+    "accountType": "CREDIT",
+    "balance": "4583061647888342"
+  },
+  {
+    "clientId": "256694703",
+    "accountType": "CREDIT",
+    "balance": "1516311665135177"
+  },
+  {
+    "clientId": "434830645",
+    "accountType": "CREDIT",
+    "balance": "884068372250311"
+  },
+  {
+    "clientId": "634857623",
+    "accountType": "CREDIT",
+    "balance": "1907638538523517"
+  },
+  {
+    "clientId": "213764126",
+    "accountType": "DEBIT",
+    "balance": "4657443099701980"
+  },
+  {
+    "clientId": "590277709",
+    "accountType": "CREDIT",
+    "balance": "5840153952472402"
+  },
+  {
+    "clientId": "616736541",
+    "accountType": "CREDIT",
+    "balance": "1066755798740223"
+  },
+  {
+    "clientId": "704414584",
+    "accountType": "CREDIT",
+    "balance": "8848458504712462"
+  },
+  {
+    "clientId": "158342624",
+    "accountType": "CREDIT",
+    "balance": "8327431940620975"
+  },
+  {
+    "clientId": "182451657",
+    "accountType": "CREDIT",
+    "balance": "6507233872303796"
+  },
+  {
+    "clientId": "687174338",
+    "accountType": "CREDIT",
+    "balance": "8076818582380569"
+  },
+  {
+    "clientId": "319650411",
+    "accountType": "DEBIT",
+    "balance": "1558206555837006"
+  },
+  {
+    "clientId": "632050520",
+    "accountType": "DEBIT",
+    "balance": "1592315144928004"
+  },
+  {
+    "clientId": "848821852",
+    "accountType": "DEBIT",
+    "balance": "4207507593987551"
+  },
+  {
+    "clientId": "717006117",
+    "accountType": "DEBIT",
+    "balance": "7097567667727024"
+  },
+  {
+    "clientId": "057442492",
+    "accountType": "DEBIT",
+    "balance": "148982660696398"
+  },
+  {
+    "clientId": "092585505",
+    "accountType": "CREDIT",
+    "balance": "2690425383063260"
+  },
+  {
+    "clientId": "905268056",
+    "accountType": "DEBIT",
+    "balance": "7517381151155214"
+  },
+  {
+    "clientId": "599417390",
+    "accountType": "CREDIT",
+    "balance": "1288984947025235"
+  },
+  {
+    "clientId": "928554885",
+    "accountType": "DEBIT",
+    "balance": "1453961280984626"
+  },
+  {
+    "clientId": "439570342",
+    "accountType": "DEBIT",
+    "balance": "4469160480559853"
+  },
+  {
+    "clientId": "838486619",
+    "accountType": "DEBIT",
+    "balance": "9209429524165132"
+  },
+  {
+    "clientId": "513694349",
+    "accountType": "DEBIT",
+    "balance": "8953245996967174"
+  },
+  {
+    "clientId": "894608921",
+    "accountType": "DEBIT",
+    "balance": "4500462985960366"
+  },
+  {
+    "clientId": "466711148",
+    "accountType": "CREDIT",
+    "balance": "2477476974195534"
+  },
+  {
+    "clientId": "559175755",
+    "accountType": "CREDIT",
+    "balance": "5309041637538657"
+  },
+  {
+    "clientId": "115961320",
+    "accountType": "DEBIT",
+    "balance": "3238224439392292"
+  },
+  {
+    "clientId": "674086577",
+    "accountType": "CREDIT",
+    "balance": "304128921727964"
+  },
+  {
+    "clientId": "584435584",
+    "accountType": "DEBIT",
+    "balance": "1110532799699772"
+  },
+  {
+    "clientId": "185165234",
+    "accountType": "CREDIT",
+    "balance": "3375096818010705"
+  },
+  {
+    "clientId": "980650266",
+    "accountType": "DEBIT",
+    "balance": "8123737246836839"
+  },
+  {
+    "clientId": "779028597",
+    "accountType": "DEBIT",
+    "balance": "7802944080314431"
+  },
+  {
+    "clientId": "114056161",
+    "accountType": "CREDIT",
+    "balance": "3445111918594699"
+  },
+  {
+    "clientId": "149554713",
+    "accountType": "DEBIT",
+    "balance": "2038804929640088"
+  },
+  {
+    "clientId": "187922938",
+    "accountType": "DEBIT",
+    "balance": "8218985388235302"
+  },
+  {
+    "clientId": "994658653",
+    "accountType": "DEBIT",
+    "balance": "9905168669089066"
+  },
+  {
+    "clientId": "922953011",
+    "accountType": "DEBIT",
+    "balance": "5194016443867530"
+  },
+  {
+    "clientId": "315497179",
+    "accountType": "DEBIT",
+    "balance": "5412217089419996"
+  },
+  {
+    "clientId": "314461044",
+    "accountType": "DEBIT",
+    "balance": "1019229738952975"
+  },
+  {
+    "clientId": "571343623",
+    "accountType": "DEBIT",
+    "balance": "8581586016925263"
+  },
+  {
+    "clientId": "780752373",
+    "accountType": "CREDIT",
+    "balance": "8965635242547979"
+  },
+  {
+    "clientId": "527502195",
+    "accountType": "DEBIT",
+    "balance": "7005206270327102"
+  },
+  {
+    "clientId": "031896435",
+    "accountType": "CREDIT",
+    "balance": "6275843777349254"
+  },
+  {
+    "clientId": "495736966",
+    "accountType": "DEBIT",
+    "balance": "1108329681186672"
+  },
+  {
+    "clientId": "152574689",
+    "accountType": "DEBIT",
+    "balance": "7773807295317640"
+  },
+  {
+    "clientId": "304866734",
+    "accountType": "CREDIT",
+    "balance": "9959500869629093"
+  },
+  {
+    "clientId": "329503764",
+    "accountType": "CREDIT",
+    "balance": "266496462569726"
+  },
+  {
+    "clientId": "933355166",
+    "accountType": "CREDIT",
+    "balance": "7294523433394757"
+  },
+  {
+    "clientId": "579981892",
+    "accountType": "CREDIT",
+    "balance": "5947043493747773"
+  },
+  {
+    "clientId": "376956229",
+    "accountType": "DEBIT",
+    "balance": "572890778132042"
+  },
+  {
+    "clientId": "063666216",
+    "accountType": "DEBIT",
+    "balance": "8929135845264153"
+  },
+  {
+    "clientId": "302632187",
+    "accountType": "DEBIT",
+    "balance": "7894867576325095"
+  },
+  {
+    "clientId": "689649481",
+    "accountType": "CREDIT",
+    "balance": "5239207725808110"
+  },
+  {
+    "clientId": "207792520",
+    "accountType": "DEBIT",
+    "balance": "6249337510767029"
+  },
+  {
+    "clientId": "705764181",
+    "accountType": "CREDIT",
+    "balance": "401240645431791"
+  },
+  {
+    "clientId": "296687724",
+    "accountType": "DEBIT",
+    "balance": "6949067978074606"
+  },
+  {
+    "clientId": "465483465",
+    "accountType": "CREDIT",
+    "balance": "9520786813911741"
+  },
+  {
+    "clientId": "110192142",
+    "accountType": "DEBIT",
+    "balance": "2048828298265507"
+  },
+  {
+    "clientId": "301362846",
+    "accountType": "DEBIT",
+    "balance": "3293989559893847"
+  },
+  {
+    "clientId": "743143316",
+    "accountType": "DEBIT",
+    "balance": "4307340029871702"
+  },
+  {
+    "clientId": "253828600",
+    "accountType": "CREDIT",
+    "balance": "4372540976077564"
+  },
+  {
+    "clientId": "572468287",
+    "accountType": "DEBIT",
+    "balance": "651003005218322"
+  },
+  {
+    "clientId": "166275503",
+    "accountType": "DEBIT",
+    "balance": "9039720037717796"
+  },
+  {
+    "clientId": "821033929",
+    "accountType": "DEBIT",
+    "balance": "728643789857831"
+  },
+  {
+    "clientId": "076700386",
+    "accountType": "CREDIT",
+    "balance": "5384889691305717"
+  },
+  {
+    "clientId": "563399413",
+    "accountType": "CREDIT",
+    "balance": "3862709221720264"
+  },
+  {
+    "clientId": "991204814",
+    "accountType": "CREDIT",
+    "balance": "1356728391587631"
+  },
+  {
+    "clientId": "402025504",
+    "accountType": "CREDIT",
+    "balance": "3688468353108058"
+  },
+  {
+    "clientId": "391803484",
+    "accountType": "CREDIT",
+    "balance": "6618131801608316"
+  },
+  {
+    "clientId": "830115320",
+    "accountType": "CREDIT",
+    "balance": "2750443170456861"
+  },
+  {
+    "clientId": "947732478",
+    "accountType": "CREDIT",
+    "balance": "5907565172518367"
+  },
+  {
+    "clientId": "727894105",
+    "accountType": "DEBIT",
+    "balance": "2449808752263987"
+  },
+  {
+    "clientId": "153977108",
+    "accountType": "DEBIT",
+    "balance": "693729307510684"
+  },
+  {
+    "clientId": "128000737",
+    "accountType": "DEBIT",
+    "balance": "1525769886875890"
+  },
+  {
+    "clientId": "953033278",
+    "accountType": "CREDIT",
+    "balance": "1486076546365641"
+  },
+  {
+    "clientId": "603723553",
+    "accountType": "CREDIT",
+    "balance": "2394407125674427"
+  },
+  {
+    "clientId": "772622556",
+    "accountType": "DEBIT",
+    "balance": "1461027636102182"
+  },
+  {
+    "clientId": "765598515",
+    "accountType": "DEBIT",
+    "balance": "9942335618510392"
+  },
+  {
+    "clientId": "360434948",
+    "accountType": "CREDIT",
+    "balance": "6624473033584447"
+  },
+  {
+    "clientId": "356563472",
+    "accountType": "CREDIT",
+    "balance": "8929668208789846"
+  },
+  {
+    "clientId": "388353295",
+    "accountType": "DEBIT",
+    "balance": "1374494873887216"
+  },
+  {
+    "clientId": "212196983",
+    "accountType": "CREDIT",
+    "balance": "6184156672864476"
+  },
+  {
+    "clientId": "437644178",
+    "accountType": "CREDIT",
+    "balance": "172895096923898"
+  },
+  {
+    "clientId": "146177706",
+    "accountType": "DEBIT",
+    "balance": "7304770337723033"
+  },
+  {
+    "clientId": "679233306",
+    "accountType": "CREDIT",
+    "balance": "1933918216767725"
+  },
+  {
+    "clientId": "175605621",
+    "accountType": "DEBIT",
+    "balance": "5090513609585221"
+  },
+  {
+    "clientId": "044303363",
+    "accountType": "DEBIT",
+    "balance": "3689386995194210"
+  },
+  {
+    "clientId": "462300640",
+    "accountType": "DEBIT",
+    "balance": "7620825386754307"
+  },
+  {
+    "clientId": "181142322",
+    "accountType": "DEBIT",
+    "balance": "4698666047483459"
+  },
+  {
+    "clientId": "867908307",
+    "accountType": "DEBIT",
+    "balance": "1071369844917741"
+  },
+  {
+    "clientId": "818083978",
+    "accountType": "CREDIT",
+    "balance": "9564672250328426"
+  },
+  {
+    "clientId": "200852568",
+    "accountType": "CREDIT",
+    "balance": "1841515167636113"
+  },
+  {
+    "clientId": "045121259",
+    "accountType": "CREDIT",
+    "balance": "7366095471138789"
+  },
+  {
+    "clientId": "140998903",
+    "accountType": "CREDIT",
+    "balance": "6187980708607966"
+  },
+  {
+    "clientId": "524877962",
+    "accountType": "CREDIT",
+    "balance": "4495369137298394"
+  },
+  {
+    "clientId": "761389664",
+    "accountType": "CREDIT",
+    "balance": "315047125334916"
+  },
+  {
+    "clientId": "026749862",
+    "accountType": "DEBIT",
+    "balance": "5558820800166984"
+  }
+]
