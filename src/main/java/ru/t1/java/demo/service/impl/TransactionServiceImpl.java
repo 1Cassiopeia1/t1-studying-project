@@ -5,7 +5,6 @@ import lombok.extern.slf4j.Slf4j;
 import org.springframework.beans.BeanUtils;
 import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;
-import ru.t1.java.demo.aop.LogDataSourceError;
 import ru.t1.java.demo.dto.TransactionDto;
 import ru.t1.java.demo.exception.DbEntryNotFoundException;
 import ru.t1.java.demo.mappers.TransactionMapper;

@@ -36,6 +36,12 @@ public class AccountServiceImpl implements AccountService {
     }
 
     @Override
+    public Account getAccountEntity(Long accId) {
+        return accountRepository.findById(accId)
+                .orElseThrow(JpaNotFoundException::new);
+    }
+
+    @Override
     @LogDataSourceError
     public void saveAccount(AccountDto accountDto) {
         accountRepository.save(accountMapper.fromDtoToEntity(accountDto));
@@ -70,7 +76,7 @@ public class AccountServiceImpl implements AccountService {
             throw new IllegalStateException();
         }
         for (int i = 0; i < clients.size(); i++) {
-            accounts.get(i).setClientId(clients.get(i).getId());
+            accounts.get(i).setClientId(clients.get(i).getClientId());
         }
         accountRepository.saveAll(accounts);
     }
