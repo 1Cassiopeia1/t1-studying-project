@@ -8,7 +8,6 @@ import org.springframework.transaction.annotation.Transactional;
 import ru.t1.java.demo.aop.LogDataSourceError;
 import ru.t1.java.demo.dto.AccountDto;
 import ru.t1.java.demo.exception.JpaNotFoundException;
-import ru.t1.java.demo.kafka.KafkaProducer;
 import ru.t1.java.demo.mappers.AccountMapper;
 import ru.t1.java.demo.model.Account;
 import ru.t1.java.demo.model.Client;
@@ -25,13 +24,18 @@ public class AccountServiceImpl implements AccountService {
     private final AccountRepository accountRepository;
     private final AccountMapper accountMapper;
     private final MockService mockService;
-    private final KafkaProducer<Account> kafkaAccountProducer;
 
     @Override
     public AccountDto getAccount(Long accId) {
         Account account = accountRepository.findById(accId)
                 .orElseThrow(JpaNotFoundException::new);
         return accountMapper.fromEntityToDto(account);
+    }
+
+    @Override
+    public Account getAccountEntity(Long accId) {
+        return accountRepository.findById(accId)
+                .orElseThrow(JpaNotFoundException::new);
     }
 
     @Override
@@ -66,7 +70,7 @@ public class AccountServiceImpl implements AccountService {
             throw new IllegalStateException();
         }
         for (int i = 0; i < clients.size(); i++) {
-            accounts.get(i).setClientId(clients.get(i).getId());
+            accounts.get(i).setClientId(clients.get(i).getClientId());
         }
         accountRepository.saveAll(accounts);
     }

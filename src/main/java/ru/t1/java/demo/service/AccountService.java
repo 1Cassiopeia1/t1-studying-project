@@ -6,6 +6,9 @@ import ru.t1.java.demo.model.Account;
 import java.util.List;
 
 public interface AccountService {
+
+    Account getAccountEntity(Long accId);
+
     AccountDto getAccount(Long accId);
 
     void saveAccount(AccountDto accountDto);

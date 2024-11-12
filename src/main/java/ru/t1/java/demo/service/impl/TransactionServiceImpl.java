@@ -36,6 +36,12 @@ public class TransactionServiceImpl implements TransactionService {
         log.info("Transaction saved successfully");
     }
 
+    @Override
+    public void saveTransactionEntity(Transaction transaction) {
+        repository.save(transaction);
+        log.info("Transaction saved successfully");
+    }
+
     // метод падает, потому что падает на constrain на fk на базу - попадает в advice
     @Override
     public void saveMockedTransactions() {
