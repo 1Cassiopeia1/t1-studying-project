@@ -1,10 +1,12 @@
 spring:
+  config:
+    import: kafka.yml
   application:
-    name: t1-java-demo
+    name: t1-java-demof
   datasource:
-    url: "jdbc:postgresql://localhost:5432/t1_demo"
-    username: "postgres"
-    password: "postgres"
+    url: ${DATASOURCE_URL:jdbc:postgresql://localhost:5432/t1_demo}
+    username: ${DATASOURCE_USERNAME:postgres}
+    password: ${DATASOURCE_PASSWORD:postgres}
     driverClassName: org.postgresql.Driver
   liquibase:
     enabled: true
@@ -17,11 +19,11 @@ spring:
       ddl-auto: validate
     open-in-view: false
     properties:
-      hibernate.default_schema: ${DATABASE_SCHEMA}
+      hibernate.default_schema: ${DATABASE_SCHEMA:public}
       jdbc.batch_size: ${DATASOURCE_BATCH_SIZE:50}
       order_inserts: true
       order_updates: true
-    show-sql: false
+    show-sql: ${SHOW_SQL:false}
 
 springdoc:
   api-docs:
@@ -32,8 +34,13 @@ springdoc:
 logging:
   level:
     ROOT: INFO
+    org.apache.kafka: ERROR
     ru.t1.java.demo.controller.ClientController: DEBUG
 
-
-
-
+management:
+  endpoints:
+    enabled-by-default: false
+    web.exposure.include: health, prometheus
+  endpoint:
+    health.enabled: true
+    prometheus.enabled: true

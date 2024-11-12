@@ -9,11 +9,13 @@ import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.PutMapping;
 import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RestController;
+import ru.t1.java.demo.aop.Metric;
 import ru.t1.java.demo.dto.AccountDto;
 import ru.t1.java.demo.service.AccountService;
 
 @RestController
 @RequiredArgsConstructor
+@Metric(maxValue = 5000L)
 public class AccountController {
 
     private final AccountService accountService;
