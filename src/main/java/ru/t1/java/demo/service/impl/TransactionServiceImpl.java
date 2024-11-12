@@ -67,6 +67,12 @@ public class TransactionServiceImpl implements TransactionService {
         log.info(InfoLogs.TRANSACTION_SAVED);
     }
 
+    @Override
+    public void saveTransactionEntity(Transaction transaction) {
+        repository.save(transaction);
+        log.info("Transaction saved successfully");
+    }
+
     // метод падает, потому что падает на constrain на fk на базу - попадает в advice
     @Override
     @LogDataSourceError
