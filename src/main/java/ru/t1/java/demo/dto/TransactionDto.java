@@ -8,7 +8,7 @@ import lombok.NoArgsConstructor;
 import ru.t1.java.demo.model.enums.TransactionStatus;
 
 import java.io.Serializable;
-import java.sql.Timestamp;
+import java.time.LocalDateTime;
 import java.time.LocalTime;
 
 /**
@@ -24,5 +24,5 @@ public class TransactionDto implements Serializable {
     private String amount;
     private LocalTime executionTime;
     private TransactionStatus transactionStatus;
-    private Timestamp timestamp;
+    private LocalDateTime timestamp;
 }

@@ -86,7 +86,7 @@ class AccountServiceTest implements TestContainersConfig {
         List<DataSourceErrorLog> dataSourceErrorLogs = dataSourceErrorLogRepository.findAll();
         assertEquals(1, dataSourceErrorLogs.size());
         assertNotNull(dataSourceErrorLogs.get(0).getStacktrace());
-        assertEquals("void ru.t1.java.demo.service.impl.AccountServiceImpl.updateAccount(AccountDto,Long)",
+        assertEquals("void ru.t1.java.demo.service.impl.AccountServiceImpl.updateBalance(AccountDto,Long)",
                 dataSourceErrorLogs.get(0).getMethodSignature());
         assertEquals("Сущность не найдена по указанным параметрам", dataSourceErrorLogs.get(0).getMessage());
     }
