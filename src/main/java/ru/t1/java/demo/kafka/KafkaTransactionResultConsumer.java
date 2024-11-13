@@ -11,19 +11,16 @@ import org.springframework.kafka.support.KafkaHeaders;
 import org.springframework.messaging.handler.annotation.Header;
 import org.springframework.messaging.handler.annotation.Payload;
 import org.springframework.stereotype.Component;
-import ru.t1.java.demo.dto.AccountDto;
-import ru.t1.java.demo.service.AccountService;
-
-import java.util.List;
+import ru.t1.java.demo.dto.ResultDto;
+import ru.t1.java.demo.service.TransactionService;
 
 @Slf4j
 @RequiredArgsConstructor
 @Component
-public class KafkaTransactionResultConsumer<ResultDto> {
+public class KafkaTransactionResultConsumer {
 
-    private final AccountService accountService;
+    private final TransactionService transactionService;
 
-    //TODO менять ли consumerGroupId
     @RetryableTopic(
             attempts = "1",
             kafkaTemplate = "kafkaTemplate",
@@ -31,20 +28,31 @@ public class KafkaTransactionResultConsumer<ResultDto> {
     @KafkaListener(groupId = "${t1.kafka.consumer.group-id}",
             topics = "${t1.kafka.topic.t1_demo_transaction_result}",
             containerFactory = "accountKafkaListenerContainerFactory")
-    public void receiveAccounts(@Payload ResultDto resultDto,
-                                @Header(KafkaHeaders.RECEIVED_TOPIC) String topic,
-                                @Header(value = KafkaHeaders.RECEIVED_KEY, required = false) String key,
-                                Acknowledgment ack) {
-
+    public void receiveTransactionResult(@Payload ResultDto resultDto,
+                                         @Header(KafkaHeaders.RECEIVED_TOPIC) String topic,
+                                         @Header(value = KafkaHeaders.RECEIVED_KEY, required = false) String key,
+                                         Acknowledgment ack) {
+        handleResult(resultDto, topic, key, ack);
     }
 
     @DltHandler
-    public void receiveAccountsDlt(@Payload List<AccountDto> accountList,
-                                   @Header(KafkaHeaders.RECEIVED_TOPIC) String topic,
-                                   @Header(value = KafkaHeaders.RECEIVED_KEY, required = false) String key,
-                                   Acknowledgment ack) {
-
+    public void receiveTransactionResultDlt(@Payload ResultDto resultDto,
+                                            @Header(KafkaHeaders.RECEIVED_TOPIC) String topic,
+                                            @Header(value = KafkaHeaders.RECEIVED_KEY, required = false) String key,
+                                            Acknowledgment ack) {
+        handleResult(resultDto, topic, key, ack);
     }
 
-
+    private void handleResult(@Payload ResultDto resultDto,
+                              @Header(KafkaHeaders.RECEIVED_TOPIC) String topic,
+                              @Header(value = KafkaHeaders.RECEIVED_KEY, required = false) String key,
+                              Acknowledgment ack) {
+        try {
+            transactionService.handleResult(resultDto);
+        } catch (Exception e) {
+            log.error("Ошибка при обработке сообщения в топике {}: {}", topic, e.getMessage(), e);
+        } finally {
+            ack.acknowledge();
+        }
+    }
 }

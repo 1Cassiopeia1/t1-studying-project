@@ -42,6 +42,7 @@ public class Account {
     private String balance;
 
     @Enumerated(EnumType.STRING)
+    @Column(length = 30)
     private AccountStatus accountStatus;
 
     private String frozenAmount;

@@ -14,9 +14,10 @@ import lombok.Builder;
 import lombok.Getter;
 import lombok.NoArgsConstructor;
 import lombok.Setter;
+import org.hibernate.annotations.CreationTimestamp;
 import ru.t1.java.demo.model.enums.TransactionStatus;
 
-import java.sql.Timestamp;
+import java.time.LocalDateTime;
 import java.time.LocalTime;
 
 @Getter
@@ -36,13 +37,17 @@ public class Transaction {
 
     private Long accountId;
 
+    @Column(nullable = false)
     private String amount;
 
     private LocalTime executionTime;
 
     @Enumerated(EnumType.STRING)
+    @Column(length = 30)
     private TransactionStatus transactionStatus;
 
-    private Timestamp timestamp;
+    @CreationTimestamp
+    @Column(nullable = false)
+    private LocalDateTime timestamp;
 
 }

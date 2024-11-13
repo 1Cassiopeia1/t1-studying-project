@@ -62,9 +62,9 @@ class TransactionServiceTest implements TestContainersConfig {
         Account account = Instancio.of(Account.class).create();
         Client client = Instancio.of(Client.class).create();
         var savedClient = clientRepository.save(client);
-        account.setClientId(savedClient.getId());
+        account.setClientId(savedClient.getClientId());
         var savedAccount = accountRepository.save(account);
-        transactionDto.setAccountId(savedAccount.getId());
+        transactionDto.setAccountId(savedAccount.getAccountId());
 
         // When
         transactionService.saveTransaction(transactionDto);
@@ -80,7 +80,7 @@ class TransactionServiceTest implements TestContainersConfig {
     void getTransactionTest() {
         Transaction transaction = Instancio.of(Transaction.class).create();
         transaction.setExecutionTime(LocalTime.now());
-        var transactionId = saveTransaction(transaction).getId();
+        var transactionId = saveTransaction(transaction).getAccountId();
 
         // When
         TransactionDto transactionDto = transactionService.getTransaction(transactionId);
@@ -112,7 +112,7 @@ class TransactionServiceTest implements TestContainersConfig {
     @Test
     void deleteTransactionTest() {
         Transaction transaction = new Transaction();
-        var transactionId = saveTransaction(transaction).getId();
+        var transactionId = saveTransaction(transaction).getAccountId();
 
         // When
         transactionService.deleteTransaction(transactionId);
@@ -131,7 +131,7 @@ class TransactionServiceTest implements TestContainersConfig {
         updatingTransactionDto.setAccountId(oldTransaction.getAccountId());
 
         // When
-        transactionService.updateTransaction(updatingTransactionDto, savedTransaction.getId());
+        transactionService.updateTransaction(updatingTransactionDto, savedTransaction.getTransactionId());
 
         // Then
         Transaction updatedTransaction = transactionRepository.findById(savedTransaction.getId())
@@ -160,9 +160,9 @@ class TransactionServiceTest implements TestContainersConfig {
         Account account = Instancio.of(Account.class).create();
         Client client = Instancio.of(Client.class).create();
         var savedClient = clientRepository.save(client);
-        account.setClientId(savedClient.getId());
+        account.setClientId(savedClient.getClientId());
         var savedAccount = accountRepository.save(account);
-        oldTransaction.setAccountId(savedAccount.getId());
+        oldTransaction.setAccountId(savedAccount.getAccountId());
         return transactionRepository.save(oldTransaction);
     }
 }

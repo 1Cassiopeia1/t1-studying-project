@@ -9,9 +9,6 @@ import ru.t1.java.demo.model.enums.TransactionStatus;
 
 import java.io.Serializable;
 
-/**
- * DTO for {@link ru.t1.java.demo.kafka.KafkaTransactionResultConsumer}
- */
 @Data
 @AllArgsConstructor
 @NoArgsConstructor

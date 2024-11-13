@@ -14,7 +14,7 @@ import ru.t1.java.demo.service.TransactionService;
 
 import java.util.List;
 
-import static org.mockito.ArgumentMatchers.anyList;
+import static org.mockito.ArgumentMatchers.any;
 import static org.mockito.Mockito.timeout;
 import static org.mockito.Mockito.verify;
 
@@ -40,6 +40,6 @@ class TransactionConsumerTest extends AbstractKafkaTest {
         var producerRecord = new ProducerRecord<String, List<TransactionDto>>(topic, 0, null, transactionDtos);
         producer.send(producerRecord);
 
-        verify(transactionService, timeout(defaultVerifyTimeout.toMillis())).saveAllTransactions(anyList());
+        verify(transactionService, timeout(defaultVerifyTimeout.toMillis())).handleTransaction(any(TransactionDto.class));
     }
 }

@@ -1,27 +1,39 @@
 package ru.t1.java.demo.service.impl;
 
+import jakarta.persistence.LockModeType;
 import lombok.RequiredArgsConstructor;
 import lombok.extern.slf4j.Slf4j;
+import org.apache.commons.lang3.ObjectUtils;
 import org.springframework.beans.BeanUtils;
+import org.springframework.data.jpa.repository.Lock;
 import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;
 import ru.t1.java.demo.aop.LogDataSourceError;
+import ru.t1.java.demo.constants.InfoLogs;
 import ru.t1.java.demo.dto.AccountDto;
 import ru.t1.java.demo.exception.DbEntryNotFoundException;
 import ru.t1.java.demo.kafka.KafkaProducer;
 import ru.t1.java.demo.mappers.AccountMapper;
 import ru.t1.java.demo.model.Account;
 import ru.t1.java.demo.model.Client;
+import ru.t1.java.demo.model.enums.AccountStatus;
+import ru.t1.java.demo.model.enums.AccountType;
 import ru.t1.java.demo.repository.AccountRepository;
 import ru.t1.java.demo.service.AccountService;
 import ru.t1.java.demo.service.MockService;
 
+import java.math.BigDecimal;
 import java.util.List;
+import java.util.Optional;
 
 @Service
 @Slf4j
 @RequiredArgsConstructor
 public class AccountServiceImpl implements AccountService {
+    private static final String MODELS_MOCKED_ACCOUNTS_JSON_PATH = "models/mocked_accounts.json";
+    private static final String MODELS_MOCK_DATA_JSON_PATH = "models/MOCK_DATA.json";
+    private static final String DEFAULT_ZERO_VALUE = "0";
+
     private final AccountRepository accountRepository;
     private final AccountMapper accountMapper;
     private final MockService mockService;
@@ -45,7 +57,7 @@ public class AccountServiceImpl implements AccountService {
     @LogDataSourceError
     public void saveAccount(AccountDto accountDto) {
         accountRepository.save(accountMapper.fromDtoToEntity(accountDto));
-        log.info("Account saved successfully");
+        log.info(InfoLogs.ACCOUNT_SAVED_SUCCESSFULLY);
     }
 
     @Override
@@ -68,8 +80,8 @@ public class AccountServiceImpl implements AccountService {
     @Override
     @LogDataSourceError
     public void saveMockedAccounts() {
-        List<AccountDto> accountDtos = mockService.getMockData("models/mocked_accounts.json", AccountDto.class);
-        List<Client> clients = mockService.getMockData("models/MOCK_DATA.json", Client.class);
+        List<AccountDto> accountDtos = mockService.getMockData(MODELS_MOCKED_ACCOUNTS_JSON_PATH, AccountDto.class);
+        List<Client> clients = mockService.getMockData(MODELS_MOCK_DATA_JSON_PATH, Client.class);
         List<Account> accounts = accountMapper.fromDtoToEntity(accountDtos);
 
         if (clients.size() != accountDtos.size()) {
@@ -81,15 +93,66 @@ public class AccountServiceImpl implements AccountService {
         accountRepository.saveAll(accounts);
     }
 
-    private void copyProperties(Account source, Account target) {
-        BeanUtils.copyProperties(source, target, "id");
-    }
-
     @Override
     public void saveAllAccounts(List<AccountDto> accountDtos) {
         List<Account> accounts = accountDtos.stream()
                 .map(accountMapper::fromDtoToEntity)
                 .toList();
         accountRepository.saveAll(accounts);
+    }
+
+    @Override
+    public void saveAccountEntity(Account account){
+        accountRepository.save(account);
+    }
+
+    @Transactional
+    @Lock(LockModeType.PESSIMISTIC_WRITE)
+    @Override
+    public void updateBalance(Long accountId, BigDecimal amount) {
+        accountRepository.findById(accountId)
+                .map(currentAccount -> calculateNewBalance(currentAccount, amount))
+                .ifPresent(newBalance ->
+                        accountRepository.updateBalance(accountId, newBalance.toString()));
+    }
+
+    @Transactional
+    @Lock(LockModeType.PESSIMISTIC_WRITE)
+    @Override
+    public void handleBlockedBalance(Long accountId, BigDecimal frozenAmount) {
+
+        Optional<Account> optionalAccount = Optional.ofNullable
+                (getAccountEntity(accountId));
+        optionalAccount.ifPresent(account -> {
+            account.setAccountStatus(AccountStatus.BLOCKED);
+
+            // Корректируем баланс и устанавливаем frozenAmount
+            BigDecimal currentBalance = new BigDecimal(account.getBalance());
+            BigDecimal newBalance;
+            if (AccountType.CREDIT.equals(account.getAccountType())) {
+               newBalance = currentBalance.add(frozenAmount);
+            } else {
+                newBalance = currentBalance.subtract(frozenAmount);}
+            account.setBalance(newBalance.toString());
+            account.setFrozenAmount(frozenAmount.toString());
+
+            saveAccountEntity(account);
+            log.info("Счет с ID {} заблокирован, сумма заблокированных транзакций: {}", account.getAccountId(), frozenAmount);
+    }
+        );}
+
+
+    private BigDecimal calculateNewBalance(Account account, BigDecimal transactionAmount) {
+        // WARNING уточнить у аналитика корректность такого вычисления currentBalance
+        BigDecimal currentBalance = new BigDecimal(ObjectUtils.defaultIfNull(account.getBalance(), DEFAULT_ZERO_VALUE));
+        if (AccountType.CREDIT.equals(account.getAccountType())) {
+            return currentBalance.subtract(transactionAmount);
+        } else {
+            return currentBalance.add(transactionAmount);
+        }
+    }
+
+    private void copyProperties(Account source, Account target) {
+        BeanUtils.copyProperties(source, target, "id");
     }
 }

@@ -25,6 +25,7 @@ public class Client {
     @Id
     @GeneratedValue(strategy = GenerationType.SEQUENCE, generator = "client_generator")
     @SequenceGenerator(name = "client_generator", sequenceName = "client_seq")
+    @Column(name = "id")
     private Long clientId;
 
     @Column(name = "first_name")

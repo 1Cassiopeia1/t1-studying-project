@@ -7,7 +7,7 @@ import lombok.Data;
 import lombok.NoArgsConstructor;
 
 import java.io.Serializable;
-import java.sql.Timestamp;
+import java.time.LocalDateTime;
 
 /**
  * DTO for {@link ru.t1.java.demo.kafka.KafkaTransactionConsumer}
@@ -21,7 +21,7 @@ public class TransactionAcceptDto implements Serializable {
     private Long clientId;
     private Long accountId;
     private Long transactionId;
-    private Timestamp timestamp;
+    private LocalDateTime timestamp;
     private String transactionAmount;
     private String accountBalance;
 }
