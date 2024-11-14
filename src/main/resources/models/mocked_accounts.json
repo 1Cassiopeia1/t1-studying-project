@@ -1,5002 +1,6002 @@
 [
   {
-    "clientId": "605738674",
-    "accountType": "DEBIT",
-    "balance": "8344263780048719"
-  },
-  {
-    "clientId": "481509199",
+    "clientId": 818,
     "accountType": "CREDIT",
-    "balance": "4703610292558597"
+    "balance": 92443166.17,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "769913147",
-    "accountType": "DEBIT",
-    "balance": "8200677568439780"
-  },
-  {
-    "clientId": "433924038",
+    "clientId": 673,
     "accountType": "CREDIT",
-    "balance": "1822024921644697"
+    "balance": 55974541.54,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "050904916",
+    "clientId": 441,
     "accountType": "CREDIT",
-    "balance": "5124268857465379"
-  },
-  {
-    "clientId": "822879699",
-    "accountType": "DEBIT",
-    "balance": "8776604934262991"
+    "balance": 12385937.95,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "851331463",
+    "clientId": 453,
     "accountType": "DEBIT",
-    "balance": "9679192457649195"
+    "balance": 64555275.99,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "783237283",
+    "clientId": 469,
     "accountType": "DEBIT",
-    "balance": "9135030037423345"
+    "balance": 88027706.91,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "575589783",
-    "accountType": "DEBIT",
-    "balance": "2652569700509553"
+    "clientId": 655,
+    "accountType": "CREDIT",
+    "balance": 55671434.26,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "352196650",
+    "clientId": 728,
     "accountType": "DEBIT",
-    "balance": "9714182024697715"
+    "balance": 30696429.67,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "304470619",
-    "accountType": "DEBIT",
-    "balance": "1937729839429900"
+    "clientId": 971,
+    "accountType": "CREDIT",
+    "balance": 16531644.08,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "192792362",
+    "clientId": 825,
     "accountType": "CREDIT",
-    "balance": "7511635996335773"
+    "balance": 66475585.46,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "030392151",
+    "clientId": 827,
     "accountType": "CREDIT",
-    "balance": "3832826364973047"
+    "balance": 88517710.56,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "082714678",
-    "accountType": "DEBIT",
-    "balance": "5639546546624504"
+    "clientId": 65,
+    "accountType": "CREDIT",
+    "balance": 67116569.01,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "380679188",
+    "clientId": 867,
     "accountType": "DEBIT",
-    "balance": "3424669480781320"
+    "balance": 36033429.18,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "870729302",
+    "clientId": 564,
     "accountType": "DEBIT",
-    "balance": "1785070949562700"
+    "balance": 74158677.54,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "015088139",
+    "clientId": 145,
     "accountType": "CREDIT",
-    "balance": "4614946145605442"
-  },
-  {
-    "clientId": "654064425",
-    "accountType": "DEBIT",
-    "balance": "8080956466737738"
+    "balance": 5497864.48,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "908126254",
+    "clientId": 604,
     "accountType": "CREDIT",
-    "balance": "5593724221157873"
+    "balance": 40812226.74,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "793536661",
+    "clientId": 841,
     "accountType": "DEBIT",
-    "balance": "8301309038979591"
+    "balance": 86418345.92,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "065846356",
-    "accountType": "CREDIT",
-    "balance": "2045650094693454"
+    "clientId": 814,
+    "accountType": "DEBIT",
+    "balance": 23320779.56,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "853915209",
+    "clientId": 568,
     "accountType": "CREDIT",
-    "balance": "616310948757382"
+    "balance": 47944589.56,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "414181101",
-    "accountType": "CREDIT",
-    "balance": "3203743783043524"
+    "clientId": 664,
+    "accountType": "DEBIT",
+    "balance": 62820308.99,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "105590258",
+    "clientId": 474,
     "accountType": "CREDIT",
-    "balance": "7076543032042445"
+    "balance": 80767372.18,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "686202224",
+    "clientId": 901,
     "accountType": "DEBIT",
-    "balance": "4556034694243302"
+    "balance": 83776149.31,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "078171030",
+    "clientId": 476,
     "accountType": "DEBIT",
-    "balance": "8412275050389825"
+    "balance": 8442663.42,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "564103167",
+    "clientId": 857,
     "accountType": "CREDIT",
-    "balance": "440455850873583"
+    "balance": 75027164.46,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "275176213",
+    "clientId": 488,
     "accountType": "CREDIT",
-    "balance": "9611895339663990"
+    "balance": 46636493.47,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "866729597",
+    "clientId": 796,
     "accountType": "CREDIT",
-    "balance": "8489972242780603"
-  },
-  {
-    "clientId": "787420380",
-    "accountType": "DEBIT",
-    "balance": "7846936974666748"
-  },
-  {
-    "clientId": "721166944",
-    "accountType": "DEBIT",
-    "balance": "5175421746894576"
+    "balance": 62299306.22,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "174928503",
-    "accountType": "DEBIT",
-    "balance": "6391140691130069"
-  },
-  {
-    "clientId": "351086727",
+    "clientId": 425,
     "accountType": "CREDIT",
-    "balance": "348641507223715"
+    "balance": 27893472.14,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "247514152",
-    "accountType": "DEBIT",
-    "balance": "3839324074741879"
-  },
-  {
-    "clientId": "585657702",
+    "clientId": 494,
     "accountType": "CREDIT",
-    "balance": "7684663833135135"
+    "balance": 85966577.38,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "801637983",
+    "clientId": 336,
     "accountType": "DEBIT",
-    "balance": "6705777136966512"
+    "balance": 78673148.79,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "984811755",
+    "clientId": 472,
     "accountType": "CREDIT",
-    "balance": "8877840339270939"
+    "balance": 70477681.46,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "246148975",
+    "clientId": 114,
     "accountType": "DEBIT",
-    "balance": "9162162904804660"
-  },
-  {
-    "clientId": "227660282",
-    "accountType": "CREDIT",
-    "balance": "1432028020850494"
+    "balance": 65872174.25,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "347488495",
+    "clientId": 944,
     "accountType": "CREDIT",
-    "balance": "5756983737495306"
-  },
-  {
-    "clientId": "725368626",
-    "accountType": "DEBIT",
-    "balance": "609601058977122"
+    "balance": 56969015.42,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "618484184",
+    "clientId": 160,
     "accountType": "DEBIT",
-    "balance": "1938866216543586"
+    "balance": 33243483.15,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "177960412",
+    "clientId": 834,
     "accountType": "DEBIT",
-    "balance": "1771239264447302"
+    "balance": 69210575.74,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "918941984",
-    "accountType": "DEBIT",
-    "balance": "5009796075437208"
+    "clientId": 564,
+    "accountType": "CREDIT",
+    "balance": 93569005.44,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "007524812",
+    "clientId": 934,
     "accountType": "DEBIT",
-    "balance": "9362340366686018"
+    "balance": 75486948.22,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "674862748",
+    "clientId": 138,
     "accountType": "CREDIT",
-    "balance": "4920566046614031"
+    "balance": 24755662.56,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "907571410",
+    "clientId": 656,
     "accountType": "CREDIT",
-    "balance": "5763826545285036"
+    "balance": 97893660.69,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "974945046",
+    "clientId": 351,
     "accountType": "DEBIT",
-    "balance": "2161260241342029"
+    "balance": 80829149.42,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "463506259",
-    "accountType": "DEBIT",
-    "balance": "6691994722910115"
-  },
-  {
-    "clientId": "853666362",
-    "accountType": "DEBIT",
-    "balance": "7272616986861400"
-  },
-  {
-    "clientId": "349723577",
+    "clientId": 242,
     "accountType": "CREDIT",
-    "balance": "2427472026993254"
+    "balance": 21108365.21,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "430946313",
+    "clientId": 958,
     "accountType": "CREDIT",
-    "balance": "9655923105378218"
+    "balance": 86666581.34,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "543727835",
+    "clientId": 507,
     "accountType": "DEBIT",
-    "balance": "8874681934484582"
+    "balance": 58274406.47,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "613374182",
+    "clientId": 529,
     "accountType": "DEBIT",
-    "balance": "7783293690135384"
+    "balance": 27266118.54,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "005826692",
+    "clientId": 63,
     "accountType": "CREDIT",
-    "balance": "6423204345708593"
+    "balance": 87472115.45,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "551455670",
+    "clientId": 498,
     "accountType": "DEBIT",
-    "balance": "3566718419491216"
+    "balance": 85115031.42,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "374615847",
+    "clientId": 453,
     "accountType": "CREDIT",
-    "balance": "3917987666298754"
+    "balance": 11873485.04,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "377453984",
-    "accountType": "CREDIT",
-    "balance": "8071887804474520"
+    "clientId": 394,
+    "accountType": "DEBIT",
+    "balance": 46463496.31,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "496286342",
+    "clientId": 650,
     "accountType": "CREDIT",
-    "balance": "6779741295779769"
+    "balance": 45714157.53,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "739956493",
+    "clientId": 266,
     "accountType": "DEBIT",
-    "balance": "3733956847456841"
+    "balance": 94813373.21,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "968796213",
+    "clientId": 556,
     "accountType": "CREDIT",
-    "balance": "2547123362388760"
+    "balance": 48047189.57,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "511362105",
+    "clientId": 528,
     "accountType": "CREDIT",
-    "balance": "8233434533570328"
+    "balance": 82124510.46,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "035494029",
+    "clientId": 276,
     "accountType": "DEBIT",
-    "balance": "461446650733962"
+    "balance": 31249540.77,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "106142956",
+    "clientId": 508,
     "accountType": "DEBIT",
-    "balance": "6672889361974922"
-  },
-  {
-    "clientId": "713717559",
-    "accountType": "CREDIT",
-    "balance": "8953750705144143"
-  },
-  {
-    "clientId": "544039514",
-    "accountType": "CREDIT",
-    "balance": "4550326132009926"
-  },
-  {
-    "clientId": "618798878",
-    "accountType": "CREDIT",
-    "balance": "3887734513681756"
-  },
-  {
-    "clientId": "033711087",
-    "accountType": "CREDIT",
-    "balance": "9447147429838521"
+    "balance": 98956866.15,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "123880157",
+    "clientId": 685,
     "accountType": "CREDIT",
-    "balance": "4120004169196815"
+    "balance": 29660296.89,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "092296981",
+    "clientId": 973,
     "accountType": "CREDIT",
-    "balance": "7668978197588967"
+    "balance": 47715868.08,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "673466437",
-    "accountType": "CREDIT",
-    "balance": "4359150574569690"
+    "clientId": 915,
+    "accountType": "DEBIT",
+    "balance": 48660824.91,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "325862429",
+    "clientId": 496,
     "accountType": "CREDIT",
-    "balance": "2503872272024388"
+    "balance": 39585605.09,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "207515397",
+    "clientId": 663,
     "accountType": "DEBIT",
-    "balance": "8452785930029699"
+    "balance": 23388608.6,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "143537844",
+    "clientId": 543,
     "accountType": "DEBIT",
-    "balance": "5730908468227369"
+    "balance": 92572901.42,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "975283315",
+    "clientId": 16,
     "accountType": "CREDIT",
-    "balance": "6337723007322585"
+    "balance": 9995225.8,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "727412029",
+    "clientId": 222,
     "accountType": "DEBIT",
-    "balance": "7991213197942992"
+    "balance": 65423631.63,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "374619397",
+    "clientId": 429,
     "accountType": "DEBIT",
-    "balance": "48485931925194"
+    "balance": 64159416.84,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "783204425",
+    "clientId": 388,
     "accountType": "DEBIT",
-    "balance": "1798176650181141"
+    "balance": 94875515.08,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "469211257",
-    "accountType": "DEBIT",
-    "balance": "9750360519790863"
+    "clientId": 849,
+    "accountType": "CREDIT",
+    "balance": 75565386.08,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "813245053",
+    "clientId": 45,
     "accountType": "CREDIT",
-    "balance": "1354958814682810"
+    "balance": 52720996.69,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "698524083",
+    "clientId": 88,
     "accountType": "DEBIT",
-    "balance": "4192942660251881"
+    "balance": 43512884.06,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "057782889",
+    "clientId": 999,
     "accountType": "DEBIT",
-    "balance": "5431855621970248"
+    "balance": 98009787.43,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "133962213",
+    "clientId": 143,
     "accountType": "CREDIT",
-    "balance": "1944644597252884"
+    "balance": 49653540.99,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "924631800",
-    "accountType": "DEBIT",
-    "balance": "6821683852256127"
+    "clientId": 981,
+    "accountType": "CREDIT",
+    "balance": 58189162.98,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "878753679",
+    "clientId": 825,
     "accountType": "DEBIT",
-    "balance": "1257321693791180"
+    "balance": 32394363.28,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "881681348",
+    "clientId": 132,
     "accountType": "DEBIT",
-    "balance": "4679366349322346"
+    "balance": 69526004.53,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "058537121",
+    "clientId": 304,
     "accountType": "DEBIT",
-    "balance": "230013560805786"
+    "balance": 18076791.81,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "812157463",
-    "accountType": "CREDIT",
-    "balance": "3406073421816590"
+    "clientId": 308,
+    "accountType": "DEBIT",
+    "balance": 32391171.73,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "583485655",
+    "clientId": 33,
     "accountType": "DEBIT",
-    "balance": "376694584349816"
+    "balance": 50175736.29,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "381095099",
+    "clientId": 305,
     "accountType": "CREDIT",
-    "balance": "5237742648886365"
+    "balance": 34171797.07,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "496484691",
-    "accountType": "CREDIT",
-    "balance": "1887514941881557"
+    "clientId": 392,
+    "accountType": "DEBIT",
+    "balance": 19065331.93,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "114317195",
-    "accountType": "CREDIT",
-    "balance": "8962768310307678"
+    "clientId": 320,
+    "accountType": "DEBIT",
+    "balance": 83797508.73,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "820105211",
-    "accountType": "CREDIT",
-    "balance": "9055765988188897"
+    "clientId": 17,
+    "accountType": "DEBIT",
+    "balance": 59408497.15,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "665763524",
+    "clientId": 484,
     "accountType": "CREDIT",
-    "balance": "2354505201328497"
+    "balance": 65280675.19,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "420218974",
+    "clientId": 532,
     "accountType": "DEBIT",
-    "balance": "1825315509270764"
+    "balance": 98598825.28,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "400468060",
+    "clientId": 380,
     "accountType": "CREDIT",
-    "balance": "415944874577543"
+    "balance": 52415758.54,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "334156062",
+    "clientId": 340,
     "accountType": "DEBIT",
-    "balance": "6119728307390617"
+    "balance": 51938603.71,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "432318758",
-    "accountType": "DEBIT",
-    "balance": "296515366442841"
+    "clientId": 836,
+    "accountType": "CREDIT",
+    "balance": 37339179.39,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "399163852",
-    "accountType": "DEBIT",
-    "balance": "4132060300654797"
+    "clientId": 55,
+    "accountType": "CREDIT",
+    "balance": 96395512.32,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "328462615",
+    "clientId": 231,
     "accountType": "DEBIT",
-    "balance": "6426868106503194"
+    "balance": 67429741.27,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "893171942",
-    "accountType": "DEBIT",
-    "balance": "2471654872981865"
+    "clientId": 168,
+    "accountType": "CREDIT",
+    "balance": 2145460.92,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "167072526",
-    "accountType": "DEBIT",
-    "balance": "7661504397162738"
+    "clientId": 936,
+    "accountType": "CREDIT",
+    "balance": 98372040.64,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "950131273",
-    "accountType": "DEBIT",
-    "balance": "6211864941246630"
+    "clientId": 482,
+    "accountType": "CREDIT",
+    "balance": 55976867.7,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "734587308",
+    "clientId": 999,
     "accountType": "CREDIT",
-    "balance": "8836948948889496"
+    "balance": 43368912.94,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "421558537",
+    "clientId": 148,
     "accountType": "CREDIT",
-    "balance": "9422977725308639"
+    "balance": 61011251.75,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "000419462",
+    "clientId": 110,
     "accountType": "DEBIT",
-    "balance": "2499661691251161"
+    "balance": 51234144.49,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "249474011",
+    "clientId": 312,
     "accountType": "DEBIT",
-    "balance": "9655128843414737"
+    "balance": 30276831.33,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "677301150",
+    "clientId": 659,
     "accountType": "CREDIT",
-    "balance": "1013351146241204"
+    "balance": 96884719.05,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "095226463",
+    "clientId": 784,
     "accountType": "DEBIT",
-    "balance": "7451557891783843"
+    "balance": 54232395.61,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "905042436",
+    "clientId": 281,
     "accountType": "CREDIT",
-    "balance": "8457372411849700"
+    "balance": 89158959.76,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "873647207",
+    "clientId": 952,
     "accountType": "CREDIT",
-    "balance": "3137110243915463"
+    "balance": 8538243.12,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "375412731",
-    "accountType": "DEBIT",
-    "balance": "1470315642962982"
-  },
-  {
-    "clientId": "905964660",
+    "clientId": 415,
     "accountType": "CREDIT",
-    "balance": "9147869434592724"
+    "balance": 67902215.89,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "526253547",
-    "accountType": "CREDIT",
-    "balance": "8336322099305101"
+    "clientId": 599,
+    "accountType": "DEBIT",
+    "balance": 8440595.87,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "622162703",
+    "clientId": 999,
     "accountType": "CREDIT",
-    "balance": "1371934800922593"
-  },
-  {
-    "clientId": "365694207",
-    "accountType": "DEBIT",
-    "balance": "3149547315236401"
+    "balance": 13723626.78,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "182281084",
+    "clientId": 765,
     "accountType": "DEBIT",
-    "balance": "4725852874303449"
+    "balance": 32689322.72,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "069085350",
-    "accountType": "DEBIT",
-    "balance": "5048541155933317"
+    "clientId": 502,
+    "accountType": "CREDIT",
+    "balance": 75753271.67,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "424299953",
+    "clientId": 20,
     "accountType": "CREDIT",
-    "balance": "8128710944476390"
+    "balance": 60572731.07,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "737319447",
-    "accountType": "CREDIT",
-    "balance": "1739323451757893"
+    "clientId": 375,
+    "accountType": "DEBIT",
+    "balance": 48835956.95,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "243132536",
+    "clientId": 864,
     "accountType": "DEBIT",
-    "balance": "7752933858475101"
+    "balance": 70789949.44,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "966521073",
+    "clientId": 418,
     "accountType": "CREDIT",
-    "balance": "9099703984343471"
+    "balance": 68656328.16,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "735091742",
+    "clientId": 658,
     "accountType": "DEBIT",
-    "balance": "3810109039461830"
+    "balance": 56885082.32,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "871567563",
-    "accountType": "DEBIT",
-    "balance": "4705376595467065"
+    "clientId": 739,
+    "accountType": "CREDIT",
+    "balance": 3029915.36,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "439763362",
+    "clientId": 910,
     "accountType": "CREDIT",
-    "balance": "8520461972018693"
+    "balance": 18578618.54,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "771463178",
+    "clientId": 731,
     "accountType": "DEBIT",
-    "balance": "7802172271553600"
+    "balance": 26031048.34,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "024829710",
-    "accountType": "CREDIT",
-    "balance": "2515020538393513"
-  },
-  {
-    "clientId": "514506674",
+    "clientId": 159,
     "accountType": "DEBIT",
-    "balance": "3217279625685839"
+    "balance": 83887177.53,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "300660591",
+    "clientId": 981,
     "accountType": "DEBIT",
-    "balance": "4754745714052591"
+    "balance": 67894876.32,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "775517283",
+    "clientId": 404,
     "accountType": "CREDIT",
-    "balance": "4632477483895048"
+    "balance": 66848757.28,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "684093158",
-    "accountType": "DEBIT",
-    "balance": "4431314760589168"
+    "clientId": 720,
+    "accountType": "CREDIT",
+    "balance": 86439940.61,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "885961818",
+    "clientId": 901,
     "accountType": "CREDIT",
-    "balance": "9476811826090835"
+    "balance": 61465764.93,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "367144086",
-    "accountType": "DEBIT",
-    "balance": "448885859993713"
+    "clientId": 543,
+    "accountType": "CREDIT",
+    "balance": 74934621.83,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "974058390",
+    "clientId": 923,
     "accountType": "DEBIT",
-    "balance": "8478276228970284"
+    "balance": 88806440.96,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "709695288",
-    "accountType": "CREDIT",
-    "balance": "8013637601493050"
-  },
-  {
-    "clientId": "923182577",
+    "clientId": 262,
     "accountType": "DEBIT",
-    "balance": "1533482520940019"
+    "balance": 90356004.99,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "740316954",
-    "accountType": "DEBIT",
-    "balance": "3090775263768704"
+    "clientId": 833,
+    "accountType": "CREDIT",
+    "balance": 89617500.61,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "601229472",
+    "clientId": 630,
     "accountType": "DEBIT",
-    "balance": "6735022849671862"
+    "balance": 50439225.64,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "365561226",
+    "clientId": 928,
     "accountType": "DEBIT",
-    "balance": "1030649574346735"
+    "balance": 12321012.79,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "400858064",
+    "clientId": 359,
     "accountType": "CREDIT",
-    "balance": "5413674070319898"
-  },
-  {
-    "clientId": "444909338",
-    "accountType": "DEBIT",
-    "balance": "9433738509059229"
+    "balance": 61207623.94,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "329718515",
-    "accountType": "DEBIT",
-    "balance": "7791711301613315"
+    "clientId": 218,
+    "accountType": "CREDIT",
+    "balance": 81974415.38,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "551337100",
+    "clientId": 7,
     "accountType": "CREDIT",
-    "balance": "7743823336906197"
+    "balance": 84080808.19,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "821822648",
+    "clientId": 474,
     "accountType": "DEBIT",
-    "balance": "8764394203118298"
-  },
-  {
-    "clientId": "932037344",
-    "accountType": "CREDIT",
-    "balance": "4610750898930314"
+    "balance": 61262633.83,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "479878940",
+    "clientId": 994,
     "accountType": "CREDIT",
-    "balance": "1114119505155563"
+    "balance": 49787156.55,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "326521588",
+    "clientId": 375,
     "accountType": "DEBIT",
-    "balance": "2522659772094693"
+    "balance": 27630771.43,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "244009601",
+    "clientId": 992,
     "accountType": "DEBIT",
-    "balance": "1123917385014849"
-  },
-  {
-    "clientId": "585699535",
-    "accountType": "CREDIT",
-    "balance": "6410201754058162"
+    "balance": 79459012.39,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "801650504",
+    "clientId": 956,
     "accountType": "DEBIT",
-    "balance": "785847323534383"
+    "balance": 96617547.16,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "734935459",
+    "clientId": 20,
     "accountType": "CREDIT",
-    "balance": "7520648662081334"
+    "balance": 41372141.69,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "146757488",
-    "accountType": "CREDIT",
-    "balance": "7153391655486567"
+    "clientId": 509,
+    "accountType": "DEBIT",
+    "balance": 49419769.9,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "725987832",
+    "clientId": 818,
     "accountType": "CREDIT",
-    "balance": "6103580203415849"
+    "balance": 55459020.61,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "033454119",
+    "clientId": 101,
     "accountType": "CREDIT",
-    "balance": "9504455565484910"
+    "balance": 48103231.2,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "275265156",
-    "accountType": "CREDIT",
-    "balance": "3404654792614127"
+    "clientId": 156,
+    "accountType": "DEBIT",
+    "balance": 9907639.26,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "689447373",
+    "clientId": 486,
     "accountType": "CREDIT",
-    "balance": "8179327120311502"
-  },
-  {
-    "clientId": "263240864",
-    "accountType": "DEBIT",
-    "balance": "5153070134467730"
+    "balance": 7584226.66,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "625211157",
+    "clientId": 584,
     "accountType": "CREDIT",
-    "balance": "1019448553910103"
+    "balance": 33791317.78,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "576041646",
+    "clientId": 506,
     "accountType": "DEBIT",
-    "balance": "9263360566835854"
+    "balance": 16526499.18,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "480304310",
+    "clientId": 230,
     "accountType": "DEBIT",
-    "balance": "7651945863613031"
+    "balance": 22968759.67,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "508500191",
+    "clientId": 814,
     "accountType": "CREDIT",
-    "balance": "2467911968974611"
+    "balance": 39868518.1,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "152872928",
+    "clientId": 258,
     "accountType": "DEBIT",
-    "balance": "4326026312547444"
+    "balance": 42093596.91,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "979577690",
+    "clientId": 98,
     "accountType": "CREDIT",
-    "balance": "5917673054661121"
+    "balance": 21251981.55,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "111984797",
+    "clientId": 280,
     "accountType": "CREDIT",
-    "balance": "332976998528273"
+    "balance": 13864401.76,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "482259549",
-    "accountType": "CREDIT",
-    "balance": "4744047978512395"
+    "clientId": 643,
+    "accountType": "DEBIT",
+    "balance": 60827561.61,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "754106748",
+    "clientId": 657,
     "accountType": "DEBIT",
-    "balance": "7711662014191169"
+    "balance": 79543587.31,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "156693910",
+    "clientId": 253,
     "accountType": "DEBIT",
-    "balance": "7515669551904494"
+    "balance": 72651031.2,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "587297992",
+    "clientId": 253,
     "accountType": "CREDIT",
-    "balance": "2543899649524183"
+    "balance": 44539097.56,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "083949608",
+    "clientId": 293,
     "accountType": "CREDIT",
-    "balance": "2386382015748942"
+    "balance": 16524986.41,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "757783584",
+    "clientId": 381,
     "accountType": "CREDIT",
-    "balance": "5658309488609053"
+    "balance": 42627280.06,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "114894766",
+    "clientId": 8,
     "accountType": "DEBIT",
-    "balance": "1911961050745479"
+    "balance": 74575809.32,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "877810925",
-    "accountType": "CREDIT",
-    "balance": "4179277758138791"
+    "clientId": 917,
+    "accountType": "DEBIT",
+    "balance": 81268661.5,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "393874420",
+    "clientId": 110,
     "accountType": "DEBIT",
-    "balance": "1967013842141385"
+    "balance": 54717776.76,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "711245800",
-    "accountType": "CREDIT",
-    "balance": "1577273352476395"
+    "clientId": 957,
+    "accountType": "DEBIT",
+    "balance": 39969412.88,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "232010789",
+    "clientId": 264,
     "accountType": "CREDIT",
-    "balance": "2768368240327570"
+    "balance": 6473333.09,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "994499400",
+    "clientId": 192,
     "accountType": "CREDIT",
-    "balance": "7137072264578123"
+    "balance": 79473281.69,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "187046485",
+    "clientId": 536,
     "accountType": "DEBIT",
-    "balance": "8660460739065215"
+    "balance": 86027524.58,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "728391820",
+    "clientId": 332,
     "accountType": "DEBIT",
-    "balance": "3437364133617534"
+    "balance": 6171800.39,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "941829790",
+    "clientId": 822,
     "accountType": "DEBIT",
-    "balance": "9668219433472482"
+    "balance": 65624702.67,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "496790869",
+    "clientId": 72,
     "accountType": "CREDIT",
-    "balance": "4404059755138996"
+    "balance": 27462590.07,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "664733122",
-    "accountType": "CREDIT",
-    "balance": "9812850501210512"
+    "clientId": 989,
+    "accountType": "DEBIT",
+    "balance": 18699559.4,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "908187389",
+    "clientId": 532,
     "accountType": "CREDIT",
-    "balance": "784179541287922"
-  },
-  {
-    "clientId": "637320243",
-    "accountType": "DEBIT",
-    "balance": "3243434554666162"
+    "balance": 15587684.1,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "590102095",
+    "clientId": 684,
     "accountType": "CREDIT",
-    "balance": "6567830968773868"
+    "balance": 77534544.01,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "579187641",
-    "accountType": "DEBIT",
-    "balance": "4360865141255900"
+    "clientId": 486,
+    "accountType": "CREDIT",
+    "balance": 73876203.41,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "770852327",
+    "clientId": 489,
     "accountType": "DEBIT",
-    "balance": "55706997146663"
+    "balance": 30510754.81,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "663424058",
+    "clientId": 308,
     "accountType": "CREDIT",
-    "balance": "3747608344405401"
+    "balance": 15519813.75,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "532853012",
+    "clientId": 320,
     "accountType": "CREDIT",
-    "balance": "1546414720413414"
+    "balance": 67927234.22,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "949450194",
-    "accountType": "DEBIT",
-    "balance": "5933103152233927"
-  },
-  {
-    "clientId": "780375542",
-    "accountType": "DEBIT",
-    "balance": "9546885402662273"
+    "clientId": 40,
+    "accountType": "CREDIT",
+    "balance": 24244896.95,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "604870029",
+    "clientId": 762,
     "accountType": "CREDIT",
-    "balance": "3309438177486432"
+    "balance": 3264926.88,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "880640685",
+    "clientId": 430,
     "accountType": "DEBIT",
-    "balance": "5731273492528753"
-  },
-  {
-    "clientId": "316855509",
-    "accountType": "CREDIT",
-    "balance": "7637549438152918"
+    "balance": 21471318.16,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "825016259",
+    "clientId": 844,
     "accountType": "DEBIT",
-    "balance": "4054950696338271"
+    "balance": 20353519.72,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "077457262",
+    "clientId": 931,
     "accountType": "DEBIT",
-    "balance": "7827217227127017"
+    "balance": 68452614.86,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "132066867",
+    "clientId": 748,
     "accountType": "DEBIT",
-    "balance": "2922247493103257"
+    "balance": 66836769.64,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "451600617",
-    "accountType": "DEBIT",
-    "balance": "5139150970632474"
+    "clientId": 146,
+    "accountType": "CREDIT",
+    "balance": 36558546.42,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "631002253",
+    "clientId": 357,
     "accountType": "DEBIT",
-    "balance": "6498966456681255"
+    "balance": 98006629.37,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "293445136",
+    "clientId": 678,
     "accountType": "CREDIT",
-    "balance": "4189191994627793"
+    "balance": 21892389.54,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "779491009",
+    "clientId": 632,
     "accountType": "DEBIT",
-    "balance": "5365227986943703"
+    "balance": 13503961.41,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "119072223",
-    "accountType": "DEBIT",
-    "balance": "4552441724367351"
+    "clientId": 411,
+    "accountType": "CREDIT",
+    "balance": 28255510.1,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "625094748",
-    "accountType": "CREDIT",
-    "balance": "8509002285134240"
+    "clientId": 882,
+    "accountType": "DEBIT",
+    "balance": 945382.3,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "505038888",
+    "clientId": 58,
     "accountType": "DEBIT",
-    "balance": "3109691414508202"
+    "balance": 75471423.35,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "023775872",
+    "clientId": 737,
     "accountType": "CREDIT",
-    "balance": "5184835162258623"
+    "balance": 51881392.74,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "867461755",
+    "clientId": 919,
     "accountType": "DEBIT",
-    "balance": "9273529765056221"
+    "balance": 20285211.12,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "817905071",
+    "clientId": 14,
     "accountType": "DEBIT",
-    "balance": "3835831703746970"
+    "balance": 65425136.16,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "604079965",
+    "clientId": 415,
     "accountType": "DEBIT",
-    "balance": "2304201012788799"
+    "balance": 65487801.45,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "881723066",
-    "accountType": "CREDIT",
-    "balance": "6347583062041430"
+    "clientId": 697,
+    "accountType": "DEBIT",
+    "balance": 79593135.04,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "695237525",
+    "clientId": 384,
     "accountType": "CREDIT",
-    "balance": "6400052404788706"
+    "balance": 6226011.49,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "243215702",
+    "clientId": 242,
     "accountType": "DEBIT",
-    "balance": "9981196434227795"
+    "balance": 3571945.89,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "198991719",
+    "clientId": 614,
     "accountType": "CREDIT",
-    "balance": "758674993751674"
+    "balance": 74825308.83,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "970113376",
+    "clientId": 72,
     "accountType": "CREDIT",
-    "balance": "8662667970316296"
+    "balance": 31342538.27,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "128278184",
+    "clientId": 663,
     "accountType": "CREDIT",
-    "balance": "7502455779139515"
+    "balance": 19937785.87,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "031979484",
+    "clientId": 273,
     "accountType": "CREDIT",
-    "balance": "8399702870324500"
+    "balance": 31391295.82,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "273932712",
+    "clientId": 81,
     "accountType": "DEBIT",
-    "balance": "8151182880166308"
+    "balance": 97811174.59,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "184915197",
+    "clientId": 763,
     "accountType": "CREDIT",
-    "balance": "2160052443087828"
+    "balance": 75812394.94,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "588745513",
+    "clientId": 957,
     "accountType": "DEBIT",
-    "balance": "1906748824789596"
+    "balance": 16260705.37,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "550369549",
-    "accountType": "CREDIT",
-    "balance": "5998737839593542"
+    "clientId": 709,
+    "accountType": "DEBIT",
+    "balance": 90797965.47,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "871908551",
+    "clientId": 771,
     "accountType": "DEBIT",
-    "balance": "6597005521891156"
+    "balance": 24612350.38,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "159473538",
+    "clientId": 146,
     "accountType": "DEBIT",
-    "balance": "2623008937253440"
+    "balance": 57083779.83,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "305431979",
+    "clientId": 965,
     "accountType": "CREDIT",
-    "balance": "1165752781969441"
+    "balance": 92899600.53,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "452931391",
-    "accountType": "CREDIT",
-    "balance": "3523817169854588"
+    "clientId": 16,
+    "accountType": "DEBIT",
+    "balance": 85230954.36,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "352356501",
+    "clientId": 696,
     "accountType": "CREDIT",
-    "balance": "533589883126418"
+    "balance": 24274069.87,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "460503897",
+    "clientId": 765,
     "accountType": "DEBIT",
-    "balance": "7959303691589390"
+    "balance": 55977091.15,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "169861903",
-    "accountType": "DEBIT",
-    "balance": "9615844934280831"
+    "clientId": 382,
+    "accountType": "CREDIT",
+    "balance": 25096693.37,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "533726847",
+    "clientId": 943,
     "accountType": "CREDIT",
-    "balance": "2852469894812933"
+    "balance": 88577924.72,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "255228314",
-    "accountType": "DEBIT",
-    "balance": "8487364897823140"
+    "clientId": 605,
+    "accountType": "CREDIT",
+    "balance": 21671166.73,
+    "accountStatus": "OPEN"
+  },
+  {
+    "clientId": 303,
+    "accountType": "CREDIT",
+    "balance": 1590010.62,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "962244304",
+    "clientId": 480,
     "accountType": "CREDIT",
-    "balance": "8824852560689491"
+    "balance": 9167856.19,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "930330954",
+    "clientId": 176,
     "accountType": "DEBIT",
-    "balance": "1560753791743180"
+    "balance": 66760025.74,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "865345650",
+    "clientId": 89,
     "accountType": "DEBIT",
-    "balance": "6266738012890630"
+    "balance": 22736.93,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "519651516",
-    "accountType": "CREDIT",
-    "balance": "1086029749931318"
+    "clientId": 861,
+    "accountType": "DEBIT",
+    "balance": 1606887.01,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "304593202",
-    "accountType": "CREDIT",
-    "balance": "8146716892905310"
+    "clientId": 50,
+    "accountType": "DEBIT",
+    "balance": 5099689.48,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "986860843",
+    "clientId": 490,
     "accountType": "DEBIT",
-    "balance": "484944701217680"
+    "balance": 59597017.24,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "984386679",
+    "clientId": 175,
     "accountType": "DEBIT",
-    "balance": "2434500211777800"
+    "balance": 96110879.92,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "340310491",
+    "clientId": 950,
     "accountType": "DEBIT",
-    "balance": "4817688896838736"
+    "balance": 47446327.06,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "653528508",
+    "clientId": 582,
     "accountType": "CREDIT",
-    "balance": "2238595265498836"
+    "balance": 22347215.93,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "633304547",
+    "clientId": 173,
     "accountType": "DEBIT",
-    "balance": "8087748678250211"
+    "balance": 9092789.86,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "851699933",
-    "accountType": "DEBIT",
-    "balance": "3387040151685200"
+    "clientId": 7,
+    "accountType": "CREDIT",
+    "balance": 82511064.24,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "639884500",
+    "clientId": 850,
     "accountType": "CREDIT",
-    "balance": "5278956187548900"
+    "balance": 21557692.01,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "383824620",
-    "accountType": "CREDIT",
-    "balance": "2863100541109477"
+    "clientId": 49,
+    "accountType": "DEBIT",
+    "balance": 56449998.79,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "938120422",
+    "clientId": 855,
     "accountType": "CREDIT",
-    "balance": "9006379091696525"
+    "balance": 67017567.42,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "595732168",
+    "clientId": 549,
     "accountType": "CREDIT",
-    "balance": "6521644747458349"
+    "balance": 320879.88,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "318599858",
+    "clientId": 414,
     "accountType": "CREDIT",
-    "balance": "3159161731392929"
+    "balance": 85553063.48,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "590782582",
-    "accountType": "CREDIT",
-    "balance": "5083493344459794"
+    "clientId": 923,
+    "accountType": "DEBIT",
+    "balance": 87826063.73,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "103728270",
+    "clientId": 375,
     "accountType": "DEBIT",
-    "balance": "2722999739494905"
+    "balance": 22098734.06,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "851412613",
+    "clientId": 526,
     "accountType": "CREDIT",
-    "balance": "7530671527236396"
+    "balance": 84342036.1,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "911202343",
-    "accountType": "DEBIT",
-    "balance": "1166662649568283"
+    "clientId": 185,
+    "accountType": "CREDIT",
+    "balance": 79378857.68,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "609008064",
+    "clientId": 322,
     "accountType": "CREDIT",
-    "balance": "9827104558607254"
+    "balance": 3041728.66,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "374320875",
+    "clientId": 26,
     "accountType": "DEBIT",
-    "balance": "648371669213166"
+    "balance": 93121192.98,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "479437871",
-    "accountType": "CREDIT",
-    "balance": "3948493436812028"
+    "clientId": 954,
+    "accountType": "DEBIT",
+    "balance": 11809360.54,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "266030904",
+    "clientId": 35,
     "accountType": "DEBIT",
-    "balance": "4057496863214809"
+    "balance": 40704300.02,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "700715000",
+    "clientId": 729,
     "accountType": "DEBIT",
-    "balance": "7041568062562551"
+    "balance": 1516997.53,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "062413097",
-    "accountType": "DEBIT",
-    "balance": "3002968101990349"
+    "clientId": 147,
+    "accountType": "CREDIT",
+    "balance": 83009858.82,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "752275866",
+    "clientId": 767,
     "accountType": "DEBIT",
-    "balance": "6112187521735237"
+    "balance": 40182211.25,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "821717413",
-    "accountType": "DEBIT",
-    "balance": "8737640620973827"
+    "clientId": 820,
+    "accountType": "CREDIT",
+    "balance": 27502590.11,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "833737293",
+    "clientId": 345,
     "accountType": "DEBIT",
-    "balance": "4871600912194481"
+    "balance": 89789484.8,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "636210322",
+    "clientId": 704,
     "accountType": "DEBIT",
-    "balance": "5048263368000288"
+    "balance": 85435503.27,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "922823302",
+    "clientId": 244,
     "accountType": "DEBIT",
-    "balance": "3780230527507734"
+    "balance": 67689026.74,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "308780543",
+    "clientId": 558,
     "accountType": "CREDIT",
-    "balance": "8028244268205544"
+    "balance": 42554037.24,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "632018292",
+    "clientId": 934,
     "accountType": "CREDIT",
-    "balance": "4544205032969452"
+    "balance": 37301836.75,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "077174058",
+    "clientId": 906,
     "accountType": "CREDIT",
-    "balance": "808039709382914"
+    "balance": 89268521.72,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "486709428",
+    "clientId": 310,
     "accountType": "DEBIT",
-    "balance": "3282566650508297"
+    "balance": 34884695.09,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "831260830",
+    "clientId": 939,
     "accountType": "CREDIT",
-    "balance": "8004947122325802"
+    "balance": 82905160.0,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "589899635",
+    "clientId": 580,
     "accountType": "CREDIT",
-    "balance": "347702421032307"
+    "balance": 60568957.86,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "455561126",
+    "clientId": 25,
     "accountType": "DEBIT",
-    "balance": "5183380515543775"
+    "balance": 77193533.26,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "879497672",
+    "clientId": 522,
     "accountType": "DEBIT",
-    "balance": "5169745708953909"
+    "balance": 45489093.78,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "922115985",
+    "clientId": 363,
     "accountType": "DEBIT",
-    "balance": "9196974233356610"
-  },
-  {
-    "clientId": "861841419",
-    "accountType": "CREDIT",
-    "balance": "6902930613074974"
+    "balance": 68833444.48,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "768208643",
+    "clientId": 692,
     "accountType": "DEBIT",
-    "balance": "9458780021384394"
+    "balance": 22582918.48,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "076612132",
+    "clientId": 578,
     "accountType": "DEBIT",
-    "balance": "5204582658376170"
+    "balance": 58254920.59,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "553584091",
-    "accountType": "CREDIT",
-    "balance": "2773911196248839"
+    "clientId": 965,
+    "accountType": "DEBIT",
+    "balance": 94726827.89,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "729613103",
+    "clientId": 4,
     "accountType": "CREDIT",
-    "balance": "8981572200139151"
+    "balance": 62365801.48,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "758716777",
+    "clientId": 710,
     "accountType": "DEBIT",
-    "balance": "2049245221046268"
+    "balance": 23871069.15,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "436352084",
+    "clientId": 943,
     "accountType": "CREDIT",
-    "balance": "6111198783859502"
+    "balance": 75487111.7,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "979815318",
+    "clientId": 509,
     "accountType": "DEBIT",
-    "balance": "4501889512448973"
+    "balance": 4023725.45,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "361041742",
+    "clientId": 318,
+    "accountType": "DEBIT",
+    "balance": 80959016.13,
+    "accountStatus": "OPEN"
+  },
+  {
+    "clientId": 847,
     "accountType": "CREDIT",
-    "balance": "9288977412055321"
+    "balance": 82494571.3,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "575053431",
+    "clientId": 197,
     "accountType": "CREDIT",
-    "balance": "9010779234972724"
+    "balance": 45662177.72,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "457433999",
+    "clientId": 859,
     "accountType": "DEBIT",
-    "balance": "612413735335135"
+    "balance": 80386384.95,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "037139455",
-    "accountType": "DEBIT",
-    "balance": "7447232972046037"
+    "clientId": 632,
+    "accountType": "CREDIT",
+    "balance": 58336792.52,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "911637065",
+    "clientId": 942,
     "accountType": "DEBIT",
-    "balance": "5665543807876386"
+    "balance": 83291776.42,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "741682389",
-    "accountType": "CREDIT",
-    "balance": "5124935727517088"
+    "clientId": 673,
+    "accountType": "DEBIT",
+    "balance": 99206669.15,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "597591006",
-    "accountType": "CREDIT",
-    "balance": "4457197028274287"
+    "clientId": 610,
+    "accountType": "DEBIT",
+    "balance": 82400051.26,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "183525249",
-    "accountType": "CREDIT",
-    "balance": "8170514210478968"
+    "clientId": 618,
+    "accountType": "DEBIT",
+    "balance": 29123995.92,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "633218907",
+    "clientId": 946,
     "accountType": "DEBIT",
-    "balance": "1816350474481311"
+    "balance": 33304034.01,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "210515429",
+    "clientId": 472,
     "accountType": "DEBIT",
-    "balance": "6241510236966925"
+    "balance": 36462895.52,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "097243087",
-    "accountType": "CREDIT",
-    "balance": "2371318516687298"
+    "clientId": 903,
+    "accountType": "DEBIT",
+    "balance": 23788179.14,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "546378777",
+    "clientId": 870,
     "accountType": "DEBIT",
-    "balance": "1166098282345428"
+    "balance": 67244817.15,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "564594923",
+    "clientId": 242,
     "accountType": "CREDIT",
-    "balance": "5523224553376933"
+    "balance": 851128.07,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "635156678",
+    "clientId": 358,
     "accountType": "DEBIT",
-    "balance": "2857409890520167"
-  },
-  {
-    "clientId": "820156139",
-    "accountType": "CREDIT",
-    "balance": "3722217519406819"
+    "balance": 24577440.15,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "391628144",
+    "clientId": 929,
     "accountType": "CREDIT",
-    "balance": "1922938885977495"
+    "balance": 6712439.83,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "068700512",
-    "accountType": "CREDIT",
-    "balance": "949194366546287"
+    "clientId": 455,
+    "accountType": "DEBIT",
+    "balance": 75296327.05,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "354758977",
+    "clientId": 79,
     "accountType": "DEBIT",
-    "balance": "7129804725452010"
+    "balance": 72629304.58,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "540573745",
+    "clientId": 108,
     "accountType": "CREDIT",
-    "balance": "8075634526826248"
+    "balance": 28860885.87,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "171001540",
+    "clientId": 83,
     "accountType": "DEBIT",
-    "balance": "7120190441587756"
+    "balance": 99333756.33,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "603814584",
-    "accountType": "DEBIT",
-    "balance": "8771686442514595"
+    "clientId": 972,
+    "accountType": "CREDIT",
+    "balance": 86487641.49,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "783412419",
+    "clientId": 13,
     "accountType": "DEBIT",
-    "balance": "5617147017798742"
+    "balance": 70072875.76,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "326459203",
-    "accountType": "DEBIT",
-    "balance": "922243709630971"
+    "clientId": 825,
+    "accountType": "CREDIT",
+    "balance": 90369637.58,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "391359461",
+    "clientId": 541,
     "accountType": "CREDIT",
-    "balance": "1178717415393798"
+    "balance": 87153795.96,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "959431398",
-    "accountType": "CREDIT",
-    "balance": "6266535071846887"
+    "clientId": 336,
+    "accountType": "DEBIT",
+    "balance": 84119136.31,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "895022957",
+    "clientId": 867,
     "accountType": "CREDIT",
-    "balance": "6269773938619886"
+    "balance": 60726074.87,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "169270232",
+    "clientId": 666,
     "accountType": "CREDIT",
-    "balance": "7890329815424499"
+    "balance": 20190467.22,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "547776564",
+    "clientId": 648,
     "accountType": "CREDIT",
-    "balance": "2033102219100677"
+    "balance": 29523960.83,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "094439509",
-    "accountType": "DEBIT",
-    "balance": "8984848756832792"
+    "clientId": 253,
+    "accountType": "CREDIT",
+    "balance": 31998129.17,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "893428310",
+    "clientId": 88,
     "accountType": "CREDIT",
-    "balance": "1220462626692518"
+    "balance": 81713490.17,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "932577240",
+    "clientId": 336,
     "accountType": "CREDIT",
-    "balance": "6788000894064928"
+    "balance": 46899439.01,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "276596570",
+    "clientId": 520,
     "accountType": "CREDIT",
-    "balance": "6999954181201968"
+    "balance": 53383486.18,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "729123632",
-    "accountType": "DEBIT",
-    "balance": "442585681254245"
+    "clientId": 489,
+    "accountType": "CREDIT",
+    "balance": 630953.99,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "762059011",
+    "clientId": 981,
     "accountType": "DEBIT",
-    "balance": "7934697705606193"
+    "balance": 64786090.72,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "697660191",
+    "clientId": 147,
     "accountType": "DEBIT",
-    "balance": "6830222537988091"
+    "balance": 27911165.91,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "151449011",
+    "clientId": 795,
     "accountType": "CREDIT",
-    "balance": "4203332645858214"
+    "balance": 54832347.61,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "662505428",
+    "clientId": 947,
     "accountType": "DEBIT",
-    "balance": "6869734159919729"
+    "balance": 53824189.2,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "522452841",
-    "accountType": "DEBIT",
-    "balance": "9770803195683664"
+    "clientId": 566,
+    "accountType": "CREDIT",
+    "balance": 33645100.24,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "409112344",
-    "accountType": "DEBIT",
-    "balance": "1386742777108327"
+    "clientId": 571,
+    "accountType": "CREDIT",
+    "balance": 81701281.81,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "465006119",
+    "clientId": 789,
     "accountType": "DEBIT",
-    "balance": "7724812700784276"
+    "balance": 74867273.37,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "648007019",
+    "clientId": 727,
     "accountType": "CREDIT",
-    "balance": "9658466618804616"
+    "balance": 61781347.5,
+    "accountStatus": "OPEN"
+  },
+  {
+    "clientId": 268,
+    "accountType": "DEBIT",
+    "balance": 2650289.59,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "795898058",
+    "clientId": 423,
     "accountType": "CREDIT",
-    "balance": "4306729677857009"
+    "balance": 86073560.57,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "082592955",
+    "clientId": 109,
     "accountType": "CREDIT",
-    "balance": "6179245637416391"
+    "balance": 12580278.91,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "312652532",
+    "clientId": 187,
     "accountType": "DEBIT",
-    "balance": "7125794676917102"
+    "balance": 71291390.85,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "525445296",
+    "clientId": 182,
     "accountType": "DEBIT",
-    "balance": "5323789704266563"
+    "balance": 69408380.74,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "147735323",
+    "clientId": 90,
     "accountType": "CREDIT",
-    "balance": "7239516036240838"
+    "balance": 49456296.61,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "676595286",
+    "clientId": 7,
     "accountType": "CREDIT",
-    "balance": "4587862006794048"
+    "balance": 72095110.28,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "918845556",
-    "accountType": "CREDIT",
-    "balance": "5377699747765614"
+    "clientId": 96,
+    "accountType": "DEBIT",
+    "balance": 47885714.64,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "753302669",
+    "clientId": 346,
     "accountType": "CREDIT",
-    "balance": "100529696323909"
+    "balance": 95803273.68,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "825944218",
+    "clientId": 393,
     "accountType": "DEBIT",
-    "balance": "8601079262787615"
+    "balance": 20835382.82,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "967925840",
-    "accountType": "DEBIT",
-    "balance": "8601006451257635"
+    "clientId": 434,
+    "accountType": "CREDIT",
+    "balance": 97331991.62,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "199356785",
+    "clientId": 831,
     "accountType": "DEBIT",
-    "balance": "4858627423428537"
+    "balance": 77384985.68,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "009713923",
+    "clientId": 708,
     "accountType": "CREDIT",
-    "balance": "3050569710165134"
+    "balance": 25781782.52,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "892631524",
+    "clientId": 807,
     "accountType": "CREDIT",
-    "balance": "3301731928115327"
+    "balance": 28993135.97,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "819241582",
+    "clientId": 992,
     "accountType": "CREDIT",
-    "balance": "1801575071105220"
-  },
-  {
-    "clientId": "669808192",
-    "accountType": "DEBIT",
-    "balance": "5863431479037310"
+    "balance": 91452087.33,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "306463749",
-    "accountType": "DEBIT",
-    "balance": "7913683870597900"
+    "clientId": 196,
+    "accountType": "CREDIT",
+    "balance": 30792407.48,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "843380077",
+    "clientId": 764,
     "accountType": "DEBIT",
-    "balance": "5019196189843483"
+    "balance": 85533890.29,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "929037298",
+    "clientId": 243,
     "accountType": "CREDIT",
-    "balance": "69488034471042"
+    "balance": 37775800.12,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "359201777",
+    "clientId": 346,
     "accountType": "CREDIT",
-    "balance": "7934119041994154"
+    "balance": 4508042.73,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "896532357",
-    "accountType": "CREDIT",
-    "balance": "1849031490298966"
-  },
-  {
-    "clientId": "890742843",
-    "accountType": "CREDIT",
-    "balance": "6764206679754991"
+    "clientId": 614,
+    "accountType": "DEBIT",
+    "balance": 23453983.32,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "759354033",
+    "clientId": 797,
     "accountType": "CREDIT",
-    "balance": "6843461720244034"
+    "balance": 96984625.44,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "591712743",
+    "clientId": 824,
     "accountType": "DEBIT",
-    "balance": "6730373834551336"
+    "balance": 4405355.54,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "676012189",
+    "clientId": 439,
     "accountType": "DEBIT",
-    "balance": "6709208275218526"
+    "balance": 29495898.56,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "919056465",
+    "clientId": 615,
     "accountType": "DEBIT",
-    "balance": "9967078109126745"
+    "balance": 58909950.95,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "631835799",
+    "clientId": 575,
     "accountType": "CREDIT",
-    "balance": "7162368700380449"
+    "balance": 86782739.64,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "999209553",
+    "clientId": 134,
     "accountType": "DEBIT",
-    "balance": "3567292441201608"
+    "balance": 70963144.24,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "043729705",
-    "accountType": "CREDIT",
-    "balance": "9187339117588677"
+    "clientId": 833,
+    "accountType": "DEBIT",
+    "balance": 3694963.85,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "473228291",
+    "clientId": 358,
     "accountType": "DEBIT",
-    "balance": "2183038470520150"
+    "balance": 73612232.44,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "297538668",
+    "clientId": 403,
     "accountType": "DEBIT",
-    "balance": "4412622900859619"
+    "balance": 11632616.89,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "122925661",
-    "accountType": "CREDIT",
-    "balance": "6470162570293799"
+    "clientId": 222,
+    "accountType": "DEBIT",
+    "balance": 80176271.14,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "735275060",
+    "clientId": 640,
     "accountType": "DEBIT",
-    "balance": "1234329210999557"
+    "balance": 47183010.89,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "162280182",
+    "clientId": 481,
     "accountType": "DEBIT",
-    "balance": "3276715698666353"
+    "balance": 88299943.56,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "371438538",
+    "clientId": 144,
     "accountType": "CREDIT",
-    "balance": "7619659501130571"
-  },
-  {
-    "clientId": "013477329",
-    "accountType": "DEBIT",
-    "balance": "5092626561401499"
+    "balance": 15035598.64,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "798471686",
+    "clientId": 480,
     "accountType": "CREDIT",
-    "balance": "520949915042443"
+    "balance": 13248354.96,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "661360273",
+    "clientId": 374,
     "accountType": "CREDIT",
-    "balance": "1440226739966384"
+    "balance": 12827757.55,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "429242016",
+    "clientId": 453,
     "accountType": "DEBIT",
-    "balance": "2774068335464336"
+    "balance": 91223277.44,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "507059358",
-    "accountType": "DEBIT",
-    "balance": "1439191903820400"
+    "clientId": 397,
+    "accountType": "CREDIT",
+    "balance": 53482011.9,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "363993368",
+    "clientId": 666,
     "accountType": "CREDIT",
-    "balance": "8230192810149387"
+    "balance": 8330021.18,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "307466330",
-    "accountType": "CREDIT",
-    "balance": "9533569271850485"
+    "clientId": 432,
+    "accountType": "DEBIT",
+    "balance": 7439358.57,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "541211738",
+    "clientId": 55,
     "accountType": "DEBIT",
-    "balance": "4894954797935995"
+    "balance": 41090647.85,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "217331676",
-    "accountType": "CREDIT",
-    "balance": "4600314938899796"
+    "clientId": 909,
+    "accountType": "DEBIT",
+    "balance": 83214199.28,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "852190097",
-    "accountType": "CREDIT",
-    "balance": "1125555134873972"
+    "clientId": 173,
+    "accountType": "DEBIT",
+    "balance": 30049913.05,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "979085174",
+    "clientId": 948,
     "accountType": "CREDIT",
-    "balance": "2263822028249037"
+    "balance": 65874062.44,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "321360222",
+    "clientId": 491,
     "accountType": "CREDIT",
-    "balance": "5003410881767933"
+    "balance": 94976147.46,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "106704201",
+    "clientId": 601,
     "accountType": "CREDIT",
-    "balance": "9453144950134584"
+    "balance": 29501982.1,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "688145083",
+    "clientId": 207,
     "accountType": "DEBIT",
-    "balance": "2418871470289398"
+    "balance": 15980624.12,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "896853497",
+    "clientId": 706,
     "accountType": "CREDIT",
-    "balance": "4286177142576746"
+    "balance": 26701562.79,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "021231572",
+    "clientId": 445,
     "accountType": "CREDIT",
-    "balance": "7190931282105942"
+    "balance": 60240701.11,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "728540433",
+    "clientId": 828,
     "accountType": "DEBIT",
-    "balance": "9190734134003859"
+    "balance": 15177798.98,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "188909354",
+    "clientId": 943,
     "accountType": "DEBIT",
-    "balance": "7791087168835412"
+    "balance": 16657776.32,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "443840945",
+    "clientId": 975,
     "accountType": "DEBIT",
-    "balance": "6454752074651400"
+    "balance": 43204998.55,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "594327063",
-    "accountType": "DEBIT",
-    "balance": "5074882763045549"
+    "clientId": 131,
+    "accountType": "CREDIT",
+    "balance": 66278806.7,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "889906328",
-    "accountType": "DEBIT",
-    "balance": "4826802823645566"
+    "clientId": 280,
+    "accountType": "CREDIT",
+    "balance": 30463797.18,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "017134599",
+    "clientId": 39,
     "accountType": "CREDIT",
-    "balance": "7109198936936751"
+    "balance": 75395655.02,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "292792607",
+    "clientId": 37,
     "accountType": "CREDIT",
-    "balance": "2703491141145186"
+    "balance": 37962699.21,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "095189504",
+    "clientId": 249,
     "accountType": "DEBIT",
-    "balance": "6513342552159638"
+    "balance": 77456211.38,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "558423264",
+    "clientId": 733,
     "accountType": "CREDIT",
-    "balance": "9088688572865526"
+    "balance": 20215015.36,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "097500597",
-    "accountType": "DEBIT",
-    "balance": "9383374997089455"
+    "clientId": 642,
+    "accountType": "CREDIT",
+    "balance": 4656554.35,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "250604910",
+    "clientId": 488,
     "accountType": "CREDIT",
-    "balance": "1666493443724588"
+    "balance": 51660426.91,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "241545797",
+    "clientId": 146,
     "accountType": "DEBIT",
-    "balance": "7898843468634756"
+    "balance": 97086596.25,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "399286420",
+    "clientId": 777,
     "accountType": "DEBIT",
-    "balance": "893029923480334"
+    "balance": 23119952.62,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "555250932",
+    "clientId": 185,
     "accountType": "DEBIT",
-    "balance": "8014743749248845"
+    "balance": 97525602.88,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "002749217",
+    "clientId": 847,
     "accountType": "DEBIT",
-    "balance": "1752239621390451"
+    "balance": 60529875.08,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "301016614",
-    "accountType": "DEBIT",
-    "balance": "7280850501967233"
+    "clientId": 746,
+    "accountType": "CREDIT",
+    "balance": 22291650.31,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "945093620",
+    "clientId": 467,
     "accountType": "DEBIT",
-    "balance": "4248324541298817"
+    "balance": 14237169.6,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "639685992",
+    "clientId": 3,
     "accountType": "DEBIT",
-    "balance": "1623517452748398"
+    "balance": 97162308.03,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "155615409",
-    "accountType": "CREDIT",
-    "balance": "7733999135581274"
-  },
-  {
-    "clientId": "526536637",
-    "accountType": "CREDIT",
-    "balance": "5530320731387000"
+    "clientId": 343,
+    "accountType": "DEBIT",
+    "balance": 79427723.1,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "344690430",
+    "clientId": 942,
     "accountType": "DEBIT",
-    "balance": "980941601095433"
+    "balance": 62188751.94,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "852820020",
+    "clientId": 282,
     "accountType": "CREDIT",
-    "balance": "1387274540892712"
+    "balance": 77105346.29,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "477044753",
-    "accountType": "CREDIT",
-    "balance": "5540622068126996"
+    "clientId": 217,
+    "accountType": "DEBIT",
+    "balance": 16585573.39,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "882830674",
+    "clientId": 537,
     "accountType": "DEBIT",
-    "balance": "5308763830289332"
+    "balance": 11386600.78,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "201636927",
+    "clientId": 174,
     "accountType": "CREDIT",
-    "balance": "927238008515958"
+    "balance": 36648330.17,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "329271377",
+    "clientId": 528,
     "accountType": "DEBIT",
-    "balance": "7714861630137435"
+    "balance": 88820875.68,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "639297814",
+    "clientId": 497,
     "accountType": "DEBIT",
-    "balance": "582104596408953"
+    "balance": 72121929.83,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "749763282",
-    "accountType": "CREDIT",
-    "balance": "7777197981214850"
+    "clientId": 203,
+    "accountType": "DEBIT",
+    "balance": 11976105.82,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "436285334",
+    "clientId": 847,
     "accountType": "CREDIT",
-    "balance": "293150438691165"
-  },
-  {
-    "clientId": "597817940",
-    "accountType": "DEBIT",
-    "balance": "5879341455780548"
+    "balance": 27047260.28,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "738650746",
-    "accountType": "DEBIT",
-    "balance": "2012166397688365"
+    "clientId": 95,
+    "accountType": "CREDIT",
+    "balance": 6865191.03,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "249263606",
+    "clientId": 802,
     "accountType": "CREDIT",
-    "balance": "7196199434303332"
+    "balance": 57813758.53,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "206693163",
+    "clientId": 898,
     "accountType": "CREDIT",
-    "balance": "5435899646606060"
+    "balance": 50141054.36,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "362293229",
+    "clientId": 151,
     "accountType": "DEBIT",
-    "balance": "6391767705718327"
+    "balance": 5617973.12,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "475424320",
+    "clientId": 584,
     "accountType": "CREDIT",
-    "balance": "3379860959179243"
+    "balance": 33316770.65,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "508084308",
+    "clientId": 203,
     "accountType": "DEBIT",
-    "balance": "6264438457001523"
+    "balance": 4478676.72,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "128876434",
+    "clientId": 937,
     "accountType": "DEBIT",
-    "balance": "9333074892556973"
+    "balance": 85623804.38,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "543925641",
+    "clientId": 129,
     "accountType": "DEBIT",
-    "balance": "3232534739331812"
+    "balance": 71475986.14,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "014551392",
+    "clientId": 14,
     "accountType": "DEBIT",
-    "balance": "3289022428812683"
+    "balance": 2261421.48,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "511563608",
+    "clientId": 255,
     "accountType": "DEBIT",
-    "balance": "1631990262538169"
+    "balance": 41462975.29,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "084566661",
+    "clientId": 460,
     "accountType": "DEBIT",
-    "balance": "363498662555296"
+    "balance": 3898764.74,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "147184958",
+    "clientId": 23,
     "accountType": "CREDIT",
-    "balance": "6251775177979609"
+    "balance": 47952679.37,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "423283498",
-    "accountType": "CREDIT",
-    "balance": "2356035946165174"
-  },
-  {
-    "clientId": "772286459",
+    "clientId": 694,
     "accountType": "DEBIT",
-    "balance": "6027869971722561"
+    "balance": 50445026.1,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "403817785",
-    "accountType": "DEBIT",
-    "balance": "556254231742994"
+    "clientId": 218,
+    "accountType": "CREDIT",
+    "balance": 63652.28,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "063891596",
+    "clientId": 289,
     "accountType": "DEBIT",
-    "balance": "2958573947960730"
+    "balance": 20668535.76,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "484901080",
+    "clientId": 956,
     "accountType": "DEBIT",
-    "balance": "6744403573332819"
+    "balance": 37560808.78,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "883672210",
+    "clientId": 992,
     "accountType": "CREDIT",
-    "balance": "6770002636343260"
+    "balance": 56556077.71,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "710801808",
+    "clientId": 543,
     "accountType": "CREDIT",
-    "balance": "3878212179084225"
+    "balance": 27729220.89,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "104759747",
+    "clientId": 479,
     "accountType": "CREDIT",
-    "balance": "8264036436697234"
+    "balance": 35556595.63,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "893092781",
+    "clientId": 631,
     "accountType": "DEBIT",
-    "balance": "7700470335192652"
-  },
-  {
-    "clientId": "807337815",
-    "accountType": "CREDIT",
-    "balance": "2166041284863763"
+    "balance": 62081918.27,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "802974805",
+    "clientId": 511,
     "accountType": "DEBIT",
-    "balance": "8475758787878913"
+    "balance": 37262282.37,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "498758029",
-    "accountType": "DEBIT",
-    "balance": "8772458985360802"
+    "clientId": 447,
+    "accountType": "CREDIT",
+    "balance": 93328632.69,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "684468892",
+    "clientId": 724,
     "accountType": "CREDIT",
-    "balance": "9127235701642858"
+    "balance": 12841822.35,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "681502917",
-    "accountType": "CREDIT",
-    "balance": "248613296346048"
+    "clientId": 396,
+    "accountType": "DEBIT",
+    "balance": 82467713.56,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "274204424",
+    "clientId": 238,
     "accountType": "CREDIT",
-    "balance": "1056769115934385"
+    "balance": 67223446.87,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "611472635",
+    "clientId": 459,
     "accountType": "DEBIT",
-    "balance": "8626636018533409"
+    "balance": 94076961.39,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "757174142",
+    "clientId": 5,
     "accountType": "DEBIT",
-    "balance": "5566939289105617"
+    "balance": 94034717.03,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "547234691",
-    "accountType": "DEBIT",
-    "balance": "704071855358183"
+    "clientId": 440,
+    "accountType": "CREDIT",
+    "balance": 48389294.13,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "383372692",
-    "accountType": "DEBIT",
-    "balance": "8388951282832645"
+    "clientId": 27,
+    "accountType": "CREDIT",
+    "balance": 55959721.41,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "476009947",
+    "clientId": 874,
     "accountType": "DEBIT",
-    "balance": "4714389220309479"
+    "balance": 8697077.43,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "902610679",
+    "clientId": 258,
     "accountType": "DEBIT",
-    "balance": "520819378146920"
+    "balance": 12998350.33,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "377675836",
-    "accountType": "DEBIT",
-    "balance": "9044514638320340"
+    "clientId": 981,
+    "accountType": "CREDIT",
+    "balance": 44397202.26,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "301217153",
-    "accountType": "DEBIT",
-    "balance": "2153386005174811"
+    "clientId": 469,
+    "accountType": "CREDIT",
+    "balance": 83543313.58,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "618427090",
+    "clientId": 843,
     "accountType": "DEBIT",
-    "balance": "4225143647215124"
+    "balance": 54223481.63,
+    "accountStatus": "OPEN"
+  },
+  {
+    "clientId": 955,
+    "accountType": "CREDIT",
+    "balance": 39457798.34,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "755257915",
+    "clientId": 196,
     "accountType": "CREDIT",
-    "balance": "1793792431231298"
+    "balance": 56267372.75,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "787752479",
+    "clientId": 112,
     "accountType": "CREDIT",
-    "balance": "3914299089015042"
+    "balance": 15924219.03,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "824009338",
+    "clientId": 897,
     "accountType": "DEBIT",
-    "balance": "6060599227790009"
+    "balance": 30155926.4,
+    "accountStatus": "OPEN"
+  },
+  {
+    "clientId": 513,
+    "accountType": "CREDIT",
+    "balance": 20405755.05,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "553439271",
+    "clientId": 98,
     "accountType": "CREDIT",
-    "balance": "2567435521260083"
+    "balance": 58132111.37,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "572522090",
+    "clientId": 146,
     "accountType": "DEBIT",
-    "balance": "1088920291386733"
+    "balance": 97933434.71,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "154741043",
+    "clientId": 741,
     "accountType": "CREDIT",
-    "balance": "581422900800291"
+    "balance": 77325425.25,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "815015951",
+    "clientId": 693,
     "accountType": "DEBIT",
-    "balance": "6569925762145252"
+    "balance": 95360385.06,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "568990813",
-    "accountType": "CREDIT",
-    "balance": "3945080032124947"
+    "clientId": 499,
+    "accountType": "DEBIT",
+    "balance": 11937269.87,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "142586215",
+    "clientId": 169,
     "accountType": "DEBIT",
-    "balance": "6389154292655195"
+    "balance": 8328355.21,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "459917230",
+    "clientId": 200,
     "accountType": "CREDIT",
-    "balance": "8756826175639126"
+    "balance": 27901363.61,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "684969759",
-    "accountType": "DEBIT",
-    "balance": "4584965704097487"
+    "clientId": 994,
+    "accountType": "CREDIT",
+    "balance": 18829721.12,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "386450674",
+    "clientId": 367,
     "accountType": "DEBIT",
-    "balance": "8056912504833624"
+    "balance": 22447729.77,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "909341595",
+    "clientId": 796,
     "accountType": "CREDIT",
-    "balance": "1620808992560462"
+    "balance": 4770620.43,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "385694985",
+    "clientId": 775,
     "accountType": "DEBIT",
-    "balance": "203305412615560"
+    "balance": 93295318.02,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "627486540",
+    "clientId": 972,
     "accountType": "CREDIT",
-    "balance": "931321021704805"
+    "balance": 28720253.64,
+    "accountStatus": "OPEN"
+  },
+  {
+    "clientId": 349,
+    "accountType": "DEBIT",
+    "balance": 17422240.45,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "180447508",
+    "clientId": 553,
     "accountType": "CREDIT",
-    "balance": "8067435758595433"
+    "balance": 32494836.55,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "160806190",
-    "accountType": "DEBIT",
-    "balance": "9375794470873040"
+    "clientId": 113,
+    "accountType": "CREDIT",
+    "balance": 71255491.22,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "996805665",
+    "clientId": 977,
     "accountType": "DEBIT",
-    "balance": "8915581475992053"
+    "balance": 86873564.52,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "044869820",
-    "accountType": "CREDIT",
-    "balance": "6466009610968009"
+    "clientId": 627,
+    "accountType": "DEBIT",
+    "balance": 83434912.24,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "497610252",
+    "clientId": 867,
     "accountType": "DEBIT",
-    "balance": "2609725711597311"
+    "balance": 85311522.34,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "986178669",
+    "clientId": 246,
     "accountType": "DEBIT",
-    "balance": "4812944795520837"
+    "balance": 7341884.89,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "273980771",
+    "clientId": 560,
     "accountType": "CREDIT",
-    "balance": "9078446302624024"
+    "balance": 59847652.45,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "837553616",
-    "accountType": "DEBIT",
-    "balance": "3870763977515029"
+    "clientId": 448,
+    "accountType": "CREDIT",
+    "balance": 56115751.75,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "223351279",
+    "clientId": 262,
     "accountType": "CREDIT",
-    "balance": "3193132966299871"
+    "balance": 40849239.16,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "483492235",
+    "clientId": 965,
     "accountType": "CREDIT",
-    "balance": "8802787247111006"
+    "balance": 75053955.13,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "482323979",
-    "accountType": "DEBIT",
-    "balance": "8134357038113291"
+    "clientId": 622,
+    "accountType": "CREDIT",
+    "balance": 48366438.23,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "181807438",
+    "clientId": 589,
     "accountType": "CREDIT",
-    "balance": "6224300527856013"
+    "balance": 40277375.68,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "007508426",
+    "clientId": 650,
     "accountType": "DEBIT",
-    "balance": "4522228833364504"
+    "balance": 72244974.81,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "495953123",
+    "clientId": 313,
     "accountType": "CREDIT",
-    "balance": "7859672806829809"
+    "balance": 5767262.22,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "212230595",
+    "clientId": 937,
     "accountType": "CREDIT",
-    "balance": "6526606077458169"
+    "balance": 98159213.46,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "017545029",
+    "clientId": 584,
     "accountType": "CREDIT",
-    "balance": "7386344206695391"
+    "balance": 94997186.98,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "284646683",
+    "clientId": 847,
     "accountType": "DEBIT",
-    "balance": "2661965033218372"
+    "balance": 76492465.99,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "232704647",
+    "clientId": 986,
     "accountType": "CREDIT",
-    "balance": "7350425048281278"
+    "balance": 50113123.14,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "435297475",
-    "accountType": "DEBIT",
-    "balance": "4414551019638920"
+    "clientId": 44,
+    "accountType": "CREDIT",
+    "balance": 51142921.02,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "410146119",
+    "clientId": 160,
     "accountType": "CREDIT",
-    "balance": "381009127995809"
+    "balance": 96406603.92,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "236010742",
+    "clientId": 519,
     "accountType": "CREDIT",
-    "balance": "3056342180079330"
+    "balance": 15536367.33,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "359195560",
-    "accountType": "CREDIT",
-    "balance": "6723420726921070"
+    "clientId": 17,
+    "accountType": "DEBIT",
+    "balance": 42438138.23,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "806954406",
+    "clientId": 556,
     "accountType": "CREDIT",
-    "balance": "584939124560074"
+    "balance": 62178771.19,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "344811854",
-    "accountType": "CREDIT",
-    "balance": "8644574207353389"
+    "clientId": 714,
+    "accountType": "DEBIT",
+    "balance": 45395153.72,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "989856689",
+    "clientId": 663,
     "accountType": "DEBIT",
-    "balance": "7760996492016082"
+    "balance": 62102931.38,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "486994511",
-    "accountType": "CREDIT",
-    "balance": "9806723515071974"
+    "clientId": 901,
+    "accountType": "DEBIT",
+    "balance": 68518841.4,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "157654931",
+    "clientId": 371,
     "accountType": "DEBIT",
-    "balance": "1400013793300566"
+    "balance": 53274915.9,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "083393269",
+    "clientId": 354,
     "accountType": "DEBIT",
-    "balance": "2549606402461110"
+    "balance": 61290016.18,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "450388755",
+    "clientId": 782,
     "accountType": "CREDIT",
-    "balance": "8020899469292759"
+    "balance": 93857435.35,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "902007606",
-    "accountType": "DEBIT",
-    "balance": "9373769963557535"
+    "clientId": 169,
+    "accountType": "CREDIT",
+    "balance": 72301469.57,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "286538658",
-    "accountType": "CREDIT",
-    "balance": "4400877329774188"
+    "clientId": 801,
+    "accountType": "DEBIT",
+    "balance": 24120917.21,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "241868074",
+    "clientId": 190,
     "accountType": "DEBIT",
-    "balance": "9150191278771166"
+    "balance": 34075164.85,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "023548423",
+    "clientId": 963,
     "accountType": "CREDIT",
-    "balance": "1448284602227576"
+    "balance": 13104799.52,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "022819605",
+    "clientId": 852,
     "accountType": "CREDIT",
-    "balance": "7709389958710772"
+    "balance": 25066939.08,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "591895938",
+    "clientId": 475,
     "accountType": "DEBIT",
-    "balance": "9624430602158658"
+    "balance": 6721590.6,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "044303418",
+    "clientId": 221,
     "accountType": "CREDIT",
-    "balance": "4698747516811335"
+    "balance": 45293363.36,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "134311913",
+    "clientId": 796,
     "accountType": "CREDIT",
-    "balance": "4893066866481596"
+    "balance": 83630930.04,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "325183698",
-    "accountType": "DEBIT",
-    "balance": "8292360664554086"
+    "clientId": 860,
+    "accountType": "CREDIT",
+    "balance": 16502731.2,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "626545932",
+    "clientId": 332,
     "accountType": "CREDIT",
-    "balance": "6143379787095021"
+    "balance": 99500354.23,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "118928262",
+    "clientId": 157,
     "accountType": "DEBIT",
-    "balance": "3287835526006647"
-  },
-  {
-    "clientId": "780151682",
-    "accountType": "CREDIT",
-    "balance": "1419135089819192"
+    "balance": 82974904.66,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "280034744",
+    "clientId": 884,
     "accountType": "DEBIT",
-    "balance": "7995849678907692"
+    "balance": 51831553.28,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "445351712",
+    "clientId": 40,
     "accountType": "DEBIT",
-    "balance": "3656295640292604"
+    "balance": 94559655.49,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "633487095",
-    "accountType": "CREDIT",
-    "balance": "954984303163144"
+    "clientId": 247,
+    "accountType": "DEBIT",
+    "balance": 94892297.87,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "159313551",
-    "accountType": "CREDIT",
-    "balance": "2092711092327805"
+    "clientId": 230,
+    "accountType": "DEBIT",
+    "balance": 95266911.61,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "261094373",
+    "clientId": 84,
     "accountType": "DEBIT",
-    "balance": "1217793867864086"
+    "balance": 10688544.49,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "413668450",
+    "clientId": 527,
     "accountType": "DEBIT",
-    "balance": "2958946957235040"
+    "balance": 75576645.49,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "005282613",
+    "clientId": 608,
     "accountType": "CREDIT",
-    "balance": "5490980006679620"
+    "balance": 13869110.87,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "671825421",
+    "clientId": 714,
     "accountType": "DEBIT",
-    "balance": "6295181545339763"
+    "balance": 72873245.07,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "389976144",
+    "clientId": 129,
     "accountType": "DEBIT",
-    "balance": "4520561403979664"
+    "balance": 71272121.21,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "439073435",
+    "clientId": 125,
     "accountType": "DEBIT",
-    "balance": "2863353451917202"
-  },
-  {
-    "clientId": "627241947",
-    "accountType": "CREDIT",
-    "balance": "5148741866717739"
-  },
-  {
-    "clientId": "755595221",
-    "accountType": "CREDIT",
-    "balance": "1783444708564056"
+    "balance": 66219681.84,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "326133429",
+    "clientId": 119,
     "accountType": "CREDIT",
-    "balance": "9284092750245004"
+    "balance": 42156126.78,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "986014358",
-    "accountType": "CREDIT",
-    "balance": "7131421327080412"
+    "clientId": 64,
+    "accountType": "DEBIT",
+    "balance": 39445867.22,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "856518297",
+    "clientId": 879,
     "accountType": "DEBIT",
-    "balance": "6586883857293957"
+    "balance": 24256592.45,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "085362540",
+    "clientId": 826,
     "accountType": "DEBIT",
-    "balance": "8532260540060100"
+    "balance": 98221558.34,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "383608713",
-    "accountType": "DEBIT",
-    "balance": "8824016682890322"
+    "clientId": 589,
+    "accountType": "CREDIT",
+    "balance": 96632349.7,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "560625100",
+    "clientId": 630,
     "accountType": "DEBIT",
-    "balance": "8690840185174470"
+    "balance": 10984006.04,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "741961420",
+    "clientId": 824,
     "accountType": "CREDIT",
-    "balance": "9908726114948307"
+    "balance": 44155841.82,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "905030761",
+    "clientId": 121,
     "accountType": "DEBIT",
-    "balance": "6699543003160418"
+    "balance": 90653051.22,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "765611571",
-    "accountType": "DEBIT",
-    "balance": "6926760337238404"
+    "clientId": 811,
+    "accountType": "CREDIT",
+    "balance": 24993044.4,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "213734250",
-    "accountType": "DEBIT",
-    "balance": "732981167961230"
+    "clientId": 927,
+    "accountType": "CREDIT",
+    "balance": 87804297.2,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "146421208",
+    "clientId": 553,
     "accountType": "DEBIT",
-    "balance": "2225109567965326"
+    "balance": 21529553.56,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "199872783",
-    "accountType": "DEBIT",
-    "balance": "4942184760598136"
+    "clientId": 74,
+    "accountType": "CREDIT",
+    "balance": 49764318.6,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "830512356",
+    "clientId": 981,
     "accountType": "DEBIT",
-    "balance": "344776731060761"
+    "balance": 53245993.75,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "864114329",
+    "clientId": 821,
     "accountType": "CREDIT",
-    "balance": "8691968082828993"
+    "balance": 88602320.28,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "242716434",
+    "clientId": 868,
     "accountType": "DEBIT",
-    "balance": "418456927609855"
+    "balance": 22446914.49,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "210807484",
-    "accountType": "DEBIT",
-    "balance": "7775777471680105"
+    "clientId": 638,
+    "accountType": "CREDIT",
+    "balance": 2392830.1,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "691707122",
+    "clientId": 28,
     "accountType": "DEBIT",
-    "balance": "2885887674487577"
+    "balance": 58123708.67,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "260207851",
+    "clientId": 283,
     "accountType": "CREDIT",
-    "balance": "1603352815766076"
+    "balance": 93145325.13,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "942449121",
-    "accountType": "DEBIT",
-    "balance": "9644316441104344"
+    "clientId": 255,
+    "accountType": "CREDIT",
+    "balance": 63380610.59,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "982060218",
+    "clientId": 404,
     "accountType": "CREDIT",
-    "balance": "1490248438970911"
+    "balance": 55455206.97,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "628426224",
+    "clientId": 209,
     "accountType": "CREDIT",
-    "balance": "7099749208041473"
+    "balance": 10225290.04,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "436114952",
+    "clientId": 564,
     "accountType": "CREDIT",
-    "balance": "1714479421948651"
+    "balance": 10889869.19,
+    "accountStatus": "OPEN"
+  },
+  {
+    "clientId": 210,
+    "accountType": "DEBIT",
+    "balance": 73450717.51,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "623705479",
+    "clientId": 602,
     "accountType": "CREDIT",
-    "balance": "4911250265335113"
+    "balance": 78692030.71,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "654909994",
-    "accountType": "DEBIT",
-    "balance": "6149532974317729"
+    "clientId": 930,
+    "accountType": "CREDIT",
+    "balance": 8244448.89,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "225865756",
+    "clientId": 912,
     "accountType": "CREDIT",
-    "balance": "1292178620214911"
+    "balance": 61033266.54,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "233287623",
+    "clientId": 70,
     "accountType": "DEBIT",
-    "balance": "1632322142170000"
+    "balance": 13324719.38,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "506995657",
+    "clientId": 858,
     "accountType": "DEBIT",
-    "balance": "4880647251695577"
+    "balance": 32174369.08,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "442983643",
+    "clientId": 263,
     "accountType": "DEBIT",
-    "balance": "8269409732269733"
+    "balance": 12818972.23,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "937675863",
+    "clientId": 691,
     "accountType": "CREDIT",
-    "balance": "5795830163451417"
+    "balance": 31402167.0,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "141293484",
+    "clientId": 949,
     "accountType": "DEBIT",
-    "balance": "1268648765436296"
+    "balance": 26974661.86,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "631714939",
+    "clientId": 558,
     "accountType": "DEBIT",
-    "balance": "4268279026406879"
+    "balance": 94856789.25,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "143409781",
+    "clientId": 301,
+    "accountType": "DEBIT",
+    "balance": 26646473.98,
+    "accountStatus": "OPEN"
+  },
+  {
+    "clientId": 157,
+    "accountType": "DEBIT",
+    "balance": 31026659.59,
+    "accountStatus": "OPEN"
+  },
+  {
+    "clientId": 217,
     "accountType": "CREDIT",
-    "balance": "7987458963946808"
+    "balance": 26783047.62,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "736790999",
+    "clientId": 399,
     "accountType": "CREDIT",
-    "balance": "406583506070021"
+    "balance": 78171224.95,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "344830282",
+    "clientId": 508,
     "accountType": "DEBIT",
-    "balance": "5483378496957031"
+    "balance": 55768721.01,
+    "accountStatus": "OPEN"
+  },
+  {
+    "clientId": 571,
+    "accountType": "CREDIT",
+    "balance": 81721908.67,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "509208106",
+    "clientId": 684,
     "accountType": "DEBIT",
-    "balance": "2992008251877392"
+    "balance": 67915761.63,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "419483964",
+    "clientId": 101,
     "accountType": "CREDIT",
-    "balance": "4275823417354325"
+    "balance": 53953425.81,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "933389718",
-    "accountType": "CREDIT",
-    "balance": "6530286147142800"
+    "clientId": 315,
+    "accountType": "DEBIT",
+    "balance": 34843031.77,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "872407749",
+    "clientId": 157,
     "accountType": "DEBIT",
-    "balance": "7627507925737870"
+    "balance": 31734758.77,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "035741799",
+    "clientId": 456,
     "accountType": "CREDIT",
-    "balance": "4272918637243885"
+    "balance": 74407194.88,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "728776962",
+    "clientId": 89,
     "accountType": "CREDIT",
-    "balance": "6469553388595078"
+    "balance": 52841117.64,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "249852766",
+    "clientId": 108,
     "accountType": "DEBIT",
-    "balance": "1843865199358650"
+    "balance": 99493087.7,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "552379591",
+    "clientId": 279,
     "accountType": "DEBIT",
-    "balance": "8192278134906554"
+    "balance": 2937552.11,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "777720370",
-    "accountType": "CREDIT",
-    "balance": "2741314538598372"
+    "clientId": 210,
+    "accountType": "DEBIT",
+    "balance": 56560571.88,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "571525896",
+    "clientId": 605,
     "accountType": "DEBIT",
-    "balance": "4100541647005946"
+    "balance": 15427245.74,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "441617432",
-    "accountType": "CREDIT",
-    "balance": "9768282952073065"
+    "clientId": 463,
+    "accountType": "DEBIT",
+    "balance": 77144556.28,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "766013295",
-    "accountType": "DEBIT",
-    "balance": "7998286446452585"
+    "clientId": 956,
+    "accountType": "CREDIT",
+    "balance": 11091112.83,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "101311032",
+    "clientId": 347,
     "accountType": "DEBIT",
-    "balance": "4709302402221633"
+    "balance": 8798045.26,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "656230614",
+    "clientId": 101,
     "accountType": "DEBIT",
-    "balance": "3108288344508828"
+    "balance": 76151539.52,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "760937725",
+    "clientId": 945,
     "accountType": "CREDIT",
-    "balance": "4307320717487113"
+    "balance": 57955233.29,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "224889050",
+    "clientId": 124,
     "accountType": "CREDIT",
-    "balance": "5691539919708767"
+    "balance": 10380715.53,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "773808993",
+    "clientId": 918,
     "accountType": "CREDIT",
-    "balance": "8443789321842804"
+    "balance": 7559106.47,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "085407983",
+    "clientId": 859,
     "accountType": "CREDIT",
-    "balance": "7554801614538428"
-  },
-  {
-    "clientId": "969861545",
-    "accountType": "DEBIT",
-    "balance": "9725493783222561"
+    "balance": 44892642.84,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "766663419",
+    "clientId": 594,
     "accountType": "CREDIT",
-    "balance": "375039834203746"
+    "balance": 96660759.07,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "136964920",
+    "clientId": 616,
     "accountType": "DEBIT",
-    "balance": "8603223197570455"
+    "balance": 30937218.46,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "143034896",
-    "accountType": "DEBIT",
-    "balance": "2603424111242297"
+    "clientId": 145,
+    "accountType": "CREDIT",
+    "balance": 33857166.99,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "273885256",
+    "clientId": 591,
     "accountType": "CREDIT",
-    "balance": "3828459521089520"
+    "balance": 39559121.78,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "823924485",
-    "accountType": "CREDIT",
-    "balance": "4158226620178951"
+    "clientId": 555,
+    "accountType": "DEBIT",
+    "balance": 94825065.26,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "219538476",
+    "clientId": 626,
     "accountType": "DEBIT",
-    "balance": "2920681991551417"
+    "balance": 84622100.02,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "713207434",
+    "clientId": 556,
     "accountType": "DEBIT",
-    "balance": "6882432220115935"
+    "balance": 75091123.03,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "664945941",
+    "clientId": 170,
     "accountType": "DEBIT",
-    "balance": "3991808684197598"
+    "balance": 1306401.02,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "437741820",
+    "clientId": 445,
     "accountType": "CREDIT",
-    "balance": "4639028271016334"
+    "balance": 87150137.19,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "589938272",
+    "clientId": 888,
     "accountType": "DEBIT",
-    "balance": "214402372787218"
+    "balance": 65721547.15,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "272808135",
+    "clientId": 926,
     "accountType": "DEBIT",
-    "balance": "5807584550437115"
+    "balance": 74641673.22,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "525938711",
+    "clientId": 614,
     "accountType": "DEBIT",
-    "balance": "3220302940555248"
-  },
-  {
-    "clientId": "633127953",
-    "accountType": "CREDIT",
-    "balance": "6998531040241712"
+    "balance": 61885922.65,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "309850100",
-    "accountType": "CREDIT",
-    "balance": "7715766133132630"
+    "clientId": 187,
+    "accountType": "DEBIT",
+    "balance": 28911273.3,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "102778167",
+    "clientId": 690,
     "accountType": "DEBIT",
-    "balance": "8035515137950547"
+    "balance": 22068107.39,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "201345856",
+    "clientId": 293,
     "accountType": "CREDIT",
-    "balance": "9136213004555904"
+    "balance": 1370463.61,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "857721981",
+    "clientId": 867,
     "accountType": "CREDIT",
-    "balance": "3486659407679596"
+    "balance": 62537992.45,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "291601757",
-    "accountType": "DEBIT",
-    "balance": "8404524706217124"
-  },
-  {
-    "clientId": "931771646",
-    "accountType": "DEBIT",
-    "balance": "9401310670456289"
-  },
-  {
-    "clientId": "681004680",
+    "clientId": 300,
     "accountType": "CREDIT",
-    "balance": "803422310363345"
+    "balance": 28109478.94,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "809120218",
+    "clientId": 447,
     "accountType": "CREDIT",
-    "balance": "8938692306521111"
+    "balance": 42699976.89,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "282457850",
+    "clientId": 520,
     "accountType": "DEBIT",
-    "balance": "315200728602274"
+    "balance": 15250697.88,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "753993042",
+    "clientId": 616,
     "accountType": "DEBIT",
-    "balance": "8283774368687677"
+    "balance": 31539156.95,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "471102120",
+    "clientId": 131,
     "accountType": "DEBIT",
-    "balance": "6591706179097967"
+    "balance": 79698871.48,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "393806262",
+    "clientId": 815,
     "accountType": "DEBIT",
-    "balance": "2500338602792556"
+    "balance": 12940461.27,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "705353116",
-    "accountType": "CREDIT",
-    "balance": "6773849233516730"
+    "clientId": 887,
+    "accountType": "DEBIT",
+    "balance": 444664.5,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "089276399",
+    "clientId": 539,
     "accountType": "CREDIT",
-    "balance": "4030401826239835"
+    "balance": 82410074.71,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "932679047",
+    "clientId": 620,
     "accountType": "DEBIT",
-    "balance": "9533922819151547"
+    "balance": 32901940.94,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "681547351",
+    "clientId": 679,
+    "accountType": "CREDIT",
+    "balance": 37692708.5,
+    "accountStatus": "OPEN"
+  },
+  {
+    "clientId": 970,
     "accountType": "DEBIT",
-    "balance": "9504126551448032"
+    "balance": 19085781.21,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "565525361",
+    "clientId": 405,
     "accountType": "CREDIT",
-    "balance": "7690603445526151"
+    "balance": 57755339.91,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "344840225",
+    "clientId": 265,
     "accountType": "DEBIT",
-    "balance": "9367162915014692"
+    "balance": 48149608.94,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "340917551",
+    "clientId": 727,
     "accountType": "CREDIT",
-    "balance": "1523939277179188"
+    "balance": 44098787.55,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "317808293",
+    "clientId": 556,
     "accountType": "DEBIT",
-    "balance": "5558686860101803"
+    "balance": 31304524.91,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "899421522",
+    "clientId": 532,
     "accountType": "CREDIT",
-    "balance": "679039841159609"
+    "balance": 92476190.65,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "036754024",
-    "accountType": "CREDIT",
-    "balance": "7597891666119126"
+    "clientId": 236,
+    "accountType": "DEBIT",
+    "balance": 71593692.83,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "652074648",
+    "clientId": 734,
     "accountType": "CREDIT",
-    "balance": "9367499038001310"
+    "balance": 12491639.12,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "679149355",
-    "accountType": "CREDIT",
-    "balance": "8075316785851592"
+    "clientId": 851,
+    "accountType": "DEBIT",
+    "balance": 43023417.62,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "424422776",
+    "clientId": 693,
     "accountType": "DEBIT",
-    "balance": "3577715270531836"
+    "balance": 32178956.73,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "409643492",
+    "clientId": 885,
     "accountType": "DEBIT",
-    "balance": "7482123705898687"
+    "balance": 82633601.77,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "528320562",
+    "clientId": 98,
+    "accountType": "DEBIT",
+    "balance": 5886534.68,
+    "accountStatus": "OPEN"
+  },
+  {
+    "clientId": 131,
     "accountType": "CREDIT",
-    "balance": "7015469753203448"
+    "balance": 31566007.43,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "016636351",
+    "clientId": 676,
     "accountType": "CREDIT",
-    "balance": "3559281400714557"
+    "balance": 29921689.06,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "799503947",
+    "clientId": 385,
     "accountType": "DEBIT",
-    "balance": "3433168689953360"
+    "balance": 80380515.07,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "545600596",
+    "clientId": 620,
     "accountType": "CREDIT",
-    "balance": "6628595269746269"
+    "balance": 74755363.41,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "643359610",
+    "clientId": 459,
+    "accountType": "CREDIT",
+    "balance": 26668992.75,
+    "accountStatus": "OPEN"
+  },
+  {
+    "clientId": 626,
     "accountType": "DEBIT",
-    "balance": "6753591626733678"
+    "balance": 49986831.93,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "181772787",
-    "accountType": "CREDIT",
-    "balance": "9822156647654274"
+    "clientId": 529,
+    "accountType": "DEBIT",
+    "balance": 69541435.84,
+    "accountStatus": "OPEN"
+  },
+  {
+    "clientId": 215,
+    "accountType": "DEBIT",
+    "balance": 70563354.64,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "430596286",
+    "clientId": 866,
     "accountType": "DEBIT",
-    "balance": "6155644426546005"
+    "balance": 64463010.21,
+    "accountStatus": "OPEN"
+  },
+  {
+    "clientId": 632,
+    "accountType": "CREDIT",
+    "balance": 6783221.69,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "534120618",
+    "clientId": 486,
     "accountType": "CREDIT",
-    "balance": "2721781750697541"
+    "balance": 43608743.78,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "217520724",
+    "clientId": 493,
     "accountType": "DEBIT",
-    "balance": "1910224056420491"
+    "balance": 92353822.87,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "285149949",
+    "clientId": 879,
     "accountType": "CREDIT",
-    "balance": "959380420756896"
+    "balance": 56960044.84,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "681534218",
-    "accountType": "DEBIT",
-    "balance": "9142116642744085"
+    "clientId": 242,
+    "accountType": "CREDIT",
+    "balance": 84341426.01,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "653274418",
+    "clientId": 105,
     "accountType": "CREDIT",
-    "balance": "1414497847642374"
+    "balance": 26786345.78,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "430763664",
+    "clientId": 538,
     "accountType": "DEBIT",
-    "balance": "8757488829932788"
+    "balance": 35248826.67,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "652126521",
+    "clientId": 557,
     "accountType": "DEBIT",
-    "balance": "5105399235586473"
+    "balance": 53535855.77,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "673055947",
-    "accountType": "CREDIT",
-    "balance": "6084499035585665"
+    "clientId": 140,
+    "accountType": "DEBIT",
+    "balance": 90413073.4,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "526919462",
+    "clientId": 826,
     "accountType": "DEBIT",
-    "balance": "1488041306755320"
+    "balance": 62841941.36,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "210762558",
+    "clientId": 253,
     "accountType": "CREDIT",
-    "balance": "38317282355387"
+    "balance": 88069592.23,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "196203853",
-    "accountType": "DEBIT",
-    "balance": "6866105507930302"
+    "clientId": 622,
+    "accountType": "CREDIT",
+    "balance": 4448209.6,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "740986009",
+    "clientId": 936,
     "accountType": "CREDIT",
-    "balance": "896174074562839"
+    "balance": 40852362.09,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "156418589",
+    "clientId": 423,
     "accountType": "DEBIT",
-    "balance": "8293022259747216"
+    "balance": 22082922.46,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "678771581",
-    "accountType": "DEBIT",
-    "balance": "8408438043726075"
+    "clientId": 194,
+    "accountType": "CREDIT",
+    "balance": 67019170.86,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "568693294",
+    "clientId": 454,
     "accountType": "CREDIT",
-    "balance": "9511474319799285"
+    "balance": 62584837.42,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "199309361",
+    "clientId": 677,
     "accountType": "CREDIT",
-    "balance": "1779644039711784"
+    "balance": 84515500.42,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "214896504",
+    "clientId": 639,
     "accountType": "CREDIT",
-    "balance": "2099109967724655"
+    "balance": 65963046.54,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "496939850",
+    "clientId": 145,
     "accountType": "DEBIT",
-    "balance": "7926120937391110"
+    "balance": 57808743.63,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "799487891",
+    "clientId": 686,
+    "accountType": "CREDIT",
+    "balance": 36654983.63,
+    "accountStatus": "OPEN"
+  },
+  {
+    "clientId": 193,
     "accountType": "DEBIT",
-    "balance": "6415058302827943"
+    "balance": 29289339.49,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "591389398",
+    "clientId": 463,
     "accountType": "CREDIT",
-    "balance": "9314942762387858"
+    "balance": 62458169.38,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "057731229",
+    "clientId": 308,
+    "accountType": "DEBIT",
+    "balance": 45630293.35,
+    "accountStatus": "OPEN"
+  },
+  {
+    "clientId": 836,
     "accountType": "CREDIT",
-    "balance": "8603118918032772"
+    "balance": 23306747.99,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "776679050",
+    "clientId": 350,
     "accountType": "DEBIT",
-    "balance": "6581291676259122"
+    "balance": 35726415.98,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "827518581",
+    "clientId": 603,
     "accountType": "CREDIT",
-    "balance": "1660640870471450"
+    "balance": 36005203.28,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "626072021",
-    "accountType": "CREDIT",
-    "balance": "1105573661083261"
+    "clientId": 122,
+    "accountType": "DEBIT",
+    "balance": 86955234.43,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "154406551",
+    "clientId": 155,
     "accountType": "CREDIT",
-    "balance": "1871856934145340"
+    "balance": 63048683.36,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "903196892",
+    "clientId": 510,
     "accountType": "DEBIT",
-    "balance": "7061835383968882"
+    "balance": 89823640.8,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "789147775",
+    "clientId": 885,
     "accountType": "CREDIT",
-    "balance": "202776118868624"
+    "balance": 34374837.83,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "597781813",
-    "accountType": "CREDIT",
-    "balance": "6129769495606994"
+    "clientId": 963,
+    "accountType": "DEBIT",
+    "balance": 5456714.11,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "963533143",
-    "accountType": "CREDIT",
-    "balance": "4329778153992063"
+    "clientId": 111,
+    "accountType": "DEBIT",
+    "balance": 55544293.2,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "081801348",
-    "accountType": "CREDIT",
-    "balance": "2189318317123694"
+    "clientId": 845,
+    "accountType": "DEBIT",
+    "balance": 16133009.25,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "706901639",
+    "clientId": 194,
     "accountType": "CREDIT",
-    "balance": "8844405128360467"
+    "balance": 66311826.04,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "644656737",
-    "accountType": "CREDIT",
-    "balance": "5836641414295022"
+    "clientId": 724,
+    "accountType": "DEBIT",
+    "balance": 13431745.36,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "942520446",
+    "clientId": 231,
     "accountType": "CREDIT",
-    "balance": "4997266468025466"
+    "balance": 68601888.79,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "604965430",
+    "clientId": 969,
     "accountType": "CREDIT",
-    "balance": "4857620773481528"
+    "balance": 18467955.36,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "467402581",
+    "clientId": 406,
     "accountType": "CREDIT",
-    "balance": "9119401276571661"
+    "balance": 74973771.51,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "447145627",
-    "accountType": "DEBIT",
-    "balance": "3495624939093765"
+    "clientId": 793,
+    "accountType": "CREDIT",
+    "balance": 80048330.93,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "900313105",
+    "clientId": 603,
     "accountType": "CREDIT",
-    "balance": "1847478141569350"
+    "balance": 23909946.6,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "943075744",
+    "clientId": 777,
     "accountType": "CREDIT",
-    "balance": "536563810909861"
+    "balance": 30504782.15,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "918643002",
-    "accountType": "DEBIT",
-    "balance": "848657437720347"
+    "clientId": 528,
+    "accountType": "CREDIT",
+    "balance": 48827942.19,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "925205716",
+    "clientId": 488,
     "accountType": "CREDIT",
-    "balance": "5552590685666030"
+    "balance": 48932154.63,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "446423512",
+    "clientId": 882,
     "accountType": "DEBIT",
-    "balance": "8653806656901407"
+    "balance": 2906196.56,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "543924980",
+    "clientId": 197,
     "accountType": "CREDIT",
-    "balance": "1101549501990487"
+    "balance": 69502753.62,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "354428595",
+    "clientId": 405,
     "accountType": "DEBIT",
-    "balance": "5177378887200243"
+    "balance": 63772782.65,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "326138277",
-    "accountType": "DEBIT",
-    "balance": "1470904268537423"
+    "clientId": 270,
+    "accountType": "CREDIT",
+    "balance": 61261352.76,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "272366781",
+    "clientId": 429,
     "accountType": "DEBIT",
-    "balance": "2689491313294456"
+    "balance": 27755006.77,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "090900761",
+    "clientId": 514,
     "accountType": "CREDIT",
-    "balance": "4411685815358494"
+    "balance": 13587745.3,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "634100589",
+    "clientId": 840,
     "accountType": "DEBIT",
-    "balance": "6621962293164417"
+    "balance": 6946270.12,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "483841523",
-    "accountType": "CREDIT",
-    "balance": "1022434366546572"
+    "clientId": 743,
+    "accountType": "DEBIT",
+    "balance": 60171840.01,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "043435565",
+    "clientId": 189,
     "accountType": "CREDIT",
-    "balance": "8643216795546061"
-  },
-  {
-    "clientId": "019296044",
-    "accountType": "DEBIT",
-    "balance": "2099965885775486"
+    "balance": 39775606.35,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "043745597",
-    "accountType": "DEBIT",
-    "balance": "8349818637153283"
+    "clientId": 947,
+    "accountType": "CREDIT",
+    "balance": 18732255.65,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "514030431",
+    "clientId": 598,
     "accountType": "CREDIT",
-    "balance": "9926932937261496"
+    "balance": 41436268.22,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "055461702",
+    "clientId": 132,
     "accountType": "CREDIT",
-    "balance": "8116116463487367"
+    "balance": 67737990.19,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "418388524",
+    "clientId": 925,
     "accountType": "CREDIT",
-    "balance": "9789068746976808"
+    "balance": 18422770.67,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "308814782",
+    "clientId": 67,
+    "accountType": "DEBIT",
+    "balance": 31426518.23,
+    "accountStatus": "OPEN"
+  },
+  {
+    "clientId": 853,
     "accountType": "CREDIT",
-    "balance": "6060938859126424"
+    "balance": 64443035.91,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "085320731",
+    "clientId": 956,
     "accountType": "CREDIT",
-    "balance": "5436582223164304"
+    "balance": 98914640.73,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "732089390",
+    "clientId": 828,
     "accountType": "DEBIT",
-    "balance": "2132474871240902"
+    "balance": 33045592.68,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "123178571",
+    "clientId": 405,
     "accountType": "DEBIT",
-    "balance": "1992841666481985"
+    "balance": 88844184.6,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "280809124",
+    "clientId": 669,
     "accountType": "DEBIT",
-    "balance": "5465244700187194"
+    "balance": 44291319.22,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "789719712",
-    "accountType": "DEBIT",
-    "balance": "7453446761883597"
+    "clientId": 871,
+    "accountType": "CREDIT",
+    "balance": 31212929.37,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "098382418",
-    "accountType": "DEBIT",
-    "balance": "7187410860830499"
+    "clientId": 605,
+    "accountType": "CREDIT",
+    "balance": 36690069.88,
+    "accountStatus": "OPEN"
+  },
+  {
+    "clientId": 677,
+    "accountType": "CREDIT",
+    "balance": 10872764.85,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "784241657",
+    "clientId": 855,
     "accountType": "DEBIT",
-    "balance": "7281422106371079"
+    "balance": 44670575.19,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "377699719",
+    "clientId": 203,
     "accountType": "DEBIT",
-    "balance": "4988477114630952"
+    "balance": 1360738.32,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "901716139",
+    "clientId": 517,
     "accountType": "CREDIT",
-    "balance": "8861142163023726"
+    "balance": 16102655.13,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "628022378",
+    "clientId": 395,
     "accountType": "CREDIT",
-    "balance": "9255015505974876"
+    "balance": 67228731.81,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "757880294",
+    "clientId": 270,
     "accountType": "CREDIT",
-    "balance": "1403509858974955"
+    "balance": 31905760.23,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "071418746",
+    "clientId": 404,
     "accountType": "CREDIT",
-    "balance": "2190546088739282"
+    "balance": 6456530.07,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "963734790",
+    "clientId": 287,
     "accountType": "CREDIT",
-    "balance": "645298023509612"
+    "balance": 55526704.83,
+    "accountStatus": "OPEN"
+  },
+  {
+    "clientId": 598,
+    "accountType": "DEBIT",
+    "balance": 58802734.64,
+    "accountStatus": "OPEN"
+  },
+  {
+    "clientId": 941,
+    "accountType": "DEBIT",
+    "balance": 72436728.03,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "981673365",
+    "clientId": 685,
+    "accountType": "DEBIT",
+    "balance": 26693747.57,
+    "accountStatus": "OPEN"
+  },
+  {
+    "clientId": 136,
     "accountType": "CREDIT",
-    "balance": "1506514208323220"
+    "balance": 16164902.86,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "640172495",
+    "clientId": 101,
     "accountType": "DEBIT",
-    "balance": "8216119032861272"
+    "balance": 9330122.44,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "990229984",
+    "clientId": 42,
     "accountType": "CREDIT",
-    "balance": "3518721557683544"
+    "balance": 84819460.82,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "505120807",
+    "clientId": 282,
     "accountType": "DEBIT",
-    "balance": "5283979903027878"
+    "balance": 96114380.4,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "758609781",
+    "clientId": 431,
     "accountType": "DEBIT",
-    "balance": "646939972952219"
+    "balance": 52137112.79,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "208663898",
+    "clientId": 130,
     "accountType": "DEBIT",
-    "balance": "2749555435625707"
+    "balance": 73921240.35,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "215572885",
+    "clientId": 706,
     "accountType": "CREDIT",
-    "balance": "8651695325886922"
+    "balance": 12027350.63,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "101949432",
+    "clientId": 568,
     "accountType": "CREDIT",
-    "balance": "8098935650484643"
+    "balance": 84673731.6,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "541590882",
-    "accountType": "DEBIT",
-    "balance": "2917795721011322"
+    "clientId": 393,
+    "accountType": "CREDIT",
+    "balance": 815802.62,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "531021579",
+    "clientId": 775,
     "accountType": "DEBIT",
-    "balance": "4722320180961705"
+    "balance": 70023749.72,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "468968012",
-    "accountType": "CREDIT",
-    "balance": "5075217841530650"
+    "clientId": 652,
+    "accountType": "DEBIT",
+    "balance": 33409900.83,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "372031159",
+    "clientId": 397,
     "accountType": "DEBIT",
-    "balance": "908136136915383"
+    "balance": 8684495.44,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "382994448",
-    "accountType": "DEBIT",
-    "balance": "9364155550273932"
+    "clientId": 727,
+    "accountType": "CREDIT",
+    "balance": 60647923.71,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "301398146",
+    "clientId": 956,
     "accountType": "DEBIT",
-    "balance": "6781750843507758"
+    "balance": 75951407.08,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "214900563",
+    "clientId": 367,
     "accountType": "CREDIT",
-    "balance": "962499584219353"
+    "balance": 28998564.36,
+    "accountStatus": "OPEN"
+  },
+  {
+    "clientId": 136,
+    "accountType": "DEBIT",
+    "balance": 98402371.15,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "503400216",
+    "clientId": 702,
     "accountType": "CREDIT",
-    "balance": "9686931035531041"
+    "balance": 65537228.28,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "700502308",
+    "clientId": 164,
     "accountType": "DEBIT",
-    "balance": "1368227772065856"
+    "balance": 74503656.13,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "644003500",
+    "clientId": 55,
     "accountType": "CREDIT",
-    "balance": "5976202038797328"
+    "balance": 69254597.13,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "018228791",
+    "clientId": 226,
     "accountType": "CREDIT",
-    "balance": "9295341135407729"
+    "balance": 23310597.68,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "013745105",
+    "clientId": 205,
     "accountType": "CREDIT",
-    "balance": "1717942711504429"
+    "balance": 91659166.13,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "594394746",
+    "clientId": 962,
     "accountType": "CREDIT",
-    "balance": "8142302659713528"
+    "balance": 24691903.47,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "916960059",
-    "accountType": "DEBIT",
-    "balance": "1882026051488266"
+    "clientId": 442,
+    "accountType": "CREDIT",
+    "balance": 20891779.54,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "136010956",
+    "clientId": 903,
     "accountType": "DEBIT",
-    "balance": "6417100553322391"
+    "balance": 44843171.98,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "355055843",
+    "clientId": 411,
     "accountType": "DEBIT",
-    "balance": "8609244609424272"
+    "balance": 96451632.85,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "612960375",
+    "clientId": 398,
     "accountType": "DEBIT",
-    "balance": "417528366951282"
+    "balance": 67318857.18,
+    "accountStatus": "OPEN"
+  },
+  {
+    "clientId": 489,
+    "accountType": "CREDIT",
+    "balance": 68222837.08,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "236988852",
+    "clientId": 678,
     "accountType": "CREDIT",
-    "balance": "1717994763813549"
+    "balance": 56800440.19,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "963226376",
+    "clientId": 157,
     "accountType": "DEBIT",
-    "balance": "8419863585126320"
+    "balance": 82295378.13,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "832627380",
+    "clientId": 544,
     "accountType": "DEBIT",
-    "balance": "50505346786240"
+    "balance": 23371629.46,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "407293946",
+    "clientId": 397,
     "accountType": "CREDIT",
-    "balance": "4474729664668631"
+    "balance": 47322439.79,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "017944714",
+    "clientId": 912,
     "accountType": "CREDIT",
-    "balance": "2184163414876775"
+    "balance": 5084816.45,
+    "accountStatus": "OPEN"
+  },
+  {
+    "clientId": 153,
+    "accountType": "DEBIT",
+    "balance": 82330277.93,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "948738515",
+    "clientId": 772,
     "accountType": "CREDIT",
-    "balance": "7554693463579260"
+    "balance": 4708614.4,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "193269461",
-    "accountType": "DEBIT",
-    "balance": "8217776034029560"
+    "clientId": 284,
+    "accountType": "CREDIT",
+    "balance": 67099359.4,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "939348113",
+    "clientId": 590,
     "accountType": "DEBIT",
-    "balance": "6963292351314876"
+    "balance": 28246961.83,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "518280096",
+    "clientId": 897,
     "accountType": "DEBIT",
-    "balance": "1956805602990441"
+    "balance": 68446519.31,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "973986300",
+    "clientId": 97,
     "accountType": "DEBIT",
-    "balance": "148651680340174"
+    "balance": 10087602.88,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "467423472",
+    "clientId": 90,
     "accountType": "DEBIT",
-    "balance": "1716453005029000"
+    "balance": 78873743.91,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "886066187",
-    "accountType": "CREDIT",
-    "balance": "2470831251979472"
+    "clientId": 769,
+    "accountType": "DEBIT",
+    "balance": 79693045.73,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "999728802",
+    "clientId": 201,
     "accountType": "DEBIT",
-    "balance": "1313819531416270"
+    "balance": 75979727.25,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "496034801",
+    "clientId": 543,
     "accountType": "DEBIT",
-    "balance": "9606628297100044"
+    "balance": 70949716.07,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "010482333",
+    "clientId": 677,
     "accountType": "DEBIT",
-    "balance": "7675725878485043"
+    "balance": 95798727.69,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "223970728",
-    "accountType": "CREDIT",
-    "balance": "9423798694359752"
+    "clientId": 449,
+    "accountType": "DEBIT",
+    "balance": 1284699.85,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "692289139",
+    "clientId": 806,
     "accountType": "CREDIT",
-    "balance": "3812896372382979"
+    "balance": 37531516.83,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "078915877",
+    "clientId": 462,
     "accountType": "DEBIT",
-    "balance": "1505312333704628"
+    "balance": 57063365.15,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "875809444",
-    "accountType": "DEBIT",
-    "balance": "5306759829288928"
+    "clientId": 751,
+    "accountType": "CREDIT",
+    "balance": 82841648.9,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "212401663",
+    "clientId": 482,
     "accountType": "CREDIT",
-    "balance": "2943557283950858"
+    "balance": 15120258.52,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "691630142",
+    "clientId": 634,
     "accountType": "DEBIT",
-    "balance": "5129873126834655"
+    "balance": 45678108.14,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "153530176",
-    "accountType": "DEBIT",
-    "balance": "2721155792949011"
+    "clientId": 160,
+    "accountType": "CREDIT",
+    "balance": 78198301.78,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "774358830",
+    "clientId": 164,
     "accountType": "CREDIT",
-    "balance": "872295310869249"
+    "balance": 69881916.14,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "527753554",
-    "accountType": "CREDIT",
-    "balance": "5009762263812472"
+    "clientId": 508,
+    "accountType": "DEBIT",
+    "balance": 35953633.54,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "369235866",
+    "clientId": 860,
     "accountType": "DEBIT",
-    "balance": "9825298185778232"
+    "balance": 27803834.5,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "133468238",
+    "clientId": 824,
     "accountType": "CREDIT",
-    "balance": "6751323822232603"
+    "balance": 27219289.07,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "388357777",
-    "accountType": "CREDIT",
-    "balance": "1616355369407189"
+    "clientId": 667,
+    "accountType": "DEBIT",
+    "balance": 73034602.31,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "226048770",
+    "clientId": 223,
     "accountType": "DEBIT",
-    "balance": "3416425280295084"
+    "balance": 73456706.94,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "051117354",
+    "clientId": 23,
     "accountType": "CREDIT",
-    "balance": "1296921590316989"
+    "balance": 66181511.52,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "357322150",
+    "clientId": 850,
     "accountType": "DEBIT",
-    "balance": "6586821684145326"
-  },
-  {
-    "clientId": "385491161",
-    "accountType": "CREDIT",
-    "balance": "3122647277543475"
+    "balance": 11616827.86,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "045797402",
+    "clientId": 405,
     "accountType": "DEBIT",
-    "balance": "300089421859132"
+    "balance": 51145579.54,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "237192204",
+    "clientId": 297,
     "accountType": "DEBIT",
-    "balance": "2510953049656349"
+    "balance": 89501171.62,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "525741927",
+    "clientId": 520,
     "accountType": "CREDIT",
-    "balance": "1369317332526567"
+    "balance": 47079128.62,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "345514980",
+    "clientId": 458,
     "accountType": "CREDIT",
-    "balance": "4435552813454341"
+    "balance": 31685759.67,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "113009443",
+    "clientId": 705,
     "accountType": "CREDIT",
-    "balance": "7025287408756248"
+    "balance": 3012915.84,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "844608257",
+    "clientId": 380,
     "accountType": "CREDIT",
-    "balance": "9690835985241375"
+    "balance": 26061397.68,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "004322113",
-    "accountType": "DEBIT",
-    "balance": "9891953689105817"
+    "clientId": 390,
+    "accountType": "CREDIT",
+    "balance": 52997087.78,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "187530923",
+    "clientId": 329,
     "accountType": "DEBIT",
-    "balance": "5162333904225610"
+    "balance": 68566997.63,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "251165490",
-    "accountType": "DEBIT",
-    "balance": "1358514981878031"
+    "clientId": 673,
+    "accountType": "CREDIT",
+    "balance": 8301777.59,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "241091199",
+    "clientId": 731,
     "accountType": "CREDIT",
-    "balance": "6967200050674170"
+    "balance": 96573071.63,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "520514494",
-    "accountType": "DEBIT",
-    "balance": "9859153401240482"
+    "clientId": 203,
+    "accountType": "CREDIT",
+    "balance": 23526724.22,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "429169936",
+    "clientId": 415,
     "accountType": "DEBIT",
-    "balance": "7100192816879871"
+    "balance": 35863254.01,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "586396684",
+    "clientId": 754,
     "accountType": "DEBIT",
-    "balance": "5181351783269180"
+    "balance": 66871722.01,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "622135660",
-    "accountType": "DEBIT",
-    "balance": "45921338600279"
+    "clientId": 816,
+    "accountType": "CREDIT",
+    "balance": 41635990.16,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "632312603",
+    "clientId": 586,
     "accountType": "CREDIT",
-    "balance": "7607959177279013"
+    "balance": 97090596.36,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "691727080",
+    "clientId": 137,
     "accountType": "DEBIT",
-    "balance": "3309100321991708"
+    "balance": 56097881.05,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "880506135",
+    "clientId": 425,
     "accountType": "DEBIT",
-    "balance": "5878319792786822"
+    "balance": 11857306.39,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "337699908",
+    "clientId": 474,
     "accountType": "DEBIT",
-    "balance": "6606436069169798"
-  },
-  {
-    "clientId": "492873949",
-    "accountType": "CREDIT",
-    "balance": "2029600417041012"
+    "balance": 21248006.82,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "825100635",
+    "clientId": 79,
     "accountType": "CREDIT",
-    "balance": "5777031761453055"
+    "balance": 3568224.3,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "767904458",
-    "accountType": "DEBIT",
-    "balance": "1049241808199888"
-  },
-  {
-    "clientId": "326731622",
+    "clientId": 686,
     "accountType": "CREDIT",
-    "balance": "2681999907908978"
+    "balance": 80823702.57,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "456010626",
+    "clientId": 396,
     "accountType": "CREDIT",
-    "balance": "8387392469891134"
+    "balance": 42150846.95,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "391424386",
+    "clientId": 694,
     "accountType": "CREDIT",
-    "balance": "1405451122873267"
+    "balance": 90881493.45,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "136573670",
+    "clientId": 1,
     "accountType": "CREDIT",
-    "balance": "9027429272502188"
-  },
-  {
-    "clientId": "285914713",
-    "accountType": "DEBIT",
-    "balance": "2776122734687518"
+    "balance": 7971227.44,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "171770516",
+    "clientId": 359,
     "accountType": "DEBIT",
-    "balance": "2216504214237808"
+    "balance": 19783817.9,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "025233763",
+    "clientId": 112,
     "accountType": "DEBIT",
-    "balance": "1264377476672663"
+    "balance": 95342974.07,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "235982134",
+    "clientId": 811,
     "accountType": "CREDIT",
-    "balance": "5447221026932975"
+    "balance": 66763365.13,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "359768025",
+    "clientId": 866,
     "accountType": "DEBIT",
-    "balance": "9617968648724727"
+    "balance": 38884315.63,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "131964724",
+    "clientId": 538,
     "accountType": "CREDIT",
-    "balance": "5560281383734050"
+    "balance": 35608852.86,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "124167629",
+    "clientId": 849,
     "accountType": "DEBIT",
-    "balance": "3338668978314397"
+    "balance": 85084073.46,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "212315660",
+    "clientId": 519,
     "accountType": "DEBIT",
-    "balance": "5437644150982408"
+    "balance": 12243587.49,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "588904600",
+    "clientId": 760,
     "accountType": "DEBIT",
-    "balance": "6992626601829591"
+    "balance": 76288616.01,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "092700490",
+    "clientId": 818,
     "accountType": "DEBIT",
-    "balance": "9592936453623565"
+    "balance": 87352977.84,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "070978102",
-    "accountType": "DEBIT",
-    "balance": "5196566818487809"
+    "clientId": 710,
+    "accountType": "CREDIT",
+    "balance": 35264285.93,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "252457758",
+    "clientId": 389,
     "accountType": "DEBIT",
-    "balance": "3024917351107038"
+    "balance": 80709854.97,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "238854293",
+    "clientId": 337,
     "accountType": "DEBIT",
-    "balance": "2922844166357742"
+    "balance": 39478565.38,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "612004529",
-    "accountType": "DEBIT",
-    "balance": "7596657537024353"
+    "clientId": 992,
+    "accountType": "CREDIT",
+    "balance": 56442342.81,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "920727180",
+    "clientId": 325,
     "accountType": "DEBIT",
-    "balance": "1454160361331381"
+    "balance": 20091525.63,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "609547914",
-    "accountType": "DEBIT",
-    "balance": "1331582338117693"
+    "clientId": 187,
+    "accountType": "CREDIT",
+    "balance": 13825379.38,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "460814888",
+    "clientId": 906,
     "accountType": "CREDIT",
-    "balance": "2044976297778556"
+    "balance": 93118363.95,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "391701769",
+    "clientId": 797,
     "accountType": "CREDIT",
-    "balance": "5888040420770934"
+    "balance": 59078135.85,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "565198182",
-    "accountType": "DEBIT",
-    "balance": "3883956054343298"
+    "clientId": 881,
+    "accountType": "CREDIT",
+    "balance": 44320597.55,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "783623628",
-    "accountType": "DEBIT",
-    "balance": "6728572183317893"
+    "clientId": 454,
+    "accountType": "CREDIT",
+    "balance": 4381876.63,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "361881477",
-    "accountType": "CREDIT",
-    "balance": "7591378768310761"
+    "clientId": 290,
+    "accountType": "DEBIT",
+    "balance": 91853810.74,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "236290473",
+    "clientId": 287,
     "accountType": "CREDIT",
-    "balance": "5072149221962935"
+    "balance": 80123067.02,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "176183080",
+    "clientId": 972,
     "accountType": "CREDIT",
-    "balance": "3170300975036145"
+    "balance": 53128495.84,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "628461554",
+    "clientId": 936,
     "accountType": "CREDIT",
-    "balance": "8941170369361313"
+    "balance": 70264814.0,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "307387914",
+    "clientId": 503,
     "accountType": "DEBIT",
-    "balance": "4850956232786844"
+    "balance": 94969384.48,
+    "accountStatus": "OPEN"
+  },
+  {
+    "clientId": 93,
+    "accountType": "CREDIT",
+    "balance": 17642790.13,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "627140762",
+    "clientId": 152,
     "accountType": "DEBIT",
-    "balance": "5086482575922027"
+    "balance": 92139852.73,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "546789240",
+    "clientId": 432,
     "accountType": "DEBIT",
-    "balance": "6414344873620971"
+    "balance": 93832966.8,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "888011137",
+    "clientId": 659,
     "accountType": "DEBIT",
-    "balance": "3889434882783527"
+    "balance": 79255187.44,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "178956885",
+    "clientId": 594,
     "accountType": "CREDIT",
-    "balance": "8160606637492928"
+    "balance": 23774466.81,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "522995781",
+    "clientId": 229,
     "accountType": "CREDIT",
-    "balance": "4510285344946357"
+    "balance": 38928054.39,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "495332031",
+    "clientId": 291,
     "accountType": "CREDIT",
-    "balance": "5800372624800753"
+    "balance": 11548763.89,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "231200280",
-    "accountType": "DEBIT",
-    "balance": "8663251528644575"
+    "clientId": 500,
+    "accountType": "CREDIT",
+    "balance": 56800792.76,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "511173208",
+    "clientId": 385,
     "accountType": "DEBIT",
-    "balance": "2822740676052432"
+    "balance": 55891485.75,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "126137455",
+    "clientId": 38,
     "accountType": "CREDIT",
-    "balance": "6830512273441885"
+    "balance": 4458090.61,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "888236914",
+    "clientId": 754,
     "accountType": "DEBIT",
-    "balance": "8656161985916979"
+    "balance": 6629029.2,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "861724037",
-    "accountType": "DEBIT",
-    "balance": "1177997709642692"
+    "clientId": 594,
+    "accountType": "CREDIT",
+    "balance": 6967243.86,
+    "accountStatus": "OPEN"
+  },
+  {
+    "clientId": 308,
+    "accountType": "CREDIT",
+    "balance": 20520841.4,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "429878404",
+    "clientId": 841,
     "accountType": "CREDIT",
-    "balance": "145834952119569"
+    "balance": 82178437.16,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "834846403",
+    "clientId": 440,
     "accountType": "DEBIT",
-    "balance": "1342408618920275"
+    "balance": 80002867.0,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "198303078",
-    "accountType": "CREDIT",
-    "balance": "4755533786142700"
+    "clientId": 175,
+    "accountType": "DEBIT",
+    "balance": 7268249.41,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "595284440",
+    "clientId": 963,
     "accountType": "CREDIT",
-    "balance": "9667833186875593"
+    "balance": 32008256.5,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "467719857",
-    "accountType": "DEBIT",
-    "balance": "1013635055398171"
+    "clientId": 899,
+    "accountType": "CREDIT",
+    "balance": 64202074.49,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "286639494",
+    "clientId": 455,
     "accountType": "DEBIT",
-    "balance": "2440353328759830"
+    "balance": 29592573.02,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "473156895",
-    "accountType": "CREDIT",
-    "balance": "2224664909771759"
+    "clientId": 811,
+    "accountType": "DEBIT",
+    "balance": 27213234.31,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "794639825",
-    "accountType": "CREDIT",
-    "balance": "505194824916394"
+    "clientId": 166,
+    "accountType": "DEBIT",
+    "balance": 32386935.79,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "112148020",
+    "clientId": 900,
     "accountType": "DEBIT",
-    "balance": "301226406168504"
+    "balance": 72766508.02,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "161868995",
+    "clientId": 270,
     "accountType": "DEBIT",
-    "balance": "77054154580467"
+    "balance": 63729020.04,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "883243232",
+    "clientId": 336,
     "accountType": "CREDIT",
-    "balance": "8717939132440190"
+    "balance": 2825799.09,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "189999013",
+    "clientId": 591,
     "accountType": "DEBIT",
-    "balance": "3373127535917541"
+    "balance": 98983132.75,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "619781885",
-    "accountType": "CREDIT",
-    "balance": "311780121243887"
+    "clientId": 389,
+    "accountType": "DEBIT",
+    "balance": 59377633.45,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "399076918",
+    "clientId": 429,
     "accountType": "CREDIT",
-    "balance": "7423064076455982"
+    "balance": 75896023.88,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "032653977",
+    "clientId": 687,
     "accountType": "CREDIT",
-    "balance": "6984165120773646"
+    "balance": 88419065.4,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "034752633",
+    "clientId": 8,
     "accountType": "CREDIT",
-    "balance": "8703314648886129"
+    "balance": 63223987.12,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "029208559",
-    "accountType": "CREDIT",
-    "balance": "6497933018748152"
+    "clientId": 326,
+    "accountType": "DEBIT",
+    "balance": 64057355.23,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "277603973",
+    "clientId": 63,
     "accountType": "DEBIT",
-    "balance": "3205071016713657"
+    "balance": 20900150.79,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "527394460",
+    "clientId": 550,
     "accountType": "CREDIT",
-    "balance": "8954406872831421"
+    "balance": 81911191.06,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "220752468",
+    "clientId": 771,
     "accountType": "CREDIT",
-    "balance": "2518843451391785"
+    "balance": 3954249.74,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "070866944",
+    "clientId": 919,
     "accountType": "DEBIT",
-    "balance": "2006129894422163"
+    "balance": 18114764.0,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "644286989",
-    "accountType": "DEBIT",
-    "balance": "4575898968874313"
+    "clientId": 681,
+    "accountType": "CREDIT",
+    "balance": 99862329.61,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "968531516",
+    "clientId": 250,
     "accountType": "DEBIT",
-    "balance": "4564002426516528"
+    "balance": 40432471.16,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "536243688",
+    "clientId": 746,
     "accountType": "DEBIT",
-    "balance": "5215006697854881"
+    "balance": 89337468.58,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "667993286",
+    "clientId": 418,
     "accountType": "DEBIT",
-    "balance": "1994012937385289"
+    "balance": 45232187.58,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "850896035",
-    "accountType": "DEBIT",
-    "balance": "609276132547319"
+    "clientId": 998,
+    "accountType": "CREDIT",
+    "balance": 86972010.24,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "122336717",
+    "clientId": 528,
     "accountType": "DEBIT",
-    "balance": "4955791051948274"
+    "balance": 24155480.56,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "713897720",
+    "clientId": 811,
     "accountType": "DEBIT",
-    "balance": "6389476502695717"
+    "balance": 39218134.25,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "813129497",
+    "clientId": 608,
     "accountType": "DEBIT",
-    "balance": "8605461434108747"
+    "balance": 58120919.88,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "395982981",
+    "clientId": 78,
     "accountType": "CREDIT",
-    "balance": "6203231971484108"
+    "balance": 67199675.72,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "164043799",
+    "clientId": 720,
     "accountType": "CREDIT",
-    "balance": "9969032834634906"
+    "balance": 95180193.32,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "025523886",
+    "clientId": 853,
     "accountType": "CREDIT",
-    "balance": "3284540404547079"
+    "balance": 3830963.43,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "265790948",
+    "clientId": 206,
     "accountType": "DEBIT",
-    "balance": "2996465066483961"
+    "balance": 81621177.46,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "329009414",
-    "accountType": "CREDIT",
-    "balance": "359802238844288"
+    "clientId": 24,
+    "accountType": "DEBIT",
+    "balance": 39687105.65,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "628989567",
+    "clientId": 975,
     "accountType": "DEBIT",
-    "balance": "7634652171084396"
+    "balance": 23153062.23,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "795695458",
+    "clientId": 289,
     "accountType": "CREDIT",
-    "balance": "4095956348498155"
+    "balance": 43931727.76,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "226174534",
+    "clientId": 708,
     "accountType": "CREDIT",
-    "balance": "648958944848708"
-  },
-  {
-    "clientId": "445363146",
-    "accountType": "DEBIT",
-    "balance": "2350495529654385"
+    "balance": 40651989.43,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "236308360",
+    "clientId": 939,
     "accountType": "CREDIT",
-    "balance": "6822577333142528"
+    "balance": 61330195.07,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "632531486",
-    "accountType": "CREDIT",
-    "balance": "4505445478342500"
+    "clientId": 733,
+    "accountType": "DEBIT",
+    "balance": 33388354.45,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "119900145",
+    "clientId": 215,
     "accountType": "CREDIT",
-    "balance": "9451558845014428"
+    "balance": 45762082.47,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "549718565",
+    "clientId": 478,
     "accountType": "DEBIT",
-    "balance": "9006727911931198"
+    "balance": 58084225.33,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "747187773",
-    "accountType": "DEBIT",
-    "balance": "2126293009844358"
+    "clientId": 490,
+    "accountType": "CREDIT",
+    "balance": 37833449.67,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "525876217",
+    "clientId": 376,
     "accountType": "DEBIT",
-    "balance": "2093759989819703"
+    "balance": 84721835.54,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "698170659",
+    "clientId": 251,
     "accountType": "CREDIT",
-    "balance": "9325160101987294"
+    "balance": 11072755.31,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "744778318",
+    "clientId": 942,
     "accountType": "CREDIT",
-    "balance": "5221694418951092"
+    "balance": 8436335.38,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "318889586",
+    "clientId": 14,
     "accountType": "CREDIT",
-    "balance": "2864438712962630"
+    "balance": 60735053.41,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "448320669",
+    "clientId": 729,
     "accountType": "CREDIT",
-    "balance": "4095967186059646"
+    "balance": 7558374.64,
+    "accountStatus": "OPEN"
+  },
+  {
+    "clientId": 898,
+    "accountType": "DEBIT",
+    "balance": 26099539.32,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "979410735",
+    "clientId": 795,
     "accountType": "DEBIT",
-    "balance": "2232702837996069"
+    "balance": 91774003.29,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "276413248",
+    "clientId": 767,
     "accountType": "CREDIT",
-    "balance": "5152044849135623"
+    "balance": 79519511.99,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "251676426",
+    "clientId": 882,
     "accountType": "DEBIT",
-    "balance": "5099905368347711"
+    "balance": 27466794.09,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "603864443",
+    "clientId": 293,
     "accountType": "CREDIT",
-    "balance": "9262664212910669"
+    "balance": 24718637.92,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "465461237",
+    "clientId": 546,
     "accountType": "CREDIT",
-    "balance": "2315271240844437"
+    "balance": 26955188.27,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "769964259",
-    "accountType": "CREDIT",
-    "balance": "5013180652074485"
+    "clientId": 713,
+    "accountType": "DEBIT",
+    "balance": 64166404.1,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "858516062",
+    "clientId": 804,
     "accountType": "DEBIT",
-    "balance": "6548348207860908"
+    "balance": 81281099.93,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "724723068",
-    "accountType": "CREDIT",
-    "balance": "5344773850577872"
+    "clientId": 407,
+    "accountType": "DEBIT",
+    "balance": 18368857.93,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "927167650",
+    "clientId": 65,
     "accountType": "CREDIT",
-    "balance": "3402242203653710"
+    "balance": 29778502.15,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "173708025",
+    "clientId": 876,
     "accountType": "DEBIT",
-    "balance": "4636677416034545"
+    "balance": 28638398.17,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "540892983",
+    "clientId": 775,
     "accountType": "CREDIT",
-    "balance": "1321144644201780"
+    "balance": 42280253.01,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "847029949",
+    "clientId": 110,
     "accountType": "CREDIT",
-    "balance": "2287021046147560"
+    "balance": 52651866.58,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "239131847",
-    "accountType": "DEBIT",
-    "balance": "7272266499832068"
-  },
-  {
-    "clientId": "973150412",
+    "clientId": 111,
     "accountType": "CREDIT",
-    "balance": "5677904717216502"
+    "balance": 15658093.65,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "619533692",
+    "clientId": 899,
     "accountType": "CREDIT",
-    "balance": "635819214209561"
+    "balance": 52912575.53,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "258454102",
+    "clientId": 485,
     "accountType": "DEBIT",
-    "balance": "1268299815345253"
+    "balance": 58996240.32,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "313276020",
+    "clientId": 337,
     "accountType": "DEBIT",
-    "balance": "8366237110991930"
+    "balance": 21036103.43,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "263305717",
+    "clientId": 562,
     "accountType": "CREDIT",
-    "balance": "7752375436720275"
+    "balance": 50246050.45,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "385331548",
+    "clientId": 898,
     "accountType": "CREDIT",
-    "balance": "4897402906234413"
+    "balance": 85509997.48,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "800865046",
+    "clientId": 841,
     "accountType": "DEBIT",
-    "balance": "2605872296556661"
+    "balance": 58923153.56,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "380666946",
-    "accountType": "CREDIT",
-    "balance": "9743029586200108"
+    "clientId": 81,
+    "accountType": "DEBIT",
+    "balance": 21311596.88,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "181654150",
+    "clientId": 10,
     "accountType": "CREDIT",
-    "balance": "7112605812581723"
+    "balance": 31819039.87,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "313444204",
+    "clientId": 461,
     "accountType": "CREDIT",
-    "balance": "5985070743034621"
+    "balance": 20491503.33,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "510991084",
-    "accountType": "DEBIT",
-    "balance": "7709395369102170"
+    "clientId": 888,
+    "accountType": "CREDIT",
+    "balance": 61068736.88,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "937579938",
+    "clientId": 882,
     "accountType": "CREDIT",
-    "balance": "1807563995799873"
+    "balance": 65519248.84,
+    "accountStatus": "OPEN"
+  },
+  {
+    "clientId": 411,
+    "accountType": "DEBIT",
+    "balance": 8649264.84,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "727352278",
+    "clientId": 729,
     "accountType": "CREDIT",
-    "balance": "2084898462851263"
+    "balance": 68991592.82,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "634194274",
+    "clientId": 83,
     "accountType": "CREDIT",
-    "balance": "2362940309412028"
+    "balance": 96657935.75,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "105435440",
+    "clientId": 741,
     "accountType": "DEBIT",
-    "balance": "6152950517970036"
+    "balance": 72737923.16,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "677865162",
-    "accountType": "DEBIT",
-    "balance": "4156329655991980"
+    "clientId": 3,
+    "accountType": "CREDIT",
+    "balance": 16488210.63,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "817091593",
+    "clientId": 93,
     "accountType": "DEBIT",
-    "balance": "1222579139442668"
+    "balance": 57325037.52,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "886984012",
+    "clientId": 961,
     "accountType": "DEBIT",
-    "balance": "4783279263383818"
+    "balance": 48043580.73,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "495521954",
+    "clientId": 774,
     "accountType": "CREDIT",
-    "balance": "8748755624662590"
+    "balance": 72644690.74,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "387434981",
+    "clientId": 123,
     "accountType": "DEBIT",
-    "balance": "5904456475108449"
+    "balance": 43032511.51,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "589932986",
-    "accountType": "DEBIT",
-    "balance": "9657786377559126"
+    "clientId": 501,
+    "accountType": "CREDIT",
+    "balance": 29553268.51,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "384641224",
+    "clientId": 512,
     "accountType": "CREDIT",
-    "balance": "573236365344495"
+    "balance": 30604787.69,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "485843736",
-    "accountType": "CREDIT",
-    "balance": "7425891978858000"
+    "clientId": 346,
+    "accountType": "DEBIT",
+    "balance": 78476064.1,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "532747910",
+    "clientId": 170,
     "accountType": "CREDIT",
-    "balance": "8508446947929779"
+    "balance": 37810457.43,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "597741961",
+    "clientId": 733,
     "accountType": "DEBIT",
-    "balance": "4793570156107483"
+    "balance": 82700668.7,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "876848663",
+    "clientId": 597,
     "accountType": "CREDIT",
-    "balance": "9833899631054893"
+    "balance": 30202031.94,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "468804949",
-    "accountType": "CREDIT",
-    "balance": "5576903344558597"
+    "clientId": 769,
+    "accountType": "DEBIT",
+    "balance": 5777168.81,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "298901434",
+    "clientId": 829,
     "accountType": "DEBIT",
-    "balance": "4930816567755563"
+    "balance": 81334518.01,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "896719469",
+    "clientId": 823,
     "accountType": "CREDIT",
-    "balance": "7557913182885279"
+    "balance": 33356721.11,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "792471762",
+    "clientId": 521,
     "accountType": "CREDIT",
-    "balance": "433198467021539"
+    "balance": 87568572.61,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "470529395",
+    "clientId": 844,
     "accountType": "DEBIT",
-    "balance": "2116043696825141"
+    "balance": 43341854.23,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "785373721",
-    "accountType": "CREDIT",
-    "balance": "5142671826636272"
+    "clientId": 45,
+    "accountType": "DEBIT",
+    "balance": 5137571.9,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "659636009",
-    "accountType": "CREDIT",
-    "balance": "5998359735850678"
+    "clientId": 555,
+    "accountType": "DEBIT",
+    "balance": 64168014.3,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "996919840",
-    "accountType": "CREDIT",
-    "balance": "1981259543571077"
+    "clientId": 945,
+    "accountType": "DEBIT",
+    "balance": 93157068.16,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "583390087",
+    "clientId": 615,
     "accountType": "CREDIT",
-    "balance": "7416906495273130"
+    "balance": 54695264.06,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "864183545",
-    "accountType": "DEBIT",
-    "balance": "4619555370703810"
+    "clientId": 773,
+    "accountType": "CREDIT",
+    "balance": 79947438.28,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "697561941",
+    "clientId": 398,
     "accountType": "DEBIT",
-    "balance": "7157398674023611"
+    "balance": 92537367.89,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "676512471",
+    "clientId": 238,
     "accountType": "CREDIT",
-    "balance": "2306556572774721"
+    "balance": 64365497.65,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "867830082",
-    "accountType": "CREDIT",
-    "balance": "2979643802381548"
+    "clientId": 604,
+    "accountType": "DEBIT",
+    "balance": 25226133.14,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "103867975",
+    "clientId": 818,
     "accountType": "CREDIT",
-    "balance": "4680169696669551"
+    "balance": 49663218.18,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "483409231",
+    "clientId": 327,
     "accountType": "CREDIT",
-    "balance": "7126257493736747"
+    "balance": 43186196.66,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "672900395",
+    "clientId": 186,
     "accountType": "CREDIT",
-    "balance": "4716640165393618"
+    "balance": 28348463.11,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "214704613",
+    "clientId": 207,
     "accountType": "DEBIT",
-    "balance": "3155175902490518"
+    "balance": 96122927.89,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "954669977",
+    "clientId": 4,
     "accountType": "CREDIT",
-    "balance": "7821981077928952"
+    "balance": 94103571.64,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "879967870",
-    "accountType": "DEBIT",
-    "balance": "7415909695730370"
+    "clientId": 288,
+    "accountType": "CREDIT",
+    "balance": 94786544.1,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "887901342",
+    "clientId": 690,
     "accountType": "CREDIT",
-    "balance": "548095355046850"
+    "balance": 15464907.23,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "930612429",
+    "clientId": 890,
     "accountType": "DEBIT",
-    "balance": "578583199648520"
+    "balance": 58454155.98,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "526761956",
+    "clientId": 479,
     "accountType": "CREDIT",
-    "balance": "1428744759050373"
+    "balance": 30698238.47,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "719502474",
-    "accountType": "DEBIT",
-    "balance": "2266328571175886"
+    "clientId": 735,
+    "accountType": "CREDIT",
+    "balance": 41424779.52,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "147330294",
-    "accountType": "DEBIT",
-    "balance": "9554225148634589"
+    "clientId": 289,
+    "accountType": "CREDIT",
+    "balance": 63741742.96,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "364476346",
+    "clientId": 677,
     "accountType": "CREDIT",
-    "balance": "4725556235410723"
+    "balance": 87804198.91,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "411442066",
-    "accountType": "CREDIT",
-    "balance": "7153215961664887"
+    "clientId": 394,
+    "accountType": "DEBIT",
+    "balance": 51229035.56,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "593324813",
+    "clientId": 185,
     "accountType": "CREDIT",
-    "balance": "4574409822564816"
+    "balance": 73486140.16,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "711138159",
+    "clientId": 303,
     "accountType": "DEBIT",
-    "balance": "9572682758489984"
+    "balance": 68571491.56,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "685785815",
+    "clientId": 965,
     "accountType": "CREDIT",
-    "balance": "5999340576857241"
+    "balance": 49936921.65,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "199488767",
-    "accountType": "DEBIT",
-    "balance": "8160030692694305"
+    "clientId": 194,
+    "accountType": "CREDIT",
+    "balance": 55034823.81,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "823863839",
+    "clientId": 623,
     "accountType": "CREDIT",
-    "balance": "3277859144713402"
+    "balance": 62705119.66,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "164788161",
+    "clientId": 551,
     "accountType": "DEBIT",
-    "balance": "112457496840387"
+    "balance": 87859239.77,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "104014611",
-    "accountType": "CREDIT",
-    "balance": "4583061647888342"
+    "clientId": 705,
+    "accountType": "DEBIT",
+    "balance": 69798175.43,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "256694703",
+    "clientId": 843,
     "accountType": "CREDIT",
-    "balance": "1516311665135177"
+    "balance": 20313351.67,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "434830645",
+    "clientId": 778,
     "accountType": "CREDIT",
-    "balance": "884068372250311"
+    "balance": 28153614.43,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "634857623",
+    "clientId": 248,
     "accountType": "CREDIT",
-    "balance": "1907638538523517"
+    "balance": 78075798.78,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "213764126",
-    "accountType": "DEBIT",
-    "balance": "4657443099701980"
+    "clientId": 909,
+    "accountType": "CREDIT",
+    "balance": 56607910.63,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "590277709",
+    "clientId": 255,
     "accountType": "CREDIT",
-    "balance": "5840153952472402"
+    "balance": 57274693.15,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "616736541",
+    "clientId": 255,
     "accountType": "CREDIT",
-    "balance": "1066755798740223"
+    "balance": 58217326.34,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "704414584",
+    "clientId": 731,
     "accountType": "CREDIT",
-    "balance": "8848458504712462"
+    "balance": 68542872.15,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "158342624",
+    "clientId": 161,
     "accountType": "CREDIT",
-    "balance": "8327431940620975"
+    "balance": 82365520.37,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "182451657",
+    "clientId": 616,
     "accountType": "CREDIT",
-    "balance": "6507233872303796"
+    "balance": 39088973.27,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "687174338",
+    "clientId": 70,
     "accountType": "CREDIT",
-    "balance": "8076818582380569"
+    "balance": 54301870.07,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "319650411",
+    "clientId": 196,
     "accountType": "DEBIT",
-    "balance": "1558206555837006"
+    "balance": 87811152.99,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "632050520",
+    "clientId": 530,
     "accountType": "DEBIT",
-    "balance": "1592315144928004"
+    "balance": 92217036.8,
+    "accountStatus": "OPEN"
+  },
+  {
+    "clientId": 639,
+    "accountType": "CREDIT",
+    "balance": 22578903.03,
+    "accountStatus": "OPEN"
+  },
+  {
+    "clientId": 208,
+    "accountType": "CREDIT",
+    "balance": 96488847.81,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "848821852",
+    "clientId": 757,
     "accountType": "DEBIT",
-    "balance": "4207507593987551"
+    "balance": 80457286.16,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "717006117",
+    "clientId": 49,
     "accountType": "DEBIT",
-    "balance": "7097567667727024"
+    "balance": 46790743.82,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "057442492",
+    "clientId": 573,
     "accountType": "DEBIT",
-    "balance": "148982660696398"
+    "balance": 92587641.19,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "092585505",
+    "clientId": 436,
     "accountType": "CREDIT",
-    "balance": "2690425383063260"
+    "balance": 58984939.59,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "905268056",
+    "clientId": 784,
     "accountType": "DEBIT",
-    "balance": "7517381151155214"
+    "balance": 9720078.17,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "599417390",
+    "clientId": 960,
     "accountType": "CREDIT",
-    "balance": "1288984947025235"
+    "balance": 38993575.15,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "928554885",
-    "accountType": "DEBIT",
-    "balance": "1453961280984626"
+    "clientId": 60,
+    "accountType": "CREDIT",
+    "balance": 97726538.66,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "439570342",
+    "clientId": 175,
     "accountType": "DEBIT",
-    "balance": "4469160480559853"
+    "balance": 60811523.32,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "838486619",
+    "clientId": 956,
     "accountType": "DEBIT",
-    "balance": "9209429524165132"
+    "balance": 92034345.38,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "513694349",
-    "accountType": "DEBIT",
-    "balance": "8953245996967174"
+    "clientId": 166,
+    "accountType": "CREDIT",
+    "balance": 1608413.8,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "894608921",
+    "clientId": 320,
     "accountType": "DEBIT",
-    "balance": "4500462985960366"
+    "balance": 43288110.83,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "466711148",
-    "accountType": "CREDIT",
-    "balance": "2477476974195534"
+    "clientId": 68,
+    "accountType": "DEBIT",
+    "balance": 51652381.32,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "559175755",
+    "clientId": 500,
     "accountType": "CREDIT",
-    "balance": "5309041637538657"
+    "balance": 27319738.03,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "115961320",
+    "clientId": 801,
     "accountType": "DEBIT",
-    "balance": "3238224439392292"
+    "balance": 94899872.67,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "674086577",
+    "clientId": 461,
     "accountType": "CREDIT",
-    "balance": "304128921727964"
+    "balance": 75546281.46,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "584435584",
-    "accountType": "DEBIT",
-    "balance": "1110532799699772"
+    "clientId": 607,
+    "accountType": "CREDIT",
+    "balance": 23168482.14,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "185165234",
+    "clientId": 270,
     "accountType": "CREDIT",
-    "balance": "3375096818010705"
+    "balance": 46114902.5,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "980650266",
+    "clientId": 879,
     "accountType": "DEBIT",
-    "balance": "8123737246836839"
+    "balance": 80553811.4,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "779028597",
-    "accountType": "DEBIT",
-    "balance": "7802944080314431"
+    "clientId": 879,
+    "accountType": "CREDIT",
+    "balance": 27381132.22,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "114056161",
+    "clientId": 486,
     "accountType": "CREDIT",
-    "balance": "3445111918594699"
+    "balance": 8708629.52,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "149554713",
-    "accountType": "DEBIT",
-    "balance": "2038804929640088"
+    "clientId": 99,
+    "accountType": "CREDIT",
+    "balance": 58130500.15,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "187922938",
+    "clientId": 882,
     "accountType": "DEBIT",
-    "balance": "8218985388235302"
+    "balance": 51726749.88,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "994658653",
+    "clientId": 523,
     "accountType": "DEBIT",
-    "balance": "9905168669089066"
+    "balance": 18752012.5,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "922953011",
-    "accountType": "DEBIT",
-    "balance": "5194016443867530"
+    "clientId": 920,
+    "accountType": "CREDIT",
+    "balance": 61951249.67,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "315497179",
+    "clientId": 670,
     "accountType": "DEBIT",
-    "balance": "5412217089419996"
+    "balance": 65840600.07,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "314461044",
+    "clientId": 368,
     "accountType": "DEBIT",
-    "balance": "1019229738952975"
+    "balance": 38808065.25,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "571343623",
+    "clientId": 407,
     "accountType": "DEBIT",
-    "balance": "8581586016925263"
+    "balance": 27449216.12,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "780752373",
+    "clientId": 28,
     "accountType": "CREDIT",
-    "balance": "8965635242547979"
+    "balance": 36103411.76,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "527502195",
+    "clientId": 440,
     "accountType": "DEBIT",
-    "balance": "7005206270327102"
+    "balance": 10068450.99,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "031896435",
+    "clientId": 962,
     "accountType": "CREDIT",
-    "balance": "6275843777349254"
+    "balance": 87350383.7,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "495736966",
+    "clientId": 178,
     "accountType": "DEBIT",
-    "balance": "1108329681186672"
+    "balance": 28790374.92,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "152574689",
+    "clientId": 608,
     "accountType": "DEBIT",
-    "balance": "7773807295317640"
+    "balance": 20688319.48,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "304866734",
+    "clientId": 901,
     "accountType": "CREDIT",
-    "balance": "9959500869629093"
+    "balance": 28142430.2,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "329503764",
+    "clientId": 80,
     "accountType": "CREDIT",
-    "balance": "266496462569726"
+    "balance": 45690794.39,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "933355166",
+    "clientId": 884,
     "accountType": "CREDIT",
-    "balance": "7294523433394757"
+    "balance": 99549089.19,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "579981892",
+    "clientId": 980,
     "accountType": "CREDIT",
-    "balance": "5947043493747773"
+    "balance": 30738105.27,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "376956229",
-    "accountType": "DEBIT",
-    "balance": "572890778132042"
+    "clientId": 78,
+    "accountType": "CREDIT",
+    "balance": 75197573.7,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "063666216",
+    "clientId": 490,
     "accountType": "DEBIT",
-    "balance": "8929135845264153"
+    "balance": 71247452.0,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "302632187",
+    "clientId": 886,
     "accountType": "DEBIT",
-    "balance": "7894867576325095"
+    "balance": 98433439.59,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "689649481",
+    "clientId": 967,
     "accountType": "CREDIT",
-    "balance": "5239207725808110"
+    "balance": 59010001.27,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "207792520",
+    "clientId": 678,
     "accountType": "DEBIT",
-    "balance": "6249337510767029"
+    "balance": 86289228.03,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "705764181",
+    "clientId": 394,
     "accountType": "CREDIT",
-    "balance": "401240645431791"
+    "balance": 87595338.76,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "296687724",
-    "accountType": "DEBIT",
-    "balance": "6949067978074606"
+    "clientId": 602,
+    "accountType": "CREDIT",
+    "balance": 90502803.92,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "465483465",
+    "clientId": 572,
     "accountType": "CREDIT",
-    "balance": "9520786813911741"
+    "balance": 71882519.4,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "110192142",
-    "accountType": "DEBIT",
-    "balance": "2048828298265507"
+    "clientId": 302,
+    "accountType": "CREDIT",
+    "balance": 55812653.09,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "301362846",
+    "clientId": 486,
     "accountType": "DEBIT",
-    "balance": "3293989559893847"
+    "balance": 42125616.53,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "743143316",
-    "accountType": "DEBIT",
-    "balance": "4307340029871702"
+    "clientId": 308,
+    "accountType": "CREDIT",
+    "balance": 47489909.78,
+    "accountStatus": "OPEN"
+  },
+  {
+    "clientId": 311,
+    "accountType": "CREDIT",
+    "balance": 13639828.86,
+    "accountStatus": "OPEN"
+  },
+  {
+    "clientId": 569,
+    "accountType": "CREDIT",
+    "balance": 89775115.41,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "253828600",
+    "clientId": 539,
     "accountType": "CREDIT",
-    "balance": "4372540976077564"
+    "balance": 85763212.44,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "572468287",
+    "clientId": 506,
+    "accountType": "CREDIT",
+    "balance": 34555871.59,
+    "accountStatus": "OPEN"
+  },
+  {
+    "clientId": 710,
+    "accountType": "DEBIT",
+    "balance": 97488601.26,
+    "accountStatus": "OPEN"
+  },
+  {
+    "clientId": 343,
     "accountType": "DEBIT",
-    "balance": "651003005218322"
+    "balance": 59914461.27,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "166275503",
+    "clientId": 695,
     "accountType": "DEBIT",
-    "balance": "9039720037717796"
+    "balance": 53820546.27,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "821033929",
+    "clientId": 211,
     "accountType": "DEBIT",
-    "balance": "728643789857831"
+    "balance": 75636493.53,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "076700386",
+    "clientId": 492,
     "accountType": "CREDIT",
-    "balance": "5384889691305717"
+    "balance": 42147296.16,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "563399413",
+    "clientId": 865,
     "accountType": "CREDIT",
-    "balance": "3862709221720264"
+    "balance": 49280245.95,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "991204814",
+    "clientId": 301,
     "accountType": "CREDIT",
-    "balance": "1356728391587631"
+    "balance": 30860880.02,
+    "accountStatus": "OPEN"
+  },
+  {
+    "clientId": 69,
+    "accountType": "DEBIT",
+    "balance": 58158879.14,
+    "accountStatus": "OPEN"
+  },
+  {
+    "clientId": 676,
+    "accountType": "DEBIT",
+    "balance": 46915281.05,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "402025504",
+    "clientId": 197,
     "accountType": "CREDIT",
-    "balance": "3688468353108058"
+    "balance": 26380675.75,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "391803484",
+    "clientId": 988,
+    "accountType": "DEBIT",
+    "balance": 65041489.69,
+    "accountStatus": "OPEN"
+  },
+  {
+    "clientId": 202,
     "accountType": "CREDIT",
-    "balance": "6618131801608316"
+    "balance": 40388968.84,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "830115320",
+    "clientId": 143,
     "accountType": "CREDIT",
-    "balance": "2750443170456861"
+    "balance": 85424953.36,
+    "accountStatus": "OPEN"
+  },
+  {
+    "clientId": 1000,
+    "accountType": "DEBIT",
+    "balance": 35691598.73,
+    "accountStatus": "OPEN"
+  },
+  {
+    "clientId": 915,
+    "accountType": "DEBIT",
+    "balance": 48383239.95,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "947732478",
+    "clientId": 304,
     "accountType": "CREDIT",
-    "balance": "5907565172518367"
+    "balance": 46682080.33,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "727894105",
+    "clientId": 89,
     "accountType": "DEBIT",
-    "balance": "2449808752263987"
+    "balance": 42090999.86,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "153977108",
+    "clientId": 370,
     "accountType": "DEBIT",
-    "balance": "693729307510684"
+    "balance": 80843183.11,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "128000737",
+    "clientId": 52,
     "accountType": "DEBIT",
-    "balance": "1525769886875890"
+    "balance": 22855131.92,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "953033278",
-    "accountType": "CREDIT",
-    "balance": "1486076546365641"
+    "clientId": 536,
+    "accountType": "DEBIT",
+    "balance": 61394804.18,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "603723553",
+    "clientId": 320,
     "accountType": "CREDIT",
-    "balance": "2394407125674427"
+    "balance": 52226286.62,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "772622556",
+    "clientId": 151,
     "accountType": "DEBIT",
-    "balance": "1461027636102182"
+    "balance": 55679612.03,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "765598515",
-    "accountType": "DEBIT",
-    "balance": "9942335618510392"
+    "clientId": 775,
+    "accountType": "CREDIT",
+    "balance": 20569789.65,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "360434948",
+    "clientId": 32,
     "accountType": "CREDIT",
-    "balance": "6624473033584447"
+    "balance": 36563637.46,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "356563472",
+    "clientId": 243,
     "accountType": "CREDIT",
-    "balance": "8929668208789846"
+    "balance": 87738784.27,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "388353295",
-    "accountType": "DEBIT",
-    "balance": "1374494873887216"
+    "clientId": 838,
+    "accountType": "CREDIT",
+    "balance": 53448900.23,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "212196983",
+    "clientId": 570,
     "accountType": "CREDIT",
-    "balance": "6184156672864476"
+    "balance": 30081564.66,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "437644178",
+    "clientId": 872,
     "accountType": "CREDIT",
-    "balance": "172895096923898"
+    "balance": 25878824.79,
+    "accountStatus": "OPEN"
+  },
+  {
+    "clientId": 543,
+    "accountType": "DEBIT",
+    "balance": 56840612.89,
+    "accountStatus": "OPEN"
+  },
+  {
+    "clientId": 64,
+    "accountType": "DEBIT",
+    "balance": 90571416.5,
+    "accountStatus": "OPEN"
+  },
+  {
+    "clientId": 154,
+    "accountType": "DEBIT",
+    "balance": 50645288.55,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "146177706",
+    "clientId": 603,
     "accountType": "DEBIT",
-    "balance": "7304770337723033"
+    "balance": 87862667.9,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "679233306",
+    "clientId": 691,
     "accountType": "CREDIT",
-    "balance": "1933918216767725"
+    "balance": 65647767.51,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "175605621",
+    "clientId": 403,
+    "accountType": "CREDIT",
+    "balance": 75254958.04,
+    "accountStatus": "OPEN"
+  },
+  {
+    "clientId": 640,
     "accountType": "DEBIT",
-    "balance": "5090513609585221"
+    "balance": 56978532.66,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "044303363",
+    "clientId": 158,
     "accountType": "DEBIT",
-    "balance": "3689386995194210"
+    "balance": 70437181.29,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "462300640",
+    "clientId": 641,
     "accountType": "DEBIT",
-    "balance": "7620825386754307"
+    "balance": 10367627.01,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "181142322",
+    "clientId": 661,
     "accountType": "DEBIT",
-    "balance": "4698666047483459"
+    "balance": 76122403.94,
+    "accountStatus": "OPEN"
+  },
+  {
+    "clientId": 792,
+    "accountType": "CREDIT",
+    "balance": 65808982.61,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "867908307",
+    "clientId": 832,
     "accountType": "DEBIT",
-    "balance": "1071369844917741"
+    "balance": 38235915.67,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "818083978",
+    "clientId": 650,
     "accountType": "CREDIT",
-    "balance": "9564672250328426"
+    "balance": 13248764.22,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "200852568",
+    "clientId": 295,
     "accountType": "CREDIT",
-    "balance": "1841515167636113"
+    "balance": 8225892.24,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "045121259",
+    "clientId": 377,
     "accountType": "CREDIT",
-    "balance": "7366095471138789"
+    "balance": 34817207.47,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "140998903",
+    "clientId": 17,
     "accountType": "CREDIT",
-    "balance": "6187980708607966"
+    "balance": 8412114.06,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "524877962",
+    "clientId": 230,
     "accountType": "CREDIT",
-    "balance": "4495369137298394"
+    "balance": 21077288.37,
+    "accountStatus": "OPEN"
+  },
+  {
+    "clientId": 172,
+    "accountType": "DEBIT",
+    "balance": 16858406.4,
+    "accountStatus": "OPEN"
+  },
+  {
+    "clientId": 471,
+    "accountType": "DEBIT",
+    "balance": 69910800.61,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "761389664",
+    "clientId": 533,
     "accountType": "CREDIT",
-    "balance": "315047125334916"
+    "balance": 52740922.13,
+    "accountStatus": "OPEN"
   },
   {
-    "clientId": "026749862",
+    "clientId": 288,
     "accountType": "DEBIT",
-    "balance": "5558820800166984"
+    "balance": 46929330.81,
+    "accountStatus": "OPEN"
+  },
+  {
+    "clientId": 105,
+    "accountType": "DEBIT",
+    "balance": 18601519.56,
+    "accountStatus": "OPEN"
+  },
+  {
+    "clientId": 16,
+    "accountType": "CREDIT",
+    "balance": 4120505.9,
+    "accountStatus": "OPEN"
+  },
+  {
+    "clientId": 856,
+    "accountType": "CREDIT",
+    "balance": 50819991.34,
+    "accountStatus": "OPEN"
   }
 ]

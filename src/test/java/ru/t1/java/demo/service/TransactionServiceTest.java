@@ -134,7 +134,7 @@ class TransactionServiceTest implements TestContainersConfig {
         transactionService.updateTransaction(updatingTransactionDto, savedTransaction.getTransactionId());
 
         // Then
-        Transaction updatedTransaction = transactionRepository.findById(savedTransaction.getId())
+        Transaction updatedTransaction = transactionRepository.findById(savedTransaction.getTransactionId())
                 .orElseThrow(DbEntryNotFoundException::new);
         assertEquals(updatingTransactionDto.getAccountId(), updatedTransaction.getAccountId());
         assertEquals(updatingTransactionDto.getAmount(), updatedTransaction.getAmount());
