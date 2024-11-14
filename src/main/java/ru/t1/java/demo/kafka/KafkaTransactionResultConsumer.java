@@ -47,12 +47,16 @@ public class KafkaTransactionResultConsumer {
                               @Header(KafkaHeaders.RECEIVED_TOPIC) String topic,
                               @Header(value = KafkaHeaders.RECEIVED_KEY, required = false) String key,
                               Acknowledgment ack) {
+        log.debug("Получено сообщение в topic {} с ключом {}", topic, key);
+
         try {
-            transactionService.handleResult(resultDto);
+            transactionService.handleTransactionAcceptationResponse(resultDto);
+            ack.acknowledge();
         } catch (Exception e) {
             log.error("Ошибка при обработке сообщения в топике {}: {}", topic, e.getMessage(), e);
-        } finally {
-            ack.acknowledge();
+            throw e;
         }
+
+        log.debug("Сообщение в topic {} с ключом {} обработано", topic, key);
     }
 }

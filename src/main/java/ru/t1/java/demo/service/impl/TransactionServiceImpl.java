@@ -2,6 +2,7 @@ package ru.t1.java.demo.service.impl;
 
 import lombok.RequiredArgsConstructor;
 import lombok.extern.slf4j.Slf4j;
+import org.apache.commons.lang3.NotImplementedException;
 import org.springframework.beans.BeanUtils;
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.stereotype.Service;
@@ -41,7 +42,7 @@ public class TransactionServiceImpl implements TransactionService {
     private final KafkaProducer<TransactionAcceptDto> kafkaTransactionAcceptProducer;
     private final TransactionAcceptMapper transactionAcceptMapper;
     private final TransactionTemplate transactionTemplate;
-    @Value("${t1.kafka.topic.t1_demo_transactions_accept}")
+    @Value("${t1.kafka.topic.t1_demo_transaction_accept}")
     private String acceptTopic;
 
     @Override
@@ -102,33 +103,31 @@ public class TransactionServiceImpl implements TransactionService {
     }
 
     @Override
-    public void handleResult(ResultDto resultDto) {
-            Optional<Transaction> optionalTransaction = transactionRepository.findById(resultDto.getTransactionId());
-
-            optionalTransaction.ifPresentOrElse(transaction -> {
-                switch (resultDto.getTransactionStatus()) {
-                    case ACCEPTED -> updateTransactionStatus(transaction, TransactionStatus.ACCEPTED);
-                    case BLOCKED -> {
-                        updateTransactionStatus(transaction, TransactionStatus.BLOCKED);
-                        BigDecimal frozenAmount = new BigDecimal(transaction.getAmount());
-                        accountService.handleBlockedBalance(resultDto.getAccountId(), frozenAmount);
+    public void handleTransactionAcceptationResponse(ResultDto resultDto) {
+        transactionRepository.findById(resultDto.getTransactionId())
+                .ifPresentOrElse(transaction -> {
+                    switch (resultDto.getTransactionStatus()) {
+                        case ACCEPTED -> updateTransactionStatus(transaction, TransactionStatus.ACCEPTED);
+                        case BLOCKED -> transactionTemplate.executeWithoutResult(transactionStatus -> {
+                            updateTransactionStatus(transaction, TransactionStatus.BLOCKED);
+                            BigDecimal frozenAmount = new BigDecimal(transaction.getAmount());
+                            accountService.handleBlockedBalance(resultDto.getAccountId(), frozenAmount);
+                        });
+                        case REJECTED -> transactionTemplate.executeWithoutResult(transactionStatus -> {
+                            updateTransactionStatus(transaction, TransactionStatus.REJECTED);
+                            BigDecimal transactionAmount = new BigDecimal(transaction.getAmount());
+                            accountService.updateBalance(resultDto.getAccountId(), transactionAmount.negate());
+                        });
+                        default -> throw new NotImplementedException("Неизвестный статус транзакции: %s"
+                                .formatted(resultDto.getTransactionStatus()));
                     }
-                    case REJECTED -> {
-                        updateTransactionStatus(transaction, TransactionStatus.REJECTED);
-                        BigDecimal transactionAmount = new BigDecimal(transaction.getAmount());
-                        accountService.updateBalance(resultDto.getAccountId(), transactionAmount);
-                    }
-                    default -> log.warn("Неизвестный статус транзакции: {}", resultDto.getTransactionStatus());
-                }
-            }, () ->
-                log.warn("Транзакция с ID {} не найдена", resultDto.getTransactionId()));
-
+                }, () -> log.error(ErrorLogs.TRANSACTION_NOT_FOUND, resultDto.getTransactionId()));
     }
 
+    // лок на транзакцию не ставим, допускаем параллельную смену статусов из разных потоков
     private void updateTransactionStatus(Transaction transaction, TransactionStatus newStatus) {
-        transaction.setTransactionStatus(newStatus);
-        saveTransactionEntity(transaction);
-        log.info("Статус транзакции с ID {} обновлен на {}", transaction.getTransactionId(), newStatus);
+        transactionRepository.updateStatusById(newStatus, transaction.getTransactionId());
+        log.info(InfoLogs.TRANSACTION_STATUS_UPDATED, transaction.getTransactionId(), newStatus);
     }
 
     private Transaction saveTransactionAndChangeBalance(TransactionDto transactionDto, Account account) {

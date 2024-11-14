@@ -23,7 +23,6 @@ import ru.t1.java.demo.service.MockService;
 
 import java.math.BigDecimal;
 import java.util.List;
-import java.util.Optional;
 
 @Service
 @Slf4j
@@ -96,7 +95,7 @@ public class AccountServiceImpl implements AccountService {
     }
 
     @Override
-    public void saveAccountEntity(Account account){
+    public void saveAccountEntity(Account account) {
         accountRepository.save(account);
     }
 
@@ -106,35 +105,25 @@ public class AccountServiceImpl implements AccountService {
     public void updateBalance(Long accountId, BigDecimal amount) {
         accountRepository.findById(accountId)
                 .map(currentAccount -> calculateNewBalance(currentAccount, amount))
-                .ifPresent(newBalance ->
-                        accountRepository.updateBalance(accountId, newBalance.toString()));
+                .ifPresent(newBalance -> accountRepository.updateBalance(accountId, newBalance.toString()));
     }
 
     @Transactional
     @Lock(LockModeType.PESSIMISTIC_WRITE)
     @Override
     public void handleBlockedBalance(Long accountId, BigDecimal frozenAmount) {
+        accountRepository.findById(accountId).ifPresent(account -> {
+                    account.setAccountStatus(AccountStatus.BLOCKED);
 
-        Optional<Account> optionalAccount = Optional.ofNullable
-                (getAccountEntity(accountId));
-        optionalAccount.ifPresent(account -> {
-            account.setAccountStatus(AccountStatus.BLOCKED);
+                    // Корректируем баланс и устанавливаем frozenAmount
+                    BigDecimal newBalance = calculateNewBalance(account, frozenAmount.negate());
+                    account.setBalance(newBalance.toString());
+                    account.setFrozenAmount(frozenAmount.toString());
 
-            // Корректируем баланс и устанавливаем frozenAmount
-            BigDecimal currentBalance = new BigDecimal(account.getBalance());
-            BigDecimal newBalance;
-            if (AccountType.CREDIT.equals(account.getAccountType())) {
-               newBalance = currentBalance.add(frozenAmount);
-            } else {
-                newBalance = currentBalance.subtract(frozenAmount);}
-            account.setBalance(newBalance.toString());
-            account.setFrozenAmount(frozenAmount.toString());
-
-            saveAccountEntity(account);
-            log.info("Счет с ID {} заблокирован, сумма заблокированных транзакций: {}", account.getAccountId(), frozenAmount);
+                    log.info(InfoLogs.ACCOUNT_AND_TRANSACTION_BLOCKED, account.getAccountId(), frozenAmount);
+                }
+        );
     }
-        );}
-
 
     private BigDecimal calculateNewBalance(Account account, BigDecimal transactionAmount) {
         // WARNING уточнить у аналитика корректность такого вычисления currentBalance
