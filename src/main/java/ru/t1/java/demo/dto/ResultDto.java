@@ -8,21 +8,14 @@ import lombok.NoArgsConstructor;
 import ru.t1.java.demo.model.enums.TransactionStatus;
 
 import java.io.Serializable;
-import java.time.LocalDateTime;
-import java.time.LocalTime;
 
-/**
- * DTO for {@link ru.t1.java.demo.model.Transaction}
- */
 @Data
 @AllArgsConstructor
 @NoArgsConstructor
 @Builder
 @JsonIgnoreProperties(ignoreUnknown = true)
-public class TransactionDto implements Serializable {
-    private Long accountId;
-    private String amount;
-    private LocalTime executionTime;
+public class ResultDto implements Serializable {
     private TransactionStatus transactionStatus;
-    private LocalDateTime timestamp;
+    private Long accountId;
+    private Long transactionId;
 }

@@ -14,6 +14,7 @@ import lombok.Builder;
 import lombok.Getter;
 import lombok.NoArgsConstructor;
 import lombok.Setter;
+import ru.t1.java.demo.model.enums.AccountStatus;
 import ru.t1.java.demo.model.enums.AccountType;
 
 @Getter
@@ -28,7 +29,8 @@ public class Account {
     @Id
     @GeneratedValue(strategy = GenerationType.SEQUENCE, generator = "account_generator")
     @SequenceGenerator(name = "account_generator", sequenceName = "account_seq")
-    private Long id;
+    @Column(name = "id")
+    private Long accountId;
 
     @Column(nullable = false)
     private Long clientId;
@@ -36,6 +38,13 @@ public class Account {
     @Enumerated(EnumType.STRING)
     @Column(length = 25)
     private AccountType accountType;
+
     private String balance;
+
+    @Enumerated(EnumType.STRING)
+    @Column(length = 30)
+    private AccountStatus accountStatus;
+
+    private String frozenAmount;
 
 }
