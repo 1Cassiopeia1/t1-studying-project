@@ -1,2 +1,0 @@
-DROP TABLE IF EXISTS client;
-DROP SEQUENCE IF EXISTS client_seq;
