@@ -15,7 +15,6 @@ import org.springframework.boot.context.properties.NestedConfigurationProperty;
 import org.springframework.boot.ssl.SslBundles;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
-import org.springframework.context.annotation.Primary;
 import org.springframework.kafka.config.ConcurrentKafkaListenerContainerFactory;
 import org.springframework.kafka.core.ConsumerFactory;
 import org.springframework.kafka.core.DefaultKafkaConsumerFactory;
@@ -102,7 +101,6 @@ public class KafkaConfig<T> {
     }
 
     @Bean
-    @Primary
     public KafkaTemplate<String, T> kafkaJsonTemplate(ObjectProvider<SslBundles> sslBundles) {
         return new KafkaTemplate<>(new DefaultKafkaProducerFactory<>(getProducerProperties(sslBundles)));
     }

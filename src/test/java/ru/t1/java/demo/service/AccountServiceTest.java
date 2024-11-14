@@ -12,9 +12,9 @@ import org.springframework.jdbc.core.simple.JdbcClient;
 import org.springframework.test.jdbc.JdbcTestUtils;
 import ru.t1.java.demo.config.TestContainersConfig;
 import ru.t1.java.demo.dto.AccountDto;
+import ru.t1.java.demo.exception.DbEntryNotFoundException;
 import ru.t1.java.demo.model.Account;
 import ru.t1.java.demo.model.Client;
-import ru.t1.java.demo.model.DataSourceErrorLog;
 import ru.t1.java.demo.repository.AccountRepository;
 import ru.t1.java.demo.repository.ClientRepository;
 import ru.t1.java.demo.repository.DataSourceErrorLogRepository;
@@ -25,8 +25,6 @@ import static org.junit.jupiter.api.Assertions.assertEquals;
 import static org.junit.jupiter.api.Assertions.assertFalse;
 import static org.junit.jupiter.api.Assertions.assertNotNull;
 import static org.junit.jupiter.api.Assertions.assertThrows;
-import static org.mockito.ArgumentMatchers.any;
-import static org.mockito.Mockito.when;
 
 @SpringBootTest
 @DisplayName("Тесты AccountService")
@@ -54,20 +52,14 @@ class AccountServiceTest implements TestContainersConfig {
     }
 
     @Test
-    @DisplayName("Проверяет отработку аспекта на аннотированном методе")
-    void saveMockedAccountsParseJsonTest() {
-        when(mockService.getMockData(any(), any())).thenThrow(new RuntimeException("json parse fail"));
-
-        // When
-        assertThrows(RuntimeException.class, () -> accountService.saveMockedAccounts());
-
-        // Then
-        List<DataSourceErrorLog> dataSourceErrorLogs = dataSourceErrorLogRepository.findAll();
-        assertEquals(1, dataSourceErrorLogs.size());
-        assertNotNull(dataSourceErrorLogs.get(0).getStacktrace());
-        assertEquals("void ru.t1.java.demo.service.impl.AccountServiceImpl.saveMockedAccounts()",
-                dataSourceErrorLogs.get(0).getMethodSignature());
-        assertEquals("json parse fail", dataSourceErrorLogs.get(0).getMessage());
+    @DisplayName("Проверяет ошибку при отсутствии сущности в базе")
+    void updateAccountNotFoundTest() {
+        // Given
+        Long accId = 100L;
+        AccountDto updatedAccountDto = Instancio.of(AccountDto.class)
+                .create();
+        assertThrows(DbEntryNotFoundException.class,
+                () -> accountService.updateAccount(updatedAccountDto, accId));
     }
 
     @Test

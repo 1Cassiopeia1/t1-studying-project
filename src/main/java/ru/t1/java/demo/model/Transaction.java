@@ -14,7 +14,6 @@ import lombok.Builder;
 import lombok.Getter;
 import lombok.NoArgsConstructor;
 import lombok.Setter;
-import org.hibernate.annotations.CreationTimestamp;
 import ru.t1.java.demo.model.enums.TransactionStatus;
 
 import java.time.LocalDateTime;
@@ -46,7 +45,6 @@ public class Transaction {
     @Column(length = 30)
     private TransactionStatus transactionStatus;
 
-    @CreationTimestamp
     @Column(nullable = false)
     private LocalDateTime timestamp;
 

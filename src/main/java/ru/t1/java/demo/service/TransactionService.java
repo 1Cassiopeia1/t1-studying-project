@@ -19,6 +19,5 @@ public interface TransactionService {
 
     void handleTransaction(TransactionDto transactionDto);
 
-    void handleResult(ResultDto resultDto);
-
+    void handleTransactionAcceptationResponse(ResultDto resultDto);
 }

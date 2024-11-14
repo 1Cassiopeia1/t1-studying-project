@@ -2,6 +2,7 @@ package ru.t1.java.demo.kafka;
 
 import lombok.RequiredArgsConstructor;
 import lombok.extern.slf4j.Slf4j;
+import org.springframework.boot.autoconfigure.condition.ConditionalOnProperty;
 import org.springframework.kafka.annotation.DltHandler;
 import org.springframework.kafka.annotation.KafkaListener;
 import org.springframework.kafka.annotation.RetryableTopic;
@@ -17,6 +18,7 @@ import ru.t1.java.demo.service.TransactionService;
 @Slf4j
 @RequiredArgsConstructor
 @Component
+@ConditionalOnProperty(value = "t1.kafka.enabled", havingValue = "true")
 public class KafkaTransactionResultConsumer {
 
     private final TransactionService transactionService;
@@ -47,12 +49,16 @@ public class KafkaTransactionResultConsumer {
                               @Header(KafkaHeaders.RECEIVED_TOPIC) String topic,
                               @Header(value = KafkaHeaders.RECEIVED_KEY, required = false) String key,
                               Acknowledgment ack) {
+        log.debug("Получено сообщение в topic {} с ключом {}", topic, key);
+
         try {
-            transactionService.handleResult(resultDto);
+            transactionService.handleTransactionAcceptationResponse(resultDto);
+            ack.acknowledge();
         } catch (Exception e) {
             log.error("Ошибка при обработке сообщения в топике {}: {}", topic, e.getMessage(), e);
-        } finally {
-            ack.acknowledge();
+            throw e;
         }
+
+        log.debug("Сообщение в topic {} с ключом {} обработано", topic, key);
     }
 }

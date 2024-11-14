@@ -8,6 +8,3 @@ ALTER TABLE transaction
     ADD timestamp TIMESTAMP;
 ALTER TABLE transaction
     ADD transaction_status VARCHAR(255);
-
-ALTER TABLE client
-    ADD client_id BIGINT PRIMARY KEY;

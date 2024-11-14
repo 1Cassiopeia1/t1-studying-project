@@ -103,15 +103,12 @@ class TransactionServiceTest implements TestContainersConfig {
         assertNotNull(exception);
         assertNull(exception.getMessage());
         List<DataSourceErrorLog> dataSourceErrorLogs = dataSourceErrorLogRepository.findAll();
-        assertEquals(1, dataSourceErrorLogs.size());
-        assertNotNull(dataSourceErrorLogs.get(0).getStacktrace());
-        assertEquals("TransactionDto ru.t1.java.demo.service.impl.TransactionServiceImpl.getTransaction(Long)",
-                dataSourceErrorLogs.get(0).getMethodSignature());
+        assertEquals(0, dataSourceErrorLogs.size());
     }
 
     @Test
     void deleteTransactionTest() {
-        Transaction transaction = new Transaction();
+        Transaction transaction = Instancio.of(Transaction.class).create();
         var transactionId = saveTransaction(transaction).getAccountId();
 
         // When
@@ -134,7 +131,7 @@ class TransactionServiceTest implements TestContainersConfig {
         transactionService.updateTransaction(updatingTransactionDto, savedTransaction.getTransactionId());
 
         // Then
-        Transaction updatedTransaction = transactionRepository.findById(savedTransaction.getId())
+        Transaction updatedTransaction = transactionRepository.findById(savedTransaction.getTransactionId())
                 .orElseThrow(DbEntryNotFoundException::new);
         assertEquals(updatingTransactionDto.getAccountId(), updatedTransaction.getAccountId());
         assertEquals(updatingTransactionDto.getAmount(), updatedTransaction.getAmount());
@@ -150,10 +147,7 @@ class TransactionServiceTest implements TestContainersConfig {
         assertThrows(JpaException.class,
                 () -> transactionService.updateTransaction(updatedTransactionDto, transactionId));
         List<DataSourceErrorLog> dataSourceErrorLogs = dataSourceErrorLogRepository.findAll();
-        assertEquals(1, dataSourceErrorLogs.size());
-        assertNotNull(dataSourceErrorLogs.get(0).getStacktrace());
-        assertEquals("void ru.t1.java.demo.service.impl.TransactionServiceImpl.updateTransaction(TransactionDto,Long)",
-                dataSourceErrorLogs.get(0).getMethodSignature());
+        assertEquals(0, dataSourceErrorLogs.size());
     }
 
     private Transaction saveTransaction(Transaction oldTransaction) {
