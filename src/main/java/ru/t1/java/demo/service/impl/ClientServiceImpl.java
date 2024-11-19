@@ -72,4 +72,10 @@ public class ClientServiceImpl implements ClientService {
         kafkaProducer.send(client);
         return saved;
     }
+
+    @Override
+    public boolean isClientBlocked(Long accountId, Long clientId) {
+
+        return false;
+    }
 }

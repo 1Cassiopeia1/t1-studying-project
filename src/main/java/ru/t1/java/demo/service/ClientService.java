@@ -11,4 +11,6 @@ public interface ClientService {
     List<Client> registerClients(List<Client> clients);
 
     Client registerClient(Client client);
+
+    boolean isClientBlocked(Long accountId, Long clientId);
 }
