@@ -4,6 +4,8 @@ import lombok.RequiredArgsConstructor;
 import lombok.extern.slf4j.Slf4j;
 import org.apache.commons.lang3.ObjectUtils;
 import org.apache.commons.lang3.StringUtils;
+import org.apache.kafka.common.header.Header;
+import org.apache.kafka.common.header.internals.RecordHeader;
 import org.aspectj.lang.JoinPoint;
 import org.aspectj.lang.annotation.AfterThrowing;
 import org.aspectj.lang.annotation.Aspect;
@@ -15,6 +17,11 @@ import ru.t1.java.demo.kafka.KafkaProducer;
 import ru.t1.java.demo.model.DataSourceErrorLog;
 import ru.t1.java.demo.repository.DataSourceErrorLogRepository;
 
+import java.nio.charset.StandardCharsets;
+import java.util.List;
+import java.util.concurrent.CompletableFuture;
+import java.util.concurrent.ExecutionException;
+
 @Slf4j
 @Aspect
 @Component
@@ -22,7 +29,6 @@ import ru.t1.java.demo.repository.DataSourceErrorLogRepository;
 @RequiredArgsConstructor
 public class LogDataSourceErrorAspect {
 
-    private static final String NOT_FOUND_MESSAGE = "Сущность не найдена по указанным параметрам";
     private static final String LINE_BREAK = "\n";
     private static final String HEADER_ERROR_NAME = "Error-Name";
 
@@ -57,9 +63,9 @@ public class LogDataSourceErrorAspect {
                 .thenAccept(sendResult -> log.info("Message sent successfully: " + message))
                 .handle((sendResult, t) -> {
                     if (t != null) {
+                        saveDatasourceErrorLog(joinPoint, exception, message);
                         return CompletableFuture.failedFuture(t);
                     }
-                    saveDatasourceErrorLog(joinPoint, exception, message);
                     return sendResult;
                 }).get();
     }
