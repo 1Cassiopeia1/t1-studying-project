@@ -3,9 +3,9 @@ package ru.t1.java.demo.exception;
 import lombok.NoArgsConstructor;
 
 @NoArgsConstructor
-public class JpaNotFoundException extends JpaException {
+public class DbEntryNotFoundException extends JpaException {
 
-    public JpaNotFoundException(String message) {
+    public DbEntryNotFoundException(String message) {
         super(message);
     }
 }

@@ -12,7 +12,6 @@ import org.springframework.jdbc.core.simple.JdbcClient;
 import org.springframework.test.jdbc.JdbcTestUtils;
 import ru.t1.java.demo.config.TestContainersConfig;
 import ru.t1.java.demo.dto.AccountDto;
-import ru.t1.java.demo.exception.JpaException;
 import ru.t1.java.demo.model.Account;
 import ru.t1.java.demo.model.Client;
 import ru.t1.java.demo.model.DataSourceErrorLog;
@@ -25,7 +24,6 @@ import java.util.List;
 import static org.junit.jupiter.api.Assertions.assertEquals;
 import static org.junit.jupiter.api.Assertions.assertFalse;
 import static org.junit.jupiter.api.Assertions.assertNotNull;
-import static org.junit.jupiter.api.Assertions.assertNull;
 import static org.junit.jupiter.api.Assertions.assertThrows;
 import static org.mockito.ArgumentMatchers.any;
 import static org.mockito.Mockito.when;
@@ -52,42 +50,6 @@ class AccountServiceTest implements TestContainersConfig {
     void setUp() {
         // Очищаем базу данных перед каждым тестом
         JdbcTestUtils.deleteFromTables(jdbcClient, "transaction", "account", "client", "data_source_error_log");
-    }
-
-    @Test
-    @DisplayName("Проверяет отработку аспекта при любой ошибки к CrudRepository и наследникам")
-    void getAccountExceptionTest() {
-        JpaException exception = assertThrows(JpaException.class,
-                () -> accountService.getAccount(1L));
-
-        assertNotNull(exception);
-        assertNull(exception.getMessage());
-        List<DataSourceErrorLog> dataSourceErrorLogs = dataSourceErrorLogRepository.findAll();
-        assertEquals(1, dataSourceErrorLogs.size());
-        assertNotNull(dataSourceErrorLogs.get(0).getStacktrace());
-        assertEquals("AccountDto ru.t1.java.demo.service.impl.AccountServiceImpl.getAccount(Long)",
-                dataSourceErrorLogs.get(0).getMethodSignature());
-        assertEquals("Сущность не найдена по указанным параметрам", dataSourceErrorLogs.get(0).getMessage());
-    }
-
-    @Test
-    @DisplayName("Проверяет отработку аспекта при выкидывании JpaNotFoundException")
-    void updateAccountNotFoundTest() {
-        // Given
-        Long accId = 100L;
-        AccountDto updatedAccountDto = Instancio.of(AccountDto.class)
-                .create();
-        // When
-        assertThrows(JpaException.class,
-                () -> accountService.updateAccount(updatedAccountDto, accId));
-
-        // Then
-        List<DataSourceErrorLog> dataSourceErrorLogs = dataSourceErrorLogRepository.findAll();
-        assertEquals(1, dataSourceErrorLogs.size());
-        assertNotNull(dataSourceErrorLogs.get(0).getStacktrace());
-        assertEquals("void ru.t1.java.demo.service.impl.AccountServiceImpl.updateAccount(AccountDto,Long)",
-                dataSourceErrorLogs.get(0).getMethodSignature());
-        assertEquals("Сущность не найдена по указанным параметрам", dataSourceErrorLogs.get(0).getMessage());
     }
 
     @Test

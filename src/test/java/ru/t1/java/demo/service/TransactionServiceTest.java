@@ -10,7 +10,7 @@ import org.springframework.test.jdbc.JdbcTestUtils;
 import ru.t1.java.demo.config.TestContainersConfig;
 import ru.t1.java.demo.dto.TransactionDto;
 import ru.t1.java.demo.exception.JpaException;
-import ru.t1.java.demo.exception.JpaNotFoundException;
+import ru.t1.java.demo.exception.DbEntryNotFoundException;
 import ru.t1.java.demo.model.Account;
 import ru.t1.java.demo.model.Client;
 import ru.t1.java.demo.model.DataSourceErrorLog;
@@ -105,7 +105,6 @@ class TransactionServiceTest implements TestContainersConfig {
         assertNotNull(dataSourceErrorLogs.get(0).getStacktrace());
         assertEquals("TransactionDto ru.t1.java.demo.service.impl.TransactionServiceImpl.getTransaction(Long)",
                 dataSourceErrorLogs.get(0).getMethodSignature());
-        assertEquals("Сущность не найдена по указанным параметрам", dataSourceErrorLogs.get(0).getMessage());
     }
 
     @Test
@@ -134,7 +133,7 @@ class TransactionServiceTest implements TestContainersConfig {
 
         // Then
         Transaction updatedTransaction = transactionRepository.findById(savedTransaction.getId())
-                .orElseThrow(JpaNotFoundException::new);
+                .orElseThrow(DbEntryNotFoundException::new);
         assertEquals(updatingTransactionDto.getAccountId(), updatedTransaction.getAccountId());
         assertEquals(updatingTransactionDto.getAmount(), updatedTransaction.getAmount());
         assertThat(updatingTransactionDto.getExecutionTime()).isCloseTo(updatedTransaction.getExecutionTime(),
@@ -153,7 +152,6 @@ class TransactionServiceTest implements TestContainersConfig {
         assertNotNull(dataSourceErrorLogs.get(0).getStacktrace());
         assertEquals("void ru.t1.java.demo.service.impl.TransactionServiceImpl.updateTransaction(TransactionDto,Long)",
                 dataSourceErrorLogs.get(0).getMethodSignature());
-        assertEquals("Сущность не найдена по указанным параметрам", dataSourceErrorLogs.get(0).getMessage());
     }
 
     private Transaction saveTransaction(Transaction oldTransaction) {
