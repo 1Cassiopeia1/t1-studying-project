@@ -8,7 +8,7 @@ import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RequestParam;
 import ru.t1.java.demo.dto.TransactionAcceptDto;
 
-@FeignClient
+@FeignClient(name = "accept-service")
 public interface ClientFeign {
     @PostMapping("/accept")
     ResponseEntity<Void> saveEvent(@RequestBody TransactionAcceptDto acceptDto);
