@@ -1,5 +1,14 @@
-
 spring:
+  security:
+    oauth2:
+      client:
+        registration:
+          external:
+            client-id: ${CLIENT_ID:client_id}
+            client-secret: ${CLIENT_SECRET:client_secret}
+        provider:
+          external:
+            token-uri: ${CLIENT_SERVICE_TOKEN_URI:http://localhost:8081/auth/sign-in}
   config:
     import: kafka.yml
   application:
@@ -45,3 +54,12 @@ management:
   endpoint:
     health.enabled: true
     prometheus.enabled: true
+
+services:
+  client-service:
+    url: ${CLIENT_SERVICE_URL:http://localhost:8081}
+server:
+  port: 8080
+
+t1:
+  max-rejected-transactions: ${MAX_REJECTED_TRANSACTIONS:3}

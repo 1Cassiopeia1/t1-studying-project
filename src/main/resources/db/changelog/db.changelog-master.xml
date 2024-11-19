@@ -22,17 +22,16 @@ http://www.liquibase.org/xml/ns/dbchangelog/dbchangelog-3.5.xsd">
             <sqlFile encoding="utf8" path="db/changelog/2024/2024/09/16-01-changelog-03-rollback.sql"/>
         </rollback>
     </changeSet>
-    <changeSet id="add-columns-to-transaction-account-tables" author="KMarkova">
+    <changeSet id="add_columns_to_transaction_account_tables" author="KMarkova">
         <sqlFile encoding="utf8" path="db/changelog/2024/2024/11/12-11-changelog-01.sql"/>
         <rollback>
             <sqlFile encoding="utf8" path="db/changelog/2024/2024/11/12-11-changelog-01-rollback.sql"/>
         </rollback>
     </changeSet>
-
-    <changeSet id="add-columns-to-transaction-account-tables" author="KMarkova">
-        <sqlFile encoding="utf8" path="db/changelog/2024/11/12-11-changelog-01.sql"/>
+    <changeSet id="add_status_column" author="KMarkova">
+        <sqlFile encoding="utf8" path="db/changelog/2024/2024/11/12-11-changelog-02.sql"/>
         <rollback>
-            <sqlFile encoding="utf8" path="db/changelog/2024/11/12-11-changelog-01-rollback.sql"/>
+            <sqlFile encoding="utf8" path="db/changelog/2024/2024/11/12-11-changelog-02-rollback.sql"/>
         </rollback>
     </changeSet>
 </databaseChangeLog>
