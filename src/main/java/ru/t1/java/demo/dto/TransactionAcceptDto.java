@@ -5,23 +5,23 @@ import lombok.AllArgsConstructor;
 import lombok.Builder;
 import lombok.Data;
 import lombok.NoArgsConstructor;
-import ru.t1.java.demo.model.enums.AccountStatus;
-import ru.t1.java.demo.model.enums.AccountType;
 
 import java.io.Serializable;
+import java.time.LocalDateTime;
 
 /**
- * DTO for {@link ru.t1.java.demo.model.Account}
+ * DTO for {@link ru.t1.java.demo.kafka.KafkaTransactionConsumer}
  */
 @Data
 @AllArgsConstructor
 @NoArgsConstructor
 @Builder
 @JsonIgnoreProperties(ignoreUnknown = true)
-public class AccountDto implements Serializable {
+public class TransactionAcceptDto implements Serializable {
     private Long clientId;
-    private AccountType accountType;
-    private String balance;
-    private AccountStatus accountStatus;
-    private String frozenAmount;
+    private Long accountId;
+    private Long transactionId;
+    private LocalDateTime timestamp;
+    private String transactionAmount;
+    private String accountBalance;
 }

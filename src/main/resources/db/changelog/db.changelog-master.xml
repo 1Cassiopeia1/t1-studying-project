@@ -4,24 +4,28 @@
         xsi:schemaLocation="http://www.liquibase.org/xml/ns/dbchangelog
 http://www.liquibase.org/xml/ns/dbchangelog/dbchangelog-3.5.xsd">
 
-    <changeSet id="init" author="ECHasov">
-        <sqlFile encoding="utf8" path="/db/changelog/2024/09/16-01-changelog-01.sql"/>
+    <changeSet id="add_client_table" author="EChasov">
+        <sqlFile encoding="utf8" path="db/changelog/2024/2024/09/16-01-changelog-01.sql"/>
         <rollback>
-            <sqlFile encoding="utf8" path="/db/changelog/2024/09/16-01-changelog-01-rollback.sql"/>
+            <sqlFile encoding="utf8" path="db/changelog/2024/2024/09/16-01-changelog-01-rollback.sql"/>
         </rollback>
     </changeSet>
-
-    <changeSet id="update-client" author="ECHasov">
-        <sqlFile encoding="utf8" path="/db/changelog/2024/09/16-01-changelog-02.sql"/>
+    <changeSet id="alter_client_table" author="EChasov">
+        <sqlFile encoding="utf8" path="db/changelog/2024/2024/09/16-01-changelog-02.sql"/>
         <rollback>
-            <sqlFile encoding="utf8" path="/db/changelog/2024/09/16-01-changelog-02-rollback.sql"/>
+            <sqlFile encoding="utf8" path="db/changelog/2024/2024/09/16-01-changelog-02-rollback.sql"/>
         </rollback>
     </changeSet>
-
-    <changeSet id="create-transaction-account-tables" author="KMarkova">
-        <sqlFile encoding="utf8" path="/db/changelog/2024/09/16-01-changelog-03.sql"/>
+    <changeSet id="add_transaction_and_account_tables" author="KMarkova">
+        <sqlFile encoding="utf8" path="db/changelog/2024/2024/09/16-01-changelog-03.sql"/>
         <rollback>
-            <sqlFile encoding="utf8" path="/db/changelog/2024/09/16-01-changelog-03-rollback.sql"/>
+            <sqlFile encoding="utf8" path="db/changelog/2024/2024/09/16-01-changelog-03-rollback.sql"/>
+        </rollback>
+    </changeSet>
+    <changeSet id="add-columns-to-transaction-account-tables" author="KMarkova">
+        <sqlFile encoding="utf8" path="db/changelog/2024/2024/11/12-11-changelog-01.sql"/>
+        <rollback>
+            <sqlFile encoding="utf8" path="db/changelog/2024/2024/11/12-11-changelog-01-rollback.sql"/>
         </rollback>
     </changeSet>
 </databaseChangeLog>
