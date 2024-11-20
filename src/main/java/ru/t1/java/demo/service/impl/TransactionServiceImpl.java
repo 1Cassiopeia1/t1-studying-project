@@ -8,11 +8,11 @@ import org.springframework.transaction.annotation.Transactional;
 import ru.t1.java.demo.aop.LogDataSourceError;
 import ru.t1.java.demo.dto.TransactionDto;
 import ru.t1.java.demo.exception.DbEntryNotFoundException;
+import ru.t1.java.demo.mappers.TransactionMapper;
 import ru.t1.java.demo.model.Transaction;
 import ru.t1.java.demo.repository.TransactionRepository;
 import ru.t1.java.demo.service.MockService;
 import ru.t1.java.demo.service.TransactionService;
-import ru.t1.java.demo.mappers.TransactionMapper;
 
 import java.util.List;
 
@@ -43,7 +43,7 @@ public class TransactionServiceImpl implements TransactionService {
     @Override
     @LogDataSourceError
     public void saveMockedTransactions() {
-        List<TransactionDto> transactions = mockService.getMockData("mocked_transactions.json", TransactionDto.class);
+        List<TransactionDto> transactions = mockService.getMockData("models/mocked_transactions.json", TransactionDto.class);
         repository.saveAll(transactionMapper.fromDtoToEntity(transactions));
     }
 
@@ -66,5 +66,13 @@ public class TransactionServiceImpl implements TransactionService {
 
     private void copyProperties(Transaction source, Transaction target) {
         BeanUtils.copyProperties(source, target, "id");
+    }
+
+    @Override
+    public void saveAllTransactions(List<TransactionDto> transactionDtoList) {
+        List<Transaction> transactions = transactionDtoList.stream()
+                .map(transactionMapper::fromDtoToEntity)
+                .toList();
+        repository.saveAll(transactions);
     }
 }

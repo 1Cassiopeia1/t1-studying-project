@@ -9,6 +9,7 @@ import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.PutMapping;
 import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RestController;
+import ru.t1.java.demo.aop.Metric;
 import ru.t1.java.demo.dto.TransactionDto;
 import ru.t1.java.demo.service.TransactionService;
 
@@ -20,6 +21,7 @@ public class TransactionController {
 
     @GetMapping(value = "/transaction/{id}")
     @Operation(description = "Получение транзакции по id")
+    @Metric(maxValue = 1000L)
     public TransactionDto getTransaction(@PathVariable Long id) {
         return transactionService.getTransaction(id);
     }

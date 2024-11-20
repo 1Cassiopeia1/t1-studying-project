@@ -7,4 +7,8 @@ import java.util.List;
 
 public interface ClientService {
     List<Client> parseJson() throws IOException;
+
+    List<Client> registerClients(List<Client> clients);
+
+    Client registerClient(Client client);
 }

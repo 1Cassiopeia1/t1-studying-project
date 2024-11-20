@@ -8,12 +8,13 @@ import org.springframework.transaction.annotation.Transactional;
 import ru.t1.java.demo.aop.LogDataSourceError;
 import ru.t1.java.demo.dto.AccountDto;
 import ru.t1.java.demo.exception.DbEntryNotFoundException;
+import ru.t1.java.demo.kafka.KafkaProducer;
+import ru.t1.java.demo.mappers.AccountMapper;
 import ru.t1.java.demo.model.Account;
 import ru.t1.java.demo.model.Client;
 import ru.t1.java.demo.repository.AccountRepository;
 import ru.t1.java.demo.service.AccountService;
 import ru.t1.java.demo.service.MockService;
-import ru.t1.java.demo.mappers.AccountMapper;
 
 import java.util.List;
 
@@ -24,6 +25,7 @@ public class AccountServiceImpl implements AccountService {
     private final AccountRepository accountRepository;
     private final AccountMapper accountMapper;
     private final MockService mockService;
+    private final KafkaProducer<Account> kafkaAccountProducer;
 
     @Override
     @LogDataSourceError
@@ -60,8 +62,8 @@ public class AccountServiceImpl implements AccountService {
     @Override
     @LogDataSourceError
     public void saveMockedAccounts() {
-        List<AccountDto> accountDtos = mockService.getMockData("mocked_accounts.json", AccountDto.class);
-        List<Client> clients = mockService.getMockData("MOCK_DATA.json", Client.class);
+        List<AccountDto> accountDtos = mockService.getMockData("models/mocked_accounts.json", AccountDto.class);
+        List<Client> clients = mockService.getMockData("models/MOCK_DATA.json", Client.class);
         List<Account> accounts = accountMapper.fromDtoToEntity(accountDtos);
 
         if (clients.size() != accountDtos.size()) {
@@ -75,5 +77,13 @@ public class AccountServiceImpl implements AccountService {
 
     private void copyProperties(Account source, Account target) {
         BeanUtils.copyProperties(source, target, "id");
+    }
+
+    @Override
+    public void saveAllAccounts(List<AccountDto> accountDtos) {
+        List<Account> accounts = accountDtos.stream()
+                .map(accountMapper::fromDtoToEntity)
+                .toList();
+        accountRepository.saveAll(accounts);
     }
 }

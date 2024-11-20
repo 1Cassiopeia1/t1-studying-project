@@ -29,6 +29,7 @@ import static org.mockito.ArgumentMatchers.any;
 import static org.mockito.Mockito.when;
 
 @SpringBootTest
+@DisplayName("Тесты AccountService")
 class AccountServiceTest implements TestContainersConfig {
 
     @Autowired
