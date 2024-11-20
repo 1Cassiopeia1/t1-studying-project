@@ -4,8 +4,10 @@ import com.fasterxml.jackson.databind.ObjectMapper;
 import jakarta.annotation.PostConstruct;
 import lombok.RequiredArgsConstructor;
 import lombok.extern.slf4j.Slf4j;
+import org.springframework.http.HttpEntity;
 import org.springframework.stereotype.Service;
 import ru.t1.java.demo.dto.ClientDto;
+import ru.t1.java.demo.feign.ClientFeign;
 import ru.t1.java.demo.kafka.KafkaProducer;
 import ru.t1.java.demo.model.Client;
 import ru.t1.java.demo.repository.ClientRepository;
@@ -17,6 +19,7 @@ import java.io.IOException;
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
+import java.util.Optional;
 
 @Service
 @Slf4j
@@ -25,6 +28,7 @@ public class ClientServiceImpl implements ClientService {
 
     private final ClientRepository repository;
     private final KafkaProducer<Client> kafkaProducer;
+    private final ClientFeign clientFeign;
 
     @PostConstruct
     void init() {
@@ -74,8 +78,9 @@ public class ClientServiceImpl implements ClientService {
     }
 
     @Override
-    public boolean isClientBlocked(Long accountId, Long clientId) {
-
-        return false;
+    public void checkBlockedAndSetRejected(Long clientId, List<Long> accountIds) {
+        Optional.of(clientFeign.isClientAccountsBlocked(clientId, accountIds))
+                .map(HttpEntity::getBody)
+                .ifPresent(blocked -> repository.setBloked(clientId));
     }
 }

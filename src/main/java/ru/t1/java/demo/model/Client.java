@@ -37,4 +37,5 @@ public class Client {
     @Column(name = "middle_name")
     private String middleName;
 
+    private boolean isBlocked;
 }

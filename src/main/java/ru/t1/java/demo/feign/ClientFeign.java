@@ -8,11 +8,14 @@ import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RequestParam;
 import ru.t1.java.demo.dto.TransactionAcceptDto;
 
-@FeignClient(name = "accept-service")
+import java.util.List;
+
+@FeignClient(name = "accept-service", url = "${services.client-service.url}")
 public interface ClientFeign {
     @PostMapping("/accept")
     ResponseEntity<Void> saveEvent(@RequestBody TransactionAcceptDto acceptDto);
 
-    @GetMapping("/accept")
-    ResponseEntity<Boolean> isClientBlocked(@RequestParam Long accountId, @RequestParam Long clientId);
+    @GetMapping("/block")
+    ResponseEntity<Boolean> isClientAccountsBlocked(
+            @RequestParam Long clientId, @RequestParam List<Long> accountIds);
 }

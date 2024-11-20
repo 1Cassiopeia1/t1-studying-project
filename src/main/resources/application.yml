@@ -45,3 +45,7 @@ management:
   endpoint:
     health.enabled: true
     prometheus.enabled: true
+
+services:
+  client-service:
+    url: ${CLIENT_SERVICE_URL:localhost:8081}

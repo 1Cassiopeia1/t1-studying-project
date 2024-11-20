@@ -88,6 +88,7 @@ public class TransactionServiceImpl implements TransactionService {
 
     @Override
     public void handleTransaction(TransactionDto transactionDto) {
+        // todo проверить, что клиент не заблокирован, иначе транзакция сразу в статус REJECTED
         Optional.ofNullable(transactionRepository.findTransactionByTimestamp(transactionDto.getTimestamp()))
                 .map(transaction -> accountService.getAccountEntity(transactionDto.getAccountId()))
                 .filter(account -> AccountStatus.OPEN.equals(account.getAccountStatus()))
