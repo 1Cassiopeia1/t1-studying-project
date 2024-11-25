@@ -20,6 +20,7 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 import java.util.Optional;
+import java.util.function.Predicate;
 
 @Service
 @Slf4j
@@ -78,9 +79,13 @@ public class ClientServiceImpl implements ClientService {
     }
 
     @Override
-    public void checkBlockedAndSetRejected(Long clientId, List<Long> accountIds) {
-        Optional.of(clientFeign.isClientAccountsBlocked(clientId, accountIds))
+    public boolean checkBlockedAndSetRejected(Long clientId, List<Long> accountIds) {
+        return Optional.of(clientFeign.isClientAccountsBlocked(clientId, accountIds))
                 .map(HttpEntity::getBody)
-                .ifPresent(blocked -> repository.setBloked(clientId));
+                .filter(Predicate.isEqual(true))
+                .map(blocked -> {
+                    repository.setBloked(clientId);
+                    return true;
+                }).orElse(false);
     }
 }

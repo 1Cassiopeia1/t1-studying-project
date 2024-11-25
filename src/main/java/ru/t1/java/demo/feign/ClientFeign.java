@@ -16,6 +16,7 @@ public interface ClientFeign {
     ResponseEntity<Void> saveEvent(@RequestBody TransactionAcceptDto acceptDto);
 
     @GetMapping("/block")
+
     ResponseEntity<Boolean> isClientAccountsBlocked(
             @RequestParam Long clientId, @RequestParam List<Long> accountIds);
 }

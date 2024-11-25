@@ -23,6 +23,7 @@ import ru.t1.java.demo.model.enums.AccountStatus;
 import ru.t1.java.demo.model.enums.TransactionStatus;
 import ru.t1.java.demo.repository.TransactionRepository;
 import ru.t1.java.demo.service.AccountService;
+import ru.t1.java.demo.service.ClientService;
 import ru.t1.java.demo.service.MockService;
 import ru.t1.java.demo.service.TransactionService;
 
@@ -42,6 +43,7 @@ public class TransactionServiceImpl implements TransactionService {
     private final KafkaProducer<TransactionAcceptDto> kafkaTransactionAcceptProducer;
     private final TransactionAcceptMapper transactionAcceptMapper;
     private final TransactionTemplate transactionTemplate;
+    private final ClientService clientService;
     @Value("${t1.kafka.topic.t1_demo_transaction_accept}")
     private String acceptTopic;
 
@@ -88,9 +90,17 @@ public class TransactionServiceImpl implements TransactionService {
 
     @Override
     public void handleTransaction(TransactionDto transactionDto) {
-        // todo проверить, что клиент не заблокирован, иначе транзакция сразу в статус REJECTED
-        Optional.ofNullable(transactionRepository.findTransactionByTimestamp(transactionDto.getTimestamp()))
+        Optional<Transaction> transactionOpt = transactionRepository.findTransactionByTimestamp(transactionDto.getTimestamp());
+        transactionOpt
                 .map(transaction -> accountService.getAccountEntity(transactionDto.getAccountId()))
+                .filter(account -> {
+                    boolean isClientBlocked = clientService.checkBlockedAndSetRejected(
+                            account.getClientId(), List.of(account.getAccountId()));
+                    if (isClientBlocked) {
+                        updateTransactionStatus(transactionOpt.get(), TransactionStatus.REJECTED);
+                    }
+                    return !isClientBlocked;
+                })
                 .filter(account -> AccountStatus.OPEN.equals(account.getAccountStatus()))
                 .ifPresentOrElse(account -> {
                     // TODO добавить транзакции на кафку и идемпотентность
