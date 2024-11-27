@@ -1,13 +1,15 @@
 package ru.t1.java.demo.service;
 
+import ru.t1.java.demo.dto.ResultDto;
 import ru.t1.java.demo.dto.TransactionDto;
-
-import java.util.List;
+import ru.t1.java.demo.model.Transaction;
 
 public interface TransactionService {
     TransactionDto getTransaction(Long tId);
 
     void saveTransaction(TransactionDto transactionDto);
+
+    void saveTransactionEntity(Transaction transaction);
 
     void saveMockedTransactions();
 
@@ -15,6 +17,7 @@ public interface TransactionService {
 
     void deleteTransaction(Long id);
 
-    void saveAllTransactions(List<TransactionDto> transactions);
+    void handleTransaction(TransactionDto transactionDto);
 
+    void handleTransactionAcceptationResponse(ResultDto resultDto);
 }

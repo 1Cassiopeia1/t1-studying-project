@@ -22,7 +22,7 @@ import java.time.Duration;
 import java.util.List;
 
 @DirtiesContext
-@ActiveProfiles("test")
+@ActiveProfiles("test-kafka")
 @SpringBootTest(classes = {
         KafkaAutoConfiguration.class,
         CommonKafkaConfig.class,
@@ -37,7 +37,16 @@ abstract class AbstractKafkaTest {
     @Value("${test.verify-timeout}")
     protected Duration defaultVerifyTimeout;
 
-    protected <T> Producer<String, List<T>> createProducer(Class<T> clazz) {
+    protected <T> Producer<String, T> createProducer(Class<T> clazz) {
+        var producerProps = KafkaTestUtils.producerProps(embeddedKafkaBroker.getBrokersAsString());
+        var keySerializer = new StringSerializer();
+        var javaType = objectMapper.getTypeFactory().constructType(clazz);
+        var valueSerializer = new JsonSerializer<T>(javaType, objectMapper);
+        var producerFactory = new DefaultKafkaProducerFactory<>(producerProps, keySerializer, valueSerializer, false);
+        return producerFactory.createProducer();
+    }
+
+    protected <T> Producer<String, List<T>> createListProducer(Class<T> clazz) {
         var producerProps = KafkaTestUtils.producerProps(embeddedKafkaBroker.getBrokersAsString());
         var keySerializer = new StringSerializer();
         JavaType listJavaType = objectMapper.getTypeFactory().constructCollectionType(List.class, clazz);

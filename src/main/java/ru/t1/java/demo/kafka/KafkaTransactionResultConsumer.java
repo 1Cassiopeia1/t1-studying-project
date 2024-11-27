@@ -12,14 +12,14 @@ import org.springframework.kafka.support.KafkaHeaders;
 import org.springframework.messaging.handler.annotation.Header;
 import org.springframework.messaging.handler.annotation.Payload;
 import org.springframework.stereotype.Component;
-import ru.t1.java.demo.dto.TransactionDto;
+import ru.t1.java.demo.dto.ResultDto;
 import ru.t1.java.demo.service.TransactionService;
 
 @Slf4j
 @RequiredArgsConstructor
 @Component
 @ConditionalOnProperty(value = "t1.kafka.enabled", havingValue = "true")
-public class KafkaTransactionConsumer {
+public class KafkaTransactionResultConsumer {
 
     private final TransactionService transactionService;
 
@@ -28,32 +28,31 @@ public class KafkaTransactionConsumer {
             kafkaTemplate = "kafkaTemplate",
             dltStrategy = DltStrategy.FAIL_ON_ERROR)
     @KafkaListener(groupId = "${t1.kafka.consumer.group-id}",
-            topics = "${t1.kafka.topic.t1_demo_transactions}",
-            containerFactory = "transactionKafkaListenerContainerFactory")
-    // todo повесить кафка транзакцию
-    public void receiveTransaction(@Payload TransactionDto transactionDto,
-                                   @Header(KafkaHeaders.RECEIVED_TOPIC) String topic,
-                                   @Header(value = KafkaHeaders.RECEIVED_KEY, required = false) String key,
-                                   Acknowledgment ack) {
-        handleMessage(transactionDto, topic, key, ack);
+            topics = "${t1.kafka.topic.t1_demo_transaction_result}",
+            containerFactory = "accountKafkaListenerContainerFactory")
+    public void receiveTransactionResult(@Payload ResultDto resultDto,
+                                         @Header(KafkaHeaders.RECEIVED_TOPIC) String topic,
+                                         @Header(value = KafkaHeaders.RECEIVED_KEY, required = false) String key,
+                                         Acknowledgment ack) {
+        handleResult(resultDto, topic, key, ack);
     }
 
     @DltHandler
-    public void receiveTransactionsDlt(@Payload TransactionDto transactionDto,
-                                       @Header(KafkaHeaders.RECEIVED_TOPIC) String topic,
-                                       @Header(value = KafkaHeaders.RECEIVED_KEY, required = false) String key,
-                                       Acknowledgment ack) {
-        handleMessage(transactionDto, topic, key, ack);
+    public void receiveTransactionResultDlt(@Payload ResultDto resultDto,
+                                            @Header(KafkaHeaders.RECEIVED_TOPIC) String topic,
+                                            @Header(value = KafkaHeaders.RECEIVED_KEY, required = false) String key,
+                                            Acknowledgment ack) {
+        handleResult(resultDto, topic, key, ack);
     }
 
-    private void handleMessage(@Payload TransactionDto transactionDto,
-                               @Header(KafkaHeaders.RECEIVED_TOPIC) String topic,
-                               @Header(value = KafkaHeaders.RECEIVED_KEY, required = false) String key,
-                               Acknowledgment ack) {
+    private void handleResult(@Payload ResultDto resultDto,
+                              @Header(KafkaHeaders.RECEIVED_TOPIC) String topic,
+                              @Header(value = KafkaHeaders.RECEIVED_KEY, required = false) String key,
+                              Acknowledgment ack) {
         log.debug("Получено сообщение в topic {} с ключом {}", topic, key);
 
         try {
-            transactionService.handleTransaction(transactionDto);
+            transactionService.handleTransactionAcceptationResponse(resultDto);
             ack.acknowledge();
         } catch (Exception e) {
             log.error("Ошибка при обработке сообщения в топике {}: {}", topic, e.getMessage(), e);

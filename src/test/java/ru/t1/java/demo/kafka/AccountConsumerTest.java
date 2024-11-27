@@ -34,7 +34,7 @@ class AccountConsumerTest extends AbstractKafkaTest {
 
     @Test
     void receive() {
-        @Cleanup var producer = createProducer(AccountDto.class);
+        @Cleanup var producer = createListProducer(AccountDto.class);
         List<AccountDto> accountDto = List.of(new AccountDto());
 
         var producerRecord = new ProducerRecord<String, List<AccountDto>>(topic, 0, null, accountDto);

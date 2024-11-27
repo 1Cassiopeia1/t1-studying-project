@@ -1,0 +1,6 @@
+test:
+  verify-timeout: 5s
+
+t1:
+  kafka:
+    enabled: true
