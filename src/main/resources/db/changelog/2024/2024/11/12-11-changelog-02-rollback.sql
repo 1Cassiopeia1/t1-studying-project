@@ -1,0 +1,4 @@
+ALTER TABLE IF EXISTS client DROP COLUMN IF EXISTS status;
+
+
+

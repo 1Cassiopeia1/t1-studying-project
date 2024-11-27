@@ -16,4 +16,12 @@ public interface TransactionRepository extends JpaRepository<Transaction, Long> 
     @Modifying(flushAutomatically = true, clearAutomatically = true)
     @Query("update Transaction t set t.transactionStatus = :transactionStatus where t.transactionId = :transactionId")
     void updateStatusById(TransactionStatus transactionStatus, Long transactionId);
+
+    @Query("""
+            select COUNT(t) from Transaction t
+            join t.account ac join ac.client
+            where ac.client.clientId = :clientId
+            and t.transactionStatus = 'REJECTED'
+            """)
+    long countRejectedTransactionsByClientId(Long clientId);
 }

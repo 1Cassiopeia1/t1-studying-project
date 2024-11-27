@@ -9,8 +9,9 @@ import ru.t1.java.demo.model.Transaction;
 
 @Mapper(config = MapstructConfig.class)
 public interface TransactionAcceptMapper {
-    @Mapping(target = "accountId", source = "transaction.accountId")
+    @Mapping(target = "accountId", source = "transaction.account.accountId")
     @Mapping(target = "accountBalance", source = "account.balance")
     @Mapping(target = "transactionAmount", source = "transaction.amount")
+    @Mapping(target = "clientId", source = "account.client.clientId")
     TransactionAcceptDto toDtoForAcceptation(Account account, Transaction transaction);
 }

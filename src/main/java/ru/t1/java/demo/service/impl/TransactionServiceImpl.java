@@ -22,8 +22,10 @@ import ru.t1.java.demo.model.Account;
 import ru.t1.java.demo.model.Transaction;
 import ru.t1.java.demo.model.enums.AccountStatus;
 import ru.t1.java.demo.model.enums.TransactionStatus;
+import ru.t1.java.demo.repository.AccountRepository;
 import ru.t1.java.demo.repository.TransactionRepository;
 import ru.t1.java.demo.service.AccountService;
+import ru.t1.java.demo.service.ClientService;
 import ru.t1.java.demo.service.MockService;
 import ru.t1.java.demo.service.TransactionService;
 
@@ -43,8 +45,12 @@ public class TransactionServiceImpl implements TransactionService {
     private final KafkaProducer<TransactionAcceptDto> kafkaTransactionAcceptProducer;
     private final TransactionAcceptMapper transactionAcceptMapper;
     private final TransactionTemplate transactionTemplate;
+    private final ClientService clientService;
+    private final AccountRepository accountRepository;
     @Value("${t1.kafka.topic.t1_demo_transaction_accept}")
     private String acceptTopic;
+    @Value("${t1.max-rejected-transactions}")
+    private Integer maxRejectedTransactions;
 
     @Override
     @LogDataSourceError
@@ -99,6 +105,7 @@ public class TransactionServiceImpl implements TransactionService {
             Transaction transaction = transactionRepository.save(transactionMapper.fromDtoToEntity(transactionDto));
             Optional.of(transaction)
                     .map(trans -> accountService.getAccountEntity(transactionDto.getAccountId()))
+                    .filter(account -> checkTransaction(account, transaction))
                     .filter(account -> AccountStatus.OPEN.equals(account.getAccountStatus()))
                     .ifPresentOrElse(account -> {
                         // TODO добавить транзакции на кафку и идемпотентность
@@ -132,6 +139,26 @@ public class TransactionServiceImpl implements TransactionService {
                                 .formatted(resultDto.getTransactionStatus()));
                     }
                 }, () -> log.error(ErrorLogs.TRANSACTION_NOT_FOUND, resultDto.getTransactionId()));
+    }
+
+    private boolean checkTransaction(Account account, Transaction transaction) {
+        boolean isAllOk = true;
+        if (account.getClient().getStatus() == null) {
+            isAllOk = !clientService.checkBlockedAndSetRejected(
+                    account.getClient().getClientId(),
+                    account.getAccountId(),
+                    transaction.getTransactionId());
+        } else {
+            long rejectedAmount = transactionRepository.countRejectedTransactionsByClientId(account.getClient().getClientId());
+            if (rejectedAmount >= maxRejectedTransactions) {
+                transactionTemplate.executeWithoutResult(transactionStatus -> {
+                    updateTransactionStatus(transaction.getTransactionId(), TransactionStatus.REJECTED);
+                    accountRepository.setArrested(account.getAccountId());
+                });
+                isAllOk = false;
+            }
+        }
+        return isAllOk;
     }
 
     // лок на транзакцию не ставим, допускаем параллельную смену статусов из разных потоков

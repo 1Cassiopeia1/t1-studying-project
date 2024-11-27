@@ -10,8 +10,8 @@ import org.springframework.jdbc.core.simple.JdbcClient;
 import org.springframework.test.jdbc.JdbcTestUtils;
 import ru.t1.java.demo.config.TestContainersConfig;
 import ru.t1.java.demo.dto.TransactionDto;
-import ru.t1.java.demo.exception.JpaException;
 import ru.t1.java.demo.exception.DbEntryNotFoundException;
+import ru.t1.java.demo.exception.JpaException;
 import ru.t1.java.demo.model.Account;
 import ru.t1.java.demo.model.Client;
 import ru.t1.java.demo.model.DataSourceErrorLog;
@@ -62,7 +62,7 @@ class TransactionServiceTest implements TestContainersConfig {
         Account account = Instancio.of(Account.class).create();
         Client client = Instancio.of(Client.class).create();
         var savedClient = clientRepository.save(client);
-        account.setClientId(savedClient.getClientId());
+        account.setClient(new Client().setClientId(savedClient.getClientId()));
         var savedAccount = accountRepository.save(account);
         transactionDto.setAccountId(savedAccount.getAccountId());
 
@@ -72,7 +72,7 @@ class TransactionServiceTest implements TestContainersConfig {
         //Then
         List<Transaction> result = transactionRepository.findAll();
         assertNotNull(result);
-        assertEquals(result.get(0).getAccountId(), transactionDto.getAccountId());
+        assertEquals(result.get(0).getAccount().getAccountId(), transactionDto.getAccountId());
 
     }
 
@@ -80,14 +80,14 @@ class TransactionServiceTest implements TestContainersConfig {
     void getTransactionTest() {
         Transaction transaction = Instancio.of(Transaction.class).create();
         transaction.setExecutionTime(LocalTime.now());
-        var transactionId = saveTransaction(transaction).getAccountId();
+        var transactionId = saveTransaction(transaction).getAccount().getAccountId();
 
         // When
         TransactionDto transactionDto = transactionService.getTransaction(transactionId);
 
         // Then
         assertNotNull(transactionDto);
-        assertEquals(transaction.getAccountId(), transactionDto.getAccountId());
+        assertEquals(transaction.getAccount().getAccountId(), transactionDto.getAccountId());
         assertEquals(transaction.getAmount(), transactionDto.getAmount());
         assertThat(transaction.getExecutionTime()).isCloseTo(transactionDto.getExecutionTime(),
                 within(1, ChronoUnit.MILLIS));
@@ -109,7 +109,7 @@ class TransactionServiceTest implements TestContainersConfig {
     @Test
     void deleteTransactionTest() {
         Transaction transaction = Instancio.of(Transaction.class).create();
-        var transactionId = saveTransaction(transaction).getAccountId();
+        var transactionId = saveTransaction(transaction).getAccount().getAccountId();
 
         // When
         transactionService.deleteTransaction(transactionId);
@@ -125,7 +125,7 @@ class TransactionServiceTest implements TestContainersConfig {
         var savedTransaction = saveTransaction(oldTransaction);
         TransactionDto updatingTransactionDto = Instancio.of(TransactionDto.class).create();
         updatingTransactionDto.setExecutionTime(LocalTime.now());
-        updatingTransactionDto.setAccountId(oldTransaction.getAccountId());
+        updatingTransactionDto.setAccountId(oldTransaction.getAccount().getAccountId());
 
         // When
         transactionService.updateTransaction(updatingTransactionDto, savedTransaction.getTransactionId());
@@ -133,7 +133,7 @@ class TransactionServiceTest implements TestContainersConfig {
         // Then
         Transaction updatedTransaction = transactionRepository.findById(savedTransaction.getTransactionId())
                 .orElseThrow(DbEntryNotFoundException::new);
-        assertEquals(updatingTransactionDto.getAccountId(), updatedTransaction.getAccountId());
+        assertEquals(updatingTransactionDto.getAccountId(), updatedTransaction.getAccount().getAccountId());
         assertEquals(updatingTransactionDto.getAmount(), updatedTransaction.getAmount());
         assertThat(updatingTransactionDto.getExecutionTime()).isCloseTo(updatedTransaction.getExecutionTime(),
                 within(1, ChronoUnit.MILLIS));
@@ -154,9 +154,9 @@ class TransactionServiceTest implements TestContainersConfig {
         Account account = Instancio.of(Account.class).create();
         Client client = Instancio.of(Client.class).create();
         var savedClient = clientRepository.save(client);
-        account.setClientId(savedClient.getClientId());
+        account.setClient(new Client().setClientId(savedClient.getClientId()));
         var savedAccount = accountRepository.save(account);
-        oldTransaction.setAccountId(savedAccount.getAccountId());
+        oldTransaction.setAccount(new Account().setAccountId(savedAccount.getAccountId()));
         return transactionRepository.save(oldTransaction);
     }
 }

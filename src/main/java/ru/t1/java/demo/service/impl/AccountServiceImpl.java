@@ -46,7 +46,7 @@ public class AccountServiceImpl implements AccountService {
 
     @Override
     public Account getAccountEntity(Long accId) {
-        return accountRepository.findById(accId)
+        return accountRepository.findByIdWithClient(accId)
                 .orElseThrow(DbEntryNotFoundException::new);
     }
 
@@ -85,7 +85,7 @@ public class AccountServiceImpl implements AccountService {
             throw new IllegalStateException();
         }
         for (int i = 0; i < clients.size(); i++) {
-            accounts.get(i).setClientId(clients.get(i).getClientId());
+            accounts.get(i).setClient(new Client().setClientId(clients.get(i).getClientId()));
         }
         accountRepository.saveAll(accounts);
     }

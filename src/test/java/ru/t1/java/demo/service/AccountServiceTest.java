@@ -76,7 +76,7 @@ class AccountServiceTest implements TestContainersConfig {
         // Then
         List<Account> result = repository.findAll();
         assertNotNull(result);
-        assertEquals(result.get(0).getClientId(), accountDto.getClientId());
+        assertEquals(result.get(0).getClient().getClientId(), accountDto.getClientId());
 
     }
 
@@ -86,7 +86,7 @@ class AccountServiceTest implements TestContainersConfig {
         Account account = Instancio.of(Account.class).create();
         Client client = Instancio.of(Client.class).create();
         var savedClient = clientRepository.save(client);
-        account.setClientId(savedClient.getClientId());
+        account.setClient(new Client().setClientId(savedClient.getClientId()));
         var savedAccount = repository.save(account);
 
         // When
@@ -94,7 +94,7 @@ class AccountServiceTest implements TestContainersConfig {
 
         // Then
         assertNotNull(accountDto);
-        assertEquals(account.getClientId(), accountDto.getClientId());
+        assertEquals(account.getClient().getClientId(), accountDto.getClientId());
         assertEquals(account.getAccountType(), accountDto.getAccountType());
         assertEquals(account.getBalance(), accountDto.getBalance());
 
@@ -105,7 +105,7 @@ class AccountServiceTest implements TestContainersConfig {
         Account account = Instancio.of(Account.class).create();
         Client client = Instancio.of(Client.class).create();
         var savedClient = clientRepository.save(client);
-        account.setClientId(savedClient.getClientId());
+        account.setClient(new Client().setClientId(savedClient.getClientId()));
         var savedAccount = repository.save(account);
 
         accountService.deleteAccount(savedAccount.getAccountId());
@@ -118,15 +118,15 @@ class AccountServiceTest implements TestContainersConfig {
         Account oldAccount = Instancio.of(Account.class).create();
         Client client = Instancio.of(Client.class).create();
         var savedClient = clientRepository.save(client);
-        oldAccount.setClientId(savedClient.getClientId());
+        oldAccount.setClient(new Client().setClientId(savedClient.getClientId()));
         var savedAccount = repository.save(oldAccount);
         AccountDto updatingAccountDto = Instancio.of(AccountDto.class).create();
-        updatingAccountDto.setClientId(oldAccount.getClientId());
+        updatingAccountDto.setClientId(oldAccount.getClient().getClientId());
 
         accountService.updateAccount(updatingAccountDto, savedAccount.getAccountId());
 
         Account updatedAccount = repository.findById(savedAccount.getAccountId()).orElseThrow();
-        assertEquals(updatingAccountDto.getClientId(), updatedAccount.getClientId());
+        assertEquals(updatingAccountDto.getClientId(), updatedAccount.getClient().getClientId());
         assertEquals(updatingAccountDto.getAccountType(), updatedAccount.getAccountType());
         assertEquals(updatingAccountDto.getBalance(), updatedAccount.getBalance());
     }
@@ -152,10 +152,10 @@ class AccountServiceTest implements TestContainersConfig {
             Client expectedClient = expectedClients.get(i);
             assertEquals(expectedAccountDto.getAccountType(), savedAccount.getAccountType());
             assertEquals(expectedAccountDto.getBalance(), savedAccount.getBalance());
-            assertEquals(expectedAccountDto.getClientId(), savedAccount.getClientId());
+            assertEquals(expectedAccountDto.getClientId(), savedAccount.getClient().getClientId());
 
             // Проверяем связь с клиентом
-            assertEquals(expectedClient.getClientId(), savedAccount.getClientId());
+            assertEquals(expectedClient.getClientId(), savedAccount.getClient().getClientId());
         }
     }
 }
