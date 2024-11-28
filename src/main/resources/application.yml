@@ -1,3 +1,6 @@
+server:
+  port: 8080
+
 spring:
   security:
     oauth2:
@@ -58,8 +61,23 @@ management:
 services:
   client-service:
     url: ${CLIENT_SERVICE_URL:http://localhost:8081}
-server:
-  port: 8080
 
 t1:
   max-rejected-transactions: ${MAX_REJECTED_TRANSACTIONS:3}
+  aop:
+    error-log: ${DATASOURCE_ERROR_LOG_ENABLED:true}
+    log-controller: ${LOG_CONTROLLER_ENABLED:true}
+    log-metric: ${LOG_METRIC_ENABLED:true}
+
+redis:
+  url: redis://default:pass@localhost:6379
+
+scheduler:
+  unlock-accounts:
+    enable: true
+    amount: 100
+    cron: 0 0 0 * * *
+  unlock-clients:
+    enable: true
+    amount: 100
+    cron: 0 0 0 * * *

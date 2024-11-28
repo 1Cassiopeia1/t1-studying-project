@@ -4,6 +4,7 @@ import com.example.t1projectspringbootstarter.config.KafkaProducer;
 import com.example.t1projectspringbootstarter.dto.ClientDto;
 import com.example.t1projectspringbootstarter.dto.enums.TransactionStatus;
 import com.example.t1projectspringbootstarter.feign.ClientFeign;
+import com.example.t1projectspringbootstarter.feign.UnlockFeign;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import jakarta.annotation.PostConstruct;
 import lombok.RequiredArgsConstructor;
@@ -37,6 +38,7 @@ public class ClientServiceImpl implements ClientService {
     private final KafkaProducer<Client> kafkaProducer;
     private final ClientFeign clientFeign;
     private final TransactionTemplate transactionTemplate;
+    private final UnlockFeign unlockFeign;
 
     @PostConstruct
     void init() {
@@ -98,5 +100,13 @@ public class ClientServiceImpl implements ClientService {
                     });
                     return blocked;
                 }).orElse(false);
+    }
+
+    @Override
+    public void unlock(Integer clientAmount) {
+        clientRepository.findAllBlocked(clientAmount)
+                .stream()
+                .filter(unlockFeign::unlockClient)
+                .forEach(clientRepository::setUnbloked);
     }
 }

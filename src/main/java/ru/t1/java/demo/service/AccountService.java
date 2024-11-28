@@ -27,4 +27,6 @@ public interface AccountService {
     void saveAccountEntity(Account account);
 
     void handleBlockedBalance(Long accountId, BigDecimal frozenAmount);
+
+    void unlock(Integer accountAmount);
 }

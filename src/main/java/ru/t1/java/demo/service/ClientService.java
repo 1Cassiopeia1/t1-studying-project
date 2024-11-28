@@ -13,4 +13,6 @@ public interface ClientService {
     Client registerClient(Client client);
 
     boolean checkBlockedAndSetRejected(Long clientId, Long accountId, Long transactionId);
+
+    void unlock(Integer clientAmount);
 }

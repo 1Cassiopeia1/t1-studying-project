@@ -4,6 +4,7 @@ import com.example.t1projectspringbootstarter.aop.LogDataSourceError;
 import com.example.t1projectspringbootstarter.dto.AccountDto;
 import com.example.t1projectspringbootstarter.dto.enums.AccountStatus;
 import com.example.t1projectspringbootstarter.dto.enums.AccountType;
+import com.example.t1projectspringbootstarter.feign.UnlockFeign;
 import jakarta.persistence.LockModeType;
 import lombok.RequiredArgsConstructor;
 import lombok.extern.slf4j.Slf4j;
@@ -35,6 +36,7 @@ public class AccountServiceImpl implements AccountService {
     private final AccountRepository accountRepository;
     private final AccountMapper accountMapper;
     private final MockService mockService;
+    private final UnlockFeign unlockFeign;
 
     @Override
     @LogDataSourceError
@@ -129,6 +131,13 @@ public class AccountServiceImpl implements AccountService {
         );
     }
 
+    @Override
+    public void unlock(Integer accountAmount) {
+        accountRepository.findAllArrested(accountAmount)
+                .stream()
+                .filter(unlockFeign::unlockClient)
+                .forEach(accountRepository::setUnarrested);
+    }
     private BigDecimal calculateNewBalance(Account account, BigDecimal transactionAmount) {
         // WARNING уточнить у аналитика корректность такого вычисления currentBalance
         BigDecimal currentBalance = new BigDecimal(ObjectUtils.defaultIfNull(account.getBalance(), DEFAULT_ZERO_VALUE));
