@@ -1,5 +1,7 @@
 package ru.t1.java.demo.controller;
 
+import com.example.t1projectspringbootstarter.aop.Metric;
+import com.example.t1projectspringbootstarter.dto.AccountDto;
 import io.swagger.v3.oas.annotations.Operation;
 import lombok.RequiredArgsConstructor;
 import org.springframework.web.bind.annotation.DeleteMapping;
@@ -9,8 +11,6 @@ import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.PutMapping;
 import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RestController;
-import ru.t1.java.demo.aop.Metric;
-import ru.t1.java.demo.dto.AccountDto;
 import ru.t1.java.demo.service.AccountService;
 
 @RestController

@@ -1,10 +1,10 @@
 package ru.t1.java.demo.mappers;
 
+import com.example.t1projectspringbootstarter.config.MapstructConfig;
+import com.example.t1projectspringbootstarter.dto.TransactionDto;
 import org.mapstruct.InheritInverseConfiguration;
 import org.mapstruct.Mapper;
 import org.mapstruct.Mapping;
-import ru.t1.java.demo.config.MapstructConfig;
-import ru.t1.java.demo.dto.TransactionDto;
 import ru.t1.java.demo.model.Transaction;
 
 import java.util.List;

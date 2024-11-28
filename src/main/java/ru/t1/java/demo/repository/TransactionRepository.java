@@ -1,11 +1,11 @@
 package ru.t1.java.demo.repository;
 
+import com.example.t1projectspringbootstarter.dto.enums.TransactionStatus;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.data.jpa.repository.Modifying;
 import org.springframework.data.jpa.repository.Query;
 import org.springframework.transaction.annotation.Transactional;
 import ru.t1.java.demo.model.Transaction;
-import ru.t1.java.demo.model.enums.TransactionStatus;
 
 import java.time.LocalDateTime;
 

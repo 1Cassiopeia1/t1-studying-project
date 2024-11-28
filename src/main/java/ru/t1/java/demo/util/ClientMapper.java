@@ -1,7 +1,7 @@
 package ru.t1.java.demo.util;
 
+import com.example.t1projectspringbootstarter.dto.ClientDto;
 import lombok.experimental.UtilityClass;
-import ru.t1.java.demo.dto.ClientDto;
 import ru.t1.java.demo.model.Client;
 
 @UtilityClass

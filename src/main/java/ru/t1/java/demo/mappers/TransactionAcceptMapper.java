@@ -1,9 +1,9 @@
 package ru.t1.java.demo.mappers;
 
+import com.example.t1projectspringbootstarter.config.MapstructConfig;
+import com.example.t1projectspringbootstarter.dto.TransactionAcceptDto;
 import org.mapstruct.Mapper;
 import org.mapstruct.Mapping;
-import ru.t1.java.demo.config.MapstructConfig;
-import ru.t1.java.demo.dto.TransactionAcceptDto;
 import ru.t1.java.demo.model.Account;
 import ru.t1.java.demo.model.Transaction;
 

@@ -1,7 +1,7 @@
 package ru.t1.java.demo.service;
 
+import com.example.t1projectspringbootstarter.dto.TransactionDto;
 import ru.t1.java.demo.dto.ResultDto;
-import ru.t1.java.demo.dto.TransactionDto;
 import ru.t1.java.demo.model.Transaction;
 
 public interface TransactionService {

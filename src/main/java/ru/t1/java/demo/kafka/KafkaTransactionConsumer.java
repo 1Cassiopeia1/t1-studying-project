@@ -1,5 +1,6 @@
 package ru.t1.java.demo.kafka;
 
+import com.example.t1projectspringbootstarter.dto.TransactionDto;
 import lombok.RequiredArgsConstructor;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.boot.autoconfigure.condition.ConditionalOnProperty;
@@ -12,7 +13,6 @@ import org.springframework.kafka.support.KafkaHeaders;
 import org.springframework.messaging.handler.annotation.Header;
 import org.springframework.messaging.handler.annotation.Payload;
 import org.springframework.stereotype.Component;
-import ru.t1.java.demo.dto.TransactionDto;
 import ru.t1.java.demo.service.TransactionService;
 
 @Slf4j
@@ -29,8 +29,7 @@ public class KafkaTransactionConsumer {
             dltStrategy = DltStrategy.FAIL_ON_ERROR)
     @KafkaListener(groupId = "${t1.kafka.consumer.group-id}",
             topics = "${t1.kafka.topic.t1_demo_transactions}",
-            containerFactory = "transactionKafkaListenerContainerFactory")
-    // todo повесить кафка транзакцию
+            containerFactory = "kafkaListenerContainerFactory")
     public void receiveTransaction(@Payload TransactionDto transactionDto,
                                    @Header(KafkaHeaders.RECEIVED_TOPIC) String topic,
                                    @Header(value = KafkaHeaders.RECEIVED_KEY, required = false) String key,

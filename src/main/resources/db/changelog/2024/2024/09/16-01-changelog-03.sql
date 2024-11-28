@@ -1,6 +1,5 @@
 CREATE SEQUENCE IF NOT EXISTS account_seq START WITH 1 INCREMENT BY 50;
 CREATE SEQUENCE IF NOT EXISTS transaction_seq START WITH 1 INCREMENT BY 50;
-CREATE SEQUENCE IF NOT EXISTS data_source_err_log_seq START WITH 1 INCREMENT BY 50;
 
 CREATE TABLE IF NOT EXISTS account
 (
@@ -18,11 +17,5 @@ CREATE TABLE IF NOT EXISTS transaction
     execution_time TIME
 );
 
-CREATE TABLE IF NOT EXISTS data_source_error_log
-(
-    id BIGINT PRIMARY KEY,
-    stacktrace VARCHAR(1000),
-    message VARCHAR(500),
-    method_signature VARCHAR(255) NOT NULL
-);
+
 

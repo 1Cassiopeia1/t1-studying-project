@@ -1,12 +1,12 @@
 package ru.t1.java.demo.dto;
 
+import com.example.t1projectspringbootstarter.dto.enums.TransactionStatus;
 import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
 import lombok.AllArgsConstructor;
 import lombok.Builder;
 import lombok.Data;
 import lombok.NoArgsConstructor;
 import lombok.experimental.Accessors;
-import ru.t1.java.demo.model.enums.TransactionStatus;
 
 import java.io.Serializable;
 
