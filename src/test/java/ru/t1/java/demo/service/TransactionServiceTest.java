@@ -1,5 +1,8 @@
 package ru.t1.java.demo.service;
 
+import com.example.t1projectspringbootstarter.dto.DataSourceErrorLog;
+import com.example.t1projectspringbootstarter.dto.TransactionDto;
+import com.example.t1projectspringbootstarter.repository.DataSourceErrorLogRepository;
 import org.instancio.Instancio;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.DisplayName;
@@ -9,16 +12,13 @@ import org.springframework.boot.test.context.SpringBootTest;
 import org.springframework.jdbc.core.simple.JdbcClient;
 import org.springframework.test.jdbc.JdbcTestUtils;
 import ru.t1.java.demo.config.TestContainersConfig;
-import ru.t1.java.demo.dto.TransactionDto;
 import ru.t1.java.demo.exception.DbEntryNotFoundException;
 import ru.t1.java.demo.exception.JpaException;
 import ru.t1.java.demo.model.Account;
 import ru.t1.java.demo.model.Client;
-import ru.t1.java.demo.model.DataSourceErrorLog;
 import ru.t1.java.demo.model.Transaction;
 import ru.t1.java.demo.repository.AccountRepository;
 import ru.t1.java.demo.repository.ClientRepository;
-import ru.t1.java.demo.repository.DataSourceErrorLogRepository;
 import ru.t1.java.demo.repository.TransactionRepository;
 
 import java.time.LocalTime;

@@ -1,5 +1,6 @@
 package ru.t1.java.demo.kafka;
 
+import com.example.t1projectspringbootstarter.dto.TransactionDto;
 import lombok.RequiredArgsConstructor;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.boot.autoconfigure.condition.ConditionalOnProperty;
@@ -12,7 +13,6 @@ import org.springframework.kafka.support.KafkaHeaders;
 import org.springframework.messaging.handler.annotation.Header;
 import org.springframework.messaging.handler.annotation.Payload;
 import org.springframework.stereotype.Component;
-import ru.t1.java.demo.dto.TransactionDto;
 import ru.t1.java.demo.service.TransactionService;
 
 @Slf4j

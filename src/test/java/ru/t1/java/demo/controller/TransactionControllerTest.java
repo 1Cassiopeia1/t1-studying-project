@@ -1,5 +1,7 @@
 package ru.t1.java.demo.controller;
 
+import com.example.t1projectspringbootstarter.dto.TransactionDto;
+import com.example.t1projectspringbootstarter.dto.enums.TransactionStatus;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import org.junit.jupiter.api.Test;
 import org.springframework.beans.factory.annotation.Autowired;
@@ -9,8 +11,6 @@ import org.springframework.boot.test.mock.mockito.MockBean;
 import org.springframework.http.MediaType;
 import org.springframework.test.web.servlet.MockMvc;
 import ru.t1.java.demo.config.TestContainersConfig;
-import ru.t1.java.demo.dto.TransactionDto;
-import ru.t1.java.demo.model.enums.TransactionStatus;
 import ru.t1.java.demo.service.TransactionService;
 
 import java.time.LocalDateTime;

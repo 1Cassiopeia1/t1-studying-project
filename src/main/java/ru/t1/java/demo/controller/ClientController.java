@@ -1,11 +1,11 @@
 package ru.t1.java.demo.controller;
 
+import com.example.t1projectspringbootstarter.aop.Metric;
 import io.swagger.v3.oas.annotations.Operation;
 import lombok.RequiredArgsConstructor;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;
-import ru.t1.java.demo.aop.Metric;
 import ru.t1.java.demo.exception.ClientException;
 import ru.t1.java.demo.service.ClientService;
 

@@ -1,5 +1,9 @@
 package ru.t1.java.demo.service.impl;
 
+import com.example.t1projectspringbootstarter.aop.LogDataSourceError;
+import com.example.t1projectspringbootstarter.dto.AccountDto;
+import com.example.t1projectspringbootstarter.dto.enums.AccountStatus;
+import com.example.t1projectspringbootstarter.dto.enums.AccountType;
 import jakarta.persistence.LockModeType;
 import lombok.RequiredArgsConstructor;
 import lombok.extern.slf4j.Slf4j;
@@ -8,15 +12,11 @@ import org.springframework.beans.BeanUtils;
 import org.springframework.data.jpa.repository.Lock;
 import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;
-import ru.t1.java.demo.aop.LogDataSourceError;
 import ru.t1.java.demo.constants.InfoLogs;
-import ru.t1.java.demo.dto.AccountDto;
 import ru.t1.java.demo.exception.DbEntryNotFoundException;
 import ru.t1.java.demo.mappers.AccountMapper;
 import ru.t1.java.demo.model.Account;
 import ru.t1.java.demo.model.Client;
-import ru.t1.java.demo.model.enums.AccountStatus;
-import ru.t1.java.demo.model.enums.AccountType;
 import ru.t1.java.demo.repository.AccountRepository;
 import ru.t1.java.demo.service.AccountService;
 import ru.t1.java.demo.service.MockService;

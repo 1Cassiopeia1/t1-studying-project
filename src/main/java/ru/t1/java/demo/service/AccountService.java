@@ -1,6 +1,6 @@
 package ru.t1.java.demo.service;
 
-import ru.t1.java.demo.dto.AccountDto;
+import com.example.t1projectspringbootstarter.dto.AccountDto;
 import ru.t1.java.demo.model.Account;
 
 import java.math.BigDecimal;
