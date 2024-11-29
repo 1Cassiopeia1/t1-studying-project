@@ -1,5 +1,8 @@
 package ru.t1.java.demo.controller;
 
+import com.example.t1projectspringbootstarter.dto.AccountDto;
+import com.example.t1projectspringbootstarter.dto.enums.AccountStatus;
+import com.example.t1projectspringbootstarter.dto.enums.AccountType;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import org.junit.jupiter.api.Test;
 import org.springframework.beans.factory.annotation.Autowired;
@@ -9,9 +12,6 @@ import org.springframework.boot.test.mock.mockito.MockBean;
 import org.springframework.http.MediaType;
 import org.springframework.test.web.servlet.MockMvc;
 import ru.t1.java.demo.config.TestContainersConfig;
-import ru.t1.java.demo.dto.AccountDto;
-import ru.t1.java.demo.model.enums.AccountStatus;
-import ru.t1.java.demo.model.enums.AccountType;
 import ru.t1.java.demo.service.impl.AccountServiceImpl;
 
 import static org.mockito.Mockito.any;

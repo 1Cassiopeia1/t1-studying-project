@@ -1,5 +1,9 @@
 package ru.t1.java.demo.service.impl;
 
+import com.example.t1projectspringbootstarter.config.KafkaProducer;
+import com.example.t1projectspringbootstarter.dto.ClientDto;
+import com.example.t1projectspringbootstarter.dto.enums.TransactionStatus;
+import com.example.t1projectspringbootstarter.feign.ClientFeign;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import jakarta.annotation.PostConstruct;
 import lombok.RequiredArgsConstructor;
@@ -7,11 +11,7 @@ import lombok.extern.slf4j.Slf4j;
 import org.springframework.http.HttpEntity;
 import org.springframework.stereotype.Service;
 import org.springframework.transaction.support.TransactionTemplate;
-import ru.t1.java.demo.dto.ClientDto;
-import ru.t1.java.demo.feign.ClientFeign;
-import ru.t1.java.demo.kafka.KafkaProducer;
 import ru.t1.java.demo.model.Client;
-import ru.t1.java.demo.model.enums.TransactionStatus;
 import ru.t1.java.demo.repository.AccountRepository;
 import ru.t1.java.demo.repository.ClientRepository;
 import ru.t1.java.demo.repository.TransactionRepository;

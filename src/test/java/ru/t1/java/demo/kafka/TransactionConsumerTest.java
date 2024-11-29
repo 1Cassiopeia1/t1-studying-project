@@ -1,5 +1,7 @@
 package ru.t1.java.demo.kafka;
 
+import com.example.t1projectspringbootstarter.config.KafkaConfig;
+import com.example.t1projectspringbootstarter.dto.TransactionDto;
 import lombok.Cleanup;
 import org.apache.kafka.clients.producer.ProducerRecord;
 import org.junit.jupiter.api.DisplayName;
@@ -8,8 +10,6 @@ import org.springframework.beans.factory.annotation.Value;
 import org.springframework.boot.test.mock.mockito.MockBean;
 import org.springframework.context.annotation.Import;
 import org.springframework.kafka.test.context.EmbeddedKafka;
-import ru.t1.java.demo.config.KafkaConfig;
-import ru.t1.java.demo.dto.TransactionDto;
 import ru.t1.java.demo.service.TransactionService;
 
 import static org.mockito.ArgumentMatchers.any;

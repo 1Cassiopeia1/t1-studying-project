@@ -3,11 +3,13 @@ package ru.t1.java.demo.repository;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.data.jpa.repository.Modifying;
 import org.springframework.data.jpa.repository.Query;
+import org.springframework.stereotype.Repository;
 import org.springframework.transaction.annotation.Transactional;
 import ru.t1.java.demo.model.Account;
 
 import java.util.Optional;
 
+@Repository
 public interface AccountRepository extends JpaRepository<Account, Long> {
 
     @Query("update Account a set a.balance = :newBalance where a.accountId = :accountId")

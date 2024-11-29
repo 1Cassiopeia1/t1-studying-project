@@ -1,6 +1,6 @@
 t1:
   kafka:
-    enabled: true
+    enabled: ${KAFKA_ENABLED:true}
     bootstrap-servers: ${KAFKA_SERVERS:localhost:9093}
     security.protocol: ${KAFKA_SECURITY_PROTOCOL:PLAINTEXT}
     max-poll-interval-ms: ${KAFKA_MAX_POLL_INTERVAL_MS:3000}
@@ -15,7 +15,7 @@ t1:
       properties:
         spring.json.use.type.headers: false
     producer:
-      enable: ${KAFKA_PRODUCER_ENABLE:true}
+      enable: ${KAFKA_PRODUCER_ENABLED:true}
       key-serializer: org.apache.kafka.common.serialization.StringSerializer
       value-serializer: org.springframework.kafka.support.serializer.JsonSerializer
       acks: all

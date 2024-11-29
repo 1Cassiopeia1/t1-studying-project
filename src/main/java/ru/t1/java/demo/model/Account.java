@@ -1,5 +1,7 @@
 package ru.t1.java.demo.model;
 
+import com.example.t1projectspringbootstarter.dto.enums.AccountStatus;
+import com.example.t1projectspringbootstarter.dto.enums.AccountType;
 import jakarta.persistence.Column;
 import jakarta.persistence.Entity;
 import jakarta.persistence.EnumType;
@@ -17,8 +19,6 @@ import lombok.Getter;
 import lombok.NoArgsConstructor;
 import lombok.Setter;
 import lombok.experimental.Accessors;
-import ru.t1.java.demo.model.enums.AccountStatus;
-import ru.t1.java.demo.model.enums.AccountType;
 
 @Getter
 @Setter

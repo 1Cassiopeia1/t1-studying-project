@@ -1,5 +1,6 @@
 package ru.t1.java.demo.kafka;
 
+import com.example.t1projectspringbootstarter.config.CommonKafkaConfig;
 import com.fasterxml.jackson.databind.JavaType;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import org.apache.kafka.clients.producer.Producer;
@@ -16,7 +17,6 @@ import org.springframework.kafka.test.EmbeddedKafkaBroker;
 import org.springframework.kafka.test.utils.KafkaTestUtils;
 import org.springframework.test.annotation.DirtiesContext;
 import org.springframework.test.context.ActiveProfiles;
-import ru.t1.java.demo.config.CommonKafkaConfig;
 
 import java.time.Duration;
 import java.util.List;

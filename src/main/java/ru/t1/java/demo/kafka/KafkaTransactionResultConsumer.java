@@ -29,7 +29,7 @@ public class KafkaTransactionResultConsumer {
             dltStrategy = DltStrategy.FAIL_ON_ERROR)
     @KafkaListener(groupId = "${t1.kafka.consumer.group-id}",
             topics = "${t1.kafka.topic.t1_demo_transaction_result}",
-            containerFactory = "accountKafkaListenerContainerFactory")
+            containerFactory = "kafkaListenerContainerFactory")
     public void receiveTransactionResult(@Payload ResultDto resultDto,
                                          @Header(KafkaHeaders.RECEIVED_TOPIC) String topic,
                                          @Header(value = KafkaHeaders.RECEIVED_KEY, required = false) String key,
